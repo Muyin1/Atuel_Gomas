@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Atuel Gomas - Venta Mayorista y Técnica{% endblock %}</title>
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- HTMX para dinamismo limpio sin complejidad SPA -->
+    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+    <link rel="stylesheet" href="/static/css/main.css">
+    {% block extra_head %}{% endblock %}
+</head>
+<body>
+    <!-- Header / Barra de Navegación -->
+    <header class="navbar">
+        <div class="nav-container">
+            <a href="/" class="brand-logo">
+                <span style="font-size: 1.6rem;">⚙️</span>
+                <span>ATUEL <span style="color: var(--accent-amber);">GOMAS</span></span>
+                <span class="brand-badge">B2B Mayorista</span>
+            </a>
+
+            <nav class="nav-links">
+                <a href="/" class="active">Catálogo Técnico</a>
+                <a href="/nosotros">Empresa</a>
+                <a href="/contacto">Contacto</a>
+
+                {% if current_user %}
+                    <div style="display: flex; align-items: center; gap: 0.75rem; margin-left: 1rem;">
+                        <span style="font-size: 0.85rem; color: var(--accent-amber);">🏢 {{ current_user.business_name }}</span>
+                        <a href="/logout" class="btn btn-secondary" style="padding: 0.35rem 0.75rem; font-size: 0.8rem;">Salir</a>
+                    </div>
+                {% else %}
+                    <div style="display: flex; gap: 0.5rem; margin-left: 1rem;">
+                        <a href="/login" class="btn btn-secondary">Ingreso Gremio</a>
+                        <a href="/registro" class="btn btn-primary">Alta Clientes</a>
+                    </div>
+                {% endif %}
+            </nav>
+        </div>
+    </header>
+
+    <!-- Contenido Principal -->
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+    <!-- Footer Corporativo -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div>
+                <div class="brand-logo" style="margin-bottom: 0.8rem;">
+                    <span>⚙️</span>
+                    <span>ATUEL <span style="color: var(--accent-amber);">GOMAS</span></span>
+                </div>
+                <p style="font-size: 0.85rem; max-width: 320px;">
+                    Especialistas en mangueras de radiador, burletes, fuelles y piezas técnicas de caucho y silicona para ferreterías, talleres y casas de repuestos automotores de todo el país.
+                </p>
+            </div>
+            <div>
+                <h4 style="color: #fff; margin-bottom: 0.75rem;">Rubros</h4>
+                <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.4rem; font-size: 0.83rem;">
+                    <li>Mangueras Automotor</li>
+                    <li>Mangueras Industriales</li>
+                    <li>Burletes y Perfiles</li>
+                    <li>Fuelles y Suspensión</li>
+                    <li>Pisos y Planchas</li>
+                </ul>
+            </div>
+            <div>
+                <h4 style="color: #fff; margin-bottom: 0.75rem;">Atención B2B</h4>
+                <p style="font-size: 0.83rem; margin-bottom: 0.5rem;">Lunes a Viernes 8:00 a 18:00 hs</p>
+                <p style="font-size: 0.83rem; color: var(--accent-amber);">WhatsApp Comercial: +54 9 11 4000-5000</p>
+                <p style="font-size: 0.83rem;">ventas@atuelgomas.com.ar</p>
+            </div>
+            <div>
+                <h4 style="color: #fff; margin-bottom: 0.75rem;">Arquitectura</h4>
+                <p style="font-size: 0.8rem; color: var(--text-muted);">
+                    Desarrollado bajo principios de Clean Architecture + MVC en Python 3.14 con FastAPI & HTMX.
+                </p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <span>© 2026 Atuel Gomas S.R.L. - Todos los derechos reservados.</span>
+            <span>Envíos mayoristas a todo el territorio nacional.</span>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,108 @@
+{% extends "base.html" %}
+
+{% block title %}{{ product.name }} - Atuel Gomas{% endblock %}
+
+{% block content %}
+<div style="max-width: 1100px; margin: 2.5rem auto 4rem; padding: 0 1.5rem;">
+    <div style="margin-bottom: 1.5rem;">
+        <a href="/" style="color: var(--accent-amber); font-size: 0.9rem; font-weight: 600;">← Volver al Catálogo</a>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 1fr 1.2fr; gap: 2.5rem; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 2.5rem; box-shadow: var(--shadow-card);">
+        <!-- Columna Izquierda: Imagen / Gráfico -->
+        <div style="background: linear-gradient(180deg, #1e293b 0%, #171f2c 100%); border: 1px solid var(--border-color); border-radius: var(--radius-md); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 2rem; position: relative;">
+            <span class="sku-badge" style="font-size: 0.85rem; top: 1rem; left: 1rem;">SKU: {{ product.sku }}</span>
+            <div style="font-size: 7rem; margin: 2rem 0; filter: drop-shadow(0 10px 15px rgba(0,0,0,0.6));">
+                {% if "Radiador" in product.name or "Manguera" in product.name %}
+                    🪈
+                {% elif "Burlete" in product.name %}
+                    ➰
+                {% elif "Fuelle" in product.name %}
+                    🛡️
+                {% elif "Piso" in product.name %}
+                    ⬛
+                {% elif "Abrazadera" in product.name %}
+                    ⭕
+                {% else %}
+                    ⚙️
+                {% endif %}
+            </div>
+            <div style="text-align: center; color: var(--text-muted); font-size: 0.85rem;">
+                Código de Fabricante / OEM: <strong style="color: #fff; font-family: monospace;">{{ product.oem_code }}</strong>
+            </div>
+        </div>
+
+        <!-- Columna Derecha: Ficha Técnica y Acciones -->
+        <div style="display: flex; flex-direction: column;">
+            <div class="product-cat" style="font-size: 0.85rem;">{{ product.category.value }}</div>
+            <h1 style="font-size: 1.85rem; font-weight: 800; margin: 0.4rem 0 1rem; line-height: 1.25;">
+                {{ product.name }}
+            </h1>
+            <p style="color: var(--text-secondary); margin-bottom: 1.5rem; font-size: 0.95rem;">
+                {{ product.description }}
+            </p>
+
+            <h3 style="font-size: 1rem; font-weight: 700; margin-bottom: 0.75rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem;">
+                Especificaciones Métricas
+            </h3>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 1.5rem; font-size: 0.9rem;">
+                {% if product.dimensions.inner_diameter_mm %}
+                <div style="background: var(--bg-surface-elevated); padding: 0.6rem; border-radius: var(--radius-sm);">
+                    <span style="color: var(--text-muted); display: block; font-size: 0.75rem;">Diámetro Interior:</span>
+                    <strong>{{ product.dimensions.inner_diameter_mm }} mm</strong>
+                </div>
+                {% endif %}
+                {% if product.dimensions.outer_diameter_mm %}
+                <div style="background: var(--bg-surface-elevated); padding: 0.6rem; border-radius: var(--radius-sm);">
+                    <span style="color: var(--text-muted); display: block; font-size: 0.75rem;">Diámetro Exterior:</span>
+                    <strong>{{ product.dimensions.outer_diameter_mm }} mm</strong>
+                </div>
+                {% endif %}
+                {% if product.dimensions.length_mm %}
+                <div style="background: var(--bg-surface-elevated); padding: 0.6rem; border-radius: var(--radius-sm);">
+                    <span style="color: var(--text-muted); display: block; font-size: 0.75rem;">Longitud Total:</span>
+                    <strong>{{ product.dimensions.length_mm }} mm</strong>
+                </div>
+                {% endif %}
+                {% if product.dimensions.thickness_mm %}
+                <div style="background: var(--bg-surface-elevated); padding: 0.6rem; border-radius: var(--radius-sm);">
+                    <span style="color: var(--text-muted); display: block; font-size: 0.75rem;">Espesor de Pared:</span>
+                    <strong>{{ product.dimensions.thickness_mm }} mm</strong>
+                </div>
+                {% endif %}
+            </div>
+
+            <h3 style="font-size: 1rem; font-weight: 700; margin-bottom: 0.75rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem;">
+                Compatibilidad Vehicular Homologada
+            </h3>
+            <ul style="list-style: none; margin-bottom: 2rem; display: flex; flex-direction: column; gap: 0.4rem;">
+                {% for comp in product.compatibilities %}
+                <li style="font-size: 0.88rem; background: rgba(56, 189, 248, 0.08); border-left: 3px solid var(--accent-blue); padding: 0.4rem 0.75rem; border-radius: 0 var(--radius-sm) var(--radius-sm) 0;">
+                    🚗 <strong>{{ comp.brand }} {{ comp.model }}</strong> — Motor: {{ comp.engine }} (Años: {{ comp.years }})
+                </li>
+                {% else %}
+                <li style="color: var(--text-muted); font-size: 0.85rem;">Aplicación industrial genérica / a medida.</li>
+                {% endfor %}
+            </ul>
+
+            <div style="margin-top: auto; padding-top: 1.5rem; border-top: 1px solid var(--border-color); display: flex; align-items: center; justify-content: space-between;">
+                <div>
+                    <div style="font-size: 0.8rem; color: var(--text-muted);">
+                        {% if is_b2b %}PRECIO MAYORISTA B2B (NETO){% else %}PRECIO LISTA SUGERIDO{% endif %}
+                    </div>
+                    <div style="font-size: 2rem; font-weight: 800; color: var(--accent-amber);">
+                        {{ price.format_ars() }}
+                    </div>
+                </div>
+
+                <a href="https://wa.me/5491140005000?text=Hola%20Atuel%20Gomas,%20quisiera%20pedir%20cotizaci%C3%B3n/pedido%20del%20SKU%20{{ product.sku }}%20({{ product.name }})" 
+                   target="_blank" 
+                   class="btn btn-whatsapp" 
+                   style="padding: 0.75rem 1.5rem; font-size: 1rem;">
+                    📱 Solicitar Cotización B2B
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+
+{% block title %}Atuel Gomas - Catálogo Técnico para Ferreterías y Repuesteras{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="hero">
+    <div class="hero-content">
+        <span class="hero-pill">
+            ★ Distribución Mayorista a Casas de Repuestos y Ferreterías
+        </span>
+        <h1>Soluciones Técnicas en Caucho y Gomas</h1>
+        <p>
+            Mangueras de radiador y calefacción, burletes perimetrales, fuelles de semieje, planchas de caucho y abrazaderas. Buscá por aplicación de vehículo, medida o código OEM.
+        </p>
+    </div>
+</section>
+
+<!-- Barra de Filtros y Búsqueda en Vivo (HTMX) -->
+<div class="filter-container">
+    <form class="filter-card" 
+          hx-get="/api/productos/search" 
+          hx-trigger="input, change, delay:250ms" 
+          hx-target="#product-grid-container" 
+          hx-indicator="#search-spinner">
+        
+        <div class="form-group">
+            <label class="form-label" for="query">Búsqueda Técnica / OEM</label>
+            <input type="text" 
+                   id="query" 
+                   name="query" 
+                   class="form-control" 
+                   placeholder="Ej: Radiador Kangoo, 7700838132, Burlete...">
+        </div>
+
+        <div class="form-group">
+            <label class="form-label" for="category">Categoría</label>
+            <select id="category" name="category" class="form-control">
+                <option value="">Todas las categorías</option>
+                {% for cat in categories %}
+                    <option value="{{ cat.name }}">{{ cat.value }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label class="form-label" for="vehicle_brand">Marca Vehículo</label>
+            <select id="vehicle_brand" name="vehicle_brand" class="form-control">
+                <option value="">Todas las marcas</option>
+                <option value="Renault">Renault</option>
+                <option value="Volkswagen">Volkswagen</option>
+                <option value="Ford">Ford</option>
+                <option value="Peugeot">Peugeot</option>
+                <option value="Citroën">Citroën</option>
+                <option value="Universal">Línea Universal / Agro</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label class="form-label" for="vehicle_model">Modelo</label>
+            <input type="text" 
+                   id="vehicle_model" 
+                   name="vehicle_model" 
+                   class="form-control" 
+                   placeholder="Ej: Gol, Kangoo...">
+        </div>
+
+        <div style="display: flex; align-items: flex-end; padding-bottom: 0.1rem;">
+            <button type="submit" class="btn btn-primary" style="height: 40px; width: 100%;">
+                Buscar
+            </button>
+        </div>
+    </form>
+</div>
+
+<!-- Contenedor del Catálogo -->
+<div class="catalog-container">
+    <div id="search-spinner" class="htmx-indicator" style="text-align: center; margin-bottom: 1rem; color: var(--accent-amber); font-weight: 600;">
+        ⚡ Filtrando catálogo en tiempo real...
+    </div>
+
+    <div id="product-grid-container">
+        {% include "partials/product_grid.html" %}
+    </div>
+</div>
+{% endblock %}

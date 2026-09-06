@@ -1,0 +1,9 @@
+from enum import Enum
+
+
+class OrderStatus(str, Enum):
+    PENDING_APPROVAL = "PENDIENTE_APROBACION"
+    PREPARING = "EN_PREPARACION"
+    DISPATCHED = "DESPACHADO"
+    DELIVERED = "ENTREGADO"
+    CANCELLED = "CANCELADO"
