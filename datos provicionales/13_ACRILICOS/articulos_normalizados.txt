@@ -1,0 +1,110 @@
+=== TABLA NORMALIZADA: ACRILICOS ===
+Total de artículos únicos: 104
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA    | DESCRIPCION NORMALIZADA                                 | PRECIO (S/IVA)
+----------------------------------------------------------------------------------------------------------
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 3x6                   | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 3x8                   | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 4x7                   | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 4x8                   | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 5x8                   | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 5x9                   | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 5x10                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 6x9                   | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 6X10                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 6x11                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 6x12                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 7x10                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 7x11                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 7x12                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 7x13                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 7x14                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 8x12                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 8x13                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 8X14                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 9X14                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 9X15                  | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 10x14                 | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 10X16                 | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 12x16                 | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 12x18                 | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 13X19                 | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 15x20                 | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 16x22                 | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 19x25                 | $50.00        
+S/C    | MANGUERAS HIDROCARBURO | MANGUERAS HIDROCARBURO - AMARILLO 25x31                 | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 3x6                                 | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 3x7                                 | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 4x6                                 | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 4x7                                 | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 4x8                                 | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 5x7                                 | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 5x8                                 | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 5x9                                 | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 5x10                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 6x8                                 | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 6x9                                 | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 6x10                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 6x11                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 6x12                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 7x9                                 | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 7x10                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 7x11                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 7x12                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 7x13                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 7x14                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 8x10                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 8x11                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 8x12                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 8x13                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 8x14                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 9x11                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 9x12                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 9x12                                | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 9x13                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 9x14                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 9x15                                | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 10x12                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 10x13                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 10x14                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 10x15                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 10x16                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 12x15                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 12x15                               | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 12x16                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 12x16                               | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 12x18                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 13x19                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 14x18                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 14x18                               | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 14x19                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 15x19                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 15x19                               | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 15x20                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 16x19                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 16x19                               | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 16x20                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 16x20                               | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 16x22                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 17x23                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 19x23                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 19x23                               | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 19x25                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 19x25                               | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 22x28                               | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 25x30                               | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 25x31                               | $25.00        
+S/C    | MANGUERAS CRISTAL      | MANGUERAS CRISTAL - 25x31                               | $50.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 6 MM  | $25.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 6 MM  | $50.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 8 MM  | $25.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 8 MM  | $50.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 10 MM | $25.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 10 MM | $50.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 12 MM | $25.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 12 MM | $50.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 19 MM | $25.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 19 MM | $50.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 25 MM | $25.00        
+S/C    | MANGUERAS CRISTAL      | Mangueras acrílicos para presión (x mt.) 300lb. - 25 MM | $50.00        

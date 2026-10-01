@@ -4,6 +4,7 @@ from src.domain.value_objects.money import Money
 from src.domain.entities.product_category import ProductCategory
 from src.domain.entities.user_role import UserRole
 from src.domain.entities.vehicle_compatibility import VehicleCompatibility
+from src.domain.entities.business_line import BusinessLine
 
 
 @dataclass
@@ -20,6 +21,9 @@ class Product:
     stock: int
     image_url: str
     compatibilities: list[VehicleCompatibility] = field(default_factory=list)
+    business_line: BusinessLine = BusinessLine.AUTOPARTES
+    family_id: int | None = None
+    family_name: str | None = None
     is_active: bool = True
 
     def calculate_price_for_role(self, role: UserRole) -> Money:

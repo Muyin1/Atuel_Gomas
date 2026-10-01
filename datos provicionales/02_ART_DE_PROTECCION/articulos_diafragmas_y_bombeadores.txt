@@ -1,0 +1,10 @@
+=== TABLA NORMALIZADA: DIAFRAGMAS Y BOMBEADORES ===
+Total de registros clasificados: 4
+===================================================================================================================
+
+CODIGO | DESCRIPCION                                                       | TALLE/MEDIDA | MATERIAL | COLOR | PRECIO (S/IVA)
+-----------------------------------------------------------------------------------------------------------------------------
+S/C    | DIAFRAGMAS DE BOMBEADOR VILLA( x unidad) - Nro.1                  | 1            |          |       | $0.00         
+S/C    | DIAFRAGMAS DE BOMBEADOR VILLA( x unidad) - Nro.2                  | 2            |          |       | $0.00         
+S/C    | DIAFRAGMAS DE BOMBEADOR VILLA( x unidad) - Nro.3                  | 3            |          |       | $0.00         
+S/C    | DIAFRAGMAS DE BOMBEADOR VILLA( x unidad) - Arandela de bombeador Villa V-41 |              |          |       | $0.00         

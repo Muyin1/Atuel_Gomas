@@ -1,0 +1,104 @@
+=== TABLA NORMALIZADA: TRABAJO EN ALTURA Y ARNESES ===
+Total de registros clasificados: 98
+===================================================================================================================
+
+CODIGO     | DESCRIPCION                                                       | TALLE/MEDIDA | MATERIAL         | COLOR | PRECIO (S/IVA)
+-----------------------------------------------------------------------------------------------------------------------------------------
+UCU2110PC  | Arnes Clase B Cremallera                                          |              |                  |       | $3,388.69     
+UCU2120PC  | Arnes Clase B FastTrack                                           |              |                  |       | $4,954.71     
+DPA911001  | Dispositivo antitrauma para arnés                                 |              |                  |       | $20,971.38    
+DPA00001   | Arnes Cuerpo Completo, 1 anillo D dorsal y toma frontal anticaídas en cinta |              |                  |       | $64,159.34    
+DPA00002   | Arnes Cuerpo Comp., 3 anillos D, uno dorsal anticaidas, 2 en cintura de Sujeción. Toma frontal anticaídas en cinta |              |                  |       | $79,265.86    
+DPA00003   | Arnes Cuerpo Comp. 3 anillos D, dorsal antic. Sujecion en Cintura, T. frontal en cinta. P. lumbar Port Herram. |              |                  |       | $110,550.64   
+DPA00004   | Arnes Cuerpo Com. 5 Anillos D, dorsal antic., 2 cintura 2 homb. T. front. en cinta. P.lumbar. P. acolch. Port herram |              |                  |       | $126,940.40   
+DPA00005   | Arnes con enganche en espalda, pecho y cintura. Regulable en cintura y hombros. Con refuerzo lumbar y pernera. |              |                  |       | $137,505.70   
+DPA00006M  | Arnés petrolero de cuerpo completo con cintura y piernas ergonómicas, 6 puntos de enganche y regulación tipo cinturón. Talle M | M            |                  |       | $194,215.15   
+DPA00006L  | Arnés petrolero de cuerpo completo con cintura y piernas ergonómicas, 6 puntos de enganche y regulación tipo cinturón. Talle L | L            |                  |       | $194,531.21   
+DPA00006XL | Arnés petrolero de cuerpo completo con cintura y piernas ergonómicas, 6 puntos de enganche y regulación tipo cinturón. Talle XL | XL           |                  |       | $194,849.64   
+DPA03002   | Arnes dielectrico ignufugo con enganche en espalda y cintura, toma frontal. Regulable. Ref. cinta lumbar |              |                  |       | $289,754.33   
+DPA00404   | Cinturón liniero con refuerzo lumbar y cola de amarre regulable incorporada. |              |                  |       | $68,111.23    
+DPA001100  | Cola de amarre regulable de 1.5m                                  |              |                  |       | $31,560.44    
+DPA000100  | Cola de amarre regulable de 2m                                    |              |                  |       | $33,974.82    
+DPA003100  | Cola de amarre de cinta plana 1.5 m con mosquetones de 18 mm y de 55 mm |              |                  |       | $48,085.64    
+DPA002100  | Cola de amarre de cinta plana 2 m con mosquetones de 18 mm y de 55 mm |              |                  |       | $49,214.42    
+DPA000107  | Cola de amarre petrolera regulable de 1,5m a 3m con mosqueton de 18mm y ojal invertido de 400mm. |              |                  |       | $67,049.00    
+DPA001107  | Cola de amarre petrolera regulable de 2,5m a 5m con mosqueton de 18mm y ojal invertido de 400mm. |              |                  |       | $81,159.82    
+DPA000101  | Cabo de Amarre Antic. de 2 mts de largo regulable con amortiguador. Dos mosquetones de 18mm de apertura |              |                  |       | $45,782.95    
+DPA000102  | Cabo de Amarre Antic. elastizado de 1.5 mts de largo con amortiguador con mosqueton de 18mm y de 55mm de apertura |              |                  |       | $53,323.14    
+DPA001101  | Cola de amarre de 2 m con amortiguador con un mosqueton de 55 mm  |              |                  |       | $53,121.15    
+DPA001102  | Cola de amarre elastizada con amortiguador y mosqueton de 110 mm  |              |                  |       | $162,338.66   
+DPA000103  | Cola de Amarre Antic. Elastizada de 1.5mts de largo con amortiguador. 2 Ramas con mosqueton de 18mm 55mm de apertura |              |                  |       | $72,210.45    
+DPA000108  | Cabo de vida anticaidas petrolero dos ramas elastizadas, amortiguador, mosquetones 55mm y argollas D intermedias |              |                  |       | $108,587.77   
+DPA001103  | Cola de amarre de dos ramas elastizadas con amortiguador y mosqueton de 110 mm |              |                  |       | $295,512.25   
+DPA000104  | Cola de amarre anticaidas de dos ramas con cinta plana de 1.5 m y mosqueton de 55 mm con amortiguador |              |                  |       | $66,889.78    
+DPA011414  | Cabo de vida anticaídas de 1m con amortiguador y dos ramas de cuerda retorcida de Ø14mm con mosquetón de 55mm |              |                  |       | $103,552.26   
+DPA011460  | Cabo de posicionamiento en cuerda retorcida de Ø14mm regulable de 1,2 a 2m con mosquetón de 18mm |              |                  |       | $73,755.09    
+DPA011462  | Cabo de posicionamiento en cuerda retorcida de Ø14mm regulable de 0.9 a 2m con funda protectora y mosquetón de 18mm |              |                  |       | $113,801.50   
+DPA011463  | Cabo de posicionamiento encuerda retorcida de Ø14mm regulable de 0.9 a 3m con funda protectora y mosquetón de 18mm |              |                  |       | $160,713.23   
+DPA30106   | Equipo Retráctil Termoplástico con Cable de Acero Galv. 4.8 mm Largo 6 m Conector C con Amortiguador Uso Vertic./Horiz. |              |                  |       | $1,311,947.96 
+DPA30107   | Equipo Retráctil Termoplástico con Cable de Acero Galv. 4.8 mm Largo 10 m Conector C con Amortiguador Uso Vertic./Horiz. |              |                  |       | $1,359,289.80 
+DPA30108   | Equipo Retráctil Termoplástico con Cable de Acero Galv. 4.8 mm Largo 15 m Conector C con Amortiguador Uso Vertic./Horiz. |              |                  |       | $1,415,954.11 
+DPAKIT01   | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE DPA001100 Y BOLSO PARA TRANSPORTE |              |                  |       | $86,124.04    
+DPAKIT02   | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA001100 Y BOLSO PARA TRANSPORTE |              |                  |       | $99,726.32    
+DPAKIT03   | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE |              |                  |       | $131,524.40   
+DPAKIT04   | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000103 Y BOLSO PARA TRANSPORTE |              |                  |       | $136,336.53   
+DPAKIT05   | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE |              |                  |       | $105,719.50   
+DPAKIT06   | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE |              |                  |       | $159,698.52   
+DPAKIT07   | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE ANTICAIDAS DPA000103 Y BOLSO PARA TRANSPORTE |              |                  |       | $164,508.27   
+DPAKIT08   | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE |              |                  |       | $162,226.97   
+DPAKIT09   | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE |              |                  |       | $174,417.69   
+DPAKIT10   | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE |              |                  |       | $171,753.80   
+DPAKIT11   | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000103 Y BOLSO PARA TRANSPORTE |              |                  |       | $188,751.90   
+DPAKIT12   | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE |              |                  |       | $119,333.67   
+DPAKIT13   | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000101 Y BOLSO PARA TRANSPORTE |              |                  |       | $112,539.66   
+DPAKIT14   | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE DPA001100, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $104,975.70   
+DPAKIT15   | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA001100, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $118,577.99   
+DPAKIT16   | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA000104, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $150,397.45   
+DPAKIT17   | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000103, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $155,209.58   
+DPAKIT18   | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $124,592.55   
+DPAKIT19   | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE DPA000104, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $178,547.81   
+DPAKIT20   | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE ANTICAIDAS DPA000103, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $183,378.95   
+DPAKIT21   | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $181,100.02   
+DPAKIT22   | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE |              |                  |       | $193,290.75   
+DPAKIT23   | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $190,605.46   
+DPAKIT24   | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000103, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $207,624.95   
+DPAKIT25   | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $138,182.96   
+DPAKIT26   | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000101, ANTITRAUMA Y BOLSO PARA TRANSPORTE |              |                  |       | $131,410.33   
+DPA008106  | Conector de anclaje de 0.8 m con mosqueton de 18 mm               |              |                  |       | $38,874.87    
+DPA012106  | Conector de anclaje de 1.2 m con mosqueton de 18 mm               |              |                  |       | $45,352.83    
+DPA016106  | Conector de anclaje de 1.6 m con mosqueton de 18 mm               |              |                  |       | $50,409.72    
+DPA020106  | Conector de anclaje de 2 m con mosqueton de 18 mm                 |              |                  |       | $57,206.11    
+DPA011221  | Linea de vida vertical de 10m en cuerda de poliester de 12mm de diámetro con ojal en extremo |              | Poliéster        |       | $61,450.29    
+DPA011222  | Linea de vida vertical de 20m en cuerda de poliester de 12mm de diámetro con ojal en extremo |              | Poliéster        |       | $101,860.30   
+DPA011223  | Linea de vida vertical de 30m en cuerda de poliester de 12mm de diámetro con ojal en extremo |              | Poliéster        |       | $147,552.95   
+DPA011224  | Linea de vida vertical de 40m en cuerda de poliester de 12mm de diámetro con ojal en extremo |              | Poliéster        |       | $188,911.11   
+DPA011225  | Linea de vida vertical de 50m en cuerda de poliester de 12mm de diámetro con ojal en extremo |              | Poliéster        |       | $232,595.74   
+DPA0112210 | Linea de vida vertical de 100m en cuerda de poliester de 12mm de diámetro con ojal en extremo |              | Poliéster        |       | $450,401.02   
+DPA011231  | Linea de vida vertical de 10m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo |              | Poliéster        |       | $70,592.15    
+DPA011232  | Linea de vida vertical de 20m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo |              | Poliéster        |       | $114,818.59   
+DPA011233  | Linea de vida vertical de 30m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo |              | Poliéster        |       | $159,924.28   
+DPA011234  | Linea de vida vertical de 40m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo |              | Poliéster        |       | $203,630.29   
+DPA011235  | Linea de vida vertical de 50m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo |              | Poliéster        |       | $248,013.56   
+DPA011201  | Linea de vida vertical de 10m en cuerda de poliester de 14mm de diámetro con ojal en extremo |              | Poliéster        |       | $97,841.87    
+DPA011202  | Linea de vida vertical de 20m en cuerda de poliester de 14mm de diámetro con ojal en extremo |              | Poliéster        |       | $161,188.50   
+DPA011203  | Linea de vida vertical de 30m en cuerda de poliester de 14mm de diámetro con ojal en extremo |              | Poliéster        |       | $224,489.98   
+DPA011204  | Linea de vida vertical de 40m en cuerda de poliester de 14mm de diámetro con ojal en extremo |              | Poliéster        |       | $253,317.60   
+DPA011205  | Linea de vida vertical de 50m en cuerda de poliester de 14mm de diámetro con ojal en extremo |              | Poliéster        |       | $322,422.15   
+DPA011211  | Linea de vida vertical de 10m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo |              | Poliéster        |       | $103,687.72   
+DPA011212  | Linea de vida vertical de 20m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo |              | Poliéster        |       | $179,631.43   
+DPA011213  | Linea de vida vertical de 30m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo |              | Poliéster        |       | $255,575.14   
+DPA011214  | Linea de vida vertical de 40m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo |              | Poliéster        |       | $290,139.30   
+DPA011215  | Linea de vida vertical de 50m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo |              | Poliéster        |       | $373,057.63   
+DPA011241  | Linea de vida vertical retorcida de 10m en cuerda de nylon de 14mm de diámetro con ojal en extremo |              |                  |       | $81,338.05    
+DPA011242  | Linea de vida vertical retorcida de 20m en cuerda de nylon de 14mm de diámetro con ojal en extremo |              |                  |       | $157,103.54   
+DPA011243  | Linea de vida vertical retorcida de 30m en cuerda de nylon de 14mm de diámetro con ojal en extremo |              |                  |       | $232,842.88   
+DPA011244  | Linea de vida vertical retorcida de 40m en cuerda de nylon de 14mm de diámetro con ojal en extremo |              |                  |       | $305,716.34   
+DPA011245  | Linea de vida vertical retorcida de 50m en cuerda de nylon de 14mm de diámetro con ojal en extremo |              |                  |       | $378,520.88   
+DPA011251  | Linea de vida vertical de 10m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en etremo |              |                  |       | $107,525.54   
+DPA011252  | Linea de vida vertical de 20m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en extremo |              |                  |       | $183,288.65   
+DPA011253  | Linea de vida vertical de 30m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en extremo |              |                  |       | $259,051.76   
+DPA011254  | Linea de vida vertical de 40m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en extremo |              |                  |       | $331,903.82   
+DPA011255  | Linea de vida vertical de 50m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en extremo |              |                  |       | $407,688.32   
+DPA011101  | Salvacaída Deslizante Acero Inoxidable para Soga de 12 a 14mm con traba amortiguador y conector de anclaje de 18mm de apertura |              | Acero Inoxidable |       | $157,350.68   
+DPA011104  | Salvacaída Deslizante Galvanizado para Soga de 12 a 14mm con traba amortiguador y conector de anclaje de 18mm de apertura |              |                  |       | $228,800.69   
+DPA97102   | Porta Herramientas de 1 m Con Mosqueton                           |              |                  |       | $12,031.51    

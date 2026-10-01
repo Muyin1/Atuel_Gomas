@@ -1,0 +1,18 @@
+=== REPORTE DE ARTICULOS - PAGINA: LÍQUIDOS ===
+Total de registros detectados: 13
+================================================================================
+
+INDICE |                       |               
+-----------------------------------------------
+       | LÍQUIDOS DE FRENO     |               
+       | Descripción Art Venta | Precio sin Iva
+       | Wagner OT3 1/2 LT.    | 10160.13      
+       | Wagner OT3 1 LT.      | 18288.21      
+       | Wagner OT4 1/2 LT.    | 17295.65      
+       | Wagner OT4  1 LT.     | 27485.85      
+       | Wagner OT5  1 LT.     | 33408.16      
+       | ANTICONGELANTES       |               
+       | Descripción Art Venta | Precio sin Iva
+       | Micar                 | 4530          
+       | Wagner Inorgánico     | 11074.08      
+       | Wagner Orgánico       | 11900.27      

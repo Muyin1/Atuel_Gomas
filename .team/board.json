@@ -1,0 +1,88 @@
+{
+  "etapas_fase_3": {
+    "etapa_3_1_tech_lead_segregacion_y_subitems": {
+      "responsable": "tech_lead",
+      "status": "COMPLETED",
+      "descripcion": "1) Segregar Correas: Correas Automotor y Poly-V solo para AUTOPARTES; Correas Industriales y Cintas para FERRETERIA. 2) Reubicar Escobillas y Cebadores a categoría propia de Accesorios Automotor; Caños Pileteros a Ferretería. 3) Desglosar Mangueras Automotor en subfamilias/aplicaciones (Radiador, Admisión, Combustible, Turbo/Intercooler, Calefacción, Fuelles, Mangueras por Metro). 4) Exponer método get_families(category_id/slug, rubro) en el repositorio y soportar parámetro family en search() y count().",
+      "entregables": [
+        "src/domain/entities/family_item.py",
+        "src/infrastructure/database/models/familia_model.py",
+        "src/adapters/repositories/sql_product_repository.py",
+        "src/application/ports/product_repository.py",
+        "src/application/dtos/product_dto.py",
+        "scripts/reorganizar_familias_y_correas.py"
+      ],
+      "bloquea_a": [
+        "etapa_3_3_fullstack_subitems_ui"
+      ]
+    },
+    "etapa_3_2_fullstack_preparacion_ui": {
+      "responsable": "fullstack_dev",
+      "status": "COMPLETED",
+      "descripcion": "TAREA EN PARALELO (SIN BLOQUEO): Diseñar visualmente en templates/index.html y templates/partials/ el contenedor dinámico de subfamilias/subcategorías (badges o selector secundario) y preparar la llamada HTMX a /api/familias.",
+      "entregables": [
+        "src/infrastructure/templates/index.html",
+        "src/infrastructure/static/css/main.css"
+      ],
+      "bloquea_a": []
+    },
+    "etapa_3_3_fullstack_subitems_ui": {
+      "responsable": "fullstack_dev",
+      "status": "COMPLETED",
+      "depende_de": "etapa_3_1_tech_lead_segregacion_y_subitems",
+      "descripcion": "TAREA SECUENCIAL (ESPERA A TECH LEAD): 1) Crear endpoint /api/familias en web_controller.py. 2) Conectar el selector/badges de subitems para filtrar el catálogo en vivo con HTMX. 3) Verificar que en Autopartes solo aparezcan Correas Poly-V y en Ferretería las Industriales/Cintas.",
+      "entregables": [
+        "src/adapters/controllers/web_controller.py",
+        "src/infrastructure/templates/index.html",
+        "src/infrastructure/templates/partials/family_selector.html",
+        "src/infrastructure/templates/partials/product_grid.html"
+      ],
+      "bloquea_a": []
+    }
+  },
+  "fase_migracion_postgresql": {
+    "etapa_posta_1_tech_lead_supabase": {
+      "responsable": "tech_lead",
+      "status": "COMPLETED",
+      "descripcion": "Configurar infraestructura PostgreSQL en la nube (Supabase), registrar psycopg2-binary en requirements.txt, configurar .env con DATABASE_URL apuntando a Supabase, adecuar conexión en connection.py y ejecutar la creación DDL de las 12 tablas físicas.",
+      "entregables": [
+        "requirements.txt",
+        ".env",
+        "src/infrastructure/database/connection.py"
+      ],
+      "bloquea_a": [
+        "etapa_posta_2_data_specialist_migracion_datos"
+      ]
+    },
+    "etapa_posta_2_data_specialist_migracion_datos": {
+      "responsable": "data_specialist",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_1_tech_lead_supabase",
+      "descripcion": "Migración e ingesta masiva de datos (12.829 productos, categorías, familias, vehículos y atributos) desde SQLite local hacia PostgreSQL Supabase.",
+      "entregables": [
+        "scripts/migrar_sqlite_a_supabase.py"
+      ],
+      "bloquea_a": [
+        "etapa_posta_3_fullstack_verificacion"
+      ]
+    },
+    "etapa_posta_3_fullstack_verificacion": {
+      "responsable": "fullstack_dev",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_2_data_specialist_migracion_datos",
+      "descripcion": "Verificación integral de frontend SSR/HTMX, navegación de catálogo, filtros por rubro/familia y ejecución de la suite completa de pruebas e2e sobre la base Supabase poblada.",
+      "entregables": [
+        "Procfile",
+        "render.yaml",
+        ".gitignore",
+        "tests/integration/test_web.py"
+      ],
+      "bloquea_a": []
+    }
+  },
+  "ultimo_evento": {
+    "fecha": "2026-09-30",
+    "rol": "fullstack_dev",
+    "mensaje": "Posta 3 completada con éxito: Infraestructura para Render configurada (Procfile, render.yaml, .gitignore asegurado). Verificación total del frontend SSR/HTMX contra PostgreSQL en Supabase completada con 100% de éxito en catálogo, solapas de rubro, subfamilias, páginas institucionales y ficha técnica. Suite de pruebas ejecutada y pasando 19/19 OK."
+  }
+}

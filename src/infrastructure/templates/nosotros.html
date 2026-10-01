@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+
+{% block title %}Quiénes Somos - Atuel Gomas{% endblock %}
+
+{% block content %}
+<section class="hero" style="padding: 3rem 1.5rem 2.5rem;">
+    <div class="hero-content">
+        <span class="hero-pill">
+            ★ Trayectoria Industrial y Comercial
+        </span>
+        <h1>Más de 30 Años Conectando la Industria y el Transporte</h1>
+        <p>
+            En Atuel Gomas nos especializamos en la fabricación, importación y distribución mayorista de mangueras, burletes, fuelles y compuestos de caucho para el canal profesional automotor e industrial.
+        </p>
+    </div>
+</section>
+
+<div class="catalog-container" style="max-width: 1100px; margin-top: -1rem;">
+    <!-- Tarjetas de Misión, Visión y Calidad -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; margin-bottom: 3rem;">
+        <div class="product-card" style="padding: 1.75rem;">
+            <div style="font-size: 2.2rem; margin-bottom: 0.75rem;">🏭</div>
+            <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--accent-amber); margin-bottom: 0.5rem;">Especialistas Técnicos</h3>
+            <p style="font-size: 0.9rem; color: var(--text-secondary); line-height: 1.6;">
+                Proveemos soluciones críticas para sistemas de refrigeración, admisión, combustible, frenos e hidráulica. Nuestro catálogo reúne más de 12.000 piezas normalizadas según especificaciones OEM.
+            </p>
+        </div>
+
+        <div class="product-card" style="padding: 1.75rem;">
+            <div style="font-size: 2.2rem; margin-bottom: 0.75rem;">🚚</div>
+            <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--accent-blue); margin-bottom: 0.5rem;">Cobertura Logística Nacional</h3>
+            <p style="font-size: 0.9rem; color: var(--text-secondary); line-height: 1.6;">
+                Despachamos diariamente pedidos mayoristas a repuesteras, distribuidores y ferreterías industriales de todo el país, garantizando stock permanente y embalaje de protección para transporte de larga distancia.
+            </p>
+        </div>
+
+        <div class="product-card" style="padding: 1.75rem;">
+            <div style="font-size: 2.2rem; margin-bottom: 0.75rem;">🤝</div>
+            <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--accent-green); margin-bottom: 0.5rem;">Compromiso B2B</h3>
+            <p style="font-size: 0.9rem; color: var(--text-secondary); line-height: 1.6;">
+                Acompañamos a nuestros clientes con listas de precios gremiales diferenciadas, asesoramiento técnico personalizado en mostrador y gestión ágil de pedidos a través de nuestro portal digital.
+            </p>
+        </div>
+    </div>
+
+    <!-- Sección de Rubros Comerciales -->
+    <div style="background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 2.5rem; box-shadow: var(--shadow-card); margin-bottom: 3rem;">
+        <h2 style="font-size: 1.5rem; font-weight: 800; margin-bottom: 1.5rem; text-align: center;">Nuestras Líneas de Abastecimiento</h2>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem;">
+            <div style="border-left: 3px solid var(--accent-amber); padding-left: 1.25rem;">
+                <h4 style="font-size: 1.1rem; color: #fff; margin-bottom: 0.5rem;">🚗 Línea Automotor y Transporte</h4>
+                <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+                    Mangueras de radiador, calefacción y turbo; fuelles de semieje y dirección; burletes de puerta y parabrisas; abrazaderas de torque y mangueras con mallas de refuerzo.
+                </p>
+                <span class="wholesale-indicator">Para Repuesteras y Talleres</span>
+            </div>
+
+            <div style="border-left: 3px solid var(--accent-blue); padding-left: 1.25rem;">
+                <h4 style="font-size: 1.1rem; color: #fff; margin-bottom: 0.5rem;">🏭 Línea Ferretería e Industria</h4>
+                <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+                    Mangueras multipropósito, tubos termocontraíbles, planchas y rollos de goma (EPDM, nitrilo, neoprene), pisos antideslizantes de goma y perfiles técnicos de caucho extrusionado.
+                </p>
+                <span class="wholesale-indicator">Para Ferreterías y Fábricas</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- CTA Contacto / Registro -->
+    <div style="text-align: center; padding: 2.5rem 1.5rem; background: radial-gradient(circle at 50% 50%, #1e293b 0%, #171f2c 100%); border: 1px solid var(--border-color); border-radius: var(--radius-lg);">
+        <h3 style="font-size: 1.4rem; font-weight: 800; margin-bottom: 0.75rem;">¿Tenés una casa de repuestos o ferretería?</h3>
+        <p style="font-size: 0.95rem; color: var(--text-secondary); max-width: 600px; margin: 0 auto 1.5rem;">
+            Abrí tu cuenta mayorista en minutos para acceder a precios de gremio, condiciones comerciales preferenciales y disponibilidad inmediata.
+        </p>
+        <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+            <a href="/registro" class="btn btn-primary" style="padding: 0.7rem 1.5rem;">
+                Registrar Mi Comercio B2B
+            </a>
+            <a href="/contacto" class="btn btn-secondary" style="padding: 0.7rem 1.5rem;">
+                Contactar a Ventas
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %}

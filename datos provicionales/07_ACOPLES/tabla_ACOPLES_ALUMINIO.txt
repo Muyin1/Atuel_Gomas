@@ -1,0 +1,46 @@
+=== TABLA NORMALIZADA: ACOPLES ALUMINIO ===
+Total de artículos únicos: 40
+===============================================================================================
+
+CODIGO  | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+------------------------------------------------------------------------
+ALA025  | ACOPLES ALUMINIO    | 1"                      | $4,805.55     
+ALA038  | ACOPLES ALUMINIO    | 1.1/2"                  | $8,361.41     
+ALA050  | ACOPLES ALUMINIO    | 2"                      | $8,362.64     
+ALA075  | ACOPLES ALUMINIO    | 3"- ROSCA BSPT          | $14,600.01    
+ALA102  | ACOPLES ALUMINIO    | 4"                      | $21,642.20    
+ALB019  | ACOPLES ALUMINIO    | 3/4"                    | $7,453.22     
+ALB025  | ACOPLES ALUMINIO    | 1"                      | $9,908.29     
+ALB032  | ACOPLES ALUMINIO    | 1.1/4"                  | $14,294.20    
+ALB038  | ACOPLES ALUMINIO    | 1.1/2"                  | $14,940.89    
+ALB050  | ACOPLES ALUMINIO    | 2"                      | $17,736.85    
+ALB075  | ACOPLES ALUMINIO    | 3"                      | $27,933.10    
+ALB102  | ACOPLES ALUMINIO    | 4"                      | $36,688.31    
+ALC013  | ACOPLES ALUMINIO    | 1/2"                    | $9,846.76     
+ALC019  | ACOPLES ALUMINIO    | 3/4"                    | $9,288.06     
+ALC025  | ACOPLES ALUMINIO    | 1"                      | $9,987.05     
+ALC032  | ACOPLES ALUMINIO    | 1.1/4"                  | $14,739.68    
+ALC038  | ACOPLES ALUMINIO    | 1.1/2"                  | $16,129.05    
+ALC050  | ACOPLES ALUMINIO    | 2"                      | $19,545.23    
+ALC063  | ACOPLES ALUMINIO    | 2.1/2"                  | $27,610.07    
+ALC075  | ACOPLES ALUMINIO    | 3"                      | $31,155.34    
+ALC102  | ACOPLES ALUMINIO    | 4"                      | $42,472.20    
+ALD025  | ACOPLES ALUMINIO    | 1"                      | $9,777.23     
+ALD032  | ACOPLES ALUMINIO    | 1.1/4"                  | $15,176.55    
+ALD038  | ACOPLES ALUMINIO    | 1.1/2"                  | $16,015.83    
+ALD050  | ACOPLES ALUMINIO    | 2"                      | $18,531.82    
+ALD075  | ACOPLES ALUMINIO    | 3"                      | $30,222.66    
+ALD102  | ACOPLES ALUMINIO    | 4"                      | $40,541.36    
+ALE038  | ACOPLES ALUMINIO    | 1.1/2"                  | $11,882.81    
+ALE050  | ACOPLES ALUMINIO    | 2"                      | $17,212.60    
+ALE063  | ACOPLES ALUMINIO    | 2.1/2"                  | $16,863.11    
+ALE075  | ACOPLES ALUMINIO    | 3"                      | $28,745.92    
+ALE102  | ACOPLES ALUMINIO    | 4"                      | $45,871.15    
+ALF038  | ACOPLES ALUMINIO    | 1.1/2"                  | $13,018.67    
+ALF050  | ACOPLES ALUMINIO    | 2"                      | $16,426.24    
+ALF075  | ACOPLES ALUMINIO    | 3"- ROSCA BSPT          | $28,309.05    
+ALF102  | ACOPLES ALUMINIO    | 4"                      | $44,036.31    
+ALDC075 | ACOPLES ALUMINIO    | 3"                      | $37,483.28    
+ALDC102 | ACOPLES ALUMINIO    | 4"                      | $48,667.11    
+ALDP075 | ACOPLES ALUMINIO    | 3"                      | $18,173.71    
+ALDP102 | ACOPLES ALUMINIO    | 4"                      | $28,134.31    

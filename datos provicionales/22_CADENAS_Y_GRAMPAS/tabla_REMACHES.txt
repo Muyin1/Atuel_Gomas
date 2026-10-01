@@ -1,0 +1,9 @@
+=== TABLA NORMALIZADA: REMACHES ===
+Total de artículos únicos: 3
+===============================================================================================
+
+CODIGO    | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+--------------------------------------------------------------------------
+P100BYMEW | REMACHES            | BYM EW x 90 unid.300gr. | $55,432.64    
+P111002A  | REMACHES            | 2A 84 UNID. X 90 GR.    | $20,684.59    
+P111004A  | REMACHES            | 4A 102UNID. X 80 GR. EW | $18,220.91    

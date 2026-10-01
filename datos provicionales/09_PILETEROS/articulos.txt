@@ -1,0 +1,12 @@
+=== REPORTE DE ARTICULOS - PAGINA: PILETEROS ===
+Total de registros detectados: 7
+================================================================================
+
+INDICE |                 |             |               
+-------------------------------------------------------
+       | CAÑOS PILETEROS |             |               
+       | Código Artículo | Descripción | Precio sin Iva
+       | 1134-A          | Caño 25 mm  | 2208.92       
+       | 1135-A          | Caño 32 mm  | 2335.14       
+       | 1136-A          | Caño 38 mm  | 3092.48       
+       | 1137-A          | Caño 50 mm  | 4102.28       

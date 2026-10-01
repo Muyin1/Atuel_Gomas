@@ -1,0 +1,475 @@
+=== TABLA NORMALIZADA: MANGUERAS INDUSTRIALES ===
+Total de artículos únicos: 469
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA            | DESCRIPCION NORMALIZADA                                                     | PRECIO (S/IVA)
+--------------------------------------------------------------------------------------------------------------------------------------
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $2,217.11     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $2,527.49     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $3,464.22     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $3,480.86     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $4,503.50     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $5,542.76     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $6,324.29     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $2,217.11     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $4,157.06     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $3,497.49     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $2,544.13     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Colector a tubo rigido                                                      | $2,944.59     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $3,996.33     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $3,602.79     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $4,226.36     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $4,884.56     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $5,819.89     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $7,321.98     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Calefactor a Tubo 2                                                         | $2,438.81     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $5,819.89     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $4,107.18     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refuerzo textil intermedio (refrigeracion-calefaccion) (espiralado),Refrigeracion-Circulacion de aire-calefaccion | $2,355.67     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $1,995.39     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $3,200.95     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $5,473.47     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $2,355.67     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $3,048.52     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Refrigeracion-Circulacion de aire-calefaccion                               | $9,829.74     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ASPIRAPOLVO ø32 (rollo de 6 metros)                                         | $31,404.91    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ASPIRAPOLVO ø 35 MM (rollo de 6 metros)                                     | $34,349.12    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ASPIRAPOLVO ø 38 (rollo de 6 metros)                                        | $37,376.68    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ASPIRAPOLVO ø 41 (rollo de 6 metros)                                        | $40,327.47    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 45 MM (rollo de 6 metros)                                   | $44,261.86    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 48 MM (rollo de 6 metros)                                   | $47,212.64    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 50 MM (rollo de 6 metros)                                   | $49,179.84    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 57 MM (rollo de 6 metros)                                   | $56,065.02    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 60 MM (rollo de 6 metros)                                   | $59,015.81    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 64 MM (rollo de 6 metros)                                   | $62,950.20    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 70 MM (rollo de 6 metros)                                   | $68,851.77    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 76 MM (rollo de 6 metros)                                   | $74,753.36    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 80 MM (rollo de 6 metros)                                   | $78,687.74    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 85 MM (rollo de 6 metros)                                   | $83,605.72    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 90 MM (rollo de 6 metros)                                   | $88,523.70    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 95 MM (rollo de 6 metros)                                   | $93,441.70    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 101 MM (rollo de 6 metros)                                  | $99,343.27    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 105 MM (rollo de 6 metros)                                  | $103,277.66   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 110 MM (rollo de metros)                                    | $108,195.64   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 114 MM (rollo de 6 metros)                                  | $112,130.04   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 120 MM (Rollo de 6 metros)                                  | $118,031.61   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 127 MM (rollo de 6 metros)                                  | $124,916.79   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 133 MM ( rollo de 6 metros)                                 | $130,818.36   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 140 MM (rollo de 6 metros)                                  | $137,703.54   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 152 MM (rollo de 6 metros)                                  | $149,506.70   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 160 MM (rollo de 6 metros)                                  | $157,375.49   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 170 MM (rollo de 6 metros)                                  | $167,211.45   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 180 MM (rollo de 6 metros)                                  | $177,047.42   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 203 MM (rollo de 6 metro)                                   | $199,670.15   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 220 MM (rollo de 6 metros)                                  | $274,434.25   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 252 MM (rollo de 6 metros)                                  | $307,366.36   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 260 MM (rollo de 6 metros)                                  | $317,124.03   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo - Ø 303 MM (rollo de 6 metros)                                  | $369,571.46   
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO CIRCULACION DE AIRE DIAM 8 X 4 -Sapito Limpia parabrisas              | $2,208.44     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $554.28       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $623.56       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aire / pulmon de avance,Nafta - alconafta - gasoil - lubricantes            | $720.56       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $825.88       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $872.99       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,025.41     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,119.63     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,538.12     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,745.97     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,926.11     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,343.20     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $4,042.06     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,440.66     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,893.79     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $4,306.72     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $4,434.20     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $5,127.06     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $5,375.09     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta-alconafta-gasoil-lubricantes/ (retorno inyector),Nafta - alconafta - gasoil - lubricantes | $1,309.48     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,445.27     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,715.48     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,732.11     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,920.57     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,007.86     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,343.20     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,216.19     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,652.68     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | GNC                                                                         | $5,271.16     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | GNC                                                                         | $5,580.17     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,011.55     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,484.08     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,094.69     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,621.26     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Salida de Cuerpo de Acel.                                                   | $1,827.72     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,150.13     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes,Nafta - alconafta - gasoil - lubricantes-refuerzo textil intermedio espiralada | $1,302.55     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,482.68     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,042.51     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,288.69     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,648.97     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,257.29     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,357.98     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,926.11     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,662.83     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,327.96     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,524.25     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,203.72     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,939.97     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,203.25     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,879.92     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $4,351.06     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $5,418.04     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $5,563.55     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $6,374.17     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,755.22     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,163.97     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,413.40     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,230.96     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,698.85     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Multifuel inyeccion electrónica (espiralado)-sae 30r6                       | $3,214.80     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,935.81     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,367.22     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,279.46     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Multifuel inyeccion electrónica (espiralado)-sae 30r6                       | $3,478.09     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,494.25     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,095.63     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta-alconafta-gasoil-lubricantes/ (servo freno-direccion)                 | $4,064.23     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,325.66     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Multifuel inyeccion electrónica (espiralado)-sae 30r6                       | $3,590.32     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,849.45     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $4,018.50     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $3,897.25     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $4,364.92     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta-alconafta-gasoil-lubricantes/ (servo freno-direccion)                 | $5,912.74     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $5,629.36     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $1,623.86     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,182.47     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,572.18     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Nafta - alconafta - gasoil - lubricantes                                    | $2,814.68     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | MULTIPROP CAUCHO 20 BARES COMPRES                                           | $1,922.73     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | MULTIPROP CAUCHO 20 BARES COMPRES                                           | $2,375.13     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | MULTIPROPOSITO CAUCHO 20 BARES                                              | $2,940.64     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | MULTIPROPOSITO CAUCHO 20 BARES                                              | $4,222.43     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | MULTIPROPOSITO CAUCHO 20 BARES                                              | $5,843.59     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | MULTIPROPOSITO CAUCHO 20 BARES                                              | $7,163.09     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Multiproposito Caucho 20 bares                                              | $8,978.40     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | MULTIPROPOSITO CAUCHO 20 BARES                                              | $9,651.33     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo R12 Hidráulica 3/8" (10MM)                                            | $11,839.60    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo R12 Hidráulica 1/2" (13MM)                                            | $12,235.53    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo R12 Hidráulica 3/4" (19MM)                                            | $16,158.09    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo R12 Hidráulica 1" (25MM)                                              | $21,484.07    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $3,562.74     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $3,742.65     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $4,354.41     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $5,829.90     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $8,384.93     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $10,831.99    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $12,271.45    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $2,555.03     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $15,834.19    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $2,555.03     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $3,058.83     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $4,714.23     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $5,541.91     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $5,649.88     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $6,981.37     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $10,760.06    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $13,782.96    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $18,065.33    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $3,526.72     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $21,304.17    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $3,382.72     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $4,102.46     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo Hidraulica R6 3/8" (10mm)                                             | $3,152.20     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo Hidraulica R6 1/2" (13mm)                                             | $3,886.30     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo Hidraulica R6 5/8" (16mm)                                             | $4,533.98     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo Hidraulica R6 3/4" (19mm)                                             | $5,527.11     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo Hidraulica R6 1" (25mm)                                               | $7,642.98     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo Hidraulica R6 1/4" (6mm)                                              | $2,418.11     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo Hidraulica R6 5/16" (8mm)                                             | $2,720.34     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $18,553.21    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $52,073.46    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $3,379.30     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $4,442.09     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $4,733.64     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $6,678.24     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $9,932.43     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $11,919.30    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $16,683.12    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC        | $4,424.36     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC        | $5,593.24     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC        | $6,409.73     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC        | $9,026.70     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $22,838.65    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $4,022.14     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $5,084.77     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $5,827.03     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $8,206.10     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $12,870.13    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $15,444.66    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $17,857.92    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $27,279.50    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $4,713.70     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $5,898.27     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $6,881.31     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $10,813.49    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $15,237.19    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $18,432.10    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $22,855.80    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $25,462.00    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $4,652.31     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $6,085.74     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $6,538.40     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $9,304.64     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $13,642.60    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $16,459.14    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $22,302.83    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Vitivinicola                                            | $34,488.84    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $24,255.14    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $4,064.83     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $5,138.19     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $6,094.45     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $9,013.43     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $13,382.14    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $16,170.08    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $24,985.12    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $34,488.84    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $5,978.06     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $7,566.65     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $8,946.20     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $12,541.40    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $18,812.10    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $22,365.50    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $26,650.48    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $34,488.84    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $5,978.06     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $7,566.65     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $8,946.20     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $12,541.40    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $18,812.10    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $22,365.50    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $26,650.48    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $17,823.23    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $2,893.87     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $3,446.49     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $5,273.72     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $7,386.18     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $9,804.67     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $12,811.43    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $2,838.17     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $3,454.18     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $4,383.86     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $6,405.72     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $8,994.48     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $11,235.53    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $5,033.73     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $6,362.50     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $7,655.48     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $10,783.07    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $19,756.84    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $13,684.62    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera barrefondo PVC                                           | $2,580.49     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera barrefondo PVC                                           | $2,901.55     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera barrefondo PVC                                           | $2,907.55     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera barrefondo PVC                                           | $3,519.67     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera barrefondo PVC                                           | $3,519.67     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera barrefondo PVC                                           | $5,401.03     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Gris de PVC con espiral rigido de PVC                             | $14,048.73    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Gris de PVC con espiral rigido de PVC                             | $2,761.16     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Gris de PVC con espiral rigido de PVC                             | $3,036.21     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Gris de PVC con espiral rigido de PVC                             | $4,304.28     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Gris de PVC con espiral rigido de PVC                             | $5,643.78     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Gris de PVC con espiral rigido de PVC                             | $7,715.55     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Gris de PVC con espiral rigido de PVC                             | $9,422.97     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Gris de PVC con espiral rigido de PVC                             | $11,953.74    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC blanco | $9,858.03     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC blanco | $11,114.44    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC blanco | $15,624.65    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC blanco | $25,085.35    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC blanco | $28,833.11    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $2,838.17     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $3,454.18     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $4,383.86     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $6,405.72     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $8,994.48     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $11,235.53    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $11,751.96    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $2,497.62     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $2,957.71     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $3,187.75     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $4,469.42     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $6,375.50     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $7,834.64     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $10,011.84    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $13,243.49    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $2,728.77     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $2,728.77     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $3,017.71     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $3,017.71     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $3,545.82     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $3,545.82     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $5,232.54     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $5,232.54     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $8,298.73     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $8,298.73     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $8,869.20     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirapolvo de PVC                                                          | $11,286.52    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Naranja de PVC con espiral rigido de PVC                | $3,040.00     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Naranja de PVC con espiral rigido de PVC                | $3,378.36     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Naranja de PVC con espiral rigido de PVC                | $4,345.56     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Expelente Naranja de PVC con espiral rigido de PVC                | $5,791.98     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manguera de Fumigacion Naranja                                              | $1,606.32     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manguera de Fumigacion Naranja                                              | $2,209.94     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manguera de Fumigacion Naranja                                              | $2,425.31     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manguera de Fumigacion Naranja                                              | $3,793.14     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manguera de Fumigacion Naranja                                              | $8,918.09     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | PRESION 20 bares 10mm ATOXICA                                               | $2,412.73     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | PRESION 20 bares 12mm ATOXICA                                               | $2,662.74     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | PRESION 20 bares 19mm ATOXICA                                               | $5,922.64     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | PRESION 20 bares 25mm ATOXICA                                               | $8,571.56     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | PRESION 20 bares 5mm ATOXICA                                                | $1,539.93     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | PRESION 20 bares 6mm ATOXICA                                                | $1,656.47     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | PRESION 20 bares 8mm ATOXICA                                                | $1,999.30     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manga Plana Reforzada - AZUL ¯100mm (100m)                                  | $13,320.11    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manga Plana Reforzada - AZUL ¯125mm (100m)                                  | $16,280.14    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manga Plana Reforzada - AZUL ¯150mm (100m)                                  | $19,240.17    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manga Plana Reforzada - AZUL ¯200mm (100m)                                  | $53,280.45    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manga Plana Reforzada - AZUL ¯25mm (100m)                                   | $3,848.04     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manga Plana Reforzada - AZUL ¯32mm (100m)                                   | $4,440.05     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manga Plana Reforzada - AZUL ¯40mm (100m)                                   | $5,180.04     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manga Plana Reforzada - AZUL ¯45mm (100m)                                   | $5,920.05     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manga Plana Reforzada - AZUL ¯50mm (100m)                                   | $7,400.06     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manga Plana Reforzada - AZUL ¯63mm (100m)                                   | $8,140.07     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Manga Plana Reforzada - AZUL ¯75mm (100m)                                   | $8,880.08     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Mang Industrial Hidrocarburos Verde 1''                                     | $12,883.13    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Mang Industrial Hidrocarburos Verde 1' 10/16''                              | $21,288.58    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Mang Industrial Hidrocarburos Verde 1' 1/2''                                | $19,285.42    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Mang Industrial Hidrocarburos Verde 1' 1/4''                                | $15,239.80    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Mang Industrial Hidrocarburos Verde 1' 3/4''                                | $22,427.64    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Mang Industrial Hidrocarburos Verde 2''                                     | $24,352.26    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Mang Industrial Hidrocarburos Verde 2' 1/4''                                | $27,219.53    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Mang Industrial Hidrocarburos Verde 3/4''                                   | $10,487.18    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | TUBO MULTIPROPOSITO de PVC 10 MM *MOTORTEIL*                                | $1,984.34     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | TUBO MULTIPROPOSITO de PVC 13 MM *MOTORTEIL*                                | $2,763.02     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | TUBO MULTIPROPOSITO de PVC 19 MM*MOTORTEIL*                                 | $4,417.43     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | TUBO MULTIPROPOSITO de PVC 25 MM*MOTORTEIL*                                 | $6,406.17     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | TUBO MULTIPROPOSITO de PVC 6 MM*MOTORTEIL*                                  | $1,192.71     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | TUBO MULTIPROPOSITO de PVC 8 MM*MOTORTEIL*                                  | $1,442.30     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | MANGA PLANA SUPER REFORZADA - ROJA (10 BARES)                               | $6,660.05     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | MANGA PLANA SUPER REFORZADA - ROJA (10 BARES)                               | $9,620.08     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera para barrefondo PVC                                      | $2,629.92     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Aspirante Piletera para barrefondo PVC                                      | $4,166.34     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | "RIEGO TRICOLOR 1"" X 25MTS"                                                | $1,536.59     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | "RIEGO TRICOLOR 1/2"" X 25MTS"                                              | $512.20       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | "RIEGO TRICOLOR 1/2"" X 50MTS"                                              | $512.20       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | "TRENZADA 1""X25 MTS PRESION 5KL"                                           | $5,355.17     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | "TRENZADA 1/2""X15 MTS PRESION 5KL"                                         | $1,784.91     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | "TRENZADA 1/2""X25 MTS PRESION 5KL"                                         | $1,785.34     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | RIEGO TRENZADA 1/2" X 50MTS AZUL                                            | $1,803.39     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | "TRENZADA 3/4""X25 MTS PRESION 5KL"                                         | $3,570.09     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | RIEGO TRENZADA 3/4" X 50MTS AZUL                                            | $3,570.09     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | "RIEGO TRICOLOR 3/4"" X 25MTS"                                              | $1,024.40     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | "RIEGO TRICOLOR 3/4"" X 50MTS"                                              | $1,024.40     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo de presion rojo                                                       | $864.74       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo de presion rojo                                                       | $1,358.75     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo de presion rojo                                                       | $1,597.89     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo de presion rojo                                                       | $2,494.65     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo de presion rojo                                                       | $5,016.48     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo de presion rojo                                                       | $6,320.77     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $1,765.38     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $1,766.24     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $5,282.19     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $5,284.77     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $3,521.54     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $3,523.27     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Kit GNC 5ta generacion                                                      | $11,538.58    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $738.28       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $862.84       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $2,395.04     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO DE ACRILICO RESISTENTE A HIDROCARBUROS                                | $1,842.34     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $2,120.05     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $209.97       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $252.11       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $577.61       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $723.36       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor (Para filtro combustible de moto)        | $299.90       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $421.46       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $490.30       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $626.53       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $839.88       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $342.81       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $404.90       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $563.69       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $767.64       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $912.50       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $1,104.04     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO DE ACRILICO RESISTENTE A HIDROCARBUROS                                | $246.98       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $445.85       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $614.10       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $789.47       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $1,016.36     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $464.65       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $489.93       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $1,010.37     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $888.43       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $1,096.90     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Hidrocarburo - industria automotor                                          | $1,353.15     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $303.47       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $664.40       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $891.29       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $575.29       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $769.94       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $1,207.30     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $875.70       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $1,010.97     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO DE ACRILICO CRISTAL INDUSTRIAL                                        | $1,508.38     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $1,207.30     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $1,735.23     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $2,051.87     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $2,414.60     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $182.79       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $137.66       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $227.45       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO DE ACRILICO CRISTAL INDUSTRIAL                                        | $632.98       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $167.69       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $274.75       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $378.88       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $432.75       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $577.23       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $673.38       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $197.66       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $303.47       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $348.96       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $492.01       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $650.04       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $816.44       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $1,040.90     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $244.22       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $393.85       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $542.89       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $727.25       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $906.22       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $274.75       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $438.65       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $590.18       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $799.67       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $967.88       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Tubo cristal - Industria / Inst AA nivel obra                               | $1,310.44     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Presión Hidrocarburo - 20 bar                                               | $2,418.21     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Presión Hidrocarburo - 20 bar                                               | $2,756.75     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | TUBO PRESION HIDROCARBURO                                                   | $3,808.60     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Presión Hidrocarburo - 20 bar                                               | $5,513.41     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Presión Hidrocarburo - 20 bar                                               | $7,782.66     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Presión Hidrocarburo - 20 bar                                               | $1,650.74     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Presión Hidrocarburo - 20 bar                                               | $1,843.25     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Presión Hidrocarburo - 20 bar                                               | $2,161.88     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Gas certificado -Presión 34 bar                                             | $1,562.69     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Gas certificado -Presión 34 bar                                             | $1,562.69     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO MULTIPROPOSITO *TECNOCOM*                                             | $2,720.13     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO MULTIPROPOSITO *TECNOCOM*                                             | $3,919.92     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO MULTIPROPOSITO*TECNOCOM*                                              | $5,476.88     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO MULTIPROPOSITO*TECNOCOM*                                              | $8,251.96     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO MULTIPROPOSITO*TECNOCOM*                                              | $10,660.69    
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO MULTIPROPOSITO*TECNOCOM*                                              | $1,346.33     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | ROLLO MULTIPROPOSITO*TECNOCOM*                                              | $2,326.31     
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | uso alimentario 20 bares 32mm 25 metros                                     | $516.01       
+S/C    | MANGUERAS INDUSTRIALES_Parte_2 | Rollo de presion rojo                                                       | $2,568.92     

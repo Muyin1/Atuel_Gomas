@@ -1,0 +1,38 @@
+=== REPORTE DE ARTICULOS - PAGINA: CADENAS Y GRAMPAS ===
+Total de registros detectados: 33
+================================================================================
+
+INDICE |                 |                          |                |  |                 |                         |                |  |                 |                           |               
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+       |                 | CADENAS                  |                |  | REMACHES        |                         |                |  | GRAMPAS         |                           |               
+       | CADENAS NS      |                          |                |  |                 |                         |                |  |                 |                           |               
+       | Código Artículo | Descripción Art Venta    | Precio sin Iva |  | Código Artículo | Descripción             | Precio sin Iva |  | Código Artículo | Descripción               | Precio sin Iva
+       | ASA40NS         | ASA 40 NS                | 6340.13        |  | P100BYMEW       | BYM EW x 90 unid.300gr. | 55432.64       |  | G-2A            | 2A                        | 89139.37      
+       | ASA40NS20       | ASA 40 NS - 20 METROS    | 6340.13        |  | P111002A        | 2A 84 UNID. X 90 GR.    | 20684.59       |  | G-4A            | 4A                        | 78489.75      
+       | ASA50NS         | ASA 50 NS                | 8710.78        |  | P111004A        | 4A 102UNID. X 80 GR. EW | 18220.91       |  | G-BYM           | BYM                       | 185241.96     
+       | ASA50NS20       | ASA 50 NS - 20 METROS    | 8710.78        |  |                 |                         |                |  | P110002A        | TIRA 2A                   | 22118.44      
+       | ASA60NS         | ASA 60 NS                | 13341.83       |  |                 |                         |                |  | P110004A        | TIRA 4A                   | 20019.24      
+       | ASA60NS20       | ASA 60 NS - 20 METROS    | 13341.83       |  |                 |                         |                |  | E1002060        | TIRA BYM                  | 35276.87      
+       | ASA80NS         | ASA 80 NS                | 23375.77       |  |                 |                         |                |  | P113002A        | CABLE 2A X 1 MTS 3.5MM    | 3635.21       
+       | ASA80NS20       | ASA 80 NS - 20 METROS    | 23375.77       |  |                 |                         |                |  | P113004A        | CABLE 4A X 1 MTS 2MM      | 2099.20       
+       |                 |                          |                |  |                 |                         |                |  | P1130BYM        | CABLE BYM X 1,2 MTS 3.5MM | 4096.01       
+       | CADENAS EW      |                          |                |  |                 |                         |                |  | P1000105        | EW N°15 X 190mm           | 1926.79       
+       | Código Artículo | Descripción Art Venta    | Precio sin Iva |  |                 |                         |                |  | P1000120        | EW N°20 X 290mm           | 3867.02       
+       | ASA2040         | 2040            1 X 5/16 | 11459.48       |  |                 |                         |                |  | P1000125        | EW N°25 X 290mm           | 3436.97       
+       | ASA40           | ASA40        1/2 X 5/16  | 7501.83        |  |                 |                         |                |  | P1000127        | EW N°27 X 290mm           | 4205.57       
+       | ASA40/2         | ASA40/2      1/2 X 5/16  | 15062.72       |  |                 |                         |                |  | P1000135        | EW N°35 X 290mm           | 5467.91       
+       | ASA40/3         | ASA40/3      1/2 X 5/16  | 24809.19       |  |                 |                         |                |  | P1000145        | EW N°45 X 290mm           | 6926.03       
+       | ASA50           | ASA50        5/8 X 3/8   | 11341.34       |  |                 |                         |                |  | P1000155        | EW N°55 X 290mm           | 10649.48      
+       | ASA50/2         | ASA50/2      5/8 X 3/8   | 22741.75       |  |                 |                         |                |  | P1000165        | EW N°65 X 290mm           | 14190.61      
+       | ASA50/3         | ASA50/3      5/8 X 3/8   | 36268.67       |  |                 |                         |                |  | P2000104        | N 4 X 30cm  EW            | 12518.12      
+       | ASA50H          | ASA50H       5/8 X 3/8R  | 14176.68       |  |                 |                         |                |  | P2000105        | N 5 X 30cm  EW            | 12718.41      
+       | ASA60           | ASA60        3/4 X 1/2   | 16598.53       |  |                 |                         |                |  | P2000106        | N 6 X 30cm  EW            | 14120.44      
+       | ASA60/2         | ASA60/2      3/4 X 1/2   | 33256.12       |  |                 |                         |                |  |                 |                           |               
+       | ASA60/3         | ASA60/3      3/4 X 1/2   | 54934.63       |  |                 |                         |                |  |                 |                           |               
+       | ASA60H          | ASA60H       3/4 X 1/2R  | 20969.67       |  |                 |                         |                |  |                 |                           |               
+       | ASA80           | ASA80          1 X 5/8   | 27290.11       |  |                 |                         |                |  |                 |                           |               
+       | ASA80/2         | ASA80/2       1 X 5/8    | 54580.21       |  |                 |                         |                |  |                 |                           |               
+       | ASA80H          | ASA80H       1 X 5/8R    | 36741.22       |  |                 |                         |                |  |                 |                           |               
+       | S32             | S-32 29,21 X 15,88       | 21501.30       |  |                 |                         |                |  |                 |                           |               
+       | UNI121          | UNI 121                  | 10159.95       |  |                 |                         |                |  |                 |                           |               
+       | UNI221          | UNI 221                  | 20260.84       |  |                 |                         |                |  |                 |                           |               

@@ -1,0 +1,31 @@
+=== REPORTE DE ARTICULOS - PAGINA: PISOS ===
+Total de registros detectados: 26
+================================================================================
+
+INDICE |                               |             |                     
+---------------------------------------------------------------------------
+       | PISOS GOMA                    |             |                     
+       | Código Artículo               | Descripción | Precio sin Iva      
+       | PISO GRANO ARROZ              | 3MM X 1M    | 23628.76            
+       | PISO LISO                     | 2MM X 1M    | 14463.15            
+       | PISO BASTON                   | 3MM X 1M    | 22871.96            
+       | PISO BASTON                   | 3MM X 1,5M  | 34307.95            
+       | PISO BASTON                   | 2.5MM X 1M  | 19088.00            
+       | PISO CAMIFLEX                 | 3MM X 1M    | 22871.96            
+       | PISO CAMIFLEX                 | 3MM X 1,5M  | 34307.95            
+       | PISO MONEDA                   | 3MM X 1M    | 22871.96            
+       | PISO MONEDA                   | 3MM X 1,5M  | 34307.95            
+       | PISO MONEDA                   | 2.5MM X 1M  | 19088.00            
+       | PISOS PVC                     |             |                     
+       | Código Artículo               | Descripción | Precio Dólar sin Iva
+       | PISO MONEDA PVC               | 1,4 MT.     | 6.52                
+       | PISO COLONIAL                 | 1,4 MT.     | 23.61               
+       | CUERINAS                      |             |                     
+       | Descripción                   | Descripción | Precio sin Iva      
+       | CUERINA TALAMPAYA Y AUTOMOTOR | 1,4 MT.     | 7.61                
+       | CUERINA PESADA                | 1,4 MT.     | 9.39                
+       | TAPICERIA ANCASTI             |             | 2.66                
+       | CRISTAL N° 2 180              | 1,40 MT.    | 1.68                
+       | CRISTAL N° 3 250              | 1,40 MT.    | 2.31                
+       | CRISTAL N° 4 350              | 1,40 MT.    | 3.22                
+       | CRISTAL N° 5 500              | 1,40 MT.    | 4.09                

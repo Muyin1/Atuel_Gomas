@@ -1,0 +1,21 @@
+=== TABLA NORMALIZADA: PROTECCION OCULAR ===
+Total de registros clasificados: 15
+===================================================================================================================
+
+CODIGO  | DESCRIPCION                                                       | TALLE/MEDIDA | MATERIAL | COLOR | PRECIO (S/IVA)
+------------------------------------------------------------------------------------------------------------------------------
+UCU111B | B. Monolente rigido de vanguardia transparente K                  |              |          |       | $1,551.76     
+UCU112B | B. Monolente rigido de vanguardia Negro K                         |              |          | Negro | $1,551.76     
+UCU111D | Kit B. Monolente Rigido Transparente K con Prot. Facial Sanitario |              |          |       | $4,277.45     
+UCU021E | E. Anteojo transparente, K, Patilla recta regulable               |              |          |       | $1,901.09     
+UCU022E | E. Anteojo Negro, K, Patilla recta regulable                      |              |          | Negro | $1,901.09     
+UCU132B | B. Anteojo marco Metalico, negro, K.                              |              |          | Negro | $13,093.74    
+UCU321B | B. Antiparra, ventilación directa Tratamiento K, transparente     | iento        |          |       | $10,465.49    
+UCU351A | Antiparra ergonomica transparente Antiempañe                      |              |          |       | $11,513.46    
+UCU352A | Antiparra ergonomica Negro Antiempañe                             |              |          | Negro | $11,513.46    
+UCU371A | Antiparra Ergonómica Transparente Premium, Banda de Sujeción, K N |              |          |       | $14,876.01    
+UCU372A | Antiparra Ergonómica Negro premium, Banda de Sujeción, K N        |              |          | Negro | $14,876.01    
+UCU331A | A. Antiparra Vent. Indirec. Trat. K, N . Vista panoramica         |              |          |       | $13,093.74    
+UCU351S | Antiparra ergonomica para soldadura IR5                           |              |          |       | $38,107.31    
+UCU101B | B. Pte de silicona. P Intercambiables con portalentes             |              |          |       | $21,311.20    
+UCU102B | B. Pte de silicona. P Intercambiables con portalentes. Gris       |              |          | Gris  | $21,311.20    

@@ -5,10 +5,13 @@ from src.domain.entities.user_role import UserRole
 
 class ProductSearchDTO(BaseModel):
     query: str | None = None
-    category: ProductCategory | None = None
+    category: ProductCategory | str | None = None
+    family: str | None = None
     vehicle_brand: str | None = None
     vehicle_model: str | None = None
     role: UserRole = UserRole.PUBLIC
+    page: int = 1
+    page_size: int = 24
 
 
 class ProductSummaryDTO(BaseModel):
@@ -17,9 +20,21 @@ class ProductSummaryDTO(BaseModel):
     oem_code: str
     name: str
     category: str
+    family: str = ""
     dimensions: str
     price_formatted: str
     is_wholesale: bool
     stock: int
     image_url: str
     compatibilities_summary: str
+
+
+class PaginatedProductsDTO(BaseModel):
+    items: list[ProductSummaryDTO]
+    total: int
+    page: int
+    page_size: int
+    total_pages: int
+    has_next: bool
+    has_prev: bool
+

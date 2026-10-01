@@ -1,0 +1,12 @@
+=== TABLA NORMALIZADA: CINTAS REFLECTIVAS ===
+Total de registros clasificados: 6
+===================================================================================================================
+
+CODIGO | DESCRIPCION                                                | TALLE/MEDIDA | MATERIAL | COLOR | PRECIO (S/IVA)
+----------------------------------------------------------------------------------------------------------------------
+S/C    | CINTAS REFLECTIVAS - RAROJA                                |              |          |       | $0.00         
+S/C    | CINTAS REFLECTIVAS - RACEBRADA                             |              |          |       | $0.00         
+S/C    | CINTAS REFLECTIVAS - RABLANCA                              |              |          |       | $0.00         
+S/C    | CINTAS REFLECTIVAS - RAMERCOSUR                            |              |          |       | $0.00         
+S/C    | CINTAS REFLECTIVAS - RAAMARILLA                            |              |          |       | $0.00         
+S/C    | CINTAS REFLECTIVAS - RACÍRCULO DE 60 - 80 - 90 - 100 - 110 |              |          |       | $0.00         

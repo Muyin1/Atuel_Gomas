@@ -1,0 +1,17 @@
+=== TABLA NORMALIZADA: MANGUERAS AIR-HOUSE ===
+Total de artículos únicos: 11
+===============================================================================================
+
+CODIGO   | FAMILIA / CATEGORIA       | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+-------------------------------------------------------------------------------
+N0120006 | MANGUERA AIR-HOUSE 300 LB | 1/4"                    | $2,253.97     
+N0120008 | MANGUERA AIR-HOUSE 300 LB | 5/16"                   | $2,875.75     
+N0120010 | MANGUERA AIR-HOUSE 300 LB | 3/8"                    | $3,575.26     
+N0120013 | MANGUERA AIR-HOUSE 300 LB | 1/2"                    | $5,906.95     
+N0120016 | MANGUERA AIR-HOUSE 300 LB | 5/8"                    | $7,228.24     
+N0120019 | MANGUERA AIR-HOUSE 300 LB | 3/4"                    | $9,870.82     
+N0120025 | MANGUERA AIR-HOUSE 300 LB | 1"                      | $12,513.41    
+N0120032 | MANGUERA AIR-HOUSE 300 LB | 1.1/4"                  | $22,539.67    
+N0120038 | MANGUERA AIR-HOUSE 300 LB | 1.1/2"                  | $26,503.55    
+N0120051 | MANGUERA AIR-HOUSE 300 LB | 2"                      | $36,840.71    
+N0120076 | MANGUERA AIR-HOUSE 300 LB | 3"                      | $62,178.41    

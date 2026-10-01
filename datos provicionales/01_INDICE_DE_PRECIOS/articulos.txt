@@ -1,0 +1,51 @@
+=== REPORTE DE ARTICULOS - PAGINA: INDICE DE PRECIOS ===
+Total de registros detectados: 46
+================================================================================
+
+ | LISTAS DE PRECIOS                   |                                            |                        |                        |                       
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ | ARTÍCULOS DE PROTECCIÓN             | ARTÍCULOS DE PROTECCIÓN DP                 |                        |                        |                       
+ |                                     | CINTA AISLADORA                            |                        |                        |                       
+ |                                     | DIAFRAGMA DE BOMBEADOR                     |                        |                        |                       
+ |                                     | GUANTES (OFERTAS)                          |                        |                        |                       
+ |                                     | GUNTES LISTA COMPLETA                      |                        |                        |                       
+ |                                     | TUBOS TERMOCONTRAIBLE                      |                        |                        |                       
+ | ABRAZADERAS                         | ABRAZADERAS MINI AMERICANA                 |                        |                        |                       
+ |                                     | ABRAZADERA TIPO AMERICANA EW (FLEJE ANCHO) |                        |                        |                       
+ |                                     | ABRAZADERA SUPER PRESIÓN                   |                        |                        |                       
+ |                                     | ABRAZADERAS DE ALAMBRE                     |                        |                        |                       
+ | ACOPLES                             | ACOPLES PP                                 |                        |                        |                       
+ |                                     | ACOPLES ALUMINIO                           |                        |                        |                       
+ | CADENAS,  GRAMPAS Y REMACHES        | CADENAS                                    | 'CADENAS Y GRAMPAS'!A1 | 'CADENAS Y GRAMPAS'!A1 | 'CADENAS Y GRAMPAS'!A1
+ |                                     | GRAMPAS                                    | 'CADENAS Y GRAMPAS'!A1 | 'CADENAS Y GRAMPAS'!A1 | 'CADENAS Y GRAMPAS'!A1
+ |                                     | REMACHES                                   | 'CADENAS Y GRAMPAS'!A1 | 'CADENAS Y GRAMPAS'!A1 | 'CADENAS Y GRAMPAS'!A1
+ |                                     | 'CADENAS Y GRAMPAS'!A1                     | 'CADENAS Y GRAMPAS'!A1 | 'CADENAS Y GRAMPAS'!A1 | 'CADENAS Y GRAMPAS'!A1
+ | CEBADOR                             | CEBADOR                                    | CEBADORES!A1           | CEBADORES!A1           | CEBADORES!A1          
+ |                                     | VÁLVULA ANTIRRETORNO                       | CEBADORES!A1           | CEBADORES!A1           | CEBADORES!A1          
+ |                                     | CEBADORES!A1                               | CEBADORES!A1           | CEBADORES!A1           | CEBADORES!A1          
+ | CORREAS                             | CORREAS INDUSTRIALES                       |                        |                        |                       
+ |                                     | CORREAS AUTOMOTOR TRAPEZOIDALES            |                        |                        |                       
+ |                                     | CORREAS AUTOMOTOR POLY-V                   |                        |                        |                       
+ |                                     | CINTA ROTOENFARDADORA (Precio dólar)       |                        |                        |                       
+ | ESCOBILLAS                          | ESCOBILLAS                                 |                        |                        |                       
+ | LÁTEX                               | LÁTEX                                      | LÁTEX!A1               | LÁTEX!A1               | LÁTEX!A1              
+ |                                     | LÁTEX!A1                                   | LÁTEX!A1               | LÁTEX!A1               | LÁTEX!A1              
+ | LÍQUIDOS DE FRENO Y ANTICONGELANTES | LÍQUIDOS DE FRENO                          |                        |                        |                       
+ |                                     | ANTICONGELANTES                            |                        |                        |                       
+ | MANGUERAS                           | CRISTAL                                    |                        |                        |                       
+ |                                     | HIDROCARBURO                               |                        |                        |                       
+ |                                     | ACRÍLICO 300 LB C/TELA                     |                        |                        |                       
+ |                                     | FUMIGACIÓN                                 |                        |                        |                       
+ |                                     | MANGAS PVC AZUL                            |                        |                        |                       
+ |                                     | MANGUERA AIR-HOUSE 300 LB                  |                        |                        |                       
+ |                                     | MANGUERAS DE GOMA MOLDEADA                 |                        |                        |                       
+ |                                     | MANGUERA DE GOMA POR MT                    |                        |                        |                       
+ |                                     | MANGUERAS DE RIEGO                         |                        |                        |                       
+ |                                     | MANGUERAS INDUSTRIALES                     |                        |                        |                       
+ |                                     | PILETEROS                                  |                        |                        |                       
+ | O-RINGS                             | O-RINGS                                    |                        |                        |                       
+ | PISOS Y CUERINAS                    | PISOS GOMA                                 |                        |                        |                       
+ |                                     | PISOS PVC (Precio dólar)                   |                        |                        |                       
+ |                                     | CUERINAS (Precio dólar)                    |                        |                        |                       
+ | PRECINTOS                           | PRECINTOS                                  | PRECINTOS!A1           | PRECINTOS!A1           | PRECINTOS!A1          
+ |                                     | PRECINTOS!A1                               | PRECINTOS!A1           | PRECINTOS!A1           | PRECINTOS!A1          

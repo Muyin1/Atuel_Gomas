@@ -1,0 +1,10 @@
+=== TABLA NORMALIZADA: ESCOBILLAS ===
+Total de artículos únicos: 4
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+-----------------------------------------------------------------------
+S/C    | ESCOBILLAS          | ESCOBILA ULTRABLADE     | $9,367.86     
+S/C    | ESCOBILLAS          | ESCOBILLA HELLA 16"     | $3,366.02     
+S/C    | ESCOBILLAS          | ESCOBILLA HELLA 18"     | $3,606.45     
+S/C    | ESCOBILLAS          | ESCOBILLA HELLA 20"     | $3,985.00     

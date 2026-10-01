@@ -1,0 +1,32 @@
+=== TABLA NORMALIZADA: CADENAS ===
+Total de artículos únicos: 26
+===============================================================================================
+
+CODIGO    | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+--------------------------------------------------------------------------
+ASA40NS   | CADENAS NS          | ASA 40 NS               | $6,340.13     
+ASA40NS20 | CADENAS NS          | ASA 40 NS - 20 METROS   | $6,340.13     
+ASA50NS   | CADENAS NS          | ASA 50 NS               | $8,710.78     
+ASA50NS20 | CADENAS NS          | ASA 50 NS - 20 METROS   | $8,710.78     
+ASA60NS   | CADENAS NS          | ASA 60 NS               | $13,341.83    
+ASA60NS20 | CADENAS NS          | ASA 60 NS - 20 METROS   | $13,341.83    
+ASA80NS   | CADENAS NS          | ASA 80 NS               | $23,375.77    
+ASA80NS20 | CADENAS NS          | ASA 80 NS - 20 METROS   | $23,375.77    
+ASA2040   | CADENAS NS          | 2040 1 X 5/16           | $11,459.48    
+ASA40     | CADENAS NS          | ASA40 1/2 X 5/16        | $7,501.83     
+ASA40/2   | CADENAS NS          | ASA40/2 1/2 X 5/16      | $15,062.72    
+ASA40/3   | CADENAS NS          | ASA40/3 1/2 X 5/16      | $24,809.19    
+ASA50     | CADENAS NS          | ASA50 5/8 X 3/8         | $11,341.34    
+ASA50/2   | CADENAS NS          | ASA50/2 5/8 X 3/8       | $22,741.75    
+ASA50/3   | CADENAS NS          | ASA50/3 5/8 X 3/8       | $36,268.67    
+ASA50H    | CADENAS NS          | ASA50H 5/8 X 3/8R       | $14,176.68    
+ASA60     | CADENAS NS          | ASA60 3/4 X 1/2         | $16,598.53    
+ASA60/2   | CADENAS NS          | ASA60/2 3/4 X 1/2       | $33,256.12    
+ASA60/3   | CADENAS NS          | ASA60/3 3/4 X 1/2       | $54,934.63    
+ASA60H    | CADENAS NS          | ASA60H 3/4 X 1/2R       | $20,969.67    
+ASA80     | CADENAS NS          | ASA80 1 X 5/8           | $27,290.11    
+ASA80/2   | CADENAS NS          | ASA80/2 1 X 5/8         | $54,580.21    
+ASA80H    | CADENAS NS          | ASA80H 1 X 5/8R         | $36,741.22    
+S32       | CADENAS NS          | S-32 29,21 X 15,88      | $21,501.30    
+UNI121    | CADENAS NS          | UNI 121                 | $10,159.95    
+UNI221    | CADENAS NS          | UNI 221                 | $20,260.84    

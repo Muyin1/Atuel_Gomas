@@ -2,7 +2,11 @@
     <div>
         <h2 style="font-size: 1.4rem; font-weight: 800;">Catálogo de Artículos Técnicos</h2>
         <p style="font-size: 0.85rem; color: var(--text-secondary);">
-            Se encontraron <strong style="color: var(--accent-amber);">{{ products|length }}</strong> productos disponibles para despacho inmediato.
+            {% if paginated %}
+                Mostrando <strong style="color: var(--accent-amber);">{{ products|length }}</strong> de <strong style="color: var(--accent-amber);">{{ "{:,}".format(paginated.total).replace(',', '.') }}</strong> productos disponibles (Página {{ paginated.page }} de {{ paginated.total_pages }}).
+            {% else %}
+                Se encontraron <strong style="color: var(--accent-amber);">{{ products|length }}</strong> productos disponibles para despacho inmediato.
+            {% endif %}
         </p>
     </div>
     {% if is_b2b %}
@@ -18,21 +22,32 @@
         <div class="product-img-box">
             <span class="sku-badge">{{ product.sku }}</span>
             <span class="stock-badge available">✓ Stock: {{ product.stock }}u</span>
-            <div style="font-size: 3.5rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.5));">
-                {% if "Radiador" in product.name or "Manguera" in product.name %}
-                    🪈
-                {% elif "Burlete" in product.name %}
-                    ➰
-                {% elif "Fuelle" in product.name %}
-                    🛡️
-                {% elif "Piso" in product.name %}
-                    ⬛
-                {% elif "Abrazadera" in product.name %}
-                    ⭕
-                {% else %}
+            
+            {% if product.image_url and "/static/img/catalogo/" in product.image_url %}
+                <img src="{{ product.image_url }}" 
+                     alt="{{ product.name }}" 
+                     loading="lazy" 
+                     onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                <div style="display: none; font-size: 3.5rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.5));">
                     ⚙️
-                {% endif %}
-            </div>
+                </div>
+            {% else %}
+                <div style="font-size: 3.5rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.5));">
+                    {% if "Radiador" in product.name or "Manguera" in product.name %}
+                        🪈
+                    {% elif "Burlete" in product.name %}
+                        ➰
+                    {% elif "Fuelle" in product.name %}
+                        🛡️
+                    {% elif "Piso" in product.name or "Cuerina" in product.name %}
+                        ⬛
+                    {% elif "Abrazadera" in product.name %}
+                        ⭕
+                    {% else %}
+                        ⚙️
+                    {% endif %}
+                </div>
+            {% endif %}
         </div>
 
         <div class="product-body">
@@ -59,12 +74,14 @@
             <div class="price-row">
                 <div>
                     <div class="price-label">
-                        {% if product.is_wholesale %}Precio Mayorista + IVA{% else %}Precio Lista Sugerido{% endif %}
+                        {% if product.is_wholesale %}Precio Mayorista B2B (Neto){% else %}Precio Sugerido Venta{% endif %}
                     </div>
-                    <div class="price-tag">{{ product.price_formatted }}</div>
+                    <div class="price-tag {% if product.is_wholesale %}wholesale{% endif %}">{{ product.price_formatted }}</div>
                 </div>
                 {% if product.is_wholesale %}
-                <span class="wholesale-indicator">B2B Gremios</span>
+                <span class="wholesale-indicator">★ Gremio B2B</span>
+                {% else %}
+                <span class="retail-indicator">PVP Lista</span>
                 {% endif %}
             </div>
 
@@ -91,3 +108,108 @@
     </div>
     {% endfor %}
 </div>
+
+{% if paginated and paginated.total_pages > 1 %}
+<div class="pagination-container">
+    <div class="pagination-info">
+        Página <strong>{{ paginated.page }}</strong> de <strong>{{ paginated.total_pages }}</strong> 
+        (Artículos {{ (paginated.page - 1) * paginated.page_size + 1 }} a {{ [paginated.page * paginated.page_size, paginated.total]|min }} de {{ "{:,}".format(paginated.total).replace(',', '.') }})
+    </div>
+
+    <div class="pagination-controls">
+        <!-- Botón Primera Página -->
+        {% if paginated.page > 1 %}
+        <button class="page-btn"
+                hx-get="/api/productos/search?page=1&query={{ current_query }}&category={{ current_category }}&vehicle_brand={{ current_brand }}&vehicle_model={{ current_model }}&rubro={{ current_rubro }}&family={{ current_family }}"
+                hx-target="#product-grid-container"
+                hx-indicator="#search-spinner"
+                hx-push-url="true"
+                title="Primera Página">
+            «
+        </button>
+        {% endif %}
+
+        <!-- Botón Anterior -->
+        {% if paginated.has_prev %}
+        <button class="page-btn"
+                hx-get="/api/productos/search?page={{ paginated.page - 1 }}&query={{ current_query }}&category={{ current_category }}&vehicle_brand={{ current_brand }}&vehicle_model={{ current_model }}&rubro={{ current_rubro }}&family={{ current_family }}"
+                hx-target="#product-grid-container"
+                hx-indicator="#search-spinner"
+                hx-push-url="true"
+                title="Página Anterior">
+            ‹ Anterior
+        </button>
+        {% else %}
+        <button class="page-btn disabled" disabled>‹ Anterior</button>
+        {% endif %}
+
+        <!-- Botones Numéricos Paginados de Rango Dinámico -->
+        {% set start_p = [1, paginated.page - 2]|max %}
+        {% set end_p = [paginated.total_pages, paginated.page + 2]|min %}
+
+        {% if start_p > 1 %}
+            <button class="page-btn"
+                    hx-get="/api/productos/search?page=1&query={{ current_query }}&category={{ current_category }}&vehicle_brand={{ current_brand }}&vehicle_model={{ current_model }}&rubro={{ current_rubro }}&family={{ current_family }}"
+                    hx-target="#product-grid-container"
+                    hx-indicator="#search-spinner"
+                    hx-push-url="true">1</button>
+            {% if start_p > 2 %}
+                <span class="page-ellipsis">...</span>
+            {% endif %}
+        {% endif %}
+
+        {% for p_num in range(start_p, end_p + 1) %}
+            {% if p_num == paginated.page %}
+                <button class="page-btn active">{{ p_num }}</button>
+            {% else %}
+                <button class="page-btn"
+                        hx-get="/api/productos/search?page={{ p_num }}&query={{ current_query }}&category={{ current_category }}&vehicle_brand={{ current_brand }}&vehicle_model={{ current_model }}&rubro={{ current_rubro }}&family={{ current_family }}"
+                        hx-target="#product-grid-container"
+                        hx-indicator="#search-spinner"
+                        hx-push-url="true">
+                    {{ p_num }}
+                </button>
+            {% endif %}
+        {% endfor %}
+
+        {% if end_p < paginated.total_pages %}
+            {% if end_p < paginated.total_pages - 1 %}
+                <span class="page-ellipsis">...</span>
+            {% endif %}
+            <button class="page-btn"
+                    hx-get="/api/productos/search?page={{ paginated.total_pages }}&query={{ current_query }}&category={{ current_category }}&vehicle_brand={{ current_brand }}&vehicle_model={{ current_model }}&rubro={{ current_rubro }}&family={{ current_family }}"
+                    hx-target="#product-grid-container"
+                    hx-indicator="#search-spinner"
+                    hx-push-url="true">{{ paginated.total_pages }}</button>
+        {% endif %}
+
+        <!-- Botón Siguiente -->
+        {% if paginated.has_next %}
+        <button class="page-btn"
+                hx-get="/api/productos/search?page={{ paginated.page + 1 }}&query={{ current_query }}&category={{ current_category }}&vehicle_brand={{ current_brand }}&vehicle_model={{ current_model }}&rubro={{ current_rubro }}&family={{ current_family }}"
+                hx-target="#product-grid-container"
+                hx-indicator="#search-spinner"
+                hx-push-url="true"
+                title="Página Siguiente">
+            Siguiente ›
+        </button>
+        {% else %}
+        <button class="page-btn disabled" disabled>Siguiente ›</button>
+        {% endif %}
+
+        <!-- Botón Última Página -->
+        {% if paginated.page < paginated.total_pages %}
+        <button class="page-btn"
+                hx-get="/api/productos/search?page={{ paginated.total_pages }}&query={{ current_query }}&category={{ current_category }}&vehicle_brand={{ current_brand }}&vehicle_model={{ current_model }}&rubro={{ current_rubro }}&family={{ current_family }}"
+                hx-target="#product-grid-container"
+                hx-indicator="#search-spinner"
+                hx-push-url="true"
+                title="Última Página">
+            »
+        </button>
+        {% endif %}
+    </div>
+</div>
+{% endif %}
+
+

@@ -1,0 +1,49 @@
+=== REPORTE DE ARTICULOS - PAGINA: ART DE PROTECCION ===
+Total de registros detectados: 44
+================================================================================
+
+INDICE |                                                           |                |  |  |  |                                       |               
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+       | GUANTES                                                   |                |  |  |  | CINTAS REFLECTIVAS                    |               
+       | Descripción Art Venta                                     | Precio sin Iva |  |  |  | Descripción Art Venta                 | Precio sin Iva
+       | Guante Táctil DPS                                         |                |  |  |  | RAROJA                                | 2063.05       
+       | Nro.8 cod.85193                                           | 815.70         |  |  |  | RACEBRADA                             | 2087.04       
+       | Nro.9 cod.85194                                           | 815.70         |  |  |  | RABLANCA                              | 1079.50       
+       | Nro.10 cod.85195                                          | 815.70         |  |  |  | RAMERCOSUR                            | 1319.39       
+       | Guante Moteado                                            |                |  |  |  | RAAMARILLA                            | 1079.50       
+       | Nro.8 cod.813093E                                         | 603.45         |  |  |  |                                       |               
+       | Nro.8 cod.811093E                                         | 659.33         |  |  |  | RACÍRCULO DE 60 - 80 - 90 - 100 - 110 | 2566.82       
+       | Nro.10 cod.811095                                         | 737.55         |  |  |  |                                       |               
+       | Guante Vaqueta 1/2 paseo                                  |                |  |  |  |                                       |               
+       | Nro.10 cod.222025E                                        | 3564.82        |  |  |  |                                       |               
+       | Nro.10 cod.222025E+                                       | 3175.23        |  |  |  |                                       |               
+       | Nro.11 cod.222026E                                        | 3932.11        |  |  |  |                                       |               
+       | Guante Vaqueta 1/2 paseo premium                          |                |  |  |  |                                       |               
+       | Nro.8 cod.221023                                          | 3953.71        |  |  |  |                                       |               
+       | Nro.9 cod.221024                                          | 3996.92        |  |  |  |                                       |               
+       | Nro.10 cod.222025                                         | 4040.13        |  |  |  |                                       |               
+       | Nro.11 cod.222026                                         | 4515.44        |  |  |  |                                       |               
+       | Guante látex doméstico talle S al XL cod.61324            | 1487.31        |  |  |  |                                       |               
+       | Guante látex industrial Cod.71395                         | 2230.97        |  |  |  |                                       |               
+       | Guante acrilo nitrilo talle 7 al 11 cod.41485             | 2350.92        |  |  |  |                                       |               
+       | Guante tejido recto en Nitrilo Pack cod.88113             | 2111.03        |  |  |  |                                       |               
+       | Guante Nitrilo azul  y negro descartable 72091            | 10555.16       |  |  |  |                                       |               
+       | Guante tejido s/costura T10 DPS 88305                     | 3166.54        |  |  |  |                                       |               
+       | Guante tejido s/costura recubierto en látex T10 DPS 89155 | 1967.09        |  |  |  |                                       |               
+       | Guante nitrilo ventilado azul puño tejido DPS 12155       | 5109.65        |  |  |  |                                       |               
+       | Guante nitrilo baño completo azul puño de lona DPS 11255  | 5709.38        |  |  |  |                                       |               
+       | Guante PVC rojo largo tota 35 cm DPS 31445                | 5949.27        |  |  |  |                                       |               
+       | Guante PVC rojo largo tota 40 cm DPS 31545                | 6764.89        |  |  |  |                                       |               
+       | TUBOS TERMOCONTRAIBLE                                     |                |  |  |  |                                       |               
+       | Descripción Art Venta                                     | Precio sin Iva |  |  |  |                                       |               
+       | TUBOS TERMOCONTRAIBLE POR MT.                             |                |  |  |  |                                       |               
+       | 4,5 mm                                                    | 430.80         |  |  |  |                                       |               
+       | 6 mm                                                      | 502.75         |  |  |  |                                       |               
+       | 9 mm                                                      | 773.87         |  |  |  |                                       |               
+       | DIAFRAGMA DE BOMBEADOR                                    |                |  |  |  |                                       |               
+       | Descripción Art Venta                                     | Precio sin Iva |  |  |  |                                       |               
+       | DIAFRAGMAS DE BOMBEADOR VILLA( x unidad)                  |                |  |  |  |                                       |               
+       | Nro.1                                                     | 6950.79        |  |  |  |                                       |               
+       | Nro.2                                                     | 8840           |  |  |  |                                       |               
+       | Nro.3                                                     | 16987.18       |  |  |  |                                       |               
+       | Arandela de bombeador Villa V-41                          | 1548.49        |  |  |  |                                       |               

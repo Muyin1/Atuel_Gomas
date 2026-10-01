@@ -1,0 +1,16 @@
+=== TABLA NORMALIZADA: MANGUERAS RIEGO ===
+Total de artículos únicos: 10
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA                            | PRECIO (S/IVA)
+--------------------------------------------------------------------------------------------------
+S/C    | MANGUERA GAS        | Manguera aprobada para gas envasado x mt.          | $860.69       
+S/C    | MANGUERA DE RIEGO   | Manguera de riego reforzada 1/2" (interior negro)  | $556.77       
+S/C    | MANGUERA DE RIEGO   | Manguera de riego reforzada 3/4" (interior negro)  | $1,113.54     
+S/C    | MANGUERA DE RIEGO   | Manguera de riego reforzada 1" (interior negro)    | $1,670.30     
+S/C    | MANGUERA DE RIEGO   | Manguera de riego reforzada 1/2" (interior blanco) | $556.77       
+S/C    | MANGUERA DE RIEGO   | Manguera de riego reforzada 3/4" (interior blanco) | $1,113.54     
+S/C    | MANGUERA DE RIEGO   | Manguera de riego reforzada 1" (interior blanco)   | $1,670.30     
+S/C    | MANGUERA DE RIEGO   | Manguera de riego trenzado 10 bar 1/2"             | $1,065.47     
+S/C    | MANGUERA DE RIEGO   | Manguera de riego trenzado 10 bar 3/4"             | $2,130.95     
+S/C    | MANGUERA DE RIEGO   | Manguera de riego trenzado 10 bar 1"               | $3,196.42     

@@ -18,50 +18,90 @@
 
 <!-- Barra de Filtros y Búsqueda en Vivo (HTMX) -->
 <div class="filter-container">
-    <form class="filter-card" 
+    <!-- Solapas / Tabs de Rubro Comercial -->
+    <div class="rubro-tabs-wrapper" id="rubro-tabs">
+        <button type="button" 
+                class="rubro-tab {% if not current_rubro %}active{% endif %}" 
+                onclick="selectRubro('')">
+            <span>🌐 Catálogo Completo</span>
+            <span class="rubro-tab-count">12.829</span>
+        </button>
+        <button type="button" 
+                class="rubro-tab {% if current_rubro == 'AUTOPARTES' %}active{% endif %}" 
+                onclick="selectRubro('AUTOPARTES')">
+            <span>🚗 Autopartes y Transporte</span>
+            <span class="rubro-tab-count">10.905</span>
+        </button>
+        <button type="button" 
+                class="rubro-tab {% if current_rubro == 'FERRETERIA' %}active{% endif %}" 
+                onclick="selectRubro('FERRETERIA')">
+            <span>🏭 Ferretería e Industria</span>
+            <span class="rubro-tab-count">3.206</span>
+        </button>
+    </div>
+
+    <form id="catalog-filter-form"
+          class="filter-card" 
           hx-get="/api/productos/search" 
-          hx-trigger="input, change, delay:250ms" 
+          hx-trigger="submit, input, change, delay:250ms" 
           hx-target="#product-grid-container" 
-          hx-indicator="#search-spinner">
+          hx-indicator="#search-spinner"
+          hx-push-url="true">
         
+        <!-- Al alterar cualquier criterio de búsqueda se resetea a la página 1 -->
+        <input type="hidden" id="page-input" name="page" value="1">
+        <input type="hidden" id="rubro-input" name="rubro" value="{{ current_rubro or '' }}">
+        <input type="hidden" id="family-input" name="family" value="{{ current_family or '' }}">
+
         <div class="form-group">
             <label class="form-label" for="query">Búsqueda Técnica / OEM</label>
             <input type="text" 
                    id="query" 
                    name="query" 
                    class="form-control" 
+                   value="{{ current_query or '' }}"
                    placeholder="Ej: Radiador Kangoo, 7700838132, Burlete...">
         </div>
 
         <div class="form-group">
             <label class="form-label" for="category">Categoría</label>
-            <select id="category" name="category" class="form-control">
+            <select id="category" 
+                    name="category" 
+                    class="form-control"
+                    onchange="onCategoryChange(this.value)">
                 <option value="">Todas las categorías</option>
                 {% for cat in categories %}
-                    <option value="{{ cat.name }}">{{ cat.value }}</option>
+                    <option value="{{ cat.slug }}" 
+                            data-rubro="{{ cat.rubro.value if cat.rubro.value is defined else cat.rubro }}"
+                            {% if current_category == cat.slug or current_category == cat.name %}selected{% endif %}>
+                        {{ cat.value }} ({{ cat.product_count }})
+                    </option>
                 {% endfor %}
             </select>
         </div>
 
-        <div class="form-group">
+        <div class="form-group" id="group-vehicle-brand">
             <label class="form-label" for="vehicle_brand">Marca Vehículo</label>
             <select id="vehicle_brand" name="vehicle_brand" class="form-control">
                 <option value="">Todas las marcas</option>
-                <option value="Renault">Renault</option>
-                <option value="Volkswagen">Volkswagen</option>
-                <option value="Ford">Ford</option>
-                <option value="Peugeot">Peugeot</option>
-                <option value="Citroën">Citroën</option>
-                <option value="Universal">Línea Universal / Agro</option>
+                <option value="Renault" {% if current_brand == "Renault" %}selected{% endif %}>Renault</option>
+                <option value="Volkswagen" {% if current_brand == "Volkswagen" %}selected{% endif %}>Volkswagen</option>
+                <option value="Ford" {% if current_brand == "Ford" %}selected{% endif %}>Ford</option>
+                <option value="Peugeot" {% if current_brand == "Peugeot" %}selected{% endif %}>Peugeot</option>
+                <option value="Citroën" {% if current_brand == "Citroën" %}selected{% endif %}>Citroën</option>
+                <option value="Fiat" {% if current_brand == "Fiat" %}selected{% endif %}>Fiat</option>
+                <option value="Chevrolet" {% if current_brand == "Chevrolet" %}selected{% endif %}>Chevrolet</option>
+                <option value="Universal" {% if current_brand == "Universal" %}selected{% endif %}>Línea Universal / Agro</option>
             </select>
         </div>
 
-        <div class="form-group">
+        <div class="form-group" id="group-vehicle-model">
             <label class="form-label" for="vehicle_model">Modelo</label>
             <input type="text" 
                    id="vehicle_model" 
                    name="vehicle_model" 
                    class="form-control" 
+                   value="{{ current_model or '' }}"
                    placeholder="Ej: Gol, Kangoo...">
         </div>
 
@@ -70,8 +110,124 @@
                 Buscar
             </button>
         </div>
+
+        <!-- Contenedor de Badges Rápidos de Subfamilias y Aplicaciones -->
+        <div id="family-badges-wrapper-target" style="grid-column: 1 / -1; width: 100%;">
+            {% include "partials/family_selector.html" %}
+        </div>
     </form>
 </div>
+
+<script>
+function triggerSearch() {
+    const pageInput = document.getElementById('page-input');
+    if (pageInput) pageInput.value = '1';
+    
+    // Disparar evento change en el formulario para que HTMX capture hx-trigger="input, change"
+    const form = document.getElementById('catalog-filter-form');
+    if (form) {
+        form.dispatchEvent(new Event('change', { bubbles: true }));
+    }
+}
+
+function selectFamily(familySlug, btnElement) {
+    const familyInput = document.getElementById('family-input');
+    familyInput.value = familySlug || '';
+
+    // Actualizar clase activa en badges
+    const badges = document.querySelectorAll('.family-badge');
+    badges.forEach(b => b.classList.remove('active'));
+    
+    const targetBtn = btnElement || (typeof event !== 'undefined' && event ? event.currentTarget : null);
+    if (targetBtn) {
+        targetBtn.classList.add('active');
+    }
+
+    // Resetear a página 1 y disparar búsqueda reactiva automática
+    triggerSearch();
+}
+
+function onCategoryChange(catValue) {
+    // Al cambiar la categoría, reseteamos la subfamilia
+    const familyInput = document.getElementById('family-input');
+    if (familyInput) familyInput.value = '';
+
+    const rubroInput = document.getElementById('rubro-input');
+    const rubroVal = rubroInput ? rubroInput.value : '';
+
+    // Actualizar los badges de subfamilias acorde a la categoría elegida
+    htmx.ajax('GET', '/api/familias?category=' + encodeURIComponent(catValue || '') + '&rubro=' + encodeURIComponent(rubroVal || ''), {
+        target: '#family-badges-wrapper-target',
+        swap: 'innerHTML'
+    });
+
+    // Disparar la búsqueda del catálogo automáticamente
+    triggerSearch();
+}
+
+function selectRubro(rubro) {
+    const rubroInput = document.getElementById('rubro-input');
+    rubroInput.value = rubro;
+
+    // Actualizar clase activa en solapas
+    const tabs = document.querySelectorAll('.rubro-tab');
+    tabs.forEach(tab => tab.classList.remove('active'));
+    if (event && event.currentTarget) {
+        event.currentTarget.classList.add('active');
+    }
+
+    // Filtrar visualmente las opciones del selector de categorías según el rubro
+    const catSelect = document.getElementById('category');
+    const options = catSelect.querySelectorAll('option');
+    let hasMatchingSelection = false;
+
+    options.forEach(opt => {
+        const optRubro = opt.getAttribute('data-rubro');
+        if (!optRubro || !rubro) {
+            opt.style.display = '';
+            if (opt.selected) hasMatchingSelection = true;
+        } else if (optRubro === rubro || optRubro === 'AMBOS') {
+            opt.style.display = '';
+            if (opt.selected) hasMatchingSelection = true;
+        } else {
+            opt.style.display = 'none';
+        }
+    });
+
+    if (!hasMatchingSelection) {
+        catSelect.value = '';
+    }
+
+    // Limpiar subfamilia seleccionada al cambiar de rubro mayor
+    document.getElementById('family-input').value = '';
+
+    // Disparar recarga de subfamilias acorde al nuevo rubro y categoría
+    htmx.ajax('GET', '/api/familias?rubro=' + encodeURIComponent(rubro) + '&category=' + encodeURIComponent(catSelect.value), {
+        target: '#family-badges-wrapper-target',
+        swap: 'innerHTML'
+    });
+
+    // Disparar búsqueda reactiva con HTMX reseteando a página 1
+    triggerSearch();
+}
+
+// Inicializar filtrado de opciones al cargar la página si hay rubro seleccionado
+document.addEventListener('DOMContentLoaded', () => {
+    const initialRubro = document.getElementById('rubro-input').value;
+    if (initialRubro) {
+        const catSelect = document.getElementById('category');
+        const options = catSelect.querySelectorAll('option');
+        options.forEach(opt => {
+            const optRubro = opt.getAttribute('data-rubro');
+            if (optRubro && optRubro !== initialRubro && optRubro !== 'AMBOS') {
+                opt.style.display = 'none';
+            }
+        });
+    }
+});
+</script>
+
+
 
 <!-- Contenedor del Catálogo -->
 <div class="catalog-container">

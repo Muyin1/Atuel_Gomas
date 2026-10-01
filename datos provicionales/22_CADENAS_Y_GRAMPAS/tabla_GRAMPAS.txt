@@ -1,0 +1,26 @@
+=== TABLA NORMALIZADA: GRAMPAS ===
+Total de artículos únicos: 20
+===============================================================================================
+
+CODIGO   | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA   | PRECIO (S/IVA)
+---------------------------------------------------------------------------
+G-2A     | GRAMPAS             | 2A                        | $89,139.37    
+G-4A     | GRAMPAS             | 4A                        | $78,489.75    
+G-BYM    | GRAMPAS             | BYM                       | $185,241.96   
+P110002A | GRAMPAS             | TIRA 2A                   | $22,118.44    
+P110004A | GRAMPAS             | TIRA 4A                   | $20,019.24    
+E1002060 | GRAMPAS             | TIRA BYM                  | $35,276.87    
+P113002A | GRAMPAS             | CABLE 2A X 1 MTS 3.5MM    | $3,635.21     
+P113004A | GRAMPAS             | CABLE 4A X 1 MTS 2MM      | $2,099.20     
+P1130BYM | GRAMPAS             | CABLE BYM X 1,2 MTS 3.5MM | $4,096.01     
+P1000105 | GRAMPAS             | EW N°15 X 190mm           | $1,926.79     
+P1000120 | GRAMPAS             | EW N°20 X 290mm           | $3,867.02     
+P1000125 | GRAMPAS             | EW N°25 X 290mm           | $3,436.97     
+P1000127 | GRAMPAS             | EW N°27 X 290mm           | $4,205.57     
+P1000135 | GRAMPAS             | EW N°35 X 290mm           | $5,467.91     
+P1000145 | GRAMPAS             | EW N°45 X 290mm           | $6,926.03     
+P1000155 | GRAMPAS             | EW N°55 X 290mm           | $10,649.48    
+P1000165 | GRAMPAS             | EW N°65 X 290mm           | $14,190.61    
+P2000104 | GRAMPAS             | N 4 X 30cm EW             | $12,518.12    
+P2000105 | GRAMPAS             | N 5 X 30cm EW             | $12,718.41    
+P2000106 | GRAMPAS             | N 6 X 30cm EW             | $14,120.44    

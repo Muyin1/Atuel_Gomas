@@ -1,0 +1,11 @@
+=== TABLA NORMALIZADA: FUMIGACION ===
+Total de artículos únicos: 5
+===============================================================================================
+
+CODIGO  | FAMILIA / CATEGORIA            | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+-----------------------------------------------------------------------------------
+A510008 | MANGUERAS DE FUMIGACION 120BAR | 8MM                     | $1,464.47     
+A510010 | MANGUERAS DE FUMIGACION 120BAR | 10MM                    | $1,986.17     
+A510012 | MANGUERAS DE FUMIGACION 120BAR | 12MM                    | $2,509.16     
+A510019 | MANGUERAS DE FUMIGACION 120BAR | 19MM                    | $5,122.41     
+A510025 | MANGUERAS DE FUMIGACION 120BAR | 25MM                    | $6,691.39     

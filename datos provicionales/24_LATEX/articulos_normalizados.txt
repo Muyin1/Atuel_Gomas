@@ -1,0 +1,11 @@
+=== TABLA NORMALIZADA: LÁTEX ===
+Total de artículos únicos: 5
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+-----------------------------------------------------------------------
+S/C    | LÁTEX               | LÁTEX - 3 x 6           | $2,297.38     
+S/C    | LÁTEX               | LÁTEX - 4 x 7           | $2,625.58     
+S/C    | LÁTEX               | LÁTEX - 4 x 9           | $4,485.37     
+S/C    | LÁTEX               | LÁTEX - 5 x 8           | $2,625.58     
+S/C    | LÁTEX               | LÁTEX - 6 x 9           | $3,281.98     

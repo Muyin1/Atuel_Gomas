@@ -1,0 +1,16 @@
+=== TABLA NORMALIZADA: MANGAS ===
+Total de artículos únicos: 10
+===============================================================================================
+
+CODIGO  | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+------------------------------------------------------------------------
+A200025 | MANGAS AZUL PVC     | 1Pulg.                  | $2,255.72     
+A200032 | MANGAS AZUL PVC     | 1Pulg. 1/4              | $2,597.36     
+A200038 | MANGAS AZUL PVC     | 1Pulg. 1/2              | $3,142.95     
+A200050 | MANGAS AZUL PVC     | 2Pulg.                  | $4,099.03     
+A200063 | MANGAS AZUL PVC     | 2Pulg. 1/2              | $5,876.06     
+A200075 | MANGAS AZUL PVC     | 3Pulg.                  | $6,832.14     
+A200100 | MANGAS AZUL PVC     | 4Pulg.                  | $11,820.97    
+A200127 | MANGAS AZUL PVC     | 5Pulg.                  | $14,758.68    
+A200152 | MANGAS AZUL PVC     | 6Pulg.                  | $21,864.90    
+A200203 | MANGAS AZUL PVC     | 8Pulg.                  | $27,605.21    

@@ -1,0 +1,1267 @@
+=== REPORTE DE ARTICULOS - PAGINA: GUANTES COMPLETA ===
+Total de registros detectados: 1262
+================================================================================
+
+INDICE        |                                                              |           
+-----------------------------------------------------------------------------------------
+dólar         | 1476                                                         |           
+Código        | Descripción                                                  | Precio    
+DPS14000936   | Botin de seguridad, talle 36, cuero descarne negro, puntera de acero | 44559.13  
+DPS14000937   | Botin de seguridad, talle 37, cuero descarne negro, puntera de acero | 44559.13  
+DPS14000938   | Botin de seguridad, talle 38, cuero descarne negro, puntera de acero | 44559.13  
+DPS14000939   | Botin de seguridad, talle 39, cuero descarne negro, puntera de acero | 44559.13  
+DPS14000940   | Botin de seguridad, talle 40, cuero descarne negro, puntera de acero | 44559.13  
+DPS14000941   | Botin de seguridad, talle 41, cuero descarne negro, puntera de acero | 44559.13  
+DPS14000942   | Botin de seguridad, talle 42, cuero descarne negro, puntera de acero | 44559.13  
+DPS14000943   | Botin de seguridad, talle 43, cuero descarne negro, puntera de acero | 44559.13  
+DPS14000944   | Botin de seguridad, talle 44, cuero descarne negro, puntera de acero | 44559.13  
+DPS14000945   | Botin de seguridad, talle 45, cuero descarne negro, puntera de acero | 44559.13  
+DPS14000946   | Botin de seguridad, talle 46, cuero descarne negro, puntera de acero | 44559.13  
+DPS14100936   | Zapato de seguridad, talle 36, cuero descarne negro, puntera de acero | 44559.13  
+DPS14100937   | Zapato de seguridad, talle 37, cuero descarne negro, puntera de acero | 44559.13  
+DPS14100938   | Zapato de seguridad, talle 38, cuero descarne negro, puntera de acero | 44559.13  
+DPS14100939   | Zapato de seguridad, talle 39, cuero descarne negro, puntera de acero | 44559.13  
+DPS14100940   | Zapato de seguridad, talle 40, cuero descarne negro, puntera de acero | 44559.13  
+DPS14100941   | Zapato de seguridad, talle 41, cuero descarne negro, puntera de acero | 44559.13  
+DPS14100942   | Zapato de seguridad, talle 42, cuero descarne negro, puntera de acero | 44559.13  
+DPS14100943   | Zapato de seguridad, talle 43, cuero descarne negro, puntera de acero | 44559.13  
+DPS14100944   | Zapato de seguridad, talle 44, cuero descarne negro, puntera de acero | 44559.13  
+DPS14100945   | Zapato de seguridad, talle 45, cuero descarne negro, puntera de acero | 44559.13  
+DPS14100946   | Zapato de seguridad, talle 46, cuero descarne negro, puntera de acero | 44559.13  
+DPS1440900    | Cubre calzado de seguridad para visita, talle S (34-38), con puntera de aluminio y suela de caucho antideslizante | 64164.10  
+DPS1440903    | Cubre calzado de seguridad para visita, talle M (39-43), con puntera de aluminio y suela de caucho antideslizante | 64164.10  
+DPS1440908    | Cubre calzado de seguridad para visita, talle XL (44-48), con puntera de aluminio y suela de caucho antideslizante | 64164.10  
+UCU2130PC     | Mentonera Premium para Casco                                 | 3386.31   
+UCU2140PC     | Mentonera Económica para Casco                               | 2594.99   
+UCU1111PC     | Casco - Carcasa Clase B Color Blanco                         | 5232.74   
+UCU1112PC     | Casco - Carcasa Clase B Color Amarillo                       | 5232.74   
+UCU1113PC     | Casco - Carcasa Clase B Color Verde                          | 5232.74   
+UCU1114PC     | Casco - Carcasa Clase B Color Naranja                        | 5232.74   
+UCU1115PC     | Casco - Carcasa Clase B Color Azul                           | 5232.74   
+UCU1116PC     | Casco - Carcasa Clase B Color Rojo                           | 5232.74   
+UCU1117PC     | Casco - Carcasa Clase B Color Rosa                           | 5232.74   
+UCU2110PC     | Arnes Clase B Cremallera                                     | 3388.69   
+UCU2120PC     | Arnes Clase B FastTrack                                      | 4954.71   
+UCU9120PC     | Accesorio reflectivo para casco tipo B                       | 2338.34   
+UCU3036PC     | Lampara Minera LED Recargable Para Casco                     | 170779.49 
+UCUKIT1110PC  | Casco Completo - Carcasa Clase B Color Blanco + Arnes Cremallera | 7742.18   
+UCUKIT1210PC  | Casco Completo - Carcasa Clase B Color Amarillo + Arnes Cremallera | 7742.18   
+UCUKIT1310PC  | Casco Completo - Carcasa Clase B Color Verde + Arnes Cremallera | 7742.18   
+UCUKIT1410PC  | Casco Completo - Carcasa Clase B Color Naranja + Arnes Cremallera | 7742.18   
+UCUKIT1510PC  | Casco Completo - Carcasa Clase B Color Azul + Arnes Cremallera | 7742.18   
+UCUKIT1610PC  | Casco Completo - Carcasa Clase B Color Rojo + Arnes Cremallera | 7742.18   
+UCUKIT1710PC  | Casco Completo - Carcasa Clase B Color Rosa + Arnes Cremallera | 7742.18   
+UCUKIT1220PC  | Casco Completo - Carcasa Clase B Color Amarillo + FastTrack  | 9158.49   
+UCUKIT1120PC  | Casco Completo - Carcasa Clase B Color Blanco + FastTrack    | 9158.49   
+UCUKIT1320PC  | Casco Completo - Carcasa Clase B Color Verde + FastTrack     | 9158.49   
+UCUKIT1420PC  | Casco Completo - Carcasa Clase B Color Naranja + FastTrack   | 9158.49   
+UCUKIT1520PC  | Casco Completo - Carcasa Clase B Color Azul + FastTrack      | 9158.49   
+UCUKIT1620PC  | Casco Completo - Carcasa Clase B Color Rojo + FastTrack      | 9158.49   
+UCUKIT1720PC  | Casco Completo - Carcasa Clase B Color Rosa + FastTrack      | 9158.49   
+UCUKIT1110PCR | Casco Completo - Carcasa Clase B Color Blanco + Arnes Cremallera + Reflectivo | 9842.88   
+UCUKIT1210PCR | Casco Completo - Carcasa Clase B Color Amarillo + Arnes Cremallera + Reflectivo | 9842.88   
+UCUKIT1310PCR | Casco Completo - Carcasa Clase B Color Verde + Arnes Cremallera + Reflectivo | 9842.88   
+UCUKIT1410PCR | Casco Completo - Carcasa Clase B Color Naranja + Arnes Cremallera + Reflectivo | 9842.88   
+UCUKIT1510PCR | Casco Completo - Carcasa Clase B Color Azul + Arnes Cremallera + Reflectivo | 9842.88   
+UCUKIT1610PCR | Casco Completo - Carcasa Clase B Color Rojo + Arnes Cremallera + Reflectivo | 9842.88   
+UCUKIT1710PCR | Casco Completo - Carcasa Clase B Color Rosa + Arnes Cremallera + Reflectivo | 9842.88   
+UCUKIT1120PCR | Casco Completo - Carcasa Clase B Color Blanco + FastTrack + Reflectivo | 11237.81  
+UCUKIT1220PCR | Casco Completo - Carcasa Clase B Color Amarillo + FastTrack + Reflectivo | 11237.81  
+UCUKIT1320PCR | Casco Completo - Carcasa Clase B Color Verde + FastTrack + Reflectivo | 11237.81  
+UCUKIT1420PCR | Casco Completo - Carcasa Clase B Color Naranja + FastTrack + Reflectivo | 11237.81  
+UCUKIT1520PCR | Casco Completo - Carcasa Clase B Color Azul + FastTrack + Reflectivo | 11237.81  
+UCUKIT1620PCR | Casco Completo - Carcasa Clase B Color Rojo + FastTrack + Reflectivo | 11237.81  
+UCUKIT1720PCR | Casco Completo - Carcasa Clase B Color Rosa + FastTrack + Reflectivo | 11237.81  
+221023E       | Guante Lincoln Vaqueta Elast. Talle 8 (Ribete Amarillo) Economico con etiqueta | 3856.83   
+221024E       | P.de Gte. Lincoln Vaq. Elast. Talle 9 (Ribete Azul) Economico con Etiqueta | 3909.11   
+222025E       | Guante Lincoln Vaqueta Elastizado (amplio) Talle 10 (Ribete Naranja) Economico con Etiqueta | 3937.63   
+222026E       | P. de Gte. Lincoln Vaq. Elast. (amplio). Talle 11 (Ribete Negro) Economico con etiqueta | 4332.10   
+221023        | P.de Gte. Lincoln Vaq. Elast. Talle 8 (Ribete Amarillo)      | 4355.87   
+221024        | P.de Gte. Lincoln Vaq. Elast. Talle 9 (Ribete Azul)          | 4408.15   
+222025        | Guante Lincoln Vaqueta Elast. (amplio) pulgar volcado Talle 10 (Ribete Naranja) | 4462.80   
+222026        | P. de Gte. Lincoln Vaq. Elast. (amplio) pulgar volcado Talle 11 (Ribete Negro) | 4987.98   
+221023+       | P. de Gte. Lincoln Vaq. Elast. Talle 8 (Ribete Amarillo) MAS AMPLIO. SOLO PROMO FEBRERO | 3804.55   
+223024        | P. de Gte. Lincoln Vaq. Forrado y Elast.. Talle 9            | 5662.87   
+223025        | P. de Gte. Lincoln Vaq. Forrado y Elast.. Talle 10           | 5791.19   
+223026        | P. de Gte. Lincoln Vaq. Forrado y Elast.. Talle 11           | 6304.48   
+22202R6       | P. de Gte. Lincoln Vaq. Elast. (amplio) REFLECTIVO. Talle 11 | 20092.12  
+251055        | P. de Gte. Lincoln Vaq. Elast. Azul - Hidrofugado. Talle 10  | 10947.89  
+253055        | P. de Gte. Lincoln Vaq. Forrado y Elast.Hidrofugado Azul Talle 10 | 13364.65  
+253056        | P. de Gte. Lincoln Vaq. Forrado y Elast.Hidrofugado Azul Talle 11 | 14403.12  
+111215        | Guante Americano Descarne, Gris, Puño Corto, Talle 10.       | 3904.36   
+511125        | P. de Gte. Am. Desc.Amarillo Puño Cto. Lona. Talle 10        | 3928.12   
+111315        | P. de Gte. Am. Desc. Gris Puño Lgo.. Talle 10                | 4966.59   
+111315A       | P. de Gte. Am. Desc. Gris Puño Lgo. 18 cm. Talle 10          | 6794.01   
+111125        | P. de Gte. Am. Desc.Amarillo Puño Cto. Tejido. Talle 10.     | 5102.04   
+112125        | P. de Gte. Am. Desc. Amarillo Pño Tejido Ref. Cadenero. Talle 10 | 9526.83   
+111115        | P. de Gte. Am. Desc. Puño Cto. Tejido. Talle 10              | 3115.41   
+111225        | P. de Gte. Am. Desc. Amarillo Puño Cto. Talle 10.            | 5237.50   
+192226        | P. de Gte. Am. Desc. Puño Cto. Ref. Cadenero Grande. Talle 11 | 5102.04   
+111325        | P. de Gte. Am. Desc. Amarillo Puño Lgo.. Talle 10            | 6275.97   
+192326        | P. de Gte. Am. Desc. Puño Lgo. Ref. Cadenero Grande. Talle 11 | 6207.05   
+510225        | P. de Gte. Am. Desc. Gris P/Cto. R/Pist. y Poncho Gris. Talle 10 | 9436.53   
+510325        | P. de Gte. Am. Desc. Gris P/Lgo. R/Pist. y Poncho. Talle 10  | 11085.72  
+410125        | P. de Gte. Cobertor Dielectrico Vaq. Chico (Clase 00 y 0). Talle 10 | 10767.29  
+410325        | P. de Gte. Cobertor dielectrico Vaq. tipo North Largo (Clase 1, 2, 3 y 4). Talle 10 | 14153.60  
+132125        | P. de Gte. Am. Comb. Puño Cto. TEJIDO Cadenero. Talle 10     | 7064.92   
+132225        | P. de Gte. Am. Comb. Puño Cto. Cadenero. Talle 10            | 7540.19   
+132325        | P. de Gte. Am. Comb. Puño Lgo. Cadenero. Talle 10            | 8329.14   
+102225        | P. de Gte. Am. Combinado. Oleofugo Puño Cto. Ref. Cadenero. Talle 10 | 10971.65  
+102325        | P. de Gte. Am. Combinado. Oleofugo Puño Largo Ref. Cadenero. Talle 10 | 12437.87  
+182225        | P. de Gte. Am. Vaq. Oleofuga Puño Cto. Ref. Cadenero. Talle 10 | 15351.29  
+122125        | P. de Gte. Am. Vaq. Puño Cto TEJIDO. Ref. Cadenero. Talle 10 | 8600.05   
+172126        | P. de Gte. Am. Vaq. Puño Cto. Tejido Ref. Cadenero Grande. Talle 11 | 9189.38   
+521925        | P. de Gte. Vaq. Apicultor puño 40 cm. Talle 10               | 22214.21  
+122225        | P. de Gte. Am. Vaq. Puño Cto. Ref. Cadenero. Talle 10        | 8600.05   
+172226        | P. de Gte. Am. Vaq. Puño Cto. Ref. Cadenero Grande. Talle 11 | 9683.67   
+122325        | P. de Gte. Am. Vaq. Puño Lgo. Ref. Cadenero. Talle 10        | 9954.57   
+172326        | P. de Gte. Am. Vaq. Puño Lgo. Ref. Cadenero Grande. Talle 11 | 10679.36  
+322175        | P. de Gte. Am. Desc. Lgo. Rojo Forrado Tira Protec. Talle 10 | 7849.12   
+322125        | P. de Gte. Am. Desc. Amarillo Lgo. Forrado Tira Protec. Talle 10 | 9693.17   
+311135        | P. de Gte. Desc. Marron Lgo. Forrado y Costura Kevlar. Talle 10 | 10486.88  
+322165        | Guante Descarne Naranja Largo Forrado y Costura Kevlar c/ refuerzo cuero. Talle 10 | 17563.68  
+50202         | P. de Gte. Desc. Lgo. Forrado y Costura Kevlar.              | 42035.43  
+50202L        | P. de Gte. Desc. NARANJA Lgo. Forrado con Lana y Costura Kevlar. | 34699.61  
+221323        | P Gte Vaq Lincoln con Pño Desc amarillo  14 cm Argonista. Talle 8 | 21242.28  
+221324        | P Gte Vaq Lincoln con Pño Desc amarillo  14 cm Argonista. Talle 9 | 22439.97  
+221325        | P Gte Vaq Lincoln con Pño Desc amarillo  14 cm Argonista. Talle 10 | 23613.89  
+313135        | Gte Forjador Extremo Ref. Forrado c/Friza Aislante Cosido Hilo de Kevlar. Talle 10 | 23613.89  
+71102         | Campera de Desc. Amarilla Talle 1                            | 60392.81  
+71202         | Campera de Desc. Amarilla Talle 2                            | 60392.81  
+71302         | Campera de Desc. Amarilla Talle 3                            | 60392.81  
+71402         | Campera de Desc. Amarilla. Talle 4                           | 60392.81  
+71502         | Campera de Desc. Amarilla. Talle 5                           | 60392.81  
+71602         | Campera de Desc. Amarilla. Talle 6                           | 60392.81  
+71702         | Campera de Desc. Amarilla. Talle 7                           | 63009.19  
+71802         | Campera de Desc. Amarilla. Talle 8                           | 63009.19  
+71902         | Campera de Desc. Amarilla. Talle 9                           | 63009.19  
+7190210       | Campera de Desc. Amarilla Talle 10                           | 65625.56  
+7190211       | Campera de Desc. Amarilla. Talle 11                          | 65625.56  
+71102R        | Campera de Desc. Amarilla. Talle1 Aplicaciones Reflectivas   | 188233.85 
+71202R        | Campera de Desc. Amarilla. Talle 2 Aplicaciones Reflectivas  | 188233.85 
+71302R        | Campera de Desc. Amarilla. Talle 3 Aplicaciones Reflectivas  | 188233.85 
+71402R        | Campera de Desc. Amarilla. Talle 4 Aplicaciones Reflectivas  | 226904.36 
+71502R        | Campera de Desc. Amarilla. Talle 5 Aplicaciones Reflectivas  | 226904.36 
+71602R        | Campera de Desc. Amarilla. Talle 6 Aplicaciones Reflectivas  | 226904.36 
+71702R        | Campera de Desc. Amarilla. Talle 7 Aplicaciones Reflectivas  | 268172.23 
+71802R        | Campera de Desc. Amarilla. Talle 8 Aplicaciones Reflectivas  | 268172.23 
+71902R        | Campera de Desc. Amarilla. Talle 9 Aplicaciones Reflectivas  | 268172.23 
+61102         | Delantal Cuero Descarne Std.-                                | 11817.64  
+61112         | Delantal Cuero Descarne Std. Reforzado                       | 15591.30  
+61122         | Delantal Cuero Descarne Amarillo Std. Ref. c/Placa Plomo (Esp.0,5mm) | 26230.26  
+61132         | Delantal Cuero Descarne Amarillo Std. Ref. Radiologico(Goma Plomada) | 18357.38  
+61312         | Delantal Cuero Descarne Amarillo 70x110 Reforzado            | 26786.33  
+61302         | Delantal Lgo. Cuero Descarne  (70 x 110 cm)                  | 21746.07  
+64101         | Delantal Jean 60 x 90                                        | 4063.58   
+64111         | Delantal Jean 60 x 90 Reforzado                              | 4396.27   
+64301         | Delantal Jean 70x110                                         | 4966.59   
+50006         | Manta Esp. Desc Ignifuga C/Kevlar de 1 X 1 mts               | 60566.29  
+50110         | Manta Esp. Desc Ignifuga C/Kevlar de 2 X 2 mts               | 121581.71 
+50113         | Manta Esp. Desc Ignifuga C/Kevlar de 2 X 2.5 mts             | 159349.20 
+50114         | Manta Esp. Desc Ignifuga C/Kevlar de 3 X 3 mts               | 292960.04 
+50115         | Manta Esp. Desc Ignifuga C/Kevlar de 4 X 4 mts               | 502452.81 
+91102         | P. de Mangas Desc. Amarillo                                  | 12309.54  
+91405         | Mangas de Jean por par                                       | 20374.91  
+92102         | P. de Polainas Desc. Amarillo Reforzadas                     | 12052.90  
+98102         | P. de Polainas Descarne Amarillo C/velcro                    | 28566.22  
+50079         | Polainas Desc Esp. ancha con Velcro entero  y 3 flejes       | 61143.74  
+96102         | Gorro Desc Amarillo c/ nuquera                               | 14947.30  
+94102         | Guarda Monte-                                                | 48211.59  
+DPF010101     | Piqueta Doble Punta Removedora de Escoria, Peso 500 g        | 15733.88  
+DPF010200     | Soporte Magnético de 3" Para Soldar, Soporte 12 kg           | 8443.21   
+DPF010300     | Masa Magnética Con Agarre Para Soldar, 60x150 mm, Soporte 15 kg | 14876.01  
+DPC011303     | CINTA DE REMOLQUE UNIVERSAL PARA VEHÍCULOS LIVIANOS, 50MM3T5M, 3 TON | 6456.57   
+DPC012000     | CINTA DE AMARRE UNIVERSAL, 50MM2T8M                          | 20679.08  
+DPC012001     | CINTA DE AMARRE UNIVERSAL, 50MM2T10M                         | 23682.80  
+DPC012002     | CINTA DE AMARRE UNIVERSAL, 50MM2T6M                          | 25826.28  
+DPC014000     | Baliza Triangular Reflectante Para Emergencia                | 8600.05   
+DPC015006     | Cinta Reflectiva Vehicular Roja/Blanca Cebrada, Rollo de 7.5 cm x 45.7 m | 92580.61  
+DPC015004     | Cinta Reflectiva Vehicular Roja, Rollo de 7.5 cm x 45.7 m    | 90662.89  
+DPC015005     | Cinta Reflectiva Vehicular Blanca, Rollo de 7.5 cm x 45.7 m  | 90662.89  
+DPC015007     | Cinta Reflectiva Vehicular Amarilla, Rollo de 7.5 cm x 45.7 m | 90662.89  
+DPC015002     | Cinta Reflectiva Vehicular Roja/Blanca Mercosur, Rollo de 5 cm x 45.7 m | 59304.44  
+DPC015000     | Cinta Reflectiva Vehicular Roja, Rollo de 5 cm x 45.7 m      | 48964.90  
+DPC015001     | Cinta Reflectiva Vehicular Blanca, Rollo de 5 cm x 45.7 m    | 48964.90  
+DPC015003     | Cinta Reflectiva Vehicular Amarilla, Rollo de 5 cm x 45.7 m  | 48964.90  
+DPC016000     | Círculo Reflectivo "Velocidad Máxima 80"                     | 2594.99   
+DPC016001     | Círculo Reflectivo "Velocidad Máxima 90"                     | 2594.99   
+DPC016002     | Círculo Reflectivo "Velocidad Máxima 100"                    | 2594.99   
+DPC016003     | Círculo Reflectivo "Velocidad Máxima 110"                    | 2594.99   
+UCU0704PV     | Calza para Camión Caucho, 27*12*18 cm, 3.1 kg                | 24899.50  
+DPT076035601  | Eslinga Circular Capacidad 760 Kg Largo 1 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | 4087.34   
+DPT076035603  | Eslinga Circular Capacidad 760 Kg Largo 2 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | 9503.06   
+DPT055030603  | Eslinga Circular Capacidad 550 Kg Largo 2 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | 4469.93   
+DPT076035604  | Eslinga Circular Capacidad 760 Kg Largo 2.5 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | 12010.12  
+DPT076035605  | Eslinga Circular Capacidad 760 Kg Largo 3 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | 13364.65  
+DPT055030605  | Eslinga Circular Capacidad 550 Kg Largo 3.25 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | 6884.31   
+DPT076035607  | Eslinga Circular Capacidad 760 Kg Largo 4 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | 17608.83  
+DPT076035609  | Eslinga Circular Capacidad 760 Kg Largo 5 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | 21741.32  
+DPT076035611  | Eslinga Circular Capacidad 760 Kg Largo 6 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | 25802.52  
+DPT076035613  | Eslinga Circular Capacidad 760 Kg Largo 7 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | 29980.16  
+DPT076035615  | Eslinga Circular Capacidad 760 Kg Largo 8 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | 34202.95  
+DPT100030601  | Eslinga Capacidad 1 Tn Largo 1 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | 14403.12  
+DPT100030603  | Eslinga Capacidad 1 Tn Largo 2 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | 19662.00  
+DPT100030605  | Eslinga Capacidad 1 Tn Largo 3 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | 24923.26  
+DPT100030607  | Eslinga Capacidad 1 Tn Largo 4 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | 28872.77  
+DPT100030609  | Eslinga Capacidad 1 Tn Largo 5 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | 34652.08  
+DPT100030611  | Eslinga Capacidad 1 Tn Largo 6 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | 43796.31  
+DPT100030613  | Eslinga Capacidad 1 Tn Largo 7 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | 51493.34  
+DPT100030615  | Eslinga Capacidad 1 Tn Largo 8 m Ancho 30 mm Coeficiente Seguridad 6 IRAM 5378 | 57477.02  
+DPT200060601  | Eslinga Capacidad 2 Tn Largo 1 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | 18623.53  
+DPT200060603  | Eslinga Capacidad 2 Tn Largo 2 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | 25735.98  
+DPT200060605  | Eslinga Capacidad 2 Tn Largo 3 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | 34426.33  
+DPT200060607  | Eslinga Capacidad 2 Tn Largo 4 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | 43209.35  
+DPT200060609  | Eslinga Capacidad 2 Tn Largo 5 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | 51854.55  
+DPT200060611  | Eslinga Capacidad 2 Tn Largo 6 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | 78358.09  
+DPT200060613  | Eslinga Capacidad 2 Tn Largo 7 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | 85085.57  
+DPT200060615  | Eslinga Capacidad 2 Tn Largo 8 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | 98654.59  
+DPT100050601  | Eslinga Capacidad 1 Tn Largo 1 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | 14966.32  
+DPT100050603  | Eslinga Capacidad 1 Tn Largo 2 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | 20431.94  
+DPT100050605  | Eslinga Capacidad 1 Tn Largo 3 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | 26028.27  
+DPT100050607  | Eslinga Capacidad 1 Tn Largo 4 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | 32644.06  
+DPT100050609  | Eslinga Capacidad 1 Tn Largo 5 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | 39190.93  
+DPT100050611  | Eslinga Capacidad 1 Tn Largo 6 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | 50274.27  
+DPT100050613  | Eslinga Capacidad 1 Tn Largo 7 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | 58289.73  
+DPT100050615  | Eslinga Capacidad 1 Tn Largo 8 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | 66552.34  
+DPT300075601  | Eslinga Capacidad 3 Tn Largo 1 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | 27767.77  
+DPT300075603  | Eslinga Capacidad 3 Tn Largo 2 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | 40906.66  
+DPT300075605  | Eslinga Capacidad 3 Tn Largo 3 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | 55625.83  
+DPT300075607  | Eslinga Capacidad 3 Tn Largo 4 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | 70345.01  
+DPT300075609  | Eslinga Capacidad 3 Tn Largo 5 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | 84973.88  
+DPT300075611  | Eslinga Capacidad 3 Tn Largo 6 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | 112064.38 
+DPT300075613  | Eslinga Capacidad 3 Tn Largo 7 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | 126310.66 
+DPT300075615  | Eslinga Capacidad 3 Tn Largo 8 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | 140259.90 
+DPT4000100601 | Eslinga capacidad 4 Tn 1 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | 44675.57  
+DPT4000100603 | Eslinga capacidad 4 Tn 2 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | 54066.94  
+DPT4000100605 | Eslinga capacidad 4 Tn 3 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | 75492.20  
+DPT4000100607 | Eslinga capacidad 4 Tn 4 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | 96984.00  
+DPT4000100609 | Eslinga capacidad 4 Tn 5 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | 118316.59 
+DPT4000100611 | Eslinga capacidad 4 Tn 6 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | 156559.35 
+DPT4000100613 | Eslinga capacidad 4 Tn 7 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | 175004.66 
+DPT4000100615 | Eslinga capacidad 4 Tn 8 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | 192318.81 
+DPT5000125603 | Eslinga capacidad 5 Tn 2 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | 69192.47  
+DPT5000125605 | Eslinga capacidad 5 Tn 3 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | 95494.03  
+DPT5000125607 | Eslinga capacidad 5 Tn 4 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | 121681.51 
+DPT5000125609 | Eslinga capacidad 5 Tn 5 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | 147462.64 
+DPT5000125611 | Eslinga capacidad 5 Tn 6 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | 210357.76 
+DPT5000125613 | Eslinga capacidad 5 Tn 7 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | 246861.03 
+DPT5000125615 | Eslinga capacidad 5 Tn 8 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | 251511.57 
+DPT5000125619 | Eslinga capacidad 5 Tn 10 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | 330570.69 
+DPT6000150603 | Eslinga capacidad 6 Tn 2 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | 89398.66  
+DPT6000150605 | Eslinga capacidad 6 Tn 3 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | 124728.01 
+DPT6000150607 | Eslinga capacidad 6 Tn 4 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | 160150.03 
+DPT6000150609 | Eslinga capacidad 6 Tn 5 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | 195367.68 
+DPT6000150611 | Eslinga capacidad 6 Tn 6 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | 250021.59 
+DPT6000150613 | Eslinga capacidad 6 Tn 7 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | 279778.37 
+DPT6000150615 | Eslinga capacidad 6 Tn 8 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | 311585.95 
+DPT6000150617 | Eslinga capacidad 6 Tn 9 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | 340549.02 
+DPT8000200603 | Eslinga capacidad 8 Tn 2 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | 180151.85 
+DPT8000200605 | Eslinga capacidad 8 Tn 3 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | 209295.53 
+DPT8000200607 | Eslinga capacidad 8 Tn 4 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | 278129.17 
+DPT8000200609 | Eslinga capacidad 8 Tn 5 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | 334137.60 
+DPT8000200611 | Eslinga capacidad 8 Tn 6 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | 361658.23 
+DPT8000200613 | Eslinga capacidad 8 Tn 7 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | 417148.61 
+DPT8000200615 | Eslinga capacidad 8 Tn 8 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | 473542.01 
+DPT8000200623 | Eslinga capacidad 8 Tn 12 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | 690266.04 
+DPT1001250619 | Eslinga capacidad 10 Tn 10 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | 727401.42 
+DPT1001250623 | Eslinga capacidad 10 Tn 12 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | 849061.55 
+DPT1001250629 | Eslinga capacidad 10 Tn 15 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | 1050636.28
+DPT1001250605 | Eslinga capacidad 10 Tn 3 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | 256071.80 
+DPT1001250607 | Eslinga capacidad 10 Tn 4 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | 321089.01 
+DPT1001250609 | Eslinga capacidad 10 Tn 5 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | 386650.41 
+DPT1001250611 | Eslinga capacidad 10 Tn 6 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | 453540.19 
+DPT1001250613 | Eslinga capacidad 10 Tn 7 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | 521808.26 
+DPT1001250615 | Eslinga capacidad 10 Tn 8 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | 590934.19 
+DPT90001      | Cobertor eslinga de cuero de 35x12 cm para 60/75 mm ancho    | 23454.67  
+DPT90002      | Cobertor eslinga de cuero de 47x17 cm para 100/125/150 mm ancho | 31244.38  
+DPT025303J    | EQUIPO CRIQUET TENSOR 25MM DE ANCHO GANCHO J - 3m CMR 1500 KG | 11829.52  
+DPT025304J    | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO J - 4m CMR 1500 Kg | 13160.28  
+DPT025306J    | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO J - 6m CMR 1500 Kg | 13614.17  
+DPT025303S    | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO S - 3m  CMR 1500 Kg | 17428.22  
+DPT025304S    | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO S - 4m CMR 1500 Kg | 17855.97  
+DPT025306S    | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO S - 6m CMR 1500 Kg | 20814.54  
+DPT15002550   | CINTA PARA SUJECION DE CARGA 25 mm PESADA EN ROLLO DE 50 mts | 79624.69  
+DPT025303JR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO J - 3m CMR 1500 Kg | 7245.52   
+DPT050303JL   | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO J - 3m CMR 3000Kg | 27021.59  
+DPT050306JL   | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO J - 6m CMR 3000Kg | 31626.98  
+DPT050309JL   | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO J - 9m CMR 3000Kg | 32620.29  
+DPT050306PL   | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO P - 6m CMR 3000Kg | 33387.86  
+DPT050309PL   | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO P - 9m CMR 3000Kg | 37767.49  
+DPT30005050   | CINTA PARA SUJECION DE CARGA 50 mm LIVIANA EN ROLLO DE 50 mts | 100821.83 
+DPT050302     | EQUIPO CRIQUET TENSOR 50mm DE ANCHO CON OJAL - 2m CMR 5000 Kg | 27451.71  
+DPT050303J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 3m CMR 5000 Kg | 38423.36  
+DPT050306J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 6m CMR 5000 Kg | 40229.40  
+DPT050309J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 9m CMR 5000 Kg | 47384.62  
+DPT050312J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 12m CMR 5000 Kg | 52125.46  
+DPT050322J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 22m CMR 5000 Kg | 89263.21  
+DPT050316J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 16m CMR 5000 Kg | 71497.54  
+DPT050306P    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 6m CMR 5000 Kg | 41876.22  
+DPT050309P    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 9m CMR 5000 Kg | 48651.22  
+DPT50005050   | CINTA PARA SUJECION DE CARGA 50 mm PESADA EN ROLLO DE 50 mts - CMR 5000Kg | 159201.86 
+DPT050306PR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 6m CMR 5000 Kg | 24628.60  
+DPT050306JR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 6m CMR 5000 Kg | 23547.35  
+DPT050309PR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 9m CMR 5000Kg | 33568.46  
+DPT050309JR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 9m CMR 5000 Kg | 30771.49  
+DPT100309J    | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 9m CMR 10000 Kg | 134074.23 
+DPT100311J    | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 11m  CMR 10000 Kg | 164551.05 
+DPT100316J    | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 16m  CMR 10000 Kg | 188616.45 
+DPT100309P    | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO P - 9m  CMR 10000 Kg | 122921.97 
+DPT1000010050 | CINTA PARA SUJECION DE CARGA 100 mm LIVIANA EN ROLLO DE 50 mts | 265372.87 
+DPT100306JR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 6m | 44858.55  
+DPT100306PR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO P - 6m | 34495.24  
+DPT100309JR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 9m CMR 10000 Kg | 54337.85  
+DPT100309PR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO P - 9m CMR 10000 Kg | 41809.68  
+DPA911001     | Dispositivo antitrauma para arnés                            | 20971.38  
+DPA00001      | Arnes Cuerpo Completo, 1 anillo D dorsal y toma frontal anticaídas en cinta | 64159.34  
+DPA00002      | Arnes Cuerpo Comp., 3 anillos D, uno dorsal anticaidas, 2 en cintura de Sujeción. Toma frontal anticaídas en cinta | 79265.86  
+DPA00003      | Arnes Cuerpo Comp. 3 anillos D, dorsal antic. Sujecion en Cintura, T. frontal en cinta. P. lumbar Port Herram. | 110550.64 
+DPA00004      | Arnes Cuerpo Com. 5 Anillos D, dorsal antic., 2 cintura  2 homb. T. front. en cinta. P.lumbar. P. acolch. Port herram | 126940.40 
+DPA00005      | Arnes con enganche en espalda, pecho y cintura. Regulable en cintura y hombros. Con refuerzo lumbar y pernera. | 137505.70 
+DPA00006M     | Arnés petrolero de cuerpo completo con cintura y piernas ergonómicas, 6 puntos de enganche  y regulación tipo cinturón. Talle M | 194215.15 
+DPA00006L     | Arnés petrolero de cuerpo completo con cintura y piernas ergonómicas, 6 puntos de enganche  y regulación tipo cinturón. Talle L | 194531.21 
+DPA00006XL    | Arnés petrolero de cuerpo completo con cintura y piernas ergonómicas, 6 puntos de enganche  y regulación tipo cinturón. Talle XL | 194849.64 
+DPA03002      | Arnes dielectrico ignufugo con enganche en espalda y cintura, toma frontal. Regulable. Ref. cinta lumbar | 289754.33 
+DPA00403      | Cinturón liniero con refuerzo lumbar y dos puntos de anclaje. | 39663.82  
+DPA00404      | Cinturón liniero con refuerzo lumbar y cola de amarre regulable incorporada. | 68111.23  
+DPA001100     | Cola de amarre regulable de 1.5m                             | 31560.44  
+DPA000100     | Cola de amarre regulable de 2m                               | 33974.82  
+DPA003100     | Cola de amarre de cinta plana 1.5 m con mosquetones de 18 mm y de 55 mm | 48085.64  
+DPA002100     | Cola de amarre de cinta plana 2 m con mosquetones de 18 mm y de 55 mm | 49214.42  
+DPA000107     | Cola de amarre petrolera regulable de 1,5m a 3m con mosqueton de 18mm y ojal invertido de 400mm. | 67049.00  
+DPA001107     | Cola de amarre petrolera regulable de 2,5m a 5m con mosqueton de 18mm y ojal invertido de 400mm. | 81159.82  
+DPA000101     | Cabo de Amarre Antic. de 2 mts de largo regulable con amortiguador. Dos mosquetones de 18mm de apertura | 45782.95  
+DPA000102     | Cabo de Amarre Antic. elastizado de 1.5 mts de largo con amortiguador con mosqueton de 18mm y de 55mm de apertura | 53323.14  
+DPA001101     | Cola de amarre de 2 m con amortiguador con un mosqueton de 55 mm | 53121.15  
+DPA001102     | Cola de amarre elastizada con amortiguador y mosqueton de 110 mm | 162338.66 
+DPA000103     | Cola de Amarre Antic.  Elastizada de 1.5mts de largo con amortiguador. 2 Ramas con mosqueton de 18mm 55mm de apertura | 72210.45  
+DPA000108     | Cabo de vida anticaidas petrolero dos ramas elastizadas, amortiguador, mosquetones 55mm y argollas D intermedias | 108587.77 
+DPA001103     | Cola de amarre de dos ramas elastizadas con amortiguador y mosqueton de 110 mm | 295512.25 
+DPA000104     | Cola de amarre anticaidas de dos ramas con cinta plana de 1.5 m y mosqueton de 55 mm con amortiguador | 66889.78  
+DPA011414     | Cabo de vida anticaídas de 1m con amortiguador y dos ramas de cuerda retorcida de Ø14mm con mosquetón de 55mm | 103552.26 
+DPA011460     | Cabo de posicionamiento en cuerda retorcida de Ø14mm regulable de 1,2 a 2m con mosquetón de 18mm | 73755.09  
+DPA011462     | Cabo de posicionamiento en cuerda retorcida de Ø14mm regulable de 0.9 a 2m con funda protectora y mosquetón de 18mm | 113801.50 
+DPA011463     | Cabo de posicionamiento encuerda retorcida de Ø14mm regulable de 0.9 a 3m con funda protectora y mosquetón de 18mm | 160713.23 
+DPA30000      | Equipo Retráctil Termoplástico con Cinta UHMWPE Ancho 25 mm Largo 6 m Conector A Uso Vertical | 777768.37 
+DPA30001      | Equipo Retráctil Termoplástico con Cinta UHMWPE Ancho 25 mm Largo 9 m Conector A Uso Vertical | 895904.35 
+DPA30002      | Equipo Retráctil Termoplástico con Cinta UHMWPE Ancho 19mm Largo 2m con absorbedor y mosquetón de 19mm. | 777768.37 
+DPA911005     | Soporte aluminio dual para sujeción de dos equipos retráctiles DPA30002 | 148793.41 
+DPA30100      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 3 m Conector B Uso Vertical | 706791.25 
+DPA30101      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 4.5 m Conector B Uso Vertical | 872269.08 
+DPA30102      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 6 m Conector B Uso Vertical | 957354.65 
+DPA30103      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 10 m Conector B Uso Vertical | 1203203.35
+DPA30104      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 15 m Conector B Uso Vertical | 1415954.11
+DPA30105      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 20 m Conector B Uso Vertical | 1835923.46
+DPA30106      | Equipo Retráctil Termoplástico con Cable de Acero Galv. 4.8 mm Largo 6 m Conector C con Amortiguador Uso Vertic./Horiz. | 1311947.96
+DPA30107      | Equipo Retráctil Termoplástico con Cable de Acero Galv. 4.8 mm Largo 10 m Conector C con Amortiguador Uso Vertic./Horiz. | 1359289.80
+DPA30108      | Equipo Retráctil Termoplástico con Cable de Acero Galv. 4.8 mm Largo 15 m Conector C con Amortiguador Uso Vertic./Horiz. | 1415954.11
+DPAKIT01      | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE DPA001100 Y BOLSO PARA TRANSPORTE | 86124.04  
+DPAKIT02      | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA001100 Y BOLSO PARA TRANSPORTE | 99726.32  
+DPAKIT03      | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE | 131524.40 
+DPAKIT04      | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000103 Y BOLSO PARA TRANSPORTE | 136336.53 
+DPAKIT05      | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE | 105719.50 
+DPAKIT06      | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE | 159698.52 
+DPAKIT07      | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE ANTICAIDAS DPA000103 Y BOLSO PARA TRANSPORTE | 164508.27 
+DPAKIT08      | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE | 162226.97 
+DPAKIT09      | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE | 174417.69 
+DPAKIT10      | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE | 171753.80 
+DPAKIT11      | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000103 Y BOLSO PARA TRANSPORTE | 188751.90 
+DPAKIT12      | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE | 119333.67 
+DPAKIT13      | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000101 Y BOLSO PARA TRANSPORTE | 112539.66 
+DPAKIT14      | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE DPA001100, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 104975.70 
+DPAKIT15      | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA001100, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 118577.99 
+DPAKIT16      | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA000104, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 150397.45 
+DPAKIT17      | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000103, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 155209.58 
+DPAKIT18      | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 124592.55 
+DPAKIT19      | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE DPA000104, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 178547.81 
+DPAKIT20      | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE ANTICAIDAS DPA000103, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 183378.95 
+DPAKIT21      | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 181100.02 
+DPAKIT22      | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE | 193290.75 
+DPAKIT23      | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 190605.46 
+DPAKIT24      | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000103, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 207624.95 
+DPAKIT25      | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 138182.96 
+DPAKIT26      | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000101, ANTITRAUMA Y BOLSO PARA TRANSPORTE | 131410.33 
+DPA008105     | Conector de anclaje de 0.8 m con argolla D                   | 17720.52  
+DPA012105     | Conector de anclaje de 1.2 m con argolla D                   | 23770.73  
+DPA016105     | Conector de anclaje de 1.6 m con argolla D                   | 27337.65  
+DPA020105     | Conector de anclaje de 2 m con argolla D                     | 30070.46  
+DPA030105     | Conector de anclaje de 3 m con argolla D                     | 33637.38  
+DPA008106     | Conector de anclaje de 0.8 m con mosqueton de 18 mm          | 38874.87  
+DPA012106     | Conector de anclaje de 1.2 m con mosqueton de 18 mm          | 45352.83  
+DPA016106     | Conector de anclaje de 1.6 m con mosqueton de 18 mm          | 50409.72  
+DPA020106     | Conector de anclaje de 2 m con mosqueton de 18 mm            | 57206.11  
+DPA911007     | Anclaje de viga corredizo de aluminio p/ perfil doble T ancho 105-350mm alto 35mm c/ argolla de acero. Capacidad 120 Kg. | 557522.57 
+DPA911008     | Anclaje de viga fijo de aluminio p/ perfil doble T ancho 105-350mm alto 35mm c/ argolla de acero. Capacidad 120 Kg. | 824974.76 
+DPA011221     | Linea de vida vertical de 10m en cuerda de poliester de 12mm de diámetro con ojal en extremo | 61450.29  
+DPA011222     | Linea de vida vertical de 20m en cuerda de poliester de 12mm de diámetro con ojal en extremo | 101860.30 
+DPA011223     | Linea de vida vertical de 30m en cuerda de poliester de 12mm de diámetro con ojal en extremo | 147552.95 
+DPA011224     | Linea de vida vertical de 40m en cuerda de poliester de 12mm de diámetro con ojal en extremo | 188911.11 
+DPA011225     | Linea de vida vertical de 50m en cuerda de poliester de 12mm de diámetro con ojal en extremo | 232595.74 
+DPA0112210    | Linea de vida vertical de 100m en cuerda de poliester de 12mm de diámetro con ojal en extremo | 450401.02 
+DPA011231     | Linea de vida vertical de 10m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo | 70592.15  
+DPA011232     | Linea de vida vertical de 20m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo | 114818.59 
+DPA011233     | Linea de vida vertical de 30m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo | 159924.28 
+DPA011234     | Linea de vida vertical de 40m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo | 203630.29 
+DPA011235     | Linea de vida vertical de 50m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo | 248013.56 
+DPA011321     | Rollo de soga trenzada por 200 m diametro 12 mm              | 1599356.82
+DPA011201     | Linea de vida vertical de 10m en cuerda de poliester de 14mm de diámetro con ojal en extremo | 97841.87  
+DPA011202     | Linea de vida vertical de 20m en cuerda de poliester de 14mm de diámetro con ojal en extremo | 161188.50 
+DPA011203     | Linea de vida vertical de 30m en cuerda de poliester de 14mm de diámetro con ojal en extremo | 224489.98 
+DPA011204     | Linea de vida vertical de 40m en cuerda de poliester de 14mm de diámetro con ojal en extremo | 253317.60 
+DPA011205     | Linea de vida vertical de 50m en cuerda de poliester de 14mm de diámetro con ojal en extremo | 322422.15 
+DPA011211     | Linea de vida vertical de 10m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo | 103687.72 
+DPA011212     | Linea de vida vertical de 20m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo | 179631.43 
+DPA011213     | Linea de vida vertical de 30m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo | 255575.14 
+DPA011214     | Linea de vida vertical de 40m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo | 290139.30 
+DPA011215     | Linea de vida vertical de 50m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo | 373057.63 
+DPA011361     | Rollo de soga trenzada por 150 m diametro 14 mm              | 1075041.50
+DPA011241     | Linea de vida vertical  retorcida de 10m  en cuerda de nylon de  14mm de diámetro  con ojal en extremo | 81338.05  
+DPA011242     | Linea de vida vertical retorcida de 20m en cuerda de nylon de 14mm de diámetro con ojal en extremo | 157103.54 
+DPA011243     | Linea de vida vertical retorcida de 30m en cuerda de nylon de 14mm de diámetro con ojal en extremo | 232842.88 
+DPA011244     | Linea de vida vertical retorcida de 40m en cuerda de nylon de 14mm de diámetro con ojal en extremo | 305716.34 
+DPA011245     | Linea de vida vertical retorcida de 50m en cuerda de nylon de 14mm de diámetro con ojal en extremo | 378520.88 
+DPA011251     | Linea de vida vertical de 10m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en etremo | 107525.54 
+DPA011252     | Linea de vida vertical de 20m  en cuerda retorcida de  nylon de 14mm de diámetro  con mosquetón de 55mm  en extremo | 183288.65 
+DPA011253     | Linea de vida vertical de 30m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en extremo | 259051.76 
+DPA011254     | Linea de vida vertical de 40m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en extremo | 331903.82 
+DPA011255     | Linea de vida vertical de 50m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en extremo | 407688.32 
+DPA011341     | Rollo de soga de nylon retorcida por 150 m diametro 14 mm    | 1163853.20
+DPA011100     | Salvacaída Deslizante Acero Inoxidable para Soga de 12 a 14mm con traba y mosquetón eslabón con traba a rosca | 142676.65 
+DPA011102     | Salvacaída Deslizante Acero Inoxidable para Soga de 12 a 14mm con traba prolongador y conector de anclaje de 18mm de apertura | 142676.65 
+DPA011101     | Salvacaída Deslizante Acero Inoxidable para Soga de 12 a 14mm con traba amortiguador y conector de anclaje de 18mm de apertura | 157350.68 
+DPA011103     | Salvacaída Deslizante Galvanizado para Soga de 12 a 14mm con traba y mosquetón eslabón con traba a rosca | 142676.65 
+DPA011105     | Salvacaída Deslizante Galvanizado para Soga de 12 a 14mm con traba prolongador y conector de anclaje de 18mm de apertura | 175883.91 
+DPA011104     | Salvacaída Deslizante Galvanizado para Soga de 12 a 14mm con traba amortiguador y conector de anclaje de 18mm de apertura | 228800.69 
+DPA32100      | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 100 Kg. Malacate cable de acero 20m c/ mosquetón 25mm. | 3334774.50
+DPA32101      | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 100 Kg. Malacate cable de acero 35m c/ mosquetón 25mm. | 3615881.26
+DPA32102      | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 150 Kg. Malacate cable de acero 20m c/ mosquetón 25mm. | 3969728.39
+DPA32103      | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 150 Kg. Malacate cable de acero 35m c/ mosquetón 25mm. | 4250839.90
+DPA31100      | Trípode telescópico de aluminio. Altura de 1,35 a 2,40m. Diametro de base de 1,14 a 2,10m. Capacidad 100 Kg. | 1810774.44
+DPA31102      | Trípode telescópico de aluminio. Altura de 1,35 a 2,40m. Diametro de base de 1,14 a 2,10m. Capacidad 150 Kg. | 2545920.42
+DPA30271      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 10m c/ absorbedor y mosquetón de 25mm. | 3029756.82
+DPA30272      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 15m c/ absorbedor y mosquetón de 25mm. | 3384642.42
+DPA30273      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 20m c/ absorbedor y mosquetón de 25mm. | 3640398.16
+DPA30274      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 25m c/ absorbedor y mosquetón de 25mm. | 3779802.57
+DPA30275      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 30m c/ absorbedor y mosquetón de 25mm. | 4016188.61
+DPA30276      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 35m c/ absorbedor y mosquetón de 25mm. | 4384935.52
+DPA33070      | Malacate para trípode con cable de acero hasta 20m, mosquetón de 25mm de apertura, Capacidad 120 Kg. | 1863938.36
+DPA33071      | Malacate para trípode con cable de acero hasta 35m, mosquetón de 25mm de apertura, Capacidad 120 Kg. | 2159859.35
+DPA911000     | Percha para rescate                                          | 37791.25  
+DPA912007     | Silla Para Trabajos en Suspension de Aluminio, 645*135 mm, Capacidad 140 kg | 101183.03 
+DPA97102      | Porta Herramientas de 1 m Con Mosqueton                      | 12031.51  
+DPA009000     | Mosquetón Carabinero A Rosca Galvanizado 16 kN Abertura 14 mm | 12551.93  
+DPA009001     | Mosquetón Carabinero "Pera" A Rosca Galvanizado 16 kN Abertura 19 mm | 20158.66  
+DPS813093E    | Gte. Sin Costura Algodon G7 Gris Moteado Talle 8 Economico   | 651.12    
+DPS813095E    | Gte. Sin Costura Algodon G7 Gris Moteado Talle 10 Economico  | 724.79    
+DPS811093E    | Gte. Sin Costura Algodon Natural Moteado Talle 8 Economico   | 701.03    
+DPS811095E    | Gte. Sin Costura Algodon Natural Moteado Talle 10 Economico  | 786.58    
+DPS811093P    | Gte. Sin Costura Algodon Natural Moteado Talle 8 Premium     | 772.32    
+DPS811095P    | Gte. Sin Costura Algodon Natural Moteado Talle 10 Premium    | 869.75    
+DPS811073     | Gte. Sin Costura Algodón Jaspeado Naranja/Blanco Moteado Talle 8 Premium | 819.84    
+DPS811075     | Gte. Sin Costura Algodón Jaspeado Naranja/Blanco Moteado Talle 10 Premium | 912.52    
+DPS81725      | Gtes. Sin Costura Aramida Talle 10 Moteado                   | 18286.09  
+DPS8111095    | Gte. Sin Costura Algodon Moteado a dos caras Talle 10        | 1965.25   
+DPS803093E    | Gte. Sin Costura Algodon G7 Gris Talle 8 Economico Liso      | 596.47    
+DPS803095E    | Gte. Sin Costura Algodon G7 Gris Talle 10 Economico Liso     | 663.00    
+DPS801003     | Gte. Tejido Talle 8 S/Cost. Blanco G7 Algodon Liso           | 639.24    
+DPS801005     | Gte. Tejido Talle 10 S/Cost. Blanco G7 Algodon Liso          | 724.79    
+DPS80725      | Gtes. Sin Costura Aramida G7 Talle 10 Liso                   | 16570.36  
+DPS811305     | Gte. Sin Costura Terrycloth Algodon Moteado Talle 10         | 3136.80   
+DPS801305     | Gte. Sin Costura Terrycloth Algodon Talle 10                 | 2594.99   
+DPS801905     | Gte. Sin Costura Terrycloth Algodon Puño Cuero 17 cm Talle 10 | 11016.80  
+DPS1001305    | Manga Terrycloth Algodon Largo Total 30 cm                   | 5304.04   
+DPS1001306    | Manga Terrycloth Algodon Largo Total 35 cm                   | 6435.18   
+DPS1001307    | Manga Terrycloth Algodon Largo Total 40 cm                   | 7359.59   
+DPS1002525    | Manga Terrycloth Aramida Largo Total 30 cm                   | 66597.49  
+DPS1002625    | Manga Terrycloth Aramida Largo Total 35 cm                   | 68921.57  
+DPS1002725    | Manga Terrycloth Aramida Largo Total 40 cm                   | 77388.54  
+DPS801625     | Gte. Sin Costura Terrycloth Aramida interior Aislante puño de Cuero 17 cm Talle 10 | 44879.93  
+DPS801725     | Gte. Sin Costura Terrycloth Aramida puño de Cuero 17 cm Talle 10 | 31626.98  
+DPS802225     | Gte. Sin Costura Terrycloth Aramida interior aislante Largo Total 35 cm Talle 10 | 49145.50  
+DPS802325     | Gte. Sin Costura Terrycloth Aramida interior aislante Largo Total 40 cm Talle 10 | 53660.59  
+DPS802425     | Gte. Sin Costura Terrycloth Aramida interior aislante Largo Total 45 cm Talle 10 | 58175.67  
+DPS801425     | Gte. Sin Costura Terrycloth Aramida Talle 10                 | 24742.66  
+DPS803403     | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T8  | 969.55    
+DPS803404     | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T9  | 969.55    
+DPS803405     | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T10 | 969.55    
+DPS803406     | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T11 | 969.55    
+DPS803323     | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T8  | 6862.93   
+DPS803324     | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T9  | 6862.93   
+DPS803325     | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T10 | 6862.93   
+DPS803326     | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T11 | 6862.93   
+DPS80625      | Gte. Sin Costura Costura G10 Amarillo Frio Cepillado T10     | 1715.73   
+DPS80102      | Gte. Tejido Talle 7 S/Cost. Blanco G13 - Liso                | 1354.53   
+DPS80103      | Gte. Tejido Talle 8 S/Cost. Blanco G13 - Liso                | 1354.53   
+DPS80104      | Gte. Tejido Talle 9 S/Cost. Blanco G13 - Liso                | 1354.53   
+DPS80105      | Gte. Tejido Talle 10 S/Cost. Blanco G13 - Liso               | 1354.53   
+DPS80106      | Gte. Tejido Talle 11 S/Cost. Blanco G13 - Liso               | 1354.53   
+DPS80912      | Gte. Tejido Talle 7 S/Cost. Anticorte G13 - Liso             | 7064.92   
+DPS80913      | Gte. Tejido Talle 8 S/Cost. Anticorte G13 - Liso             | 7064.92   
+DPS80914      | Gte. Tejido Talle  9  S/Cost. Anticorte G13 - Liso           | 7064.92   
+DPS80915      | Gte. Tejido Talle  10  S/Cost. Anticorte G13 -  Liso         | 7064.92   
+DPS80916      | Gte. Tejido Talle  11 S/Cost. Anticorte G13 - Liso           | 7064.92   
+DPS802902     | Gte. Tejido S/Costura G7 Anticorte Blanco T7                 | 7064.92   
+DPS802903     | Gte. Tejido S/Costura G7 Anticorte Blanco T8                 | 7064.92   
+DPS802904     | Gte. Tejido S/Costura G7 Anticorte Blanco T9                 | 7064.92   
+DPS802905     | Gte. Tejido S/Costura G7 Anticorte Blanco T10                | 7064.92   
+DPS802906     | Gte. Tejido S/Costura G7 Anticorte Blanco T11                | 7064.92   
+DPS802801     | Gte. Tej. T 6 S/Cost. Anticorte Hilo Acero Liso "G7 FRIGORIFICOS" | 20384.42  
+DPS802802     | Gte. Tej. T 7 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO" | 20384.42  
+DPS802803     | Gte. Tej. T 8 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO" | 20384.42  
+DPS802804     | Gte. Tej. T 9 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO" | 20384.42  
+DPS802805     | Gte. Tej. T 10 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO" | 20384.42  
+DPS802806     | Gte. Tej. T 11 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO" | 20384.42  
+DPS80801      | Gtes. Sin Costura G13 Anticorte Talle 6 Blanco               | 10541.53  
+DPS80802      | Gtes. Sin Costura G13 Anticorte Talle 7 Blanco               | 10541.53  
+DPS80803      | Gtes. Sin Costura G13  Anticorte Talle 8 Blanco              | 10541.53  
+DPS80804      | Gtes. Sin Costura G13 Anticorte Talle 9 Blanco               | 10541.53  
+DPS80805      | Gtes. Sin Costura G13 Anticorte Talle 10 Blanco              | 10541.53  
+DPS80806      | Gtes. Sin Costura G13 Anticorte Talle 11 Blanco              | 10541.53  
+DPS1008105    | Manga Anticorte HPPE 30 cm                                   | 36277.51  
+DPS1008106    | Manga Anticorte HPPE 35 cm                                   | 41108.65  
+DPS1008107    | Manga Anticorte HPPE 40 cm                                   | 45918.40  
+DPS1008108    | Manga Anticorte HPPE 45 cm                                   | 51312.74  
+DPS801512     | Gte. Tejido Talle 7 S/Cost. Anticorte Protección Antebrazo   | 36819.32  
+DPS801513     | Gte. Tejido Talle 8 S/Cost. Anticorte Protección Antebrazo   | 36819.32  
+DPS801514     | Gte. Tejido Talle 9 S/Cost. Anticorte Protección Antebrazo   | 36819.32  
+DPS801515     | Gte. Tejido Talle 10 S/Cost. Anticorte Protección Antebrazo  | 36819.32  
+DPS801516     | Gte. Tejido Talle 11 S/Cost. Anticorte Protección Antebrazo  | 36819.32  
+DP8121003     | Gte. S/Cost. Algodón G7 Refuerzo Descarne Talle 8            | 9776.35   
+DPS803803     | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 8       | 1264.22   
+DPS803805     | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 10      | 1394.92   
+DPS813803     | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 8 Moteado | 1437.70   
+DPS813805     | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 10 Moteado | 1544.63   
+DPS89723      | Gte. Tejido Talle 8 S/Cost. Acrilico G7 Amarillo Recub. en Latex Rugoso Para Frio | 8771.14   
+DPS89724      | Gte. Tejido Talle 9 S/Cost. Acrilico G7 Amarillo Recub. en Latex Rugoso Para Frio | 8771.14   
+DPS89725      | Gte. Tejido Talle 10 S/Cost. Acrilico G7 Amarillo Recub. en Latex Rugoso Para Frio | 8771.14   
+DPS89773      | Gte. Tejido Talle 8 S/Cost. Acrilico G7 Naranja Recub. en Latex Rugoso Para Frio | 8771.14   
+DPS89774      | Gte. Tejido Talle 9 S/Cost. Acrilico G7 Naranja Recub. en Latex Rugoso Para Frio | 8771.14   
+DPS89775      | Gte. Tejido Talle 10 S/Cost. Acrilico G7 Naranja Recub. en Latex Rugoso Para Frio | 8771.14   
+DPS89093      | Gte. Tejido Talle 8 S/Cost. G10 Recub. en Latex Negro Rugoso | 3498.00   
+DPS89094      | Gte. Tejido Talle 9 S/Cost. G10 Recub. en Latex Negro Rugoso | 3498.00   
+DPS89095      | Gte. Tejido Talle 10 S/Cost. G10 Recub. en Latex Negro Rugoso | 3498.00   
+DPS89063      | Gte. Tejido Talle 8 S/Cost. G10 Amarillo Recub. en Latex Rugoso | 3498.00   
+DPS89064      | Gte. Tejido Talle 9 S/Cost. G10 Amarillo Recub. en Latex Rugoso | 3498.00   
+DPS89065      | Gte. Tejido Talle 10 S/Cost. G10 Amarillo Recub. en Latex Rugoso | 3498.00   
+DPS89625      | Guante Tejido, Talle 10 Sin Costura G10 Amarillo Frio Cepillado Recubierto en Látex Rugoso | 3688.11   
+DPS81195      | Guante Tejido, Talle 10 Sin Costura G13 Blanco Moteado       | 1444.83   
+DPS88162      | Guante Tejido, Talle 7 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | 2091.20   
+DPS88163      | Guante Tejido, Talle 8 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | 2091.20   
+DPS88164      | Guante Tejido, Talle 9 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | 2091.20   
+DPS88165      | Guante Tejido, Talle 10 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | 2091.20   
+DPS88166      | Guante Tejido, Talle 11 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | 2091.20   
+DPS88112      | Gte. Tejido Talle 7 S/Cost. Recub. en Nitrilo                | 2091.20   
+DPS88113      | Gte. Tejido Talle 8 S/Cost. Recub. en Nitrilo                | 2091.20   
+DPS88114      | Gte. Tejido Talle 9 S/Cost. Recub. en Nitrilo                | 2091.20   
+DPS88115      | Gte. Tejido Talle 10 S/Cost. Recub. en Nitrilo               | 2091.20   
+DPS88116      | Gte. Tejido Talle 11 S/Cost. Recub. en Nitrilo               | 2091.20   
+DPS814142     | Gte. S/Cost. Rosa Talle 7 Recubierto en Nitrilo Espumado     | 2245.66   
+DPS814143     | Gte. S/Cost. Rosa Talle 8 Recubierto en Nitrilo Espumado     | 2245.66   
+DPS814144     | Gte. S/Cost. Rosa Talle 9 Recubierto en Nitrilo Espumado     | 2245.66   
+DPS814145     | Gte. S/Cost. Rosa Talle 10 Recubierto en Nitrilo Espumado    | 2245.66   
+DPS814152     | Gte. S/Cost. Azul Talle 7  Recubierto en nitrilo espumado    | 2091.20   
+DPS814153     | Gte. S/Cost. Azul Talle 8  Recubierto en nitrilo espumado    | 2091.20   
+DPS814154     | Gte. S/Cost. Azul Talle 9  Recubierto en nitrilo espumado    | 2091.20   
+DPS814155     | Gte. S/Cost. Azul Talle 10  Recubierto en nitrilo espumado   | 2091.20   
+DPS814156     | Gte. S/Cost. Azul Talle 11  Recubierto en nitrilo espumado   | 2091.20   
+DPS8141112    | Gte. S/Cost. Rojo Talle 7 Recubierto en Nitrilo Espumado     | 2245.66   
+DPS8141113    | Gte. S/Cost. Rojo Talle 8 Recubierto en Nitrilo Espumado     | 2245.66   
+DPS8141114    | Gte. S/Cost. Rojo Talle 9 Recubierto en Nitrilo Espumado     | 2245.66   
+DPS8141115    | Gte. S/Cost. Rojo Talle 10 Recubierto en Nitrilo Espumado    | 2245.66   
+DPS8141116    | Gte. S/Cost. Rojo Talle 11 Recubierto en Nitrilo Espumado    | 2245.66   
+DPS814182     | Gte. S/Cost. Verde Fluo Talle 7 Recubierto en Nitrilo Espumado | 2091.20   
+DPS814183     | Gte. S/Cost. Verde Fluo Talle 8 Recubierto en Nitrilo Espumado | 2091.20   
+DPS814184     | Gte. S/Cost. Verde Fluo Talle 9 Recubierto en Nitrilo Espumado | 2091.20   
+DPS814185     | Gte. S/Cost. Verde Fluo Talle 10 Recubierto en Nitrilo Espumado | 2091.20   
+DPS814186     | Gte. S/Cost. Verde Fluo Talle 11 Recubierto en Nitrilo Espumado | 2091.20   
+DPS88302      | Gte. Tejido Talle 7 S/Cost. R/Completo. en Nitrilo           | 3146.30   
+DPS88303      | Gte. Tejido Talle 8 S/Cost. R/Completo. en Nitrilo           | 3146.30   
+DPS88304      | Gte. Tejido Talle 9 S/Cost. R/Completo. en Nitrilo           | 3146.30   
+DPS88305      | Gte. Tejido Talle 10 S/Cost. R/Completo. en Nitrilo          | 3146.30   
+DPS88306      | Gte. Tejido Talle 11 S/Cost. R/Completo. en Nitrilo          | 3146.30   
+DPS8181112    | Guante Sin Costura Rojo Talle 7 Recubierto en Latex Espumado | 2091.20   
+DPS8181113    | Guante Sin Costura Rojo Talle 8 Recubierto en Latex Espumado | 2091.20   
+DPS8181114    | Guante Sin Costura Rojo Talle 9 Recubierto en Latex Espumado | 2091.20   
+DPS8181115    | Guante Sin Costura Rojo Talle 10 Recubierto en Latex Espumado | 2091.20   
+DPS8181116    | Guante Sin Costura Rojo Talle 11 Recubierto en Latex Espumado | 2091.20   
+DPS88192      | Gte. Tejido Talle 7 S/Cost. Negro Recub. en Nitrilo Negro Espumado | 1815.54   
+DPS88193      | Gte. Tejido Talle 8 S/Cost. Negro Recub. en Nitrilo Negro Espumado | 1815.54   
+DPS88194      | Gte. Tejido Talle 9 S/Cost. Negro Recub. en Nitrilo Negro Espumado | 1815.54   
+DPS88195      | Gte. Tejido Talle 10 S/Cost. Negro Recub. en Nitrilo Negro Espumado | 1815.54   
+DPS88196      | Gte. Tejido Talle 11 S/Cost. Negro Recub. en Nitrilo Negro Espumado | 1815.54   
+DPS89152      | Gte. Tejido Talle 7 S/Cost. Recub. en Latex Rugoso           | 1950.99   
+DPS89153      | Gte. Tejido Talle 8 S/Cost. Recub. en Latex Rugoso           | 1950.99   
+DPS89154      | Gte. Tejido Talle 9 S/Cost. Recub. en Latex Rugoso           | 1950.99   
+DPS89155      | Gte. Tejido Talle 10 S/Cost. Recub. en Latex Rugoso          | 1950.99   
+DPS89156      | Gte. Tejido Talle 11 S/Cost.Recub. en Latex Rugoso           | 1950.99   
+DPS89172      | Gte. Tejido Talle 7 S/Cost. Naranja Recub. en Latex Rugoso Negro | 1950.99   
+DPS89173      | Gte. Tejido Talle 8 S/Cost. Naranja Recub. en Latex Rugoso Negro | 1950.99   
+DPS89174      | Gte. Tejido Talle 9 S/Cost. Naranja Recub. en Latex Rugoso Negro | 1950.99   
+DPS89175      | Gte. Tejido Talle 10 S/Cost. Naranja Recub. en Latex Rugoso Negro | 1950.99   
+DPS89176      | Gte. Tejido Talle 11 S/Cost. Naranja Recub. en Latex Rugoso Negro | 1950.99   
+DPS818105     | Gte. Tejido Talle  10  S/Cost. Anticorte Moteado             | 7540.19   
+DPS89892      | Gtes. Sin Costura Anticorte Talle 7 Palma Recubierta en Latex | 6304.48   
+DPS89893      | Gtes. Sin Costura Anticorte Talle 8 Palma Recubierta en Latex | 6304.48   
+DPS89894      | Gtes. Sin Costura Anticorte Talle 9 Palma Recubierta en Latex | 6304.48   
+DPS89895      | Gtes. Sin Costura Anticorte Talle 10 Palma Recubierta en Latex | 6304.48   
+DPS89896      | Gtes. Sin Costura Anticorte Talle 11 Palma Recubierta en Latex | 6304.48   
+DPS88802      | Gtes. Sin Costura Anticorte Talle 7 Recub. Nitrilo           | 6304.48   
+DPS88803      | Gtes. Sin Costura Anticorte Talle 8 Recub. Nitrilo           | 6304.48   
+DPS88804      | Gtes. Sin Costura Anticorte Talle 9 Recub. Nitrilo           | 6304.48   
+DPS88805      | Gtes. Sin Costura Anticorte Talle 10 Recub. Nitrilo          | 6304.48   
+DPS88806      | Gtes. Sin Costura Anticorte Talle 11 Recub. Nitrilo          | 6304.48   
+DPS87802      | Gtes. Sin Costura Anticorte Talle 7 Recub.Completo Nitrilo Espumado | 9800.11   
+DPS87803      | Gtes. Sin Costura Anticorte Talle 8 Recub. Completo Nitrilo Espumado | 9800.11   
+DPS87804      | Gtes. Sin Costura Anticorte Talle 9 Recub. Completo Nitrilo Espumado | 9800.11   
+DPS87805      | Gtes. Sin Costura Anticorte Talle 10 Recub.Completo Nitrilo Espumado | 9800.11   
+DPS87806      | Gtes. Sin Costura Anticorte Talle 11 Recub.Completo Nitrilo Espumado | 9800.11   
+DPS816193     | Gtes. Sin Costura Anticorte Talle 8 Recub. Completo Nitrilo, doble baño en palma Espumado | 3904.36   
+DPS816194     | Gtes. Sin Costura Anticorte Talle 9 Recub. Completo Nitrilo, doble baño en palma Espumado | 3904.36   
+DPS816195     | Gtes. Sin Costura Anticorte Talle 10 Recub. Completo Nitrilo, doble baño en palma Espumado | 3904.36   
+DPS881513     | Gte. Tejido Talle 8 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | 26358.59  
+DPS881514     | Gte. Tejido Talle 9 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | 26358.59  
+DPS881515     | Gte. Tejido Talle 10 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | 26358.59  
+DPS881516     | Gte. Tejido Talle 11 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | 26358.59  
+DPS72021      | Gte. Latex Descartable Sintético Blanco Talle 6/S (Liviano)  | 10032.99  
+DPS72022      | Gte. Latex Descartable Sintético Blanco Talle 7/M (Liviano)  | 10032.99  
+DPS72023      | Gte. Latex Descartable Sintético Blanco Talle 8/L (Liviano)  | 10242.11  
+DPS72024      | Gte. Latex Descartable Sintético Blanco Talle 9/XL (Liviano) | 10242.11  
+DPS72051      | Gte. Nitrilo Descartable Azul Talle 6/S (Liviano)            | 10032.99  
+DPS72052      | Gte. Nitrilo Descartable Azul Talle 7/M (Liviano)            | 10032.99  
+DPS72053      | Gte. Nitrilo Descartable Azul Talle 8/L (Liviano)            | 10242.11  
+DPS72054      | Gte. Nitrilo Descartable Azul Talle 9/XL (Liviano)           | 10242.11  
+DPS72091      | Gte. Nitrilo Descartable Negro Talle 6/S (Liviano)           | 10460.74  
+DPS72092      | Gte. Nitrilo Descartable Negro Talle 7/M (Liviano)           | 10460.74  
+DPS72093      | Gte. Nitrilo Descartable Negro Talle 8/L (Liviano)           | 10674.61  
+DPS72094      | Gte. Nitrilo Descartable Negro Talle 9/XL (Liviano)          | 10674.61  
+DPS71051      | Gte. Nitrilo Descartable Azul Talle 6/S PREMIUM (Pesado)     | 13112.75  
+DPS71052      | Gte. Nitrilo Descartable Azul Talle 7/M PREMIUM (Pesado)     | 13112.75  
+DPS71053      | Gte. Nitrilo Descartable Azul Talle 8/L PREMIUM (Pesado)     | 13112.75  
+DPS71054      | Gte. Nitrilo Descartable Azul Talle 9/XL PREMIUM (Pesado)    | 13112.75  
+DPS41472      | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 7  | 2754.20   
+DPS41473      | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 8  | 2754.20   
+DPS41474      | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 9  | 2754.20   
+DPS41475      | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 10 | 2754.20   
+DPS41482      | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 7 | 2350.22   
+DPS41483      | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 8 | 2350.22   
+DPS41484      | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 9 | 2350.22   
+DPS41485      | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 10 | 2350.22   
+DPS41486      | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 11 | 2350.22   
+DPS43682      | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 7 | 8578.66   
+DPS43683      | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 8 | 8578.66   
+DPS43684      | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 9 | 8578.66   
+DPS43685      | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 10 | 8578.66   
+DPS43482      | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 7 | 12979.68  
+DPS43483      | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 8 | 12979.68  
+DPS43484      | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 9 | 12979.68  
+DPS43485      | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 10 | 12979.68  
+DPS43486      | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 11 | 12979.68  
+DPS41452      | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 7 | 2359.73   
+DPS41453      | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 8 | 2359.73   
+DPS41454      | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm Talle 9 | 2359.73   
+DPS41455      | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 10 | 2359.73   
+DPS41456      | Gte. de Acrilo Nitrilo Azul FlocadoLargo Total 33 cm. Espesor 0.4 mm. Talle 11 | 2359.73   
+DPS91492      | Gte. Látex Neoprene Mix Flocado Talle 7                      | 5192.35   
+DPS91493      | Gte. Látex Neoprene Mix Flocado Talle 8                      | 5192.35   
+DPS91494      | Gte. Látex Neoprene Mix Flocado Talle 9                      | 5192.35   
+DPS91495      | Gte. Látex Neoprene Mix Flocado Talle 10                     | 5192.35   
+DPS91496      | Gte. Látex Neoprene Mix Flocado Talle 11                     | 5192.35   
+DPS01495      | Gte. Neoprene Flocado. Talle 10                              | 9436.53   
+DPS01496      | Gte. Neoprene Flocado. Talle 11                              | 9436.53   
+DPS61322      | Gte. Látex Para Uso Doméstico Flocado. Talle S               | 1273.73   
+DPS61323      | Gte. Látex Para Uso Doméstico Flocado. Talle M               | 1273.73   
+DPS61324      | Gte. Látex Para Uso Doméstico Flocado. Talle L               | 1273.73   
+DPS61325      | Gte. Látex Para Uso Doméstico Flocado. Talle XL              | 1273.73   
+DPS61322E     | Guante Látex Para Uso Doméstico Flocado Económico. Talle S  (en Bolsa por 12 pares) | 914.90    
+DPS61323E     | Guante Látex Para Uso Doméstico Flocado Económico. Talle M (en Bolsa por 12 pares) | 914.90    
+DPS61324E     | Guante Látex Para Uso Doméstico Flocado Económico. Talle L (en Bolsa por 12 pares) | 914.90    
+DPS61325E     | Guante Látex Para Uso Doméstico Flocado Económico. Talle XL (en Bolsa por 12 pares) | 914.90    
+DPS71392      | Gte. Látex Uso Industrial Negro. Talle S                     | 2224.27   
+DPS71393      | Gte. Látex Uso Industrial Negro. Talle M                     | 2224.27   
+DPS71394      | Gte. Látex Uso Industrial Negro. Talle L                     | 2224.27   
+DPS71395      | Gte. Látex Uso Industrial Negro. Talle XL                    | 2224.27   
+DPS1210333    | Guante Dielectrico de Latex Clase 00 Talle 8 Naranja Tensión máx de uso CA 500V Tensión de prueba CA 2500V  Lgo 36cm AZC | 62374.70  
+DPS1210334    | Guante Dielectrico de Latex Clase 00 Talle 9 Naranja Tensión máxima de uso 500V Tensión de prueba 2500V | 62374.70  
+DPS1210335    | Guante Dielectrico de Latex Clase 00 Talle 10 Naranja Tensión máxima de uso 500V Tensión de prueba 2500 Largo 36 cm AZC | 62374.70  
+DPS1210336    | Guante Dielectrico de Latex Clase 00 Talle 11 Naranja Tensión máxima de uso 500V Tensión de prueba 2500V Largo 36 cm AZC | 62374.70  
+DPS1211333    | Guante Dielectrico de Latex Clase 0 Talle 8 Naranja Tensión máx de uso CA 1000V Tensión de prueba CA 5000V Lgo 36 cm RC | 77840.05  
+DPS1211334    | Guante Dielectrico de Latex Clase 0 Talle 9 Naranja Tensión max de uso CA 1000V Tensión de prueba CA 5000V Lgo 36 cm RC | 77840.05  
+DPS1211335    | Guante Dielectrico de Latex Clase 0 Talle 10 Naranja Tensión máx de uso CA 1000 V Tensión de prueba CA 5000V Lgo 36cm RC | 77840.05  
+DPS1211336    | Guante Dielectrico de Latex Clase 0 Talle 11 Naranja Tensión máx de uso CA 1000V Tensión de Prueba CA 5000V Lgo 36 cm RC | 77840.05  
+DPS1212693    | Guante Dielectrico de Latex Clase 1 Talle 8 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41cm RC | 111793.48 
+DPS1212694    | Guante Dielectrico de Latex Clase 1 Talle 9 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41 cm RC | 111793.48 
+DPS1212695    | Guante Dielectrico de Latex Clase 1 Talle 10 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41cm RC | 111793.48 
+DPS1212696    | Guante Dielectrico de Latex Clase 1 Talle11 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41 cm RC | 111793.48 
+DPS1213693    | Guante Dielectrico de Latex Clase 2 T 8 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Lgo 41cm RC | 233995.42 
+DPS1213694    | Guante Dielectrico de Latex Clase 2 T 9 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Lgo 41 cm RC | 233995.42 
+DPS1213695    | Guante Dielectrico de Latex Clase 2 T 10 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Lgo 41 cm RC | 233995.42 
+DPS1213696    | Guante Dielectrico de Latex Clase 2 T 11 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Largo 41 cm RC | 233995.42 
+DPS1214693    | Guante Dieléctrico de Látex Clase 3 Talle 8 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | 651481.47 
+DPS1214694    | Guante Dieléctrico de Látex Clase 3 Talle 9 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | 651481.47 
+DPS1214695    | Guante Dieléctrico de Látex Clase 3 Talle 10 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | 651481.47 
+DPS1214696    | Guante Dieléctrico de Látex Clase 3 Talle 11 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | 651481.47 
+DPS1215693    | Guante Dieléctrico de Látex Clase 4 Talle 8 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | 973292.89 
+DPS1215694    | Guante Dieléctrico de Látex Clase 4 Talle 9 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | 973292.89 
+DPS1215695    | Guante Dieléctrico de Látex Clase 4 Talle 10 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | 973292.89 
+DPS1215696    | Guante Dieléctrico de Látex Clase 4 Talle 11 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | 973292.89 
+DPS85111      | Gte. Tejido Talle 6 S/Cost. Recub. en PU Espumado Blanco     | 810.34    
+DPS85112      | Gte. Tejido Talle 7 S/Cost. Recub. en PU Espumado Blanco     | 810.34    
+DPS85113      | Gte. Tejido Talle 8 S/Cost. Recub. en PU Espumado Blanco     | 810.34    
+DPS85114      | Gte. Tejido Talle 9 S/Cost. Recub. en PU Espumado Blanco     | 810.34    
+DPS85115      | Gte. Tejido Talle 10 S/Cost. Recub. en PU Espumado Blanco    | 810.34    
+DPS85191      | Gte. Tejido Talle 6 S/Cost. Recub. en PU Espumado Negro      | 810.34    
+DPS85192      | Gte. Tejido Talle 7 S/Cost. Recub. en PU Espumado Negro      | 810.34    
+DPS85193      | Gte. Tejido Talle 8 S/Cost. Recub. en PU Espumado Negro      | 810.34    
+DPS85194      | Gte. Tejido Talle 9 S/Cost. Recub. en PU Espumado Negro      | 810.34    
+DPS85195      | Gte. Tejido Talle 10 S/Cost. Recub. en PU Espumado Negro     | 810.34    
+DPS85196      | Gte. Tejido Talle 11 S/Cost. Recub. en PU Espumado Negro     | 810.34    
+DPS22125      | Gte. Látex Rugoso "Mondongo" Dorso Ventilado Puño Tejido     | 6546.87   
+DPS21125      | Gte. Látex Rugoso "Mondongo" Baño Completo Puño Tejido       | 6546.87   
+DPS21225      | Gte. Látex Rugoso "Mondongo" Baño Completo Puño de Lona      | 6275.97   
+DPS21425      | Gte. Látex Rugoso "Mondongo" Baño Completo Largo 35 cm.      | 18355.00  
+DPS17125      | Gte. Nitrilo Liviano Ventilado Amarillo Puño Tejido T10      | 4643.41   
+DPS16225      | Gte. Nitrilo Liviano Baño Completo Amarillo Puño de Lona T10 | 4921.44   
+DPS16123      | Gte. Nitrilo Liviano baño completo amarillo puño tejido T8   | 4189.52   
+DPS16125      | Gte. Nitrilo Liviano Baño Completo Amarillo Puño Tejido T10  | 4189.52   
+DPS11255E     | Gte. Nitrilo Liviano Baño Completo Azul Puño de Lona Económico | 3935.25   
+DPS11155      | Gte. Nitrilo Medio Baño Completo Azul Puño Tejido            | 4916.69   
+DPS11255      | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona           | 5113.93   
+DPS11356      | Gte. Nitrilo Baño Completo Azul Largo Total 30 cm.           | 8262.60   
+DPS12255      | Gte. Nitrilo Medio Ventilado Azul Puño de Lona               | 5061.65   
+DPS12155      | Gte. Nitrilo Medio Ventilado Azul Puño Tejido                | 5061.65   
+DPS11855      | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul de 7cm | 4935.70   
+DPS11955      | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul de 14cm | 7083.93   
+DPS13155      | Gte. Nitrilo Baño Completo Pesado Azul Puño Tejido           | 7891.89   
+DPS13255      | Gte. Nitrilo Baño Completo Pesado Azul Puño de Lona          | 9372.36   
+DPS32145      | Gte. PVC rojo puño elastizado dorso ventilado                | 4469.93   
+DPS31145      | Gte. PVC rojo baño completo puño elastizado                  | 4469.93   
+DPS31345      | Gte. PVC rojo largo total 30 cm                              | 5327.80   
+DPS31445      | Gte. PVC rojo largo total 35cm                               | 5914.76   
+DPS31545      | Gte. PVC rojo largo total 40 cm                              | 6703.71   
+DPS31355      | Gte. PVC Azul Baño Completo 30 cm. Talle 10/XL               | 17948.65  
+DPS31755      | Gte. PVC Azul Baño Completo 70 cm. Talle 10/XL               | 20182.43  
+DPS35485      | Gte. PVC verde granitado largo total 35cm                    | 11197.41  
+DPS31495      | Gte. PVC negro granulado largo total 30 cm                   | 11197.41  
+DPS31465      | Gte. PVC Naranja Fluo, Bajas Temperaturas largo 35 cm Forrado | 20182.43  
+DPS75372      | Gte. Soporte Algodón Jersey Bañado Completo Látex Rugoso Pesado. Talle 7 | 36436.73  
+DPS75373      | Gte. Soporte Algodón Jersey Bañado Completo Látex Rugoso Pesado Talle 8 | 36436.73  
+DPS75374      | Gte. Soporte Algodón Jersey Bañado Compleo Látex Rugoso Pesado. Talle 9 | 36436.73  
+DPS75375      | Gte. Soporte Algodón Jersey Bañado Compleo Látex Rugoso Pesado. Talle 10 | 36436.73  
+DPS75376      | Gte. Soporte Algodón Jersey Bañado Compleo Látex Rugoso Pesado. Talle 11 | 36436.73  
+DPS41883      | Gte. de Acrilo Nitrilo Verde Interior Anticorte Talle 8      | 86779.91  
+DPS41885      | Gte. de Acrilo Nitrilo Verde Interior Anticorte Talle 10     | 86779.91  
+DPS41886      | Gte. de Acrilo Nitrilo Verde Interior Anticorte Talle 11     | 86779.91  
+DPS09492      | Gte. Neoprene Soporte Sin Costura Talle 7                    | 44834.78  
+DPS09493      | Gte. Neoprene Soporte Sin Costura Talle 8                    | 44834.78  
+DPS09494      | Gte. Neoprene Soporte Sin Costura Talle 9                    | 44834.78  
+DPS09495      | Gte. Neoprene Soporte Sin Costura Talle 10                   | 44834.78  
+DPS09496      | Gte. Neoprene Soporte Sin Costura Talle 11                   | 44834.78  
+DPS89545X     | Gte. Tejido Talle 10 Sintético, Aplicación de Látex Espumoso Antivibratorio en Palma | 24992.18  
+DPS1131102    | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 7 | 46911.72  
+DPS1131103    | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 8 | 46911.72  
+DPS1131104    | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 9 | 46911.72  
+DPS1131105    | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 10 | 46911.72  
+DPS1131106    | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 11 | 46911.72  
+DPS85802      | Gtes. Sin Costura Anticorte Talle 7 Recub. PU                | 6140.51   
+DPS85803      | Gtes. Sin Costura Anticorte Talle 8 Recub. PU                | 6140.51   
+DPS85804      | Gtes. Sin Costura Anticorte Talle 9 Recub. PU                | 6140.51   
+DPS85805      | Gtes. Sin Costura Anticorte Talle 10 Recub. PU               | 6140.51   
+DPS85806      | Gtes. Sin Costura Anticorte Talle 11 Recub. PU               | 6140.51   
+DPS85802E     | Gtes. Sin Costura Anticorte Económico Talle 7 Recub. PU      | 4077.83   
+DPS85803E     | Gtes. Sin Costura Anticorte Económico Talle 8 Recub. PU      | 4077.83   
+DPS85804E     | Gtes. Sin Costura Anticorte Económico Talle 9  Recub. PU     | 4077.83   
+DPS85805E     | Gtes. Sin Costura Anticorte Económico Talle 10 Recub. PU     | 4077.83   
+DPS85806E     | Gtes. Sin Costura Anticorte Económico Talle 11 Recub. PU     | 4077.83   
+221023X       | P. de Gte. Lincoln Vaq. Elast. Talle 8 Refuerzo TPR Anti-Impacto | 9436.53   
+221024X       | P. de Gte. Lincoln Vaq. Elast. Talle 9 Refuerzo TPR Anti-Impacto | 9479.30   
+222025X       | P. de Gte. Lincoln Vaq. Elast. Talle 10 Refuerzo TPR Anti-Impacto | 9543.46   
+222026X       | P. de Gte. Lincoln Vaq. Elast. Talle 11 Refuerzo TPR Anti-Impacto | 10959.77  
+223024X       | Gte Lincoln Vaqueta Elast. Forrado Talle 9 -C/ TPR Anti-Impacto | 25241.70  
+223025X       | Gte Lincoln Vaqueta Elast. Forrado Talle 10 -C/ TPR Anti-Impacto | 25949.85  
+223026X       | Gte Lincoln Vaqueta Elast. Forrado Talle 11 -C/ TPR Anti-Impacto | 27109.51  
+224025X       | P. de Gte. Lincoln Vaq. Elast. T 10, Refuerzo Cadenero c/ TPR Anti-Impacto. Forrado Anticorte. Negro | 31591.33  
+224026X       | P. de Gte. Lincoln Vaq. Elast. Talle 11. Refuerzo Cadenero c/ TPR Anti-Impacto. Forrado Anticorte. Negro | 32983.88  
+255255X       | Guante Lincoln Vaqueta Hidrofuga Azul interior anticorte Puño Elastizado. Refuerzo cadenero. Dorso Antigolpes. Talle10 | 43214.11  
+255256X       | Guante Lincoln Vaqueta Hidrofuga Azul interior anticorte Puño Elastizado. Refuerzo cadenero. Dorso Antigolpes. Talle11 | 45146.09  
+122225X       | Gte. Americano Vaqueta Puño Corto, Refuerzo Cadenero, Talle 10, Refuerzo TPR Anti-Impacto | 11537.23  
+172226X       | Gte. Americano Vaqueta Puño Corto, Refuerzo Cadenero, Talle 11, Refuerzo TPR Anti-Impacto | 12052.90  
+125225X       | Guante Americano Vaqueta Amarilla Interior Anticorte Puño Corto Refuerzo Cadenero,  Talle 10, Refuerzo TPR | 26142.34  
+175226X       | Guante Americano Vaqueta Amarilla Interior Anticorte Puño Corto Refuerzo Cadenero,  Talle 11, Refuerzo TPR. | 29359.93  
+DPS87483X     | Gte. Tejido Talle 8 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 34721.00  
+DPS87484X     | Gte. Tejido Talle 9 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 34721.00  
+DPS87485X     | Gte. Tejido Talle 10 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 34721.00  
+DPS87486X     | Gte. Tejido Talle 11 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 34721.00  
+DPS87924X     | Gte. Tejido Talle 9 S/Cost. Anticorte G13, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 42227.92  
+DPS87925X     | Gte. Tejido Talle 10 S/Cost. Anticorte G13, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 42227.92  
+DPS87926X     | Gte. Tejido Talle 11 S/Cost. Anticorte G13, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 42227.92  
+DPS83683X     | Gte. Tejido Talle 8 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | 63204.05  
+DPS83684X     | Gte. Tejido Talle 9 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | 63204.05  
+DPS83685X     | Gte. Tejido Talle 10 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | 63204.05  
+DPS83686X     | Gte. Tejido Talle 11 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | 63204.05  
+DPS11855X     | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona con Aplicaciones TPR Anti-Impacto | 18357.38  
+DPS11255X     | Gte Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul con TPR Anti-Impacto | 19410.11  
+DPS11356X     | Gte. Nitrilo Baño Completo Azul Largo Total 30 cm Con TPR Anti-Impacto | 34721.00  
+DPS10255X     | Gte. Baño de Nitrilo Completo Palma Reforzada Puño Lona Ref. TPR Anti-Impacto | 36094.53  
+DPS11955X     | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul de 14cm con TPR Anti-Impacto | 21403.87  
+DPS11455X     | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona resistente al corte y Aplicaciones en dorsoTPR Anti-Impacto | 39376.29  
+NUB3245P100   | Delantal Impermeable PE 10g Azul, 90*70 cm                   | 17043.25  
+NUB0251       | Mameluco Descartable 45 g/m2, Talle M, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | 4258.44   
+NUB0351       | Mameluco Descartable 45 g/m2, Talle L, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | 4258.44   
+NUB0451       | Mameluco Descartable 45 g/m2, Talle XL, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | 4258.44   
+NUB0551       | Mameluco Descartable 45 g/m2, Talle 2XL, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | 4258.44   
+NUB0651       | Mameluco Descartable 45 g/m2, Talle 3XL, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | 4258.44   
+NUB0241       | Mameluco Descartable Económico Respirable Blanco PP 30g Talle M | 3524.14   
+NUB0341       | Mameluco Descartable Económico Respirable Blanco PP 30g Talle L | 3524.14   
+NUB0441       | Mameluco Descartable Económico Respirable Blanco PP 30g Talle XL | 3524.14   
+NUB0541       | Mameluco Descartable Económico Respirable Blanco PP 30g Talle 2XL | 3524.14   
+NUB0641       | Mameluco Descartable Económico Respirable Blanco PP 30g Talle 3XL | 3524.14   
+NUB0201       | Mameluco Descartable 60 g/m2, Talle M, Blanco Respirable Laminado PP+PE, Tipo 5/6 | 6542.12   
+NUB0301       | Mameluco Descartable 60 g/m2, Talle L, Blanco Respirable Laminado PP+PE, Tipo 5/6 | 6542.12   
+NUB0401       | Mameluco Descartable 60 g/m2, Talle XL, Blanco Respirable Laminado PP+PE, Tipo 5/6 | 6542.12   
+NUB0501       | Mameluco Descartable 60 g/m2, Talle 2XL, Blanco Respirable Laminado PP+PE, Tipo 5/6 | 6542.12   
+NUB0601       | Mameluco Descartable 60 g/m2, Talle 3XL, Blanco Respirable Laminado PP+PE, Tipo 5/6 | 6542.12   
+NUB0242       | Traje de Proteccion Quimica Descartable 75 g/m2, Talle M, Amarillo SMS+PE, Tipo 3/4/5/6 | 24899.50  
+NUB0342       | Traje de Proteccion Quimica Descartable 75 g/m2, Talle L, Amarillo SMS+PE, Tipo 3/4/5/6 | 24899.50  
+NUB0442       | Traje de Proteccion Quimica Descartable 75 g/m2, Talle XL, Amarillo SMS+PE, Tipo 3/4/5/6 | 24899.50  
+NUB0542       | Traje de Proteccion Quimica Descartable 75 g/m2, Talle 2XL, Amarillo SMS+PE, Tipo 3/4/5/6 | 24899.50  
+NUB0642       | Traje de Proteccion Quimica Descartable 75 g/m2, Talle 3XL, Amarillo SMS+PE, Tipo 3/4/5/6 | 24899.50  
+NUB1432       | Traje de Proteccion Quimica Descartable 90 g/m2, Talle XL, Amarillo Premium SMS+PE, Tipo 3/4/5/6 | 80753.47  
+NUB1532       | Traje de Proteccion Quimica Descartable 90 g/m2, Talle 2XL, Amarillo Premium SMS+PE, Tipo 3/4/5/6 | 80753.47  
+NUB16041      | Guardapolvo Descartable Blanco Cierre de Broches             | 11218.80  
+NUB9025P100   | Manga de PE Azul, Talle Unico x 100 unidades                 | 3904.36   
+NUB17041P50   | Camisolin de PP 20g Blanco, Talle Unico X 50 unidades        | 63006.81  
+NUB11040P100  | Cofia Plisada Descartable PP Celeste, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | 4807.38   
+NUB11040P1000 | Cofia Plisada Descartable PP 10g Celeste, Doble Elástico, Largo 45 cm (18") | 36527.03  
+NUB11041P100  | Cofia Plisada Descartable PP Blanca, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | 4807.38   
+NUB11041P1000 | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 45 cm (18") | 36527.03  
+NUB11043P100  | Cofia Plisada Descartable PP Naranja, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | 4807.38   
+NUB11043P1000 | Cofia Plisada Descartable PP 10g Naranja, Doble Elástico, Largo 45 cm (18") - Pack 1000 Unidades | 36527.03  
+NUB11044P100  | Cofia Plisada Descartable PP Verde, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | 4807.38   
+NUB11044P1000 | Cofia Plisada Descartable PP 10g Verde, Doble Elástico, Largo 45 cm (18") | 36527.03  
+NUB11045P100  | Cofia Plisada Descartable PP Azul, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | 4807.38   
+NUB11045P1000 | Cofia Plisada Descartable PP 10g Azul, Doble Elástico, Largo 45 cm (18") - Pack 1000 Unidades | 36527.03  
+NUB11046P100  | Cofia Plisada Descartable PP Rojo, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | 4807.38   
+NUB11046P1000 | Cofia Plisada Descartable PP 10g Rojo, Doble Elástico, Largo 45 cm (18") Pack 1000 Unidades | 36527.03  
+NUB11140P1000 | Cofia Plisada Descartable PP Celeste, Doble Elástico, Largo 53 cm (21") - Pack 1000 Unidades | 38898.64  
+NUB11141P100  | Cofia Plisada Descartable PP Blanca, Doble Elástico, Largo 53 cm (21") - Pack 100 Unidades | 6546.87   
+NUB11141P1000 | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 53 cm (21") - Pack 1000 Unidades | 38898.64  
+NUB11141      | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 53 cm (21") | 201.99    
+NUB11046      | Cofia Plisada Descartable PP 10g Rojo, Doble Elástico, Largo 45 cm (18") | 135.45    
+NUB11045      | Cofia Plisada Descartable PP 10g Azul, Doble Elástico, Largo 45 cm (18") | 135.45    
+NUB11044      | Cofia Plisada Descartable PP 10g Verde, Doble Elástico, Largo 45 cm (18") | 135.45    
+NUB11043      | Cofia Plisada Descartable PP 10g Naranja, Doble Elástico, Largo 45 cm (18") | 135.45    
+NUB11041      | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 45 cm (18") | 135.45    
+NUB11040      | Cofia Plisada Descartable PP 10g Celeste, Doble Elástico, Largo 45 cm (18") | 135.45    
+NUB12041P100  | Cubre Calzado Descartable PP Blanco 45x16 cm - Pacl 100 Unidades | 8352.91   
+NUB12041P1000 | Cubre Calzado Descartable PP 30g Blanco 45x16 cm - Pack 1000 Unidades | 68087.47  
+NUB12041      | Cubre Calzado Descartable PP 30g Blanco 45x16 cm             | 270.91    
+NUB13041P100  | Cubre Barba Descartable Completo PP 10g Blanca Largo 18" (45 cm) - Pack 100 Unidades | 36752.78  
+NUB13041P1000 | Cubre Barba Descartable Completo PP 10g Blanca Largo 18" (45 cm) | 328020.85 
+NUB13041      | Cubre Barba Descartable Completo PP 10g Blanca Largo 18" (45 cm) | 496.66    
+NUB10005      | Campera de Frio Azul - Talle XS                              | 56053.58  
+NUB10105      | Campera de Frio Azul - Talle S                               | 56053.58  
+NUB10205      | Campera de Frio Azul - Talle M                               | 56053.58  
+NUB10305      | Campera de Frío Azul - Talle L                               | 56053.58  
+NUB10405      | Campera de Frío Azul - Talle XL                              | 56053.58  
+NUB10505      | Campera de Frio Azul - Talle 2XL                             | 56053.58  
+NUB10605      | Campera de Frío Azul - Talle 3XL                             | 56053.58  
+NUB04015      | Campera de Frio Aviador Azul - Talle XS                      | 70637.30  
+NUB04215      | Campera de Frio Aviador Azul - Talle M                       | 70637.30  
+NUB04315      | Campera de Frio Aviador Azul - Talle L                       | 70637.30  
+NUB04415      | Campera de Frio Aviador Azul - Talle XL                      | 70637.30  
+NUB04515      | Campera de Frio Aviador Azul - Talle 2XL                     | 70637.30  
+NUB03415      | Chaleco Azul - Talle XL                                      | 47249.17  
+NUB03515      | Chaleco Azul - Talle 2XL                                     | 47249.17  
+NUB03615      | Chaleco Azul - Talle 3XL                                     | 47249.17  
+NUB10017      | Campera de frio Amarillo fluo Talle XS con aplicaciones reflectivas | 74950.39  
+NUB10117      | Campera de frio Amarillo fluo Talle S con aplicaciones reflectivas | 74950.39  
+NUB10217      | Campera de frio Amarillo fluo Talle M con aplicaciones reflectivas | 74950.39  
+NUB10317      | Campera de frio Amarillo fluo Talle L con aplicaciones relfectivas | 74950.39  
+NUB10417      | Campera de frio Amarillo fluo Talle XL con aplicaciones reflectivas | 74950.39  
+NUB10517      | Campera de frio Amarillo fluo Talle 2XL con aplicaciones reflectivas | 74950.39  
+NUB10617      | Campera de frio Amarillo fluo Talle 3XL con aplicaciones reflectivas | 74950.39  
+NUB10016      | Campera de frio Naranja fluo con aplicaciones reflectivas Talle XS | 74950.39  
+NUB10116      | Campera de frio Naranja fluo con aplicaciones reflectivas Talle S | 74950.39  
+NUB10216      | Campera de frio Naranja fluo con aplicaciones reflectivas Talle M | 74950.39  
+NUB10316      | Campera de frio Naranja fluo con aplicaciones reflectivas Talle L | 74950.39  
+NUB10416      | Campera de frio Naranja Fluo con aplicaciones reflectivas Talle XL | 74950.39  
+NUB10516      | Campera de frio Naranja fluo con aplicaciones reflectivas Talle 2XL | 74950.39  
+NUB10616      | Campera de frio Naranja Fluo con aplicaciones reflectivas Talle 3XL | 74950.39  
+NUB02109      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle S | 67410.20  
+NUB02209      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle M | 67410.20  
+NUB02309      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle L | 67410.20  
+NUB02409      | Campera Rompeviento impermeable bolso con aplicaciones relfectivas Talle XL | 67410.20  
+NUB02509      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 2XL | 67410.20  
+NUB02609      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 3XL | 67410.20  
+NUB02709      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 4XL | 67410.20  
+NUB02809      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 5XL | 67410.20  
+NUB02909      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 6XL | 67410.20  
+NUB01009      | Campera Softshell Negra Talle XS                             | 68969.10  
+NUB01109      | Campera Softshell Negra Talle S                              | 68969.10  
+NUB01209      | Campera Softshell Negra Talle M                              | 68969.10  
+NUB01309      | Campera Softshell Negra Talle L                              | 68969.10  
+NUB01409      | Campera Softshell Negra Talle XL                             | 68969.10  
+NUB01509      | Campera Softshell Negra Talle 2XL                            | 68969.10  
+NUB01609      | Campera Softshell Negra Talle 3XL                            | 68969.10  
+NUB01709      | Campera Softshell Negra Talle 4XL                            | 68969.10  
+NUB01809      | Campera Softshell Negra Talle 5XL                            | 68969.10  
+NUB01909      | Campera Softshell Negra Talle 6XL                            | 68969.10  
+NUB01005R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle XS | 62895.12  
+NUB01105R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle S | 62895.12  
+NUB01205R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle M | 62895.12  
+NUB01305R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle L | 62895.12  
+NUB01405R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle XL | 64316.18  
+NUB01505R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 2XL | 64316.18  
+NUB01605R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 3XL | 64316.18  
+NUB01705R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 4XL | 64316.18  
+NUB01805R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 5XL | 64316.18  
+NUB01905R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 6XL | 64316.18  
+NUB5102       | Trajes de lluvia Amarillo - Talle S (1) Premium              | 28739.70  
+NUB5202       | Trajes de lluvia Amarillo - Talle M (2) Premium              | 28739.70  
+NUB5302       | Trajes de lluvia Amarillo - Talle L (3) Premium              | 28739.70  
+NUB5402       | Trajes de lluvia Amarillo Talle XL (4) Premium               | 28739.70  
+NUB5502       | Trajes de lluvia Amarillo Talle 2XL (5) Premium              | 28739.70  
+NUB5602       | Trajes de lluvia Amarillo - Talle 3XL (6) Premium            | 28739.70  
+NUB5702       | Trajes de lluvia Amarillo - Talle 4XL (7) Premium            | 33908.28  
+NUB5802       | Trajes de lluvia Amarillo - Talle 5XL (8) Premium            | 33908.28  
+NUB5902       | Trajes de lluvia Amarillo-Talle 6XL (9) Premium              | 33908.28  
+NUB5105       | Trajes de lluvia Azul-Talle S (1) Premium                    | 28739.70  
+NUB5205       | Trajes de lluvia Azul-Talle M (2) Premium                    | 28739.70  
+NUB5305       | Trajes de lluvia Azul-Talle L (3) Premium                    | 28739.70  
+NUB5405       | Trajes de lluvia Azul-Talle XL (4) Premium                   | 28739.70  
+NUB5505       | Trajes de lluvia Azul-Talle 2XL (5) Premium                  | 28739.70  
+NUB5605       | Trajes de lluvia Azul-Talle 3XL (6) Premium                  | 28739.70  
+NUB5705       | Trajes de lluvia Azul-Talle 4XL (7) Premium                  | 33908.28  
+NUB5805       | Trajes de lluvia Azul-Talle 5XL (8) Premium                  | 33908.28  
+NUB5905       | Trajes de lluvia Azul-Talle 6XL (9) Premium                  | 33908.28  
+NUB2202       | Capas de lluvia Amarilla-Talle M (2)                         | 15035.23  
+NUB2302       | Capas de lluvia Amarilla-Talle L (3)                         | 15035.23  
+NUB2402       | Capas de lluvia Amarilla-Talle XL (4)                        | 15035.23  
+NUB2502       | Capas de lluvia Amarilla-Talle 2XL (5)                       | 15035.23  
+NUB2602       | Capas de lluvia Amarilla-Talle 3XL (6)                       | 15035.23  
+NUB0001       | Poncho PE Transparente 100 x 125 cm, 0.0018MM                | 2347.84   
+NUB0202       | Poncho PVC Amarillo 125X100, 0.10MM                          | 6095.36   
+NUB1102       | Trajes de lluvia Amarillo-Talle S (1)                        | 18979.99  
+NUB1202       | Trajes de lluvia Amarillo-Talle M (2)                        | 18979.99  
+NUB1302       | Trajes de lluvia Amarillo-Talle L (3)                        | 18979.99  
+NUB1402       | Trajes de lluvia Amarillo-Talle XL (4)                       | 18979.99  
+NUB1502       | Trajes de lluvia Amarillo-Talle 2XL (5)                      | 18979.99  
+NUB1602       | Trajes de lluvia Amarillo-Talle 3XL (6)                      | 18979.99  
+NUB1702       | Trajes de lluvia Jardinero Amarillo-Talle 4XL (7)            | 21083.07  
+NUB1802       | Trajes de lluvia Jardinero Amarillo-Talle 5XL (8)            | 21083.07  
+NUB1902       | Trajes de lluvia Jardinero Amarillo-Talle 6XL (9)            | 21083.07  
+NUB3601       | Delantal de PVC 75x120 cm Blanco                             | 6542.12   
+NUB3501       | Delantal de PVC 90x120 cm Blanco                             | 8020.22   
+NUB3611       | Delantal de PVC 75x120 cm Blanco Con Refuerzo                | 7891.89   
+NUB3511       | Delantal de PVC 90x120 cm Blanco Con Refuerzo                | 8172.30   
+NUB3604       | Delantal de PVC 75x120 cm Verde                              | 6542.12   
+NUB3504       | Delantal de PVC 90x120 cm Verde                              | 8020.22   
+NUB3614       | Delantal de PVC 75x120 cm Verde Con Refuerzo                 | 7891.89   
+NUB3514       | Delantal de PVC 90x120 cm Verde Con Refuerzo                 | 8172.30   
+NUB1001       | Manga PVC Blanca, Espesor 0.32 mm, Tamaño 43x19 cm           | 7335.82   
+NUB5108       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas - Talle S (1) Premium | 47384.62  
+NUB5208       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle M (2) Premium | 47384.62  
+NUB5308       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle L (3) Premium | 47384.62  
+NUB5408       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle XL (4) Premium | 47384.62  
+NUB5508       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle 2XL (5) Premium | 47384.62  
+NUB5608       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle 3XL (6) Premium | 47384.62  
+NUB5708       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas - Talle 4XL (7) Premium | 47384.62  
+NUB5808       | Trajes de lluvia Alta Visibilidad  con aplicaciones reflectivas -Talle 5XL (8) Premium | 47384.62  
+NUB5908       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas - Talle 6XL (9) Premium | 47384.62  
+NUB6414       | Chaleco Amarillo Poliéster XL con aplicaciones reflectivas   | 7678.02   
+NUB6514       | Chaleco Amarillo Poliéster 2XL con aplicaciones reflectivas  | 7678.02   
+NUB7506       | Chaleco Económico Amarillo Poliéster, Tamaño 62x68 cm con aplicaciones reflectivas | 2594.99   
+NUB7507       | Chaleco Económico Naranja Poliéster, Tamaño 62x68 cm con aplicaciones reflectivas | 2594.99   
+NUB6416       | Chaleco Naranja Poliéster XL con aplicaciones reflectivas    | 7678.02   
+NUB6516       | Chaleco Naranja Poliéster 2XL con aplicaciones reflectivas   | 7678.02   
+NUB8407       | Bandolera Económica Amarillo Flúo con Reflectivo, Talle Único | 4374.88   
+NUB8406       | Bandolera Económica Naranja Flúo con Reflectivo, Talle Único | 4374.88   
+NUB8507       | Bandolera Premium Elastizada Amarillo Flúo, Ancho 4 cm, Mat. Reflectivo 1.5 cm | 7678.02   
+NUB8506       | Bandolera Premium Elastizada Naranja Flúo, Ancho 4 cm, Mat. Reflectivo 1.5 cm | 7678.02   
+NUB19025      | Remera Poliester Azul Economica Talle XS                     | 7856.25   
+NUB19125      | Remera Poliester Azul Economica Talle S                      | 7856.25   
+NUB19225      | Remera Poliester Azul Economica Talle M                      | 7856.25   
+NUB19325      | Remera Poliester Azul Economica Talle L                      | 7856.25   
+NUB19425      | Remera Poliester Azul Economica Talle XL                     | 7856.25   
+NUB19525      | Remera Poliester Azul Economica Talle XXL                    | 8554.90   
+NUB19625      | Remera Poliester Azul Economica Talle 3XL                    | 8554.90   
+NUB19725      | Remera Poliester Azul Economica Talle 4XL                    | 8554.90   
+NUB19018      | Remera Poliester Modal Gris Premium Talle XS                 | 11085.72  
+NUB19118      | Remera Poliester Modal Gris Premium Talle S                  | 11085.72  
+NUB19218      | Remera Poliester Modal Gris Premium Talle M                  | 11085.72  
+NUB19318      | Remera Poliester Modal Gris Premium Talle L                  | 11085.72  
+NUB19418      | Remera Poliester Modal Gris Premium Talle XL                 | 11085.72  
+NUB19518      | Remera Poliester Modal Gris Premium Talle XXL                | 12055.27  
+NUB19618      | Remera Poliester Modal Gris Premium Talle 3XL                | 12055.27  
+NUB19718      | Remera Poliester Modal Gris Premium Talle 4XL                | 12055.27  
+NUB19015      | Remera Poliester Modal Azul Premium Talle XS                 | 11085.72  
+NUB19115      | Remera Poliester Modal Azul Premium Talle S                  | 11085.72  
+NUB19215      | Remera Poliester Modal Azul Premium Talle M                  | 11085.72  
+NUB19315      | Remera Poliester Modal Azul Premium Talle L                  | 11085.72  
+NUB19415      | Remera Poliester Modal Azul Premium Talle XL                 | 11085.72  
+NUB19515      | Remera Poliester Modal Azul Premium Talle XXL                | 12055.27  
+NUB19615      | Remera Poliester Modal Azul Premium Talle 3XL                | 12055.27  
+NUB19715      | Remera Poliester Modal Azul Premium Talle 4XL                | 12055.27  
+NUB19019      | Remera Poliester Modal Negra Premium Talle XS                | 11085.72  
+NUB19119      | Remera Poliester Modal Negra Premium Talle S                 | 11085.72  
+NUB19219      | Remera Poliester Modal Negra Premium Talle M                 | 11085.72  
+NUB19319      | Remera Poliester Modal Negra Premium Talle L                 | 11085.72  
+NUB19419      | Remera Poliester Modal Negra Premium Talle XL                | 11085.72  
+NUB19519      | Remera Poliester Modal Negra Premium Talle XXL               | 12055.27  
+NUB19619      | Remera Poliester Modal Negra Premium Talle 3XL               | 12055.27  
+NUB19719      | Remera Poliester Modal Negra Premium Talle 4XL               | 12055.27  
+NUB19017      | Remera Poliester Modal Amarilla Fluo Premium Talle XS Proteccion Ultra Violeta UPF50+ "EN13758-1" | 11085.72  
+NUB19117      | Remera Poliester Modal Amarilla Fluo Premium Talle S Proteccion Ultra Violeta UPF50+ "EN13758-1" | 11085.72  
+NUB19217      | Remera Poliester Modal Amarilla Fluo Premium Talle M Proteccion Ultra Violeta UPF50+ "EN13758-1" | 11085.72  
+NUB19317      | Remera Poliester Modal Amarilla Fluo Premium Talle L Proteccion Ultra Violeta UPF50+ "EN13758-1" | 11085.72  
+NUB19417      | Remera Poliester Modal Amarilla Fluo Premium Talle XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 11085.72  
+NUB19517      | Remera Poliester Modal Amarilla Fluo Premium Talle XXL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 12055.27  
+NUB19617      | Remera Poliester Modal Amarilla Fluo Premium Talle 3XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 12055.27  
+NUB19717      | Remera Poliester Modal Amarilla Fluo Premium Talle 4XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 12055.27  
+NUB19013      | Remera Poliester Modal Naranja Fluo Premium Talle XS Proteccion Ultra Violeta UPF50+ "EN13758-1" | 11085.72  
+NUB19113      | Remera Poliester Modal Naranja Fluo Premium Talle S Proteccion Ultra Violeta UPF50+ "EN13758-1" | 11085.72  
+NUB19213      | Remera Poliester Modal Naranja Fluo Premium Talle M Proteccion Ultra Violeta UPF50+ "EN13758-1" | 11085.72  
+NUB19313      | Remera Poliester Modal Naranja Fluo Premium Talle L Proteccion Ultra Violeta UPF50+ "EN13758-1" | 11085.72  
+NUB19413      | Remera Poliester Modal Naranja Fluo Premium Talle XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 11085.72  
+NUB19513      | Remera Poliester Modal Naranja Fluo Premium Talle XXL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 12055.27  
+NUB19613      | Remera Poliester Modal Naranja Fluo Premium Talle 3XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 12055.27  
+NUB19713      | Remera Poliester Modal Naranja Fluo Premium Talle 4XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 12055.27  
+NUB18109      | Faja Lumbar Talle S Premium 6 Ballenas                       | 17449.61  
+NUB18209      | Faja Lumbar Talle M Premium 6 Ballenas                       | 17449.61  
+NUB18309      | Faja Lumbar Talle L Premium 6 Ballenas                       | 17449.61  
+NUB18409      | Faja Lumbar Talle XL Premium 6 Ballenas                      | 17449.61  
+NUB18509      | Faja Lumbar Talle XXL Premium 6 Ballenas                     | 17449.61  
+NUB18609      | Faja Lumbar Talle 3XL Premium 6 Ballenas                     | 17449.61  
+NUB18109E     | Faja Lumbar Talle S Economica                                | 14424.51  
+NUB18209E     | Faja Lumbar Talle M Economica                                | 14424.51  
+NUB18309E     | Faja Lumbar Talle L Economica                                | 14424.51  
+NUB18409E     | Faja Lumbar Talle XL Economica                               | 14424.51  
+NUB18509E     | Faja Lumbar Talle 2XL Economica                              | 14424.51  
+NUB18609E     | Faja Lumbar Talle 3XL Economica                              | 14424.51  
+UCU011T       | Protector Auditivo Endoaural PU Descartable 27,2dB           | 299.42    
+UCU012T       | Protector Auditivo Endoaural PU Descartable Con Cordón 27,2dB | 579.83    
+UCU012TD      | Protector Auditivo Endoaural PU Descartable Con Cordón Metal Detectable 27,2dB | 836.48    
+UCU010T       | Protector Auditivo Endoaural con Cordón Reutilizable 26,2dB  | 620.23    
+UCU010TD      | Protector Auditivo Endoaural con Cordón Reutilizable con Metal Detectable 26,2dB | 1157.29   
+UCU120T       | Protector Auditivo de Copa Tipo Vincha Amarillo Fluo 25,5dB  | 13103.25  
+UCU120TB      | Protector Auditivo de Copa Tipo Vincha Fluo Bluetooth        | 157982.79 
+UCU0003CD     | PALLET ANTIDERRAME 1 TAMBOR ESTÁTICO Contención 43 L Carga 500 Kg - 0.67x0.67x0.15m Reforzado | 245822.56 
+UCU0004CD     | PALLET ANTIDERRAME 2 TAMBORES ESTATICO Contencion 70 L Carga 1200 Kg - 1.30x0.68x0.15m | 302555.78 
+UCU0005CD     | Pallet Antiderrame 4 Tambores Apto Autoelevador Contención 120 L Carga 2600 Kg - 1.30x1.30x0.15m | 567296.54 
+UCU0006CD     | PALLET ANTIDERRAME 1 TAMBOR APTO AUTOELEVADOR Contención 40 L Carga 500 Kg (0.72x0.72x0.155m) | 642947.96 
+UCU0001CD     | PALLET ANTIDERRAME 2 TAMBORES APTO AUTOELEVADOR Contención 150 L Carga 1200 Kg 1.30×0.68x0.30m REFORZADO | 718597.01 
+UCU0002CD     | PALLET ANTIDERRAME 4 TAMBORES APTO AUTOELEVADOR Contención 280 L Carga 3000 Kg 1.30x1.30x0.30m REFORZADO | 1229186.47
+UCU0001DI     | Ducha Lavaojos Acero Inoxidable Económica                    | 876016.60 
+UCU0002DI     | Ducha Lavaojos Acero Inoxidable Premium                      | 1335901.67
+UCU9001DI     | Repuesto Rociador para Lavaojos de Duchas UCU0001DI - UCU0002DI | 26232.64  
+UCU111B       | B. Monolente rigido de vanguardia transparente K             | 1551.76   
+UCU112B       | B. Monolente rigido de vanguardia Negro K                    | 1551.76   
+UCU111D       | Kit B. Monolente Rigido Transparente K con Prot. Facial Sanitario | 4277.45   
+UCU021E       | E. Anteojo transparente, K, Patilla recta regulable          | 1901.09   
+UCU022E       | E. Anteojo Negro, K, Patilla recta regulable                 | 1901.09   
+UCU021A       | A. Ant.  N, transp, K, supervisor Antiempañe                 | 3928.12   
+UCU022A       | A. Ant  N, negro, K, supervisor Antiempañe                   | 3928.12   
+UCU091B       | B. Ant. Transparente patilla extensible pte. silicona Trat.K | 6207.05   
+UCU092B       | B. Ant. Negro patilla extensible pte. silicona Trat.K        | 6207.05   
+UCU083B       | B. Ant. , puente silicona, liviano Amarillo. K               | 7651.88   
+UCU091A       | A. Ant. Transparente patilla extensible pte. silicona Trat.K N Antiempañe | 6568.26   
+UCU092A       | A. Ant. Negro patilla extensible pte. silicona Trat.K N Antiempañe | 6568.26   
+UCU092F       | F. Ant. Espejado I/O patilla extensible pte. silicona Trat.K | 6568.26   
+UCU132B       | B. Anteojo marco Metalico, negro, K.                         | 13093.74  
+UCU081A       | A. Ant. transparente, extremo confort, patilla antideslizante. KN Antiempañe UV385 | 7471.28   
+UCU082A       | A. Ant. gris,extremo confort , patilla ergonomica antideslizante.  K N Antiempañe UV400 | 7471.28   
+UCU041B       | B. Ant. Transparente Pat. flexe. pte. silic. "Bandido"       | 8963.63   
+UCU042B       | B. Ant. Negro Pat. flexe. pte. silic. "Bandido"              | 8963.63   
+UCU321B       | B. Antiparra, ventilación directa Tratamiento K, transparente | 10465.49  
+UCU142A       | A. Ant. negro, ergonomico, pat cricket y extensible.  K N Antiempañe | 7651.88   
+UCU351A       | Antiparra ergonomica transparente Antiempañe                 | 11513.46  
+UCU352A       | Antiparra ergonomica Negro Antiempañe                        | 11513.46  
+UCU341A       | Protector Ocular Transparente KN, Ergonómico, Patillas Intercambiables, Banda Sujeción | 19167.72  
+UCU342A       | F. Ant Negro ergonomico, patillas intercamb banda sujecion   | 19167.72  
+UCU381A       | F. Ant. Premium Transparente Ergonómico, Banda de Sujeción, Prot. Espuma | 13093.74  
+UCU382A       | F. Ant. Premium Negro Ergonómico, Banda de Sujeción, Prot. Espuma | 13093.74  
+UCU371A       | Antiparra Ergonómica Transparente Premium, Banda de Sujeción, K N | 14876.01  
+UCU372A       | Antiparra Ergonómica Negro premium, Banda de Sujeción, K N   | 14876.01  
+UCU331A       | A. Antiparra Vent. Indirec. Trat. K, N . Vista panoramica    | 13093.74  
+UCU351S       | Antiparra ergonomica para soldadura IR5                      | 38107.31  
+UCU361S       | F. Ant ergonomico, patillas intercamb banda sujecion Soldadura IR5 | 46866.57  
+UCU101B       | B. Pte de silicona. P Intercambiables con portalentes        | 21311.20  
+UCU102B       | B. Pte de silicona. P Intercambiables con portalentes. Gris  | 21311.20  
+UCU161B       | B. Marco metalico para cristales recetados                   | 43637.10  
+UCU151B       | B. Marco metalico para cristales recetados                   | 58380.04  
+UCU181B       | B. Ant. Premium Marco Metálico Negro, Para Cristales Recetados, Prot. Lateral PC | 88697.64  
+UCU191B       | B. Ant. Premium, Marco TR-90 Resistente Negro, Para Cristales Recetados | 76915.64  
+UCU411A       | Mascara de proteccion., ergonomica .  K N Antiempañe         | 76034.01  
+UCU0001PV     | Cono PE Base Goma Económico 500 mm Rígido y 1 Banda Reflectiva 10 cm 1.5kg | 11860.41  
+UCU0002PV     | Cono PE Base Goma Económico 750 mm Rígido y 2 Bandas Reflectivas 10 cm 2.5kg | 15826.56  
+UCU0003PV     | Cono PE Base Goma Económico 1000 mm Rígido y 2 Bandas Reflectivas 10 cm 5kg | 26379.97  
+UCU0001PVE    | Cono Goma Económico 500 mm  y 2 Bandas Reflec. 10 cm         | 12031.51  
+UCU0004PV     | Cono 100% PVC Premium 470 mm con Memoria y 1 Banda Reflectiva 8 cm 0.9kg | 18466.69  
+UCU0005PV     | Cono 100% PVC Premium 700 mm con Memoria y 2 Bandas Reflectivas 10 cm 2.3kg | 34314.64  
+UCU0006PV     | Cono 100% PVC Premium 900 mm con Memoria y 2 Bandas Reflectivas 10 cm 4.3kg | 52802.72  
+UCU0008PV     | Cono 100% PE Base Goma Autopista 1100 mm Rígido 2 Bandas Reflectivas 8+16 cm 4.45kg | 73370.11  
+UCU0500PV     | Malla Naranja Reticulada Plástica Liviana, Rollo de 1x45 m 2,56kg | 22278.38  
+UCU0107PV     | Cadena de PE 4 mm Amarilla y Negra - ECONOMICA               | 1285.61   
+UCU0108PV     | Cadena de PE 4 mm Roja y Blanca - ECONOMICA                  | 1285.61   
+UCU0100PV     | Cadena de PE 6 mm Roja y Blanca - ECONOMICO                  | 1760.88   
+UCU0104PV     | Cadena de PE 6 mm Amarilla y Negra - ECONOMICO               | 1760.88   
+UCU0109PV     | Cadena de PE 6 mm Naranja Flúo                               | 2031.79   
+UCU0101PV     | Cadena de PE 8 mm Roja y Blanca                              | 2167.24   
+UCU0105PV     | Cadena de PE 8 mm Amarilla y Negra                           | 2167.24   
+UCU0102PV     | Cadena de PE 8 mm Naranja Flúo                               | 2461.91   
+UCU0103PV     | Cadena de PE 12 mm Marrón                                    | 14472.03  
+UCU0106PV     | Gancho "S" Para Extensión de Cadenas                         | 373.09    
+UCU0009PV     | Anillo Rojo de PE para Enganche de Cadenas Sobre Cono        | 1670.58   
+UCU0601PV     | Poste Demarcatorio PE Amarillo y Negro 90 cm Base Octogonal Para Rellenar | 18355.00  
+UCU0600PV     | Poste Demarcatorio PE Rojo y Blanco 90 cm Base Octogonal Para Rellenar | 18355.00  
+UCU0603PV     | Poste Bolardo PE Amarillo 75 cm Para Amurar, 3 Bandas Reflectivas 7.5 cm, Peso 630 g | 21311.20  
+UCU0900PV     | Protector de Columna Recto Caucho, Altura 80 cm Espesor 10 mm, 4 Bandas Reflectivas Amarillas, 2 kg | 17043.25  
+UCU0702PV     | Tope de Ruedas PVC , 58*11*8 cm, Bandas Reflectivas Amarillas, 2.6 kg | 23613.89  
+UCU0903PV     | Gancho para Cable PP Amarillo 25 cm                          | 2347.84   
+UCU0910PV     | Protector de Cable 2 Canales de Caucho / EVA, Tamaño 100*25*5 cm, Paso Canal 3*3 cm, Peso 7 kg | 94997.37  
+UCU0901PV     | Espejo Parabolico PC Vial Outdoor, Diametro 60 cm, Base PP Naranja | 115541.00 
+UCU0207PV     | Baliza de Señalización Intermitente LED Económica Carga Panel Solar | 31943.03  
+UCU0208PV     | Baliza de Señalización Giratoria LED Económica Con Soporte de Sujeción Carga Panel Solar | 32123.63  
+UCU0206PV     | Baliza de Señalización Intermitente LED Para Insertar en Cono Carga Panel Solar | 36346.43  
+UCU0402PV     | Faro Giratorio Ámbar Chico, 64 Luces LED, 11x11.5 cm, Cargador para Auto | 87457.18  
+UCU0400PV     | Faro Giratorio Ámbar Grande, 80 Luces LED, 13x16.3 cm, Cargador para Auto | 152769.06 
+UCU0401PV     | Bastón Luminoso LED Para Señalización Vial. Cargador USB     | 58425.19  
+UCU0210PV     | Tacha Reflectiva Amarilla ABS+PMMA, 10*10*2 cm               | 7064.92   
+UCU6200RM     | Mascara Medio Rostro TPE Talle M                             | 14925.92  
+UCU6200RL     | Mascara Medio Rostro TPE Talle L                             | 14925.92  
+UCU7502RS     | Mascara Medio Rostro Silicona Talle S                        | 19795.08  
+UCU7502RM     | Mascara Medio Rostro Silicona Talle M                        | 19795.08  
+UCU7502RL     | Mascara Medio Rostro Silicona Talle L                        | 19795.08  
+UCU6800RM     | Mascara Rostro Completo Silicona Talle M                     | 161000.77 
+UCU6800RL     | Mascara Rostro Completo Silicona Talle L                     | 161000.77 
+UCU0511RP2    | Pre Filtro Para Particulas P2 (Kit por dos unidades)         | 5446.62   
+UCU029R1      | Filtro Para Particulas P3 (Kit por dos unidades)             | 14990.08  
+UCU029R6      | Filtro Para Particulas P3 Alivio Niveles Molestos Gases Acidos (Kit por dos unidades) | 27879.46  
+UCU029R7      | Filtro Para Particulas P3 Ozono y Vapores Organicos (Kit por dos unidades) | 34186.31  
+UCU7093RP     | Cartucho Filtro Particulas P3 (Kit por dos unidades)         | 28031.54  
+UCU7093RC     | Cartucho Filtro Particulas P3 Fluoruro Hidrogeno Alivio Niveles Molestos Vapor Organico y Gas Acido (Kit por dos unidades) | 49349.87  
+UCU6000R1     | Cartucho Filtro Vapor Organico (Kit por dos unidades)        | 23784.99  
+UCU6000R3     | Cartucho Filtro Vapor Organico y Gas Acido (Kit por dos unidades) | 28202.64  
+UCU6000R4     | Cartucho Filtro Amoniaco Metilamina (Kit por dos unidades)   | 38646.74  
+UCU6000R6     | Cartucho Filtro Multi Gas Acido y Vapores Organicos (Kit por dos unidades) | 37895.81  
+UCU6000R7     | Cartucho Filtro Vapor de Mercurio, Vapor Organico y Gas Acido (Kit por dos unidades) | 47655.52  
+UCU6000R8     | Cartucho Mixto Multigas, Amoniaco y Particulas ABEK1 P3 R (Kit x Par) | 62346.18  
+UCU6000R9     | Cartucho Mixto Vapor Organico, Gases Acidos y Particulas A1E1 P3 R (Kit x Par) | 59577.72  
+UCU6204RP2    | Retenedor Para Prefiltro UCU0511R (Kit por dos unidades)     | 7399.99   
+UCU6205RP2    | Protector de Filtro Circular (Kit por dos unidades)          | 7399.99   
+UCU6202RP2    | Adaptador de Filtro Negro (Kit por dos unidades)             | 7528.31   
+UCU6203RP2    | Adaptador de Filtro Transparente (Kit por dos unidades)      | 9693.17   
+UCU6207R      | Valvula de Exhalacion Rectangular de Silicona (Kit x 25 unidades) | 74591.56  
+UCU6208R      | Valvula de Exhalacion Circular de Silicona (Kit x 25 unidades) | 44071.97  
+UCU6209R      | Valvula de Inhalacion de Latex (Kit x 25 unidades)           | 44071.97  
+UCU6201R      | Film Protector de Mascara Rostro Completo Transparente (Unitario) | 4374.88   
+UCU6206R      | Kit Adaptador de Cabeza                                      | 11881.80  
+UCU231RP2000  | Barbijo Tipo Mascarilla Tricapa Desechable Con Elásticos de Sujeción Pack x 2000 | 91677.59  
+UCU211R       | Mascarilla Descartable N95 Premium                           | 1157.29   
+UCU232R       | Mascarilla Descartable N95 Premium Con Válvula de Exhalación | 2100.70   
+UCU312R       | Mascarilla Descartable N95 Soldadura Vapor Orgánico, Válvula de Exhalación, Elastico Regulable, Cierre Ergonomico | 9586.24   
+UCU0001PI     | Armario Ignífugo 4 Galones Cierre Manual 560x430x460 mm      | 1248781.93
+UCU0002PI     | Armario Ignífugo 22 Galones Cierre Manual 1650x590x460 mm    | 2457446.16
+UCU0003PI     | Armario Ignífugo 30 Galones Cierre Manual 1120x1090x460 mm   | 3204671.17
+UCU0004PI     | Armario Ignífugo 45 Galones Cierre Manual 1650x1090x460 mm   | 3500114.50
+UCU0005PI     | Armario Ignífugo 60 Galones Cierre Manual 1650x860x860 mm    | 5945282.01
+UCU0006PI     | Armario Ignífugo 30 Galones Cierre Automático 1120x1090x460 mm | 3850710.78
+UCU0100PI     | Armario de emergencia para elementos de la brigada 1920x900x500 mm. | 7465917.15
+UCU1000S      | Máscara Para Soldar Fotosensible, Grado de Protección DIN 11 (Fijo) | 55535.53  
+UCU1500S      | Máscara Para Soldar Fotosensible, Grado de Protección DIN 9-13 (Regulador Externo) | 78583.85  
+UCU2000S      | Máscara Para Soldar Fotosensible Premium, Grado de Protección DIN 9-13 (Regulador Externo) | 129784.90 
+UCU2500S      | Máscara Para Soldar Fotosensible Premium "ROBOT", Grado de Protección DIN 9-13 (Regulador Externo) | 129784.90 
+UCU2501S      | Máscara Para Soldar Fotosensible Premium "CALAVERA", Grado de Protección DIN 9-13 (Regulador Externo) | 129784.90 
+UCU2510S      | Mascara Para Soldar Fotosensible Premium "ARGENTINA", Grado de Proteccion DIN 9-13 (Regulador Externo) | 129784.90 
+UCU2530S      | Máscara Para Soldar Fotosensible Premium con Equipo Respirador Purificador de Aire Motorizado (PAPR), Soldadura DIN 9-13 | 2318925.76
+UCU3000S      | Máscara Para Soldar Fotosensible Premium con Equipo Respirador Purificador de Aire Motorizado (PAPR), Soldadura DIN 9-13 | 4568067.32
+UCU3001SR     | Filtro HEPA Repuesto Mascara Para Soldar Fotosensible UCU3000S | 80347.11  
+UCU3002SR     | Batería Recargable Repuesto Mascara Para Soldar Fotosensible UCU3000S | 141818.79 
+UCU0203SI     | Cinta de Señalizacion Roja y Blanca. Peligro. Liviana (30 micrones) - Rollo 200 Mts | 9120.47   
+UCU0205SI     | Cinta de Señalizacion Amarilla y Negra. Precaucion. Liviana (30 micrones) - Rollo 200 Mts | 9120.47   
+UCU0202SI     | Cinta de Señalizacion Amarilla y Negra. Precaucion. Pesada (55 micrones) - Rollo 100 Mts | 15983.40  
+UCU0302PV     | Cinta Reflectiva Textil de 1 cm Para Costura                 | 541.81    
+UCU0301PV     | Cinta Reflectiva Textil de 5 cm Para Costura                 | 1580.28   
+UCU0001SI     | Cinta Adhesiva Antideslizante Negra 5 m (Largo) x 2.5 cm (Ancho) | 3566.92   
+UCU0002SI     | Cinta Adhesiva Antideslizante Negra 5 m (Largo) x 5 cm (Ancho) | 7064.92   
+UCU0006SI     | Cinta Adhesiva Antideslizante Negra 18 m (Largo) x 2.5 cm (Ancho) | 12392.72  
+UCU0007SI     | Cinta Adhesiva Antideslizante Negra 18 m (Largo) x 5 cm (Ancho) | 24878.11  
+UCU0003SI     | Cinta Adhesiva Antideslizante Negra/Amarilla 5 m (Largo) x 2.5 cm (Ancho) | 4942.83   
+UCU0004SI     | Cinta Adhesiva Antideslizante Negra/Amarilla 5 m (Largo) x 5 cm (Ancho) | 9909.42   
+UCU0009SI     | Cinta Adhesiva Antideslizante Negra/Amarilla 18 m (Largo) x 5 cm (Ancho) | 24811.57  
+UCU0011SI     | Cinta Adhesiva Antideslizante Transparente 5 m (Largo) x 2.5 cm (Ancho) Para Hogar y Hoteles | 6751.24   
+UCU0005SI     | Cinta Adhesiva Antideslizante Negra 5 m (Largo) x 5 cm (Ancho) Con Franja Fotoluminiscente de 1 cm (Ancho) | 19303.17  
+UCU0013SI     | Cinta Adhesiva Antideslizante Fotoluminiscente Plena 18 m (Largo) x 2.5 cm (Ancho) | 34561.78  
+UCU0001CS     | Cartel de Precaución "Piso Mojado"                           | 34811.30  
+UCU0002CS     | Cartel de Precaución "No Estacionar"                         | 34787.53  
+UCU0100SI     | Rodillera Económica Espuma Alta Densidad y Protección en PE  | 13138.89  
+UCU0101SI     | Rodillera Premium, Acolchado de Gel y Espuma, Protección en PVC | 30272.45  
+UCU0100DB     | Candado Termoplástico Rojo, Paso 20x38 mm de Acero Inoxidable | 8398.06   
+UCU0101DB     | Candado Termoplástico Amarillo, Paso 20x38 mm de Acero Inoxidable | 8398.06   
+UCU0102DB     | Candado Termoplástico Azul, Paso 20x38 mm de Acero Inoxidable | 8398.06   
+UCU0103DB     | Candado Termoplástico Naranja, Paso 20x38 mm de Acero Inoxidable | 8398.06   
+UCU0104DB     | Candado Termoplástico Negro, Paso 20x38 mm de Acero Inoxidable | 8398.06   
+UCU0105DB     | Candado Termoplástico Verde, Paso 20x38 mm de Acero Inoxidable | 8398.06   
+UCU0106DB     | Candado Termoplástico Violeta, Paso 20x38 mm de Acero Inoxidable | 8398.06   
+UCU0110DB     | Candado Termoplástico Rojo, Paso 20x76 mm de Acero Inoxidable | 13138.89  
+UCU0108DB     | Candado Termoplástico Rojo Dieléctrico, Paso 20x38 mm de Nylon | 8398.06   
+UCU0116DB     | Candado Termoplástico Amarillo Dieléctrico, Paso 20x38 mm de Nylon | 8398.06   
+UCU0117DB     | Candado Termoplástico Azul Dieléctrico, Paso 20x38 mm de Nylon | 8398.06   
+UCU0118DB     | Candado Termoplástico Naranja Dieléctrico, Paso 20x38 mm de Nylon | 8398.06   
+UCU0119DB     | Candado Termoplástico Negro Dieléctrico, Paso 20x38 mm de Nylon | 8398.06   
+UCU0120DB     | Candado Termoplástico Verde Dieléctrico, Paso 20x38 mm de Nylon | 8398.06   
+UCU0121DB     | Candado Termoplástico Violeta Dieléctrico, Paso 20x38 mm de Nylon | 8398.06   
+UCU0122DB     | Candado Termoplástico Rojo, Paso 20x76 mm de Cable           | 21242.28  
+UCU0123DB     | Candado Termoplástico Amarillo, Paso 20x76 mm de Cable       | 21242.28  
+UCU0124DB     | Candado Termoplástico Azul, Paso 20x76 mm de Cable           | 21242.28  
+UCU0125DB     | Candado Termoplástico Naranja, Paso 20x76 mm de Cable        | 21242.28  
+UCU0126DB     | Candado Termoplástico Negro, Paso 20x76 mm de Cable          | 21242.28  
+UCU0127DB     | Candado Termoplástico Verde, Paso 20x76 mm de Cable          | 21242.28  
+UCU0128DB     | Candado Termoplástico Violeta, Paso 20x76 mm de Cable        | 21242.28  
+UCU0200DB     | Pinza de Bloqueo, Cierre de 38 mm de Acero Inoxidable        | 7471.28   
+UCU0201DB     | Pinza de Bloqueo, Cierre de 25 mm de Aluminio                | 7314.44   
+UCU0204DB     | Pinza de Bloqueo, Cierre de 38 mm de Acero Pintado           | 13340.89  
+UCU0202DB     | Pinza de Bloqueo, Cierre de 38 mm de Aluminio                | 7787.33   
+UCU0206DB     | Pinza de Bloqueo, "No Operar", Tamaño 76x190 mm de Aluminio  | 28941.69  
+UCU0203DB     | Pinza de Bloqueo Dieléctrica, Cierre de 25x64 mm de Nylon    | 3904.36   
+UCU0205DB     | Pinza de Bloqueo Dieléctrica Tipo Candado, Tamaño 61x107 mm de Nylon | 14990.08  
+UCU0025DB     | Tarjeta "Fuera de Servicio", Tamaño 76x138 mm                | 1872.57   
+UCU0026DB     | Tarjeta "No Operar", Tamaño 76x138 mm - Material: Carton Laminado | 1872.57   
+UCU0022DB     | Porta Candados Para 12 Posiciones                            | 42125.73  
+UCU0007DB     | Caja de Bloqueo Grupal Roja 253x110x154 mm                   | 113238.31 
+UCU0016DB     | Caja de Bloqueo Grupal Amarilla 253x110x154 mm               | 113238.31 
+UCU0037DB     | Estación de Bloqueo Horizontal para 20 Candados, Tamaño 530x40x80 mm | 41650.46  
+UCU0035DB     | Estación de Bloqueo Plástica Chica, Tamaño 308x230x65 mm, 5 Posiciones | 223068.91 
+UCU0036DB     | Estación de Bloqueo Plástica Grande, Tamaño 567x395x63 mm, 16 Posiciones | 247562.06 
+UCU0027DB     | Estación de Bloqueo Multipropósito Portàtil, Tamaño 560x460x70 (30 ganchos) | 304497.26 
+UCU0028DB     | Estación de Bloqueo Acero Roja, Tamaño 450*600*85mm, 32 Posiciones | 347910.99 
+UCU0008DB     | Estación de Bloqueo Acero Amarilla, Tamaño 360x450x155 mm    | 329194.77 
+UCU0001DB     | Cable de Bloqueo Ajustable, Largo 2 Mts.                     | 37791.25  
+UCU0013DB     | Cable de Bloqueo Ajustable, Largo 2 Mts. con Palanca         | 47249.17  
+UCU0011DB     | Bloqueador Para Interruptores de Circuitos Miniatura (Abrazaderas hacia adentro) Largo 40 mm | 11784.37  
+UCU0012DB     | Bloqueador Para Interruptores de Circuitos Miniatura (Abrazaderas hacia afuera) Largo 40 mm | 2618.75   
+UCU0002DB     | Bloqueador Universal de Disyuntores Rojo (Requiere Herramientas Adicionales) 51*25*23 mm | 9814.37   
+UCU0006DB     | Bloqueador Universal de Disyuntores Rojo (No Requiere Herramientas Adicionales), Largo 52 mm | 25983.12  
+UCU0014DB     | Mini Bloqueador de Disyuntores Amarillo (Requiere Herramientas Adicionales) Largo 45 mm | 10408.46  
+UCU0015DB     | Mini Bloqueador de Disyuntores Verde (Requiere Herramientas Adicionales) Largo 45 mm | 10408.46  
+UCU0004DB     | Bloqueador de Disyuntores Para Palancas Medianas, Largo 70 mm | 22439.97  
+UCU0023DB     | Mini Bloqueador de Enchufes Eléctricos                       | 12666.00  
+UCU0029DB     | Bloqueador de Interruptor Tamaño 69x69 mm                    | 30182.15  
+UCU0024DB     | Bloqueador de Botón Grande, Tamaño 100x100x65 mm             | 34065.12  
+UCU0021DB     | Kit de Bloqueo de Interruptores, Largo de Barra 190 mm       | 51968.62  
+UCU0003DB     | Bloqueador Ajustable de Válvula Esférica, Tamaño 1/2" a 2-1/2" | 23682.80  
+UCU0020DB     | Bloqueador Metálico de Válvula Esférica, Tamaño 0,25" a 1"   | 23682.80  
+UCU0019DB     | Bloqueador Metálico de Válvula Esférica, Tamaño 1,25" a 3"   | 40160.48  
+UCU0005DB     | Bloqueador de Válvula Mariposa, Diámetro 1 a 2.5 mm          | 14876.01  
+UCU0009DB     | Bloqueador de Válvula Mariposa, Diámetro 2.5 a 5 mm          | 33162.10  
+UCU0017DB     | Bloqueador de Válvula Mariposa, Diámetro 6.5 a 10            | 73210.90  
+UCU0018DB     | Bloqueador de Válvula Mariposa, Diámetro 10 a 13             | 141818.79 
+UCU0010DB     | Bloqueador Ajustable de Válvula Mariposa, Diámetro 1 a 6.5   | 79013.97  
+UCU0034DB     | Bloqueador de Válvula Universal                              | 60547.28  
+UCU0030DB     | Bloqueador de Válvula Universal con Brazo                    | 93212.72  
+UCU0032DB     | Bloqueador de Válvula Universal con Cable                    | 85313.70  
+UCU0033DB     | Bloqueador de Válvula Universal con Brazo y Cable            | 129853.82 
+UCU0031DB     | Bloqueador de Válvula Universal con Doble Brazo              | 123508.93 
+DP0102        | Trapo 100% algodon para limpieza. Bolsa de 2kg               | 4921.44   
+DP0103        | Trapo 100% algodon para limpieza. Bolsa de 10kg              | 23364.37  
+DP0104        | Trapo 100% algodon para limpieza. Bolsa de 1/2kg             | 1354.53   
+UCU0001LM     | Carro de Limpieza Premium, PP Reforzado en Acero, 132x75x110 cm | 1415954.11

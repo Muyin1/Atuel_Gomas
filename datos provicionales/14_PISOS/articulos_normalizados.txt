@@ -1,0 +1,25 @@
+=== TABLA NORMALIZADA: PISOS ===
+Total de artículos únicos: 19
+===============================================================================================
+
+CODIGO                        | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA      | PRECIO (S/IVA)
+---------------------------------------------------------------------------------------------------
+PISO GRANO ARROZ              | PISOS GOMA          | 3MM X 1M                     | $23,628.76    
+PISO LISO                     | PISOS GOMA          | 2MM X 1M                     | $14,463.15    
+PISO BASTON                   | PISOS GOMA          | 3MM X 1M                     | $22,871.96    
+PISO BASTON                   | PISOS GOMA          | 3MM X 1,5M                   | $34,307.95    
+PISO BASTON                   | PISOS GOMA          | 2.5MM X 1M                   | $19,088.00    
+PISO CAMIFLEX                 | PISOS GOMA          | 3MM X 1M                     | $22,871.96    
+PISO CAMIFLEX                 | PISOS GOMA          | 3MM X 1,5M                   | $34,307.95    
+PISO MONEDA                   | PISOS GOMA          | 3MM X 1M                     | $22,871.96    
+PISO MONEDA                   | PISOS GOMA          | 3MM X 1,5M                   | $34,307.95    
+PISO MONEDA                   | PISOS GOMA          | 2.5MM X 1M                   | $19,088.00    
+PISO MONEDA PVC               | PISOS PVC           | 1,4 MT.                      | $6.52         
+PISO COLONIAL                 | PISOS PVC           | 1,4 MT.                      | $23.61        
+CUERINA TALAMPAYA Y AUTOMOTOR | PISOS PVC           | 1,4 MT.                      | $7.61         
+CUERINA PESADA                | PISOS PVC           | 1,4 MT.                      | $9.39         
+S/C                           | PISOS PVC           | CUERINAS - TAPICERIA ANCASTI | $2.66         
+CRISTAL N° 2 180              | PISOS PVC           | 1,40 MT.                     | $1.68         
+CRISTAL N° 3 250              | PISOS PVC           | 1,40 MT.                     | $2.31         
+CRISTAL N° 4 350              | PISOS PVC           | 1,40 MT.                     | $3.22         
+CRISTAL N° 5 500              | PISOS PVC           | 1,40 MT.                     | $4.09         

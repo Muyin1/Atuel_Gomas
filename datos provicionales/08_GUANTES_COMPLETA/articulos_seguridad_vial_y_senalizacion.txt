@@ -1,0 +1,39 @@
+=== TABLA NORMALIZADA: SEGURIDAD VIAL Y SENALIZACION ===
+Total de registros clasificados: 33
+===================================================================================================================
+
+CODIGO     | DESCRIPCION                                                       | TALLE/MEDIDA | MATERIAL  | COLOR | PRECIO (S/IVA)
+----------------------------------------------------------------------------------------------------------------------------------
+DPC014000  | Baliza Triangular Reflectante Para Emergencia                     |              |           |       | $8,600.05     
+NUB19025   | Remera Poliester Azul Economica Talle XS                          | XS           | Poliéster | Azul  | $7,856.25     
+NUB19125   | Remera Poliester Azul Economica Talle S                           | S            | Poliéster | Azul  | $7,856.25     
+NUB19225   | Remera Poliester Azul Economica Talle M                           | M            | Poliéster | Azul  | $7,856.25     
+NUB19325   | Remera Poliester Azul Economica Talle L                           | L            | Poliéster | Azul  | $7,856.25     
+NUB19425   | Remera Poliester Azul Economica Talle XL                          | XL           | Poliéster | Azul  | $7,856.25     
+NUB19525   | Remera Poliester Azul Economica Talle XXL                         | XXL          | Poliéster | Azul  | $8,554.90     
+NUB19625   | Remera Poliester Azul Economica Talle 3XL                         | 3XL          | Poliéster | Azul  | $8,554.90     
+NUB19725   | Remera Poliester Azul Economica Talle 4XL                         | 4XL          | Poliéster | Azul  | $8,554.90     
+NUB18109E  | Faja Lumbar Talle S Economica                                     | S            |           |       | $14,424.51    
+NUB18209E  | Faja Lumbar Talle M Economica                                     | M            |           |       | $14,424.51    
+NUB18309E  | Faja Lumbar Talle L Economica                                     | L            |           |       | $14,424.51    
+NUB18409E  | Faja Lumbar Talle XL Economica                                    | XL           |           |       | $14,424.51    
+NUB18509E  | Faja Lumbar Talle 2XL Economica                                   | 2XL          |           |       | $14,424.51    
+NUB18609E  | Faja Lumbar Talle 3XL Economica                                   | 3XL          |           |       | $14,424.51    
+UCU0001PV  | Cono PE Base Goma Económico 500 mm Rígido y 1 Banda Reflectiva 10 cm 1.5kg |              |           |       | $11,860.41    
+UCU0002PV  | Cono PE Base Goma Económico 750 mm Rígido y 2 Bandas Reflectivas 10 cm 2.5kg |              |           |       | $15,826.56    
+UCU0003PV  | Cono PE Base Goma Económico 1000 mm Rígido y 2 Bandas Reflectivas 10 cm 5kg |              |           |       | $26,379.97    
+UCU0001PVE | Cono Goma Económico 500 mm y 2 Bandas Reflec. 10 cm               |              |           |       | $12,031.51    
+UCU0004PV  | Cono 100% PVC Premium 470 mm con Memoria y 1 Banda Reflectiva 8 cm 0.9kg |              | PVC       |       | $18,466.69    
+UCU0005PV  | Cono 100% PVC Premium 700 mm con Memoria y 2 Bandas Reflectivas 10 cm 2.3kg |              | PVC       |       | $34,314.64    
+UCU0006PV  | Cono 100% PVC Premium 900 mm con Memoria y 2 Bandas Reflectivas 10 cm 4.3kg |              | PVC       |       | $52,802.72    
+UCU0008PV  | Cono 100% PE Base Goma Autopista 1100 mm Rígido 2 Bandas Reflectivas 8+16 cm 4.45kg |              |           |       | $73,370.11    
+UCU0107PV  | Cadena de PE 4 mm Amarilla y Negra - ECONOMICA                    |              |           |       | $1,285.61     
+UCU0108PV  | Cadena de PE 4 mm Roja y Blanca - ECONOMICA                       |              |           |       | $1,285.61     
+UCU0100PV  | Cadena de PE 6 mm Roja y Blanca - ECONOMICO                       |              |           |       | $1,760.88     
+UCU0104PV  | Cadena de PE 6 mm Amarilla y Negra - ECONOMICO                    |              |           |       | $1,760.88     
+UCU0009PV  | Anillo Rojo de PE para Enganche de Cadenas Sobre Cono             |              |           | Rojo  | $1,670.58     
+UCU0207PV  | Baliza de Señalización Intermitente LED Económica Carga Panel Solar |              |           |       | $31,943.03    
+UCU0208PV  | Baliza de Señalización Giratoria LED Económica Con Soporte de Sujeción Carga Panel Solar |              |           |       | $32,123.63    
+UCU0206PV  | Baliza de Señalización Intermitente LED Para Insertar en Cono Carga Panel Solar |              |           |       | $36,346.43    
+UCU0001CS  | Cartel de Precaución "Piso Mojado"                                |              |           |       | $34,811.30    
+UCU0002CS  | Cartel de Precaución "No Estacionar"                              |              |           |       | $34,787.53    

@@ -32,6 +32,8 @@ ENV/
 .env
 .env.local
 *.sqlite3
+*.db
+atuel_gomas.db
 
 # Pytest / Coverage
 .pytest_cache/

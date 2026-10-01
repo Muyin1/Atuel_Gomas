@@ -1,0 +1,12 @@
+=== REPORTE DE ARTICULOS - PAGINA: ESCOBILLAS ===
+Total de registros detectados: 7
+================================================================================
+
+INDICE |                       |               
+-----------------------------------------------
+       | ESCOBILLAS            |               
+       | Descripción Art Venta | Precio sin Iva
+       | ESCOBILA ULTRABLADE   | 9367.86       
+       | ESCOBILLA HELLA 16"   | 3366.02       
+       | ESCOBILLA HELLA 18"   | 3606.45       
+       | ESCOBILLA HELLA 20"   | 3985          

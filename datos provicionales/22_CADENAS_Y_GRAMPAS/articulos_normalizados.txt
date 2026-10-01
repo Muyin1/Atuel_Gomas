@@ -1,0 +1,55 @@
+=== TABLA NORMALIZADA: CADENAS Y GRAMPAS ===
+Total de artículos únicos: 49
+===============================================================================================
+
+CODIGO    | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA   | PRECIO (S/IVA)
+----------------------------------------------------------------------------
+ASA40NS   | CADENAS NS          | ASA 40 NS                 | $6,340.13     
+ASA40NS20 | CADENAS NS          | ASA 40 NS - 20 METROS     | $6,340.13     
+ASA50NS   | CADENAS NS          | ASA 50 NS                 | $8,710.78     
+ASA50NS20 | CADENAS NS          | ASA 50 NS - 20 METROS     | $8,710.78     
+ASA60NS   | CADENAS NS          | ASA 60 NS                 | $13,341.83    
+ASA60NS20 | CADENAS NS          | ASA 60 NS - 20 METROS     | $13,341.83    
+ASA80NS   | CADENAS NS          | ASA 80 NS                 | $23,375.77    
+ASA80NS20 | CADENAS NS          | ASA 80 NS - 20 METROS     | $23,375.77    
+ASA2040   | CADENAS NS          | 2040 1 X 5/16             | $11,459.48    
+ASA40     | CADENAS NS          | ASA40 1/2 X 5/16          | $7,501.83     
+ASA40/2   | CADENAS NS          | ASA40/2 1/2 X 5/16        | $15,062.72    
+ASA40/3   | CADENAS NS          | ASA40/3 1/2 X 5/16        | $24,809.19    
+ASA50     | CADENAS NS          | ASA50 5/8 X 3/8           | $11,341.34    
+ASA50/2   | CADENAS NS          | ASA50/2 5/8 X 3/8         | $22,741.75    
+ASA50/3   | CADENAS NS          | ASA50/3 5/8 X 3/8         | $36,268.67    
+ASA50H    | CADENAS NS          | ASA50H 5/8 X 3/8R         | $14,176.68    
+ASA60     | CADENAS NS          | ASA60 3/4 X 1/2           | $16,598.53    
+ASA60/2   | CADENAS NS          | ASA60/2 3/4 X 1/2         | $33,256.12    
+ASA60/3   | CADENAS NS          | ASA60/3 3/4 X 1/2         | $54,934.63    
+ASA60H    | CADENAS NS          | ASA60H 3/4 X 1/2R         | $20,969.67    
+ASA80     | CADENAS NS          | ASA80 1 X 5/8             | $27,290.11    
+ASA80/2   | CADENAS NS          | ASA80/2 1 X 5/8           | $54,580.21    
+ASA80H    | CADENAS NS          | ASA80H 1 X 5/8R           | $36,741.22    
+S32       | CADENAS NS          | S-32 29,21 X 15,88        | $21,501.30    
+UNI121    | CADENAS NS          | UNI 121                   | $10,159.95    
+UNI221    | CADENAS NS          | UNI 221                   | $20,260.84    
+P100BYMEW | REMACHES            | BYM EW x 90 unid.300gr.   | $55,432.64    
+P111002A  | REMACHES            | 2A 84 UNID. X 90 GR.      | $20,684.59    
+P111004A  | REMACHES            | 4A 102UNID. X 80 GR. EW   | $18,220.91    
+G-2A      | GRAMPAS             | 2A                        | $89,139.37    
+G-4A      | GRAMPAS             | 4A                        | $78,489.75    
+G-BYM     | GRAMPAS             | BYM                       | $185,241.96   
+P110002A  | GRAMPAS             | TIRA 2A                   | $22,118.44    
+P110004A  | GRAMPAS             | TIRA 4A                   | $20,019.24    
+E1002060  | GRAMPAS             | TIRA BYM                  | $35,276.87    
+P113002A  | GRAMPAS             | CABLE 2A X 1 MTS 3.5MM    | $3,635.21     
+P113004A  | GRAMPAS             | CABLE 4A X 1 MTS 2MM      | $2,099.20     
+P1130BYM  | GRAMPAS             | CABLE BYM X 1,2 MTS 3.5MM | $4,096.01     
+P1000105  | GRAMPAS             | EW N°15 X 190mm           | $1,926.79     
+P1000120  | GRAMPAS             | EW N°20 X 290mm           | $3,867.02     
+P1000125  | GRAMPAS             | EW N°25 X 290mm           | $3,436.97     
+P1000127  | GRAMPAS             | EW N°27 X 290mm           | $4,205.57     
+P1000135  | GRAMPAS             | EW N°35 X 290mm           | $5,467.91     
+P1000145  | GRAMPAS             | EW N°45 X 290mm           | $6,926.03     
+P1000155  | GRAMPAS             | EW N°55 X 290mm           | $10,649.48    
+P1000165  | GRAMPAS             | EW N°65 X 290mm           | $14,190.61    
+P2000104  | GRAMPAS             | N 4 X 30cm EW             | $12,518.12    
+P2000105  | GRAMPAS             | N 5 X 30cm EW             | $12,718.41    
+P2000106  | GRAMPAS             | N 6 X 30cm EW             | $14,120.44    

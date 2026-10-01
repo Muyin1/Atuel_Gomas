@@ -1,6 +1,9 @@
 from abc import ABC, abstractmethod
 from src.domain.entities.product import Product
 from src.domain.entities.product_category import ProductCategory
+from src.domain.entities.category_item import CategoryItem
+from src.domain.entities.family_item import FamilyItem
+from src.domain.entities.business_line import BusinessLine
 
 
 class IProductRepository(ABC):
@@ -16,10 +19,24 @@ class IProductRepository(ABC):
     async def search(
         self,
         query: str | None = None,
-        category: ProductCategory | None = None,
+        category: ProductCategory | str | None = None,
+        family: str | None = None,
+        vehicle_brand: str | None = None,
+        vehicle_model: str | None = None,
+        page: int = 1,
+        page_size: int = 24
+    ) -> list[Product]:
+        pass
+
+    @abstractmethod
+    async def count(
+        self,
+        query: str | None = None,
+        category: ProductCategory | str | None = None,
+        family: str | None = None,
         vehicle_brand: str | None = None,
         vehicle_model: str | None = None
-    ) -> list[Product]:
+    ) -> int:
         pass
 
     @abstractmethod
@@ -27,5 +44,13 @@ class IProductRepository(ABC):
         pass
 
     @abstractmethod
-    async def get_categories(self) -> list[ProductCategory]:
+    async def get_categories(self, rubro: BusinessLine | str | None = None) -> list[CategoryItem]:
+        pass
+
+    @abstractmethod
+    async def get_families(
+        self,
+        category_id_or_slug: int | str | None = None,
+        rubro: BusinessLine | str | None = None
+    ) -> list[FamilyItem]:
         pass

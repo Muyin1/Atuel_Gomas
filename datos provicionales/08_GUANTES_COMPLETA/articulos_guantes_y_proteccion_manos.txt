@@ -1,0 +1,403 @@
+=== TABLA NORMALIZADA: GUANTES Y PROTECCION MANOS ===
+Total de registros clasificados: 397
+===================================================================================================================
+
+CODIGO     | DESCRIPCION                                                       | TALLE/MEDIDA | MATERIAL     | COLOR           | PRECIO (S/IVA)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+221023E    | Guante Lincoln Vaqueta Elast. Talle 8 (Ribete Amarillo) Economico con etiqueta | 8            | Vaqueta      | Amarillo        | $3,856.83     
+221024E    | P.de Gte. Lincoln Vaq. Elast. Talle 9 (Ribete Azul) Economico con Etiqueta | 9            |              | Azul            | $3,909.11     
+222025E    | Guante Lincoln Vaqueta Elastizado (amplio) Talle 10 (Ribete Naranja) Economico con Etiqueta | 10           | Vaqueta      | Naranja         | $3,937.63     
+222026E    | P. de Gte. Lincoln Vaq. Elast. (amplio). Talle 11 (Ribete Negro) Economico con etiqueta | 11           |              | Negro           | $4,332.10     
+221023     | P.de Gte. Lincoln Vaq. Elast. Talle 8 (Ribete Amarillo)           | 8            |              | Amarillo        | $4,355.87     
+221024     | P.de Gte. Lincoln Vaq. Elast. Talle 9 (Ribete Azul)               | 9            |              | Azul            | $4,408.15     
+222025     | Guante Lincoln Vaqueta Elast. (amplio) pulgar volcado Talle 10 (Ribete Naranja) | 10           | Vaqueta      | Naranja         | $4,462.80     
+222026     | P. de Gte. Lincoln Vaq. Elast. (amplio) pulgar volcado Talle 11 (Ribete Negro) | 11           |              | Negro           | $4,987.98     
+221023+    | P. de Gte. Lincoln Vaq. Elast. Talle 8 (Ribete Amarillo) MAS AMPLIO. SOLO PROMO FEBRERO | 8            |              | Amarillo        | $3,804.55     
+223024     | P. de Gte. Lincoln Vaq. Forrado y Elast.. Talle 9                 | 9            |              |                 | $5,662.87     
+223025     | P. de Gte. Lincoln Vaq. Forrado y Elast.. Talle 10                | 10           |              |                 | $5,791.19     
+223026     | P. de Gte. Lincoln Vaq. Forrado y Elast.. Talle 11                | 11           |              |                 | $6,304.48     
+22202R6    | P. de Gte. Lincoln Vaq. Elast. (amplio) REFLECTIVO. Talle 11      | 11           |              |                 | $20,092.12    
+251055     | P. de Gte. Lincoln Vaq. Elast. Azul - Hidrofugado. Talle 10       | 10           |              | Azul            | $10,947.89    
+253055     | P. de Gte. Lincoln Vaq. Forrado y Elast.Hidrofugado Azul Talle 10 | 10           |              | Azul            | $13,364.65    
+253056     | P. de Gte. Lincoln Vaq. Forrado y Elast.Hidrofugado Azul Talle 11 | 11           |              | Azul            | $14,403.12    
+111215     | Guante Americano Descarne, Gris, Puño Corto, Talle 10.            | 10           |              | Gris            | $3,904.36     
+511125     | P. de Gte. Am. Desc.Amarillo Puño Cto. Lona. Talle 10             | 10           |              | Amarillo        | $3,928.12     
+111315     | P. de Gte. Am. Desc. Gris Puño Lgo.. Talle 10                     | 10           |              | Gris            | $4,966.59     
+111315A    | P. de Gte. Am. Desc. Gris Puño Lgo. 18 cm. Talle 10               | 10           |              | Gris            | $6,794.01     
+111125     | P. de Gte. Am. Desc.Amarillo Puño Cto. Tejido. Talle 10.          | 10           |              | Amarillo        | $5,102.04     
+112125     | P. de Gte. Am. Desc. Amarillo Pño Tejido Ref. Cadenero. Talle 10  | 10           |              | Amarillo        | $9,526.83     
+111115     | P. de Gte. Am. Desc. Puño Cto. Tejido. Talle 10                   | 10           |              |                 | $3,115.41     
+111225     | P. de Gte. Am. Desc. Amarillo Puño Cto. Talle 10.                 | 10           |              | Amarillo        | $5,237.50     
+192226     | P. de Gte. Am. Desc. Puño Cto. Ref. Cadenero Grande. Talle 11     | 11           |              |                 | $5,102.04     
+111325     | P. de Gte. Am. Desc. Amarillo Puño Lgo.. Talle 10                 | 10           |              | Amarillo        | $6,275.97     
+192326     | P. de Gte. Am. Desc. Puño Lgo. Ref. Cadenero Grande. Talle 11     | 11           |              |                 | $6,207.05     
+510225     | P. de Gte. Am. Desc. Gris P/Cto. R/Pist. y Poncho Gris. Talle 10  | 10           |              | Gris            | $9,436.53     
+510325     | P. de Gte. Am. Desc. Gris P/Lgo. R/Pist. y Poncho. Talle 10       | 10           |              | Gris            | $11,085.72    
+410125     | P. de Gte. Cobertor Dielectrico Vaq. Chico (Clase 00 y 0). Talle 10 | 10           |              |                 | $10,767.29    
+410325     | P. de Gte. Cobertor dielectrico Vaq. tipo North Largo (Clase 1, 2, 3 y 4). Talle 10 | 10           |              |                 | $14,153.60    
+132125     | P. de Gte. Am. Comb. Puño Cto. TEJIDO Cadenero. Talle 10          | 10           |              |                 | $7,064.92     
+132225     | P. de Gte. Am. Comb. Puño Cto. Cadenero. Talle 10                 | 10           |              |                 | $7,540.19     
+132325     | P. de Gte. Am. Comb. Puño Lgo. Cadenero. Talle 10                 | 10           |              |                 | $8,329.14     
+102225     | P. de Gte. Am. Combinado. Oleofugo Puño Cto. Ref. Cadenero. Talle 10 | 10           |              |                 | $10,971.65    
+102325     | P. de Gte. Am. Combinado. Oleofugo Puño Largo Ref. Cadenero. Talle 10 | 10           |              |                 | $12,437.87    
+182225     | P. de Gte. Am. Vaq. Oleofuga Puño Cto. Ref. Cadenero. Talle 10    | 10           |              |                 | $15,351.29    
+122125     | P. de Gte. Am. Vaq. Puño Cto TEJIDO. Ref. Cadenero. Talle 10      | 10           |              |                 | $8,600.05     
+172126     | P. de Gte. Am. Vaq. Puño Cto. Tejido Ref. Cadenero Grande. Talle 11 | 11           |              |                 | $9,189.38     
+521925     | P. de Gte. Vaq. Apicultor puño 40 cm. Talle 10                    | 10           |              |                 | $22,214.21    
+122225     | P. de Gte. Am. Vaq. Puño Cto. Ref. Cadenero. Talle 10             | 10           |              |                 | $8,600.05     
+172226     | P. de Gte. Am. Vaq. Puño Cto. Ref. Cadenero Grande. Talle 11      | 11           |              |                 | $9,683.67     
+122325     | P. de Gte. Am. Vaq. Puño Lgo. Ref. Cadenero. Talle 10             | 10           |              |                 | $9,954.57     
+172326     | P. de Gte. Am. Vaq. Puño Lgo. Ref. Cadenero Grande. Talle 11      | 11           |              |                 | $10,679.36    
+322175     | P. de Gte. Am. Desc. Lgo. Rojo Forrado Tira Protec. Talle 10      | 10           |              | Rojo            | $7,849.12     
+322125     | P. de Gte. Am. Desc. Amarillo Lgo. Forrado Tira Protec. Talle 10  | 10           |              | Amarillo        | $9,693.17     
+311135     | P. de Gte. Desc. Marron Lgo. Forrado y Costura Kevlar. Talle 10   | 10           |              |                 | $10,486.88    
+322165     | Guante Descarne Naranja Largo Forrado y Costura Kevlar c/ refuerzo cuero. Talle 10 | 10           |              | Naranja         | $17,563.68    
+50202      | P. de Gte. Desc. Lgo. Forrado y Costura Kevlar.                   |              |              |                 | $42,035.43    
+50202L     | P. de Gte. Desc. NARANJA Lgo. Forrado con Lana y Costura Kevlar.  |              |              | Naranja         | $34,699.61    
+221323     | P Gte Vaq Lincoln con Pño Desc amarillo 14 cm Argonista. Talle 8  | 8            |              | Amarillo        | $21,242.28    
+221324     | P Gte Vaq Lincoln con Pño Desc amarillo 14 cm Argonista. Talle 9  | 9            |              | Amarillo        | $22,439.97    
+221325     | P Gte Vaq Lincoln con Pño Desc amarillo 14 cm Argonista. Talle 10 | 10           |              | Amarillo        | $23,613.89    
+313135     | Gte Forjador Extremo Ref. Forrado c/Friza Aislante Cosido Hilo de Kevlar. Talle 10 | 10           |              |                 | $23,613.89    
+DPS813093E | Gte. Sin Costura Algodon G7 Gris Moteado Talle 8 Economico        | 8            |              | Gris            | $651.12       
+DPS813095E | Gte. Sin Costura Algodon G7 Gris Moteado Talle 10 Economico       | 10           |              | Gris            | $724.79       
+DPS811093E | Gte. Sin Costura Algodon Natural Moteado Talle 8 Economico        | 8            |              |                 | $701.03       
+DPS811095E | Gte. Sin Costura Algodon Natural Moteado Talle 10 Economico       | 10           |              |                 | $786.58       
+DPS811093P | Gte. Sin Costura Algodon Natural Moteado Talle 8 Premium          | 8            |              |                 | $772.32       
+DPS811095P | Gte. Sin Costura Algodon Natural Moteado Talle 10 Premium         | 10           |              |                 | $869.75       
+DPS811073  | Gte. Sin Costura Algodón Jaspeado Naranja/Blanco Moteado Talle 8 Premium | 8            |              | Blanco, Naranja | $819.84       
+DPS811075  | Gte. Sin Costura Algodón Jaspeado Naranja/Blanco Moteado Talle 10 Premium | 10           |              | Blanco, Naranja | $912.52       
+DPS81725   | Gtes. Sin Costura Aramida Talle 10 Moteado                        | 10           |              |                 | $18,286.09    
+DPS8111095 | Gte. Sin Costura Algodon Moteado a dos caras Talle 10             | 10           |              |                 | $1,965.25     
+DPS803093E | Gte. Sin Costura Algodon G7 Gris Talle 8 Economico Liso           | 8            |              | Gris            | $596.47       
+DPS803095E | Gte. Sin Costura Algodon G7 Gris Talle 10 Economico Liso          | 10           |              | Gris            | $663.00       
+DPS801003  | Gte. Tejido Talle 8 S/Cost. Blanco G7 Algodon Liso                | 8            |              | Blanco          | $639.24       
+DPS801005  | Gte. Tejido Talle 10 S/Cost. Blanco G7 Algodon Liso               | 10           |              | Blanco          | $724.79       
+DPS80725   | Gtes. Sin Costura Aramida G7 Talle 10 Liso                        | 10           |              |                 | $16,570.36    
+DPS811305  | Gte. Sin Costura Terrycloth Algodon Moteado Talle 10              | 10           |              |                 | $3,136.80     
+DPS801305  | Gte. Sin Costura Terrycloth Algodon Talle 10                      | 10           |              |                 | $2,594.99     
+DPS801905  | Gte. Sin Costura Terrycloth Algodon Puño Cuero 17 cm Talle 10     | 10           |              |                 | $11,016.80    
+DPS801625  | Gte. Sin Costura Terrycloth Aramida interior Aislante puño de Cuero 17 cm Talle 10 | 10           |              |                 | $44,879.93    
+DPS801725  | Gte. Sin Costura Terrycloth Aramida puño de Cuero 17 cm Talle 10  | 10           |              |                 | $31,626.98    
+DPS802225  | Gte. Sin Costura Terrycloth Aramida interior aislante Largo Total 35 cm Talle 10 | 10           |              |                 | $49,145.50    
+DPS802325  | Gte. Sin Costura Terrycloth Aramida interior aislante Largo Total 40 cm Talle 10 | 10           |              |                 | $53,660.59    
+DPS802425  | Gte. Sin Costura Terrycloth Aramida interior aislante Largo Total 45 cm Talle 10 | 10           |              |                 | $58,175.67    
+DPS801425  | Gte. Sin Costura Terrycloth Aramida Talle 10                      | 10           |              |                 | $24,742.66    
+DPS803403  | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T8       |              |              |                 | $969.55       
+DPS803404  | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T9       |              |              |                 | $969.55       
+DPS803405  | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T10      |              |              |                 | $969.55       
+DPS803406  | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T11      |              |              |                 | $969.55       
+DPS803323  | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T8       |              |              |                 | $6,862.93     
+DPS803324  | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T9       |              |              |                 | $6,862.93     
+DPS803325  | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T10      |              |              |                 | $6,862.93     
+DPS803326  | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T11      |              |              |                 | $6,862.93     
+DPS80625   | Gte. Sin Costura Costura G10 Amarillo Frio Cepillado T10          |              |              | Amarillo        | $1,715.73     
+DPS80102   | Gte. Tejido Talle 7 S/Cost. Blanco G13 - Liso                     | 7            |              | Blanco          | $1,354.53     
+DPS80103   | Gte. Tejido Talle 8 S/Cost. Blanco G13 - Liso                     | 8            |              | Blanco          | $1,354.53     
+DPS80104   | Gte. Tejido Talle 9 S/Cost. Blanco G13 - Liso                     | 9            |              | Blanco          | $1,354.53     
+DPS80105   | Gte. Tejido Talle 10 S/Cost. Blanco G13 - Liso                    | 10           |              | Blanco          | $1,354.53     
+DPS80106   | Gte. Tejido Talle 11 S/Cost. Blanco G13 - Liso                    | 11           |              | Blanco          | $1,354.53     
+DPS80912   | Gte. Tejido Talle 7 S/Cost. Anticorte G13 - Liso                  | 7            |              |                 | $7,064.92     
+DPS80913   | Gte. Tejido Talle 8 S/Cost. Anticorte G13 - Liso                  | 8            |              |                 | $7,064.92     
+DPS80914   | Gte. Tejido Talle 9 S/Cost. Anticorte G13 - Liso                  | 9            |              |                 | $7,064.92     
+DPS80915   | Gte. Tejido Talle 10 S/Cost. Anticorte G13 - Liso                 | 10           |              |                 | $7,064.92     
+DPS80916   | Gte. Tejido Talle 11 S/Cost. Anticorte G13 - Liso                 | 11           |              |                 | $7,064.92     
+DPS802902  | Gte. Tejido S/Costura G7 Anticorte Blanco T7                      |              |              | Blanco          | $7,064.92     
+DPS802903  | Gte. Tejido S/Costura G7 Anticorte Blanco T8                      |              |              | Blanco          | $7,064.92     
+DPS802904  | Gte. Tejido S/Costura G7 Anticorte Blanco T9                      |              |              | Blanco          | $7,064.92     
+DPS802905  | Gte. Tejido S/Costura G7 Anticorte Blanco T10                     |              |              | Blanco          | $7,064.92     
+DPS802906  | Gte. Tejido S/Costura G7 Anticorte Blanco T11                     |              |              | Blanco          | $7,064.92     
+DPS802801  | Gte. Tej. T 6 S/Cost. Anticorte Hilo Acero Liso "G7 FRIGORIFICOS" |              |              |                 | $20,384.42    
+DPS802802  | Gte. Tej. T 7 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO" |              |              |                 | $20,384.42    
+DPS802803  | Gte. Tej. T 8 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO" |              |              |                 | $20,384.42    
+DPS802804  | Gte. Tej. T 9 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO" |              |              |                 | $20,384.42    
+DPS802805  | Gte. Tej. T 10 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO" |              |              |                 | $20,384.42    
+DPS802806  | Gte. Tej. T 11 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO" |              |              |                 | $20,384.42    
+DPS80801   | Gtes. Sin Costura G13 Anticorte Talle 6 Blanco                    | 6            |              | Blanco          | $10,541.53    
+DPS80802   | Gtes. Sin Costura G13 Anticorte Talle 7 Blanco                    | 7            |              | Blanco          | $10,541.53    
+DPS80803   | Gtes. Sin Costura G13 Anticorte Talle 8 Blanco                    | 8            |              | Blanco          | $10,541.53    
+DPS80804   | Gtes. Sin Costura G13 Anticorte Talle 9 Blanco                    | 9            |              | Blanco          | $10,541.53    
+DPS80805   | Gtes. Sin Costura G13 Anticorte Talle 10 Blanco                   | 10           |              | Blanco          | $10,541.53    
+DPS80806   | Gtes. Sin Costura G13 Anticorte Talle 11 Blanco                   | 11           |              | Blanco          | $10,541.53    
+DPS801512  | Gte. Tejido Talle 7 S/Cost. Anticorte Protección Antebrazo        | 7            |              |                 | $36,819.32    
+DPS801513  | Gte. Tejido Talle 8 S/Cost. Anticorte Protección Antebrazo        | 8            |              |                 | $36,819.32    
+DPS801514  | Gte. Tejido Talle 9 S/Cost. Anticorte Protección Antebrazo        | 9            |              |                 | $36,819.32    
+DPS801515  | Gte. Tejido Talle 10 S/Cost. Anticorte Protección Antebrazo       | 10           |              |                 | $36,819.32    
+DPS801516  | Gte. Tejido Talle 11 S/Cost. Anticorte Protección Antebrazo       | 11           |              |                 | $36,819.32    
+DP8121003  | Gte. S/Cost. Algodón G7 Refuerzo Descarne Talle 8                 | 8            |              |                 | $9,776.35     
+DPS803803  | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 8            | 8            |              | Amarillo        | $1,264.22     
+DPS803805  | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 10           | 10           |              | Amarillo        | $1,394.92     
+DPS813803  | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 8 Moteado    | 8            |              | Amarillo        | $1,437.70     
+DPS813805  | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 10 Moteado   | 10           |              | Amarillo        | $1,544.63     
+DPS89723   | Gte. Tejido Talle 8 S/Cost. Acrilico G7 Amarillo Recub. en Latex Rugoso Para Frio | 8            | Látex        | Amarillo        | $8,771.14     
+DPS89724   | Gte. Tejido Talle 9 S/Cost. Acrilico G7 Amarillo Recub. en Latex Rugoso Para Frio | 9            | Látex        | Amarillo        | $8,771.14     
+DPS89725   | Gte. Tejido Talle 10 S/Cost. Acrilico G7 Amarillo Recub. en Latex Rugoso Para Frio | 10           | Látex        | Amarillo        | $8,771.14     
+DPS89773   | Gte. Tejido Talle 8 S/Cost. Acrilico G7 Naranja Recub. en Latex Rugoso Para Frio | 8            | Látex        | Naranja         | $8,771.14     
+DPS89774   | Gte. Tejido Talle 9 S/Cost. Acrilico G7 Naranja Recub. en Latex Rugoso Para Frio | 9            | Látex        | Naranja         | $8,771.14     
+DPS89775   | Gte. Tejido Talle 10 S/Cost. Acrilico G7 Naranja Recub. en Latex Rugoso Para Frio | 10           | Látex        | Naranja         | $8,771.14     
+DPS89093   | Gte. Tejido Talle 8 S/Cost. G10 Recub. en Latex Negro Rugoso      | 8            | Látex        | Negro           | $3,498.00     
+DPS89094   | Gte. Tejido Talle 9 S/Cost. G10 Recub. en Latex Negro Rugoso      | 9            | Látex        | Negro           | $3,498.00     
+DPS89095   | Gte. Tejido Talle 10 S/Cost. G10 Recub. en Latex Negro Rugoso     | 10           | Látex        | Negro           | $3,498.00     
+DPS89063   | Gte. Tejido Talle 8 S/Cost. G10 Amarillo Recub. en Latex Rugoso   | 8            | Látex        | Amarillo        | $3,498.00     
+DPS89064   | Gte. Tejido Talle 9 S/Cost. G10 Amarillo Recub. en Latex Rugoso   | 9            | Látex        | Amarillo        | $3,498.00     
+DPS89065   | Gte. Tejido Talle 10 S/Cost. G10 Amarillo Recub. en Latex Rugoso  | 10           | Látex        | Amarillo        | $3,498.00     
+DPS89625   | Guante Tejido, Talle 10 Sin Costura G10 Amarillo Frio Cepillado Recubierto en Látex Rugoso | 10           | Látex        | Amarillo        | $3,688.11     
+DPS81195   | Guante Tejido, Talle 10 Sin Costura G13 Blanco Moteado            | 10           |              | Blanco          | $1,444.83     
+DPS88162   | Guante Tejido, Talle 7 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | 7            | Nitrilo      | Negro, Gris     | $2,091.20     
+DPS88163   | Guante Tejido, Talle 8 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | 8            | Nitrilo      | Negro, Gris     | $2,091.20     
+DPS88164   | Guante Tejido, Talle 9 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | 9            | Nitrilo      | Negro, Gris     | $2,091.20     
+DPS88165   | Guante Tejido, Talle 10 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | 10           | Nitrilo      | Negro, Gris     | $2,091.20     
+DPS88166   | Guante Tejido, Talle 11 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | 11           | Nitrilo      | Negro, Gris     | $2,091.20     
+DPS88112   | Gte. Tejido Talle 7 S/Cost. Recub. en Nitrilo                     | 7            | Nitrilo      |                 | $2,091.20     
+DPS88113   | Gte. Tejido Talle 8 S/Cost. Recub. en Nitrilo                     | 8            | Nitrilo      |                 | $2,091.20     
+DPS88114   | Gte. Tejido Talle 9 S/Cost. Recub. en Nitrilo                     | 9            | Nitrilo      |                 | $2,091.20     
+DPS88115   | Gte. Tejido Talle 10 S/Cost. Recub. en Nitrilo                    | 10           | Nitrilo      |                 | $2,091.20     
+DPS88116   | Gte. Tejido Talle 11 S/Cost. Recub. en Nitrilo                    | 11           | Nitrilo      |                 | $2,091.20     
+DPS814142  | Gte. S/Cost. Rosa Talle 7 Recubierto en Nitrilo Espumado          | 7            | Nitrilo      | Rosa            | $2,245.66     
+DPS814143  | Gte. S/Cost. Rosa Talle 8 Recubierto en Nitrilo Espumado          | 8            | Nitrilo      | Rosa            | $2,245.66     
+DPS814144  | Gte. S/Cost. Rosa Talle 9 Recubierto en Nitrilo Espumado          | 9            | Nitrilo      | Rosa            | $2,245.66     
+DPS814145  | Gte. S/Cost. Rosa Talle 10 Recubierto en Nitrilo Espumado         | 10           | Nitrilo      | Rosa            | $2,245.66     
+DPS814152  | Gte. S/Cost. Azul Talle 7 Recubierto en nitrilo espumado          | 7            | Nitrilo      | Azul            | $2,091.20     
+DPS814153  | Gte. S/Cost. Azul Talle 8 Recubierto en nitrilo espumado          | 8            | Nitrilo      | Azul            | $2,091.20     
+DPS814154  | Gte. S/Cost. Azul Talle 9 Recubierto en nitrilo espumado          | 9            | Nitrilo      | Azul            | $2,091.20     
+DPS814155  | Gte. S/Cost. Azul Talle 10 Recubierto en nitrilo espumado         | 10           | Nitrilo      | Azul            | $2,091.20     
+DPS814156  | Gte. S/Cost. Azul Talle 11 Recubierto en nitrilo espumado         | 11           | Nitrilo      | Azul            | $2,091.20     
+DPS8141112 | Gte. S/Cost. Rojo Talle 7 Recubierto en Nitrilo Espumado          | 7            | Nitrilo      | Rojo            | $2,245.66     
+DPS8141113 | Gte. S/Cost. Rojo Talle 8 Recubierto en Nitrilo Espumado          | 8            | Nitrilo      | Rojo            | $2,245.66     
+DPS8141114 | Gte. S/Cost. Rojo Talle 9 Recubierto en Nitrilo Espumado          | 9            | Nitrilo      | Rojo            | $2,245.66     
+DPS8141115 | Gte. S/Cost. Rojo Talle 10 Recubierto en Nitrilo Espumado         | 10           | Nitrilo      | Rojo            | $2,245.66     
+DPS8141116 | Gte. S/Cost. Rojo Talle 11 Recubierto en Nitrilo Espumado         | 11           | Nitrilo      | Rojo            | $2,245.66     
+DPS814182  | Gte. S/Cost. Verde Fluo Talle 7 Recubierto en Nitrilo Espumado    | 7            | Nitrilo      | Verde           | $2,091.20     
+DPS814183  | Gte. S/Cost. Verde Fluo Talle 8 Recubierto en Nitrilo Espumado    | 8            | Nitrilo      | Verde           | $2,091.20     
+DPS814184  | Gte. S/Cost. Verde Fluo Talle 9 Recubierto en Nitrilo Espumado    | 9            | Nitrilo      | Verde           | $2,091.20     
+DPS814185  | Gte. S/Cost. Verde Fluo Talle 10 Recubierto en Nitrilo Espumado   | 10           | Nitrilo      | Verde           | $2,091.20     
+DPS814186  | Gte. S/Cost. Verde Fluo Talle 11 Recubierto en Nitrilo Espumado   | 11           | Nitrilo      | Verde           | $2,091.20     
+DPS88302   | Gte. Tejido Talle 7 S/Cost. R/Completo. en Nitrilo                | 7            | Nitrilo      |                 | $3,146.30     
+DPS88303   | Gte. Tejido Talle 8 S/Cost. R/Completo. en Nitrilo                | 8            | Nitrilo      |                 | $3,146.30     
+DPS88304   | Gte. Tejido Talle 9 S/Cost. R/Completo. en Nitrilo                | 9            | Nitrilo      |                 | $3,146.30     
+DPS88305   | Gte. Tejido Talle 10 S/Cost. R/Completo. en Nitrilo               | 10           | Nitrilo      |                 | $3,146.30     
+DPS88306   | Gte. Tejido Talle 11 S/Cost. R/Completo. en Nitrilo               | 11           | Nitrilo      |                 | $3,146.30     
+DPS8181112 | Guante Sin Costura Rojo Talle 7 Recubierto en Latex Espumado      | 7            | Látex        | Rojo            | $2,091.20     
+DPS8181113 | Guante Sin Costura Rojo Talle 8 Recubierto en Latex Espumado      | 8            | Látex        | Rojo            | $2,091.20     
+DPS8181114 | Guante Sin Costura Rojo Talle 9 Recubierto en Latex Espumado      | 9            | Látex        | Rojo            | $2,091.20     
+DPS8181115 | Guante Sin Costura Rojo Talle 10 Recubierto en Latex Espumado     | 10           | Látex        | Rojo            | $2,091.20     
+DPS8181116 | Guante Sin Costura Rojo Talle 11 Recubierto en Latex Espumado     | 11           | Látex        | Rojo            | $2,091.20     
+DPS88192   | Gte. Tejido Talle 7 S/Cost. Negro Recub. en Nitrilo Negro Espumado | 7            | Nitrilo      | Negro           | $1,815.54     
+DPS88193   | Gte. Tejido Talle 8 S/Cost. Negro Recub. en Nitrilo Negro Espumado | 8            | Nitrilo      | Negro           | $1,815.54     
+DPS88194   | Gte. Tejido Talle 9 S/Cost. Negro Recub. en Nitrilo Negro Espumado | 9            | Nitrilo      | Negro           | $1,815.54     
+DPS88195   | Gte. Tejido Talle 10 S/Cost. Negro Recub. en Nitrilo Negro Espumado | 10           | Nitrilo      | Negro           | $1,815.54     
+DPS88196   | Gte. Tejido Talle 11 S/Cost. Negro Recub. en Nitrilo Negro Espumado | 11           | Nitrilo      | Negro           | $1,815.54     
+DPS89152   | Gte. Tejido Talle 7 S/Cost. Recub. en Latex Rugoso                | 7            | Látex        |                 | $1,950.99     
+DPS89153   | Gte. Tejido Talle 8 S/Cost. Recub. en Latex Rugoso                | 8            | Látex        |                 | $1,950.99     
+DPS89154   | Gte. Tejido Talle 9 S/Cost. Recub. en Latex Rugoso                | 9            | Látex        |                 | $1,950.99     
+DPS89155   | Gte. Tejido Talle 10 S/Cost. Recub. en Latex Rugoso               | 10           | Látex        |                 | $1,950.99     
+DPS89156   | Gte. Tejido Talle 11 S/Cost.Recub. en Latex Rugoso                | 11           | Látex        |                 | $1,950.99     
+DPS89172   | Gte. Tejido Talle 7 S/Cost. Naranja Recub. en Latex Rugoso Negro  | 7            | Látex        | Naranja, Negro  | $1,950.99     
+DPS89173   | Gte. Tejido Talle 8 S/Cost. Naranja Recub. en Latex Rugoso Negro  | 8            | Látex        | Naranja, Negro  | $1,950.99     
+DPS89174   | Gte. Tejido Talle 9 S/Cost. Naranja Recub. en Latex Rugoso Negro  | 9            | Látex        | Naranja, Negro  | $1,950.99     
+DPS89175   | Gte. Tejido Talle 10 S/Cost. Naranja Recub. en Latex Rugoso Negro | 10           | Látex        | Naranja, Negro  | $1,950.99     
+DPS89176   | Gte. Tejido Talle 11 S/Cost. Naranja Recub. en Latex Rugoso Negro | 11           | Látex        | Naranja, Negro  | $1,950.99     
+DPS818105  | Gte. Tejido Talle 10 S/Cost. Anticorte Moteado                    | 10           |              |                 | $7,540.19     
+DPS89892   | Gtes. Sin Costura Anticorte Talle 7 Palma Recubierta en Latex     | 7            | Látex        |                 | $6,304.48     
+DPS89893   | Gtes. Sin Costura Anticorte Talle 8 Palma Recubierta en Latex     | 8            | Látex        |                 | $6,304.48     
+DPS89894   | Gtes. Sin Costura Anticorte Talle 9 Palma Recubierta en Latex     | 9            | Látex        |                 | $6,304.48     
+DPS89895   | Gtes. Sin Costura Anticorte Talle 10 Palma Recubierta en Latex    | 10           | Látex        |                 | $6,304.48     
+DPS89896   | Gtes. Sin Costura Anticorte Talle 11 Palma Recubierta en Latex    | 11           | Látex        |                 | $6,304.48     
+DPS88802   | Gtes. Sin Costura Anticorte Talle 7 Recub. Nitrilo                | 7            | Nitrilo      |                 | $6,304.48     
+DPS88803   | Gtes. Sin Costura Anticorte Talle 8 Recub. Nitrilo                | 8            | Nitrilo      |                 | $6,304.48     
+DPS88804   | Gtes. Sin Costura Anticorte Talle 9 Recub. Nitrilo                | 9            | Nitrilo      |                 | $6,304.48     
+DPS88805   | Gtes. Sin Costura Anticorte Talle 10 Recub. Nitrilo               | 10           | Nitrilo      |                 | $6,304.48     
+DPS88806   | Gtes. Sin Costura Anticorte Talle 11 Recub. Nitrilo               | 11           | Nitrilo      |                 | $6,304.48     
+DPS87802   | Gtes. Sin Costura Anticorte Talle 7 Recub.Completo Nitrilo Espumado | 7            | Nitrilo      |                 | $9,800.11     
+DPS87803   | Gtes. Sin Costura Anticorte Talle 8 Recub. Completo Nitrilo Espumado | 8            | Nitrilo      |                 | $9,800.11     
+DPS87804   | Gtes. Sin Costura Anticorte Talle 9 Recub. Completo Nitrilo Espumado | 9            | Nitrilo      |                 | $9,800.11     
+DPS87805   | Gtes. Sin Costura Anticorte Talle 10 Recub.Completo Nitrilo Espumado | 10           | Nitrilo      |                 | $9,800.11     
+DPS87806   | Gtes. Sin Costura Anticorte Talle 11 Recub.Completo Nitrilo Espumado | 11           | Nitrilo      |                 | $9,800.11     
+DPS816193  | Gtes. Sin Costura Anticorte Talle 8 Recub. Completo Nitrilo, doble baño en palma Espumado | 8            | Nitrilo      |                 | $3,904.36     
+DPS816194  | Gtes. Sin Costura Anticorte Talle 9 Recub. Completo Nitrilo, doble baño en palma Espumado | 9            | Nitrilo      |                 | $3,904.36     
+DPS816195  | Gtes. Sin Costura Anticorte Talle 10 Recub. Completo Nitrilo, doble baño en palma Espumado | 10           | Nitrilo      |                 | $3,904.36     
+DPS881513  | Gte. Tejido Talle 8 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | 8            | Nitrilo      |                 | $26,358.59    
+DPS881514  | Gte. Tejido Talle 9 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | 9            | Nitrilo      |                 | $26,358.59    
+DPS881515  | Gte. Tejido Talle 10 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | 10           | Nitrilo      |                 | $26,358.59    
+DPS881516  | Gte. Tejido Talle 11 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | 11           | Nitrilo      |                 | $26,358.59    
+DPS72021   | Gte. Latex Descartable Sintético Blanco Talle 6/S (Liviano)       | 6/S          | Látex        | Blanco          | $10,032.99    
+DPS72022   | Gte. Latex Descartable Sintético Blanco Talle 7/M (Liviano)       | 7/M          | Látex        | Blanco          | $10,032.99    
+DPS72023   | Gte. Latex Descartable Sintético Blanco Talle 8/L (Liviano)       | 8/L          | Látex        | Blanco          | $10,242.11    
+DPS72024   | Gte. Latex Descartable Sintético Blanco Talle 9/XL (Liviano)      | 9/XL         | Látex        | Blanco          | $10,242.11    
+DPS72051   | Gte. Nitrilo Descartable Azul Talle 6/S (Liviano)                 | 6/S          | Nitrilo      | Azul            | $10,032.99    
+DPS72052   | Gte. Nitrilo Descartable Azul Talle 7/M (Liviano)                 | 7/M          | Nitrilo      | Azul            | $10,032.99    
+DPS72053   | Gte. Nitrilo Descartable Azul Talle 8/L (Liviano)                 | 8/L          | Nitrilo      | Azul            | $10,242.11    
+DPS72054   | Gte. Nitrilo Descartable Azul Talle 9/XL (Liviano)                | 9/XL         | Nitrilo      | Azul            | $10,242.11    
+DPS72091   | Gte. Nitrilo Descartable Negro Talle 6/S (Liviano)                | 6/S          | Nitrilo      | Negro           | $10,460.74    
+DPS72092   | Gte. Nitrilo Descartable Negro Talle 7/M (Liviano)                | 7/M          | Nitrilo      | Negro           | $10,460.74    
+DPS72093   | Gte. Nitrilo Descartable Negro Talle 8/L (Liviano)                | 8/L          | Nitrilo      | Negro           | $10,674.61    
+DPS72094   | Gte. Nitrilo Descartable Negro Talle 9/XL (Liviano)               | 9/XL         | Nitrilo      | Negro           | $10,674.61    
+DPS71051   | Gte. Nitrilo Descartable Azul Talle 6/S PREMIUM (Pesado)          | 6/S          | Nitrilo      | Azul            | $13,112.75    
+DPS71052   | Gte. Nitrilo Descartable Azul Talle 7/M PREMIUM (Pesado)          | 7/M          | Nitrilo      | Azul            | $13,112.75    
+DPS71053   | Gte. Nitrilo Descartable Azul Talle 8/L PREMIUM (Pesado)          | 8/L          | Nitrilo      | Azul            | $13,112.75    
+DPS71054   | Gte. Nitrilo Descartable Azul Talle 9/XL PREMIUM (Pesado)         | 9/XL         | Nitrilo      | Azul            | $13,112.75    
+DPS41472   | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 7       | 7            | Nitrilo      | Naranja         | $2,754.20     
+DPS41473   | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 8       | 8            | Nitrilo      | Naranja         | $2,754.20     
+DPS41474   | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 9       | 9            | Nitrilo      | Naranja         | $2,754.20     
+DPS41475   | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 10      | 10           | Nitrilo      | Naranja         | $2,754.20     
+DPS41482   | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 7 | 7            | Nitrilo      | Verde           | $2,350.22     
+DPS41483   | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 8 | 8            | Nitrilo      | Verde           | $2,350.22     
+DPS41484   | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 9 | 9            | Nitrilo      | Verde           | $2,350.22     
+DPS41485   | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 10 | 10           | Nitrilo      | Verde           | $2,350.22     
+DPS41486   | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 11 | 11           | Nitrilo      | Verde           | $2,350.22     
+DPS43682   | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 7 | 7            | Nitrilo      | Verde           | $8,578.66     
+DPS43683   | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 8 | 8            | Nitrilo      | Verde           | $8,578.66     
+DPS43684   | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 9 | 9            | Nitrilo      | Verde           | $8,578.66     
+DPS43685   | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 10 | 10           | Nitrilo      | Verde           | $8,578.66     
+DPS43482   | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 7 | 7            | Nitrilo      | Verde           | $12,979.68    
+DPS43483   | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 8 | 8            | Nitrilo      | Verde           | $12,979.68    
+DPS43484   | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 9 | 9            | Nitrilo      | Verde           | $12,979.68    
+DPS43485   | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 10 | 10           | Nitrilo      | Verde           | $12,979.68    
+DPS43486   | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 11 | 11           | Nitrilo      | Verde           | $12,979.68    
+DPS41452   | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 7 | 7            | Nitrilo      | Azul            | $2,359.73     
+DPS41453   | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 8 | 8            | Nitrilo      | Azul            | $2,359.73     
+DPS41454   | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm Talle 9 | 9            | Nitrilo      | Azul            | $2,359.73     
+DPS41455   | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 10 | 10           | Nitrilo      | Azul            | $2,359.73     
+DPS41456   | Gte. de Acrilo Nitrilo Azul FlocadoLargo Total 33 cm. Espesor 0.4 mm. Talle 11 | 11           | Nitrilo      | Azul            | $2,359.73     
+DPS91492   | Gte. Látex Neoprene Mix Flocado Talle 7                           | 7            | Látex        |                 | $5,192.35     
+DPS91493   | Gte. Látex Neoprene Mix Flocado Talle 8                           | 8            | Látex        |                 | $5,192.35     
+DPS91494   | Gte. Látex Neoprene Mix Flocado Talle 9                           | 9            | Látex        |                 | $5,192.35     
+DPS91495   | Gte. Látex Neoprene Mix Flocado Talle 10                          | 10           | Látex        |                 | $5,192.35     
+DPS91496   | Gte. Látex Neoprene Mix Flocado Talle 11                          | 11           | Látex        |                 | $5,192.35     
+DPS01495   | Gte. Neoprene Flocado. Talle 10                                   | 10           |              |                 | $9,436.53     
+DPS01496   | Gte. Neoprene Flocado. Talle 11                                   | 11           |              |                 | $9,436.53     
+DPS61322   | Gte. Látex Para Uso Doméstico Flocado. Talle S                    | S            | Látex        |                 | $1,273.73     
+DPS61323   | Gte. Látex Para Uso Doméstico Flocado. Talle M                    | M            | Látex        |                 | $1,273.73     
+DPS61324   | Gte. Látex Para Uso Doméstico Flocado. Talle L                    | L            | Látex        |                 | $1,273.73     
+DPS61325   | Gte. Látex Para Uso Doméstico Flocado. Talle XL                   | XL           | Látex        |                 | $1,273.73     
+DPS61322E  | Guante Látex Para Uso Doméstico Flocado Económico. Talle S (en Bolsa por 12 pares) | S            | Látex        |                 | $914.90       
+DPS61323E  | Guante Látex Para Uso Doméstico Flocado Económico. Talle M (en Bolsa por 12 pares) | M            | Látex        |                 | $914.90       
+DPS61324E  | Guante Látex Para Uso Doméstico Flocado Económico. Talle L (en Bolsa por 12 pares) | L            | Látex        |                 | $914.90       
+DPS61325E  | Guante Látex Para Uso Doméstico Flocado Económico. Talle XL (en Bolsa por 12 pares) | XL           | Látex        |                 | $914.90       
+DPS71392   | Gte. Látex Uso Industrial Negro. Talle S                          | S            | Látex        | Negro           | $2,224.27     
+DPS71393   | Gte. Látex Uso Industrial Negro. Talle M                          | M            | Látex        | Negro           | $2,224.27     
+DPS71394   | Gte. Látex Uso Industrial Negro. Talle L                          | L            | Látex        | Negro           | $2,224.27     
+DPS71395   | Gte. Látex Uso Industrial Negro. Talle XL                         | XL           | Látex        | Negro           | $2,224.27     
+DPS1210333 | Guante Dielectrico de Latex Clase 00 Talle 8 Naranja Tensión máx de uso CA 500V Tensión de prueba CA 2500V Lgo 36cm AZC | 8            | Látex        | Naranja         | $62,374.70    
+DPS1210334 | Guante Dielectrico de Latex Clase 00 Talle 9 Naranja Tensión máxima de uso 500V Tensión de prueba 2500V | 9            | Látex        | Naranja         | $62,374.70    
+DPS1210335 | Guante Dielectrico de Latex Clase 00 Talle 10 Naranja Tensión máxima de uso 500V Tensión de prueba 2500 Largo 36 cm AZC | 10           | Látex        | Naranja         | $62,374.70    
+DPS1210336 | Guante Dielectrico de Latex Clase 00 Talle 11 Naranja Tensión máxima de uso 500V Tensión de prueba 2500V Largo 36 cm AZC | 11           | Látex        | Naranja         | $62,374.70    
+DPS1211333 | Guante Dielectrico de Latex Clase 0 Talle 8 Naranja Tensión máx de uso CA 1000V Tensión de prueba CA 5000V Lgo 36 cm RC | 8            | Látex        | Naranja         | $77,840.05    
+DPS1211334 | Guante Dielectrico de Latex Clase 0 Talle 9 Naranja Tensión max de uso CA 1000V Tensión de prueba CA 5000V Lgo 36 cm RC | 9            | Látex        | Naranja         | $77,840.05    
+DPS1211335 | Guante Dielectrico de Latex Clase 0 Talle 10 Naranja Tensión máx de uso CA 1000 V Tensión de prueba CA 5000V Lgo 36cm RC | 10           | Látex        | Naranja         | $77,840.05    
+DPS1211336 | Guante Dielectrico de Latex Clase 0 Talle 11 Naranja Tensión máx de uso CA 1000V Tensión de Prueba CA 5000V Lgo 36 cm RC | 11           | Látex        | Naranja         | $77,840.05    
+DPS1212693 | Guante Dielectrico de Latex Clase 1 Talle 8 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41cm RC | 8            | Látex        | Naranja         | $111,793.48   
+DPS1212694 | Guante Dielectrico de Latex Clase 1 Talle 9 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41 cm RC | 9            | Látex        | Naranja         | $111,793.48   
+DPS1212695 | Guante Dielectrico de Latex Clase 1 Talle 10 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41cm RC | 10           | Látex        | Naranja         | $111,793.48   
+DPS1212696 | Guante Dielectrico de Latex Clase 1 Talle11 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41 cm RC | 11           | Látex        | Naranja         | $111,793.48   
+DPS1213693 | Guante Dielectrico de Latex Clase 2 T 8 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Lgo 41cm RC |              | Látex        | Naranja         | $233,995.42   
+DPS1213694 | Guante Dielectrico de Latex Clase 2 T 9 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Lgo 41 cm RC |              | Látex        | Naranja         | $233,995.42   
+DPS1213695 | Guante Dielectrico de Latex Clase 2 T 10 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Lgo 41 cm RC |              | Látex        | Naranja         | $233,995.42   
+DPS1213696 | Guante Dielectrico de Latex Clase 2 T 11 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Largo 41 cm RC |              | Látex        | Naranja         | $233,995.42   
+DPS1214693 | Guante Dieléctrico de Látex Clase 3 Talle 8 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | 8            | Látex        | Negro           | $651,481.47   
+DPS1214694 | Guante Dieléctrico de Látex Clase 3 Talle 9 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | 9            | Látex        | Negro           | $651,481.47   
+DPS1214695 | Guante Dieléctrico de Látex Clase 3 Talle 10 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | 10           | Látex        | Negro           | $651,481.47   
+DPS1214696 | Guante Dieléctrico de Látex Clase 3 Talle 11 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | 11           | Látex        | Negro           | $651,481.47   
+DPS1215693 | Guante Dieléctrico de Látex Clase 4 Talle 8 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | 8            | Látex        | Negro           | $973,292.89   
+DPS1215694 | Guante Dieléctrico de Látex Clase 4 Talle 9 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | 9            | Látex        | Negro           | $973,292.89   
+DPS1215695 | Guante Dieléctrico de Látex Clase 4 Talle 10 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | 10           | Látex        | Negro           | $973,292.89   
+DPS1215696 | Guante Dieléctrico de Látex Clase 4 Talle 11 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | 11           | Látex        | Negro           | $973,292.89   
+DPS85111   | Gte. Tejido Talle 6 S/Cost. Recub. en PU Espumado Blanco          | 6            |              | Blanco          | $810.34       
+DPS85112   | Gte. Tejido Talle 7 S/Cost. Recub. en PU Espumado Blanco          | 7            |              | Blanco          | $810.34       
+DPS85113   | Gte. Tejido Talle 8 S/Cost. Recub. en PU Espumado Blanco          | 8            |              | Blanco          | $810.34       
+DPS85114   | Gte. Tejido Talle 9 S/Cost. Recub. en PU Espumado Blanco          | 9            |              | Blanco          | $810.34       
+DPS85115   | Gte. Tejido Talle 10 S/Cost. Recub. en PU Espumado Blanco         | 10           |              | Blanco          | $810.34       
+DPS85191   | Gte. Tejido Talle 6 S/Cost. Recub. en PU Espumado Negro           | 6            |              | Negro           | $810.34       
+DPS85192   | Gte. Tejido Talle 7 S/Cost. Recub. en PU Espumado Negro           | 7            |              | Negro           | $810.34       
+DPS85193   | Gte. Tejido Talle 8 S/Cost. Recub. en PU Espumado Negro           | 8            |              | Negro           | $810.34       
+DPS85194   | Gte. Tejido Talle 9 S/Cost. Recub. en PU Espumado Negro           | 9            |              | Negro           | $810.34       
+DPS85195   | Gte. Tejido Talle 10 S/Cost. Recub. en PU Espumado Negro          | 10           |              | Negro           | $810.34       
+DPS85196   | Gte. Tejido Talle 11 S/Cost. Recub. en PU Espumado Negro          | 11           |              | Negro           | $810.34       
+DPS22125   | Gte. Látex Rugoso "Mondongo" Dorso Ventilado Puño Tejido          |              | Látex        |                 | $6,546.87     
+DPS21125   | Gte. Látex Rugoso "Mondongo" Baño Completo Puño Tejido            |              | Látex        |                 | $6,546.87     
+DPS21225   | Gte. Látex Rugoso "Mondongo" Baño Completo Puño de Lona           |              | Látex        |                 | $6,275.97     
+DPS21425   | Gte. Látex Rugoso "Mondongo" Baño Completo Largo 35 cm.           |              | Látex        |                 | $18,355.00    
+DPS17125   | Gte. Nitrilo Liviano Ventilado Amarillo Puño Tejido T10           |              | Nitrilo      | Amarillo        | $4,643.41     
+DPS16225   | Gte. Nitrilo Liviano Baño Completo Amarillo Puño de Lona T10      |              | Nitrilo      | Amarillo        | $4,921.44     
+DPS16123   | Gte. Nitrilo Liviano baño completo amarillo puño tejido T8        |              | Nitrilo      | Amarillo        | $4,189.52     
+DPS16125   | Gte. Nitrilo Liviano Baño Completo Amarillo Puño Tejido T10       |              | Nitrilo      | Amarillo        | $4,189.52     
+DPS11255E  | Gte. Nitrilo Liviano Baño Completo Azul Puño de Lona Económico    |              | Nitrilo      | Azul            | $3,935.25     
+DPS11155   | Gte. Nitrilo Medio Baño Completo Azul Puño Tejido                 |              | Nitrilo      | Azul            | $4,916.69     
+DPS11255   | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona                |              | Nitrilo      | Azul            | $5,113.93     
+DPS11356   | Gte. Nitrilo Baño Completo Azul Largo Total 30 cm.                |              | Nitrilo      | Azul            | $8,262.60     
+DPS12255   | Gte. Nitrilo Medio Ventilado Azul Puño de Lona                    |              | Nitrilo      | Azul            | $5,061.65     
+DPS12155   | Gte. Nitrilo Medio Ventilado Azul Puño Tejido                     |              | Nitrilo      | Azul            | $5,061.65     
+DPS11855   | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul de 7cm |              | Nitrilo, PVC | Azul            | $4,935.70     
+DPS11955   | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul de 14cm |              | Nitrilo, PVC | Azul            | $7,083.93     
+DPS13155   | Gte. Nitrilo Baño Completo Pesado Azul Puño Tejido                |              | Nitrilo      | Azul            | $7,891.89     
+DPS13255   | Gte. Nitrilo Baño Completo Pesado Azul Puño de Lona               |              | Nitrilo      | Azul            | $9,372.36     
+DPS32145   | Gte. PVC rojo puño elastizado dorso ventilado                     |              | PVC          | Rojo            | $4,469.93     
+DPS31145   | Gte. PVC rojo baño completo puño elastizado                       |              | PVC          | Rojo            | $4,469.93     
+DPS31345   | Gte. PVC rojo largo total 30 cm                                   |              | PVC          | Rojo            | $5,327.80     
+DPS31445   | Gte. PVC rojo largo total 35cm                                    |              | PVC          | Rojo            | $5,914.76     
+DPS31545   | Gte. PVC rojo largo total 40 cm                                   |              | PVC          | Rojo            | $6,703.71     
+DPS31355   | Gte. PVC Azul Baño Completo 30 cm. Talle 10/XL                    | 10/XL        | PVC          | Azul            | $17,948.65    
+DPS31755   | Gte. PVC Azul Baño Completo 70 cm. Talle 10/XL                    | 10/XL        | PVC          | Azul            | $20,182.43    
+DPS35485   | Gte. PVC verde granitado largo total 35cm                         |              | PVC          | Verde           | $11,197.41    
+DPS31495   | Gte. PVC negro granulado largo total 30 cm                        |              | PVC          | Negro           | $11,197.41    
+DPS31465   | Gte. PVC Naranja Fluo, Bajas Temperaturas largo 35 cm Forrado     |              | PVC          | Naranja         | $20,182.43    
+DPS75372   | Gte. Soporte Algodón Jersey Bañado Completo Látex Rugoso Pesado. Talle 7 | 7            | Látex        |                 | $36,436.73    
+DPS75373   | Gte. Soporte Algodón Jersey Bañado Completo Látex Rugoso Pesado Talle 8 | 8            | Látex        |                 | $36,436.73    
+DPS75374   | Gte. Soporte Algodón Jersey Bañado Compleo Látex Rugoso Pesado. Talle 9 | 9            | Látex        |                 | $36,436.73    
+DPS75375   | Gte. Soporte Algodón Jersey Bañado Compleo Látex Rugoso Pesado. Talle 10 | 10           | Látex        |                 | $36,436.73    
+DPS75376   | Gte. Soporte Algodón Jersey Bañado Compleo Látex Rugoso Pesado. Talle 11 | 11           | Látex        |                 | $36,436.73    
+DPS41883   | Gte. de Acrilo Nitrilo Verde Interior Anticorte Talle 8           | 8            | Nitrilo      | Verde           | $86,779.91    
+DPS41885   | Gte. de Acrilo Nitrilo Verde Interior Anticorte Talle 10          | 10           | Nitrilo      | Verde           | $86,779.91    
+DPS41886   | Gte. de Acrilo Nitrilo Verde Interior Anticorte Talle 11          | 11           | Nitrilo      | Verde           | $86,779.91    
+DPS09492   | Gte. Neoprene Soporte Sin Costura Talle 7                         | 7            |              |                 | $44,834.78    
+DPS09493   | Gte. Neoprene Soporte Sin Costura Talle 8                         | 8            |              |                 | $44,834.78    
+DPS09494   | Gte. Neoprene Soporte Sin Costura Talle 9                         | 9            |              |                 | $44,834.78    
+DPS09495   | Gte. Neoprene Soporte Sin Costura Talle 10                        | 10           |              |                 | $44,834.78    
+DPS09496   | Gte. Neoprene Soporte Sin Costura Talle 11                        | 11           |              |                 | $44,834.78    
+DPS89545X  | Gte. Tejido Talle 10 Sintético, Aplicación de Látex Espumoso Antivibratorio en Palma | 10           | Látex        |                 | $24,992.18    
+DPS1131102 | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 7 | 7            |              |                 | $46,911.72    
+DPS1131103 | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 8 | 8            |              |                 | $46,911.72    
+DPS1131104 | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 9 | 9            |              |                 | $46,911.72    
+DPS1131105 | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 10 | 10           |              |                 | $46,911.72    
+DPS1131106 | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 11 | 11           |              |                 | $46,911.72    
+DPS85802   | Gtes. Sin Costura Anticorte Talle 7 Recub. PU                     | 7            |              |                 | $6,140.51     
+DPS85803   | Gtes. Sin Costura Anticorte Talle 8 Recub. PU                     | 8            |              |                 | $6,140.51     
+DPS85804   | Gtes. Sin Costura Anticorte Talle 9 Recub. PU                     | 9            |              |                 | $6,140.51     
+DPS85805   | Gtes. Sin Costura Anticorte Talle 10 Recub. PU                    | 10           |              |                 | $6,140.51     
+DPS85806   | Gtes. Sin Costura Anticorte Talle 11 Recub. PU                    | 11           |              |                 | $6,140.51     
+DPS85802E  | Gtes. Sin Costura Anticorte Económico Talle 7 Recub. PU           | 7            |              |                 | $4,077.83     
+DPS85803E  | Gtes. Sin Costura Anticorte Económico Talle 8 Recub. PU           | 8            |              |                 | $4,077.83     
+DPS85804E  | Gtes. Sin Costura Anticorte Económico Talle 9 Recub. PU           | 9            |              |                 | $4,077.83     
+DPS85805E  | Gtes. Sin Costura Anticorte Económico Talle 10 Recub. PU          | 10           |              |                 | $4,077.83     
+DPS85806E  | Gtes. Sin Costura Anticorte Económico Talle 11 Recub. PU          | 11           |              |                 | $4,077.83     
+221023X    | P. de Gte. Lincoln Vaq. Elast. Talle 8 Refuerzo TPR Anti-Impacto  | 8            |              |                 | $9,436.53     
+221024X    | P. de Gte. Lincoln Vaq. Elast. Talle 9 Refuerzo TPR Anti-Impacto  | 9            |              |                 | $9,479.30     
+222025X    | P. de Gte. Lincoln Vaq. Elast. Talle 10 Refuerzo TPR Anti-Impacto | 10           |              |                 | $9,543.46     
+222026X    | P. de Gte. Lincoln Vaq. Elast. Talle 11 Refuerzo TPR Anti-Impacto | 11           |              |                 | $10,959.77    
+223024X    | Gte Lincoln Vaqueta Elast. Forrado Talle 9 -C/ TPR Anti-Impacto   | 9            | Vaqueta      |                 | $25,241.70    
+223025X    | Gte Lincoln Vaqueta Elast. Forrado Talle 10 -C/ TPR Anti-Impacto  | 10           | Vaqueta      |                 | $25,949.85    
+223026X    | Gte Lincoln Vaqueta Elast. Forrado Talle 11 -C/ TPR Anti-Impacto  | 11           | Vaqueta      |                 | $27,109.51    
+224025X    | P. de Gte. Lincoln Vaq. Elast. T 10, Refuerzo Cadenero c/ TPR Anti-Impacto. Forrado Anticorte. Negro |              |              | Negro           | $31,591.33    
+224026X    | P. de Gte. Lincoln Vaq. Elast. Talle 11. Refuerzo Cadenero c/ TPR Anti-Impacto. Forrado Anticorte. Negro | 11           |              | Negro           | $32,983.88    
+255255X    | Guante Lincoln Vaqueta Hidrofuga Azul interior anticorte Puño Elastizado. Refuerzo cadenero. Dorso Antigolpes. Talle10 | 10           | Vaqueta      | Azul            | $43,214.11    
+255256X    | Guante Lincoln Vaqueta Hidrofuga Azul interior anticorte Puño Elastizado. Refuerzo cadenero. Dorso Antigolpes. Talle11 | 11           | Vaqueta      | Azul            | $45,146.09    
+122225X    | Gte. Americano Vaqueta Puño Corto, Refuerzo Cadenero, Talle 10, Refuerzo TPR Anti-Impacto | 10           | Vaqueta      |                 | $11,537.23    
+172226X    | Gte. Americano Vaqueta Puño Corto, Refuerzo Cadenero, Talle 11, Refuerzo TPR Anti-Impacto | 11           | Vaqueta      |                 | $12,052.90    
+125225X    | Guante Americano Vaqueta Amarilla Interior Anticorte Puño Corto Refuerzo Cadenero, Talle 10, Refuerzo TPR | 10           | Vaqueta      |                 | $26,142.34    
+175226X    | Guante Americano Vaqueta Amarilla Interior Anticorte Puño Corto Refuerzo Cadenero, Talle 11, Refuerzo TPR. | 11           | Vaqueta      |                 | $29,359.93    
+DPS87483X  | Gte. Tejido Talle 8 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 8            | Nitrilo      |                 | $34,721.00    
+DPS87484X  | Gte. Tejido Talle 9 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 9            | Nitrilo      |                 | $34,721.00    
+DPS87485X  | Gte. Tejido Talle 10 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 10           | Nitrilo      |                 | $34,721.00    
+DPS87486X  | Gte. Tejido Talle 11 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 11           | Nitrilo      |                 | $34,721.00    
+DPS87924X  | Gte. Tejido Talle 9 S/Cost. Anticorte G13, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 9            | Nitrilo      |                 | $42,227.92    
+DPS87925X  | Gte. Tejido Talle 10 S/Cost. Anticorte G13, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 10           | Nitrilo      |                 | $42,227.92    
+DPS87926X  | Gte. Tejido Talle 11 S/Cost. Anticorte G13, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | 11           | Nitrilo      |                 | $42,227.92    
+DPS83683X  | Gte. Tejido Talle 8 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | 8            |              |                 | $63,204.05    
+DPS83684X  | Gte. Tejido Talle 9 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | 9            |              |                 | $63,204.05    
+DPS83685X  | Gte. Tejido Talle 10 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | 10           |              |                 | $63,204.05    
+DPS83686X  | Gte. Tejido Talle 11 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | 11           |              |                 | $63,204.05    
+DPS11855X  | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona con Aplicaciones TPR Anti-Impacto |              | Nitrilo      | Azul            | $18,357.38    
+DPS11255X  | Gte Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul con TPR Anti-Impacto |              | Nitrilo, PVC | Azul            | $19,410.11    
+DPS11356X  | Gte. Nitrilo Baño Completo Azul Largo Total 30 cm Con TPR Anti-Impacto |              | Nitrilo      | Azul            | $34,721.00    
+DPS10255X  | Gte. Baño de Nitrilo Completo Palma Reforzada Puño Lona Ref. TPR Anti-Impacto |              | Nitrilo      |                 | $36,094.53    
+DPS11955X  | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul de 14cm con TPR Anti-Impacto |              | Nitrilo, PVC | Azul            | $21,403.87    
+DPS11455X  | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona resistente al corte y Aplicaciones en dorsoTPR Anti-Impacto |              | Nitrilo      | Azul            | $39,376.29    

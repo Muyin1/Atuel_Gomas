@@ -12,8 +12,11 @@ class SearchProductsUseCase:
         products: list[Product] = await self.product_repo.search(
             query=dto.query,
             category=dto.category,
+            family=dto.family,
             vehicle_brand=dto.vehicle_brand,
-            vehicle_model=dto.vehicle_model
+            vehicle_model=dto.vehicle_model,
+            page=dto.page,
+            page_size=dto.page_size
         )
 
         results = []
@@ -29,7 +32,8 @@ class SearchProductsUseCase:
                     sku=p.sku,
                     oem_code=p.oem_code,
                     name=p.name,
-                    category=p.category.value,
+                    category=p.category.value if hasattr(p.category, "value") else str(p.category),
+                    family=p.family_name or "",
                     dimensions=p.dimensions.summary(),
                     price_formatted=price.format_ars(),
                     is_wholesale=is_wholesale,

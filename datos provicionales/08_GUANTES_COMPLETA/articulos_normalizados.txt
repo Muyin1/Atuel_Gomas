@@ -1,0 +1,1265 @@
+=== TABLA NORMALIZADA: GUANTES COMPLETA ===
+Total de artículos únicos: 1259
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA                                                     | PRECIO (S/IVA)
+---------------------------------------------------------------------------------------------------------------------------
+S/C    | 1476                | Botin de seguridad, talle 36, cuero descarne negro, puntera de acero        | $44,559.13    
+S/C    | 1476                | Botin de seguridad, talle 37, cuero descarne negro, puntera de acero        | $44,559.13    
+S/C    | 1476                | Botin de seguridad, talle 38, cuero descarne negro, puntera de acero        | $44,559.13    
+S/C    | 1476                | Botin de seguridad, talle 39, cuero descarne negro, puntera de acero        | $44,559.13    
+S/C    | 1476                | Botin de seguridad, talle 40, cuero descarne negro, puntera de acero        | $44,559.13    
+S/C    | 1476                | Botin de seguridad, talle 41, cuero descarne negro, puntera de acero        | $44,559.13    
+S/C    | 1476                | Botin de seguridad, talle 42, cuero descarne negro, puntera de acero        | $44,559.13    
+S/C    | 1476                | Botin de seguridad, talle 43, cuero descarne negro, puntera de acero        | $44,559.13    
+S/C    | 1476                | Botin de seguridad, talle 44, cuero descarne negro, puntera de acero        | $44,559.13    
+S/C    | 1476                | Botin de seguridad, talle 45, cuero descarne negro, puntera de acero        | $44,559.13    
+S/C    | 1476                | Botin de seguridad, talle 46, cuero descarne negro, puntera de acero        | $44,559.13    
+S/C    | 1476                | Zapato de seguridad, talle 36, cuero descarne negro, puntera de acero       | $44,559.13    
+S/C    | 1476                | Zapato de seguridad, talle 37, cuero descarne negro, puntera de acero       | $44,559.13    
+S/C    | 1476                | Zapato de seguridad, talle 38, cuero descarne negro, puntera de acero       | $44,559.13    
+S/C    | 1476                | Zapato de seguridad, talle 39, cuero descarne negro, puntera de acero       | $44,559.13    
+S/C    | 1476                | Zapato de seguridad, talle 40, cuero descarne negro, puntera de acero       | $44,559.13    
+S/C    | 1476                | Zapato de seguridad, talle 41, cuero descarne negro, puntera de acero       | $44,559.13    
+S/C    | 1476                | Zapato de seguridad, talle 42, cuero descarne negro, puntera de acero       | $44,559.13    
+S/C    | 1476                | Zapato de seguridad, talle 43, cuero descarne negro, puntera de acero       | $44,559.13    
+S/C    | 1476                | Zapato de seguridad, talle 44, cuero descarne negro, puntera de acero       | $44,559.13    
+S/C    | 1476                | Zapato de seguridad, talle 45, cuero descarne negro, puntera de acero       | $44,559.13    
+S/C    | 1476                | Zapato de seguridad, talle 46, cuero descarne negro, puntera de acero       | $44,559.13    
+S/C    | 1476                | Cubre calzado de seguridad para visita, talle S (34-38), con puntera de aluminio y suela de caucho antideslizante | $64,164.10    
+S/C    | 1476                | Cubre calzado de seguridad para visita, talle M (39-43), con puntera de aluminio y suela de caucho antideslizante | $64,164.10    
+S/C    | 1476                | Cubre calzado de seguridad para visita, talle XL (44-48), con puntera de aluminio y suela de caucho antideslizante | $64,164.10    
+S/C    | 1476                | Mentonera Premium para Casco                                                | $3,386.31     
+S/C    | 1476                | Mentonera Económica para Casco                                              | $2,594.99     
+S/C    | 1476                | Casco - Carcasa Clase B Color Blanco                                        | $5,232.74     
+S/C    | 1476                | Casco - Carcasa Clase B Color Amarillo                                      | $5,232.74     
+S/C    | 1476                | Casco - Carcasa Clase B Color Verde                                         | $5,232.74     
+S/C    | 1476                | Casco - Carcasa Clase B Color Naranja                                       | $5,232.74     
+S/C    | 1476                | Casco - Carcasa Clase B Color Azul                                          | $5,232.74     
+S/C    | 1476                | Casco - Carcasa Clase B Color Rojo                                          | $5,232.74     
+S/C    | 1476                | Casco - Carcasa Clase B Color Rosa                                          | $5,232.74     
+S/C    | 1476                | Arnes Clase B Cremallera                                                    | $3,388.69     
+S/C    | 1476                | Arnes Clase B FastTrack                                                     | $4,954.71     
+S/C    | 1476                | Accesorio reflectivo para casco tipo B                                      | $2,338.34     
+S/C    | 1476                | Lampara Minera LED Recargable Para Casco                                    | $170,779.49   
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Blanco + Arnes Cremallera            | $7,742.18     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Amarillo + Arnes Cremallera          | $7,742.18     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Verde + Arnes Cremallera             | $7,742.18     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Naranja + Arnes Cremallera           | $7,742.18     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Azul + Arnes Cremallera              | $7,742.18     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Rojo + Arnes Cremallera              | $7,742.18     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Rosa + Arnes Cremallera              | $7,742.18     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Amarillo + FastTrack                 | $9,158.49     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Blanco + FastTrack                   | $9,158.49     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Verde + FastTrack                    | $9,158.49     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Naranja + FastTrack                  | $9,158.49     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Azul + FastTrack                     | $9,158.49     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Rojo + FastTrack                     | $9,158.49     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Rosa + FastTrack                     | $9,158.49     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Blanco + Arnes Cremallera + Reflectivo | $9,842.88     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Amarillo + Arnes Cremallera + Reflectivo | $9,842.88     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Verde + Arnes Cremallera + Reflectivo | $9,842.88     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Naranja + Arnes Cremallera + Reflectivo | $9,842.88     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Azul + Arnes Cremallera + Reflectivo | $9,842.88     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Rojo + Arnes Cremallera + Reflectivo | $9,842.88     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Rosa + Arnes Cremallera + Reflectivo | $9,842.88     
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Blanco + FastTrack + Reflectivo      | $11,237.81    
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Amarillo + FastTrack + Reflectivo    | $11,237.81    
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Verde + FastTrack + Reflectivo       | $11,237.81    
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Naranja + FastTrack + Reflectivo     | $11,237.81    
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Azul + FastTrack + Reflectivo        | $11,237.81    
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Rojo + FastTrack + Reflectivo        | $11,237.81    
+S/C    | 1476                | Casco Completo - Carcasa Clase B Color Rosa + FastTrack + Reflectivo        | $11,237.81    
+S/C    | 1476                | Guante Lincoln Vaqueta Elast. Talle 8 (Ribete Amarillo) Economico con etiqueta | $3,856.83     
+S/C    | 1476                | P.de Gte. Lincoln Vaq. Elast. Talle 9 (Ribete Azul) Economico con Etiqueta  | $3,909.11     
+S/C    | 1476                | Guante Lincoln Vaqueta Elastizado (amplio) Talle 10 (Ribete Naranja) Economico con Etiqueta | $3,937.63     
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Elast. (amplio). Talle 11 (Ribete Negro) Economico con etiqueta | $4,332.10     
+S/C    | 1476                | P.de Gte. Lincoln Vaq. Elast. Talle 8 (Ribete Amarillo)                     | $4,355.87     
+S/C    | 1476                | P.de Gte. Lincoln Vaq. Elast. Talle 9 (Ribete Azul)                         | $4,408.15     
+S/C    | 1476                | Guante Lincoln Vaqueta Elast. (amplio) pulgar volcado Talle 10 (Ribete Naranja) | $4,462.80     
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Elast. (amplio) pulgar volcado Talle 11 (Ribete Negro) | $4,987.98     
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Elast. Talle 8 (Ribete Amarillo) MAS AMPLIO. SOLO PROMO FEBRERO | $3,804.55     
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Forrado y Elast.. Talle 9                           | $5,662.87     
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Forrado y Elast.. Talle 10                          | $5,791.19     
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Forrado y Elast.. Talle 11                          | $6,304.48     
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Elast. (amplio) REFLECTIVO. Talle 11                | $20,092.12    
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Elast. Azul - Hidrofugado. Talle 10                 | $10,947.89    
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Forrado y Elast.Hidrofugado Azul Talle 10           | $13,364.65    
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Forrado y Elast.Hidrofugado Azul Talle 11           | $14,403.12    
+S/C    | 1476                | Guante Americano Descarne, Gris, Puño Corto, Talle 10.                      | $3,904.36     
+S/C    | 1476                | P. de Gte. Am. Desc.Amarillo Puño Cto. Lona. Talle 10                       | $3,928.12     
+S/C    | 1476                | P. de Gte. Am. Desc. Gris Puño Lgo.. Talle 10                               | $4,966.59     
+S/C    | 1476                | P. de Gte. Am. Desc. Gris Puño Lgo. 18 cm. Talle 10                         | $6,794.01     
+S/C    | 1476                | P. de Gte. Am. Desc.Amarillo Puño Cto. Tejido. Talle 10.                    | $5,102.04     
+S/C    | 1476                | P. de Gte. Am. Desc. Amarillo Pño Tejido Ref. Cadenero. Talle 10            | $9,526.83     
+S/C    | 1476                | P. de Gte. Am. Desc. Puño Cto. Tejido. Talle 10                             | $3,115.41     
+S/C    | 1476                | P. de Gte. Am. Desc. Amarillo Puño Cto. Talle 10.                           | $5,237.50     
+S/C    | 1476                | P. de Gte. Am. Desc. Puño Cto. Ref. Cadenero Grande. Talle 11               | $5,102.04     
+S/C    | 1476                | P. de Gte. Am. Desc. Amarillo Puño Lgo.. Talle 10                           | $6,275.97     
+S/C    | 1476                | P. de Gte. Am. Desc. Puño Lgo. Ref. Cadenero Grande. Talle 11               | $6,207.05     
+S/C    | 1476                | P. de Gte. Am. Desc. Gris P/Cto. R/Pist. y Poncho Gris. Talle 10            | $9,436.53     
+S/C    | 1476                | P. de Gte. Am. Desc. Gris P/Lgo. R/Pist. y Poncho. Talle 10                 | $11,085.72    
+S/C    | 1476                | P. de Gte. Cobertor Dielectrico Vaq. Chico (Clase 00 y 0). Talle 10         | $10,767.29    
+S/C    | 1476                | P. de Gte. Cobertor dielectrico Vaq. tipo North Largo (Clase 1, 2, 3 y 4). Talle 10 | $14,153.60    
+S/C    | 1476                | P. de Gte. Am. Comb. Puño Cto. TEJIDO Cadenero. Talle 10                    | $7,064.92     
+S/C    | 1476                | P. de Gte. Am. Comb. Puño Cto. Cadenero. Talle 10                           | $7,540.19     
+S/C    | 1476                | P. de Gte. Am. Comb. Puño Lgo. Cadenero. Talle 10                           | $8,329.14     
+S/C    | 1476                | P. de Gte. Am. Combinado. Oleofugo Puño Cto. Ref. Cadenero. Talle 10        | $10,971.65    
+S/C    | 1476                | P. de Gte. Am. Combinado. Oleofugo Puño Largo Ref. Cadenero. Talle 10       | $12,437.87    
+S/C    | 1476                | P. de Gte. Am. Vaq. Oleofuga Puño Cto. Ref. Cadenero. Talle 10              | $15,351.29    
+S/C    | 1476                | P. de Gte. Am. Vaq. Puño Cto TEJIDO. Ref. Cadenero. Talle 10                | $8,600.05     
+S/C    | 1476                | P. de Gte. Am. Vaq. Puño Cto. Tejido Ref. Cadenero Grande. Talle 11         | $9,189.38     
+S/C    | 1476                | P. de Gte. Vaq. Apicultor puño 40 cm. Talle 10                              | $22,214.21    
+S/C    | 1476                | P. de Gte. Am. Vaq. Puño Cto. Ref. Cadenero. Talle 10                       | $8,600.05     
+S/C    | 1476                | P. de Gte. Am. Vaq. Puño Cto. Ref. Cadenero Grande. Talle 11                | $9,683.67     
+S/C    | 1476                | P. de Gte. Am. Vaq. Puño Lgo. Ref. Cadenero. Talle 10                       | $9,954.57     
+S/C    | 1476                | P. de Gte. Am. Vaq. Puño Lgo. Ref. Cadenero Grande. Talle 11                | $10,679.36    
+S/C    | 1476                | P. de Gte. Am. Desc. Lgo. Rojo Forrado Tira Protec. Talle 10                | $7,849.12     
+S/C    | 1476                | P. de Gte. Am. Desc. Amarillo Lgo. Forrado Tira Protec. Talle 10            | $9,693.17     
+S/C    | 1476                | P. de Gte. Desc. Marron Lgo. Forrado y Costura Kevlar. Talle 10             | $10,486.88    
+S/C    | 1476                | Guante Descarne Naranja Largo Forrado y Costura Kevlar c/ refuerzo cuero. Talle 10 | $17,563.68    
+S/C    | 1476                | P. de Gte. Desc. Lgo. Forrado y Costura Kevlar.                             | $42,035.43    
+S/C    | 1476                | P. de Gte. Desc. NARANJA Lgo. Forrado con Lana y Costura Kevlar.            | $34,699.61    
+S/C    | 1476                | P Gte Vaq Lincoln con Pño Desc amarillo 14 cm Argonista. Talle 8            | $21,242.28    
+S/C    | 1476                | P Gte Vaq Lincoln con Pño Desc amarillo 14 cm Argonista. Talle 9            | $22,439.97    
+S/C    | 1476                | P Gte Vaq Lincoln con Pño Desc amarillo 14 cm Argonista. Talle 10           | $23,613.89    
+S/C    | 1476                | Gte Forjador Extremo Ref. Forrado c/Friza Aislante Cosido Hilo de Kevlar. Talle 10 | $23,613.89    
+S/C    | 1476                | Campera de Desc. Amarilla Talle 1                                           | $60,392.81    
+S/C    | 1476                | Campera de Desc. Amarilla Talle 2                                           | $60,392.81    
+S/C    | 1476                | Campera de Desc. Amarilla Talle 3                                           | $60,392.81    
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 4                                          | $60,392.81    
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 5                                          | $60,392.81    
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 6                                          | $60,392.81    
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 7                                          | $63,009.19    
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 8                                          | $63,009.19    
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 9                                          | $63,009.19    
+S/C    | 1476                | Campera de Desc. Amarilla Talle 10                                          | $65,625.56    
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 11                                         | $65,625.56    
+S/C    | 1476                | Campera de Desc. Amarilla. Talle1 Aplicaciones Reflectivas                  | $188,233.85   
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 2 Aplicaciones Reflectivas                 | $188,233.85   
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 3 Aplicaciones Reflectivas                 | $188,233.85   
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 4 Aplicaciones Reflectivas                 | $226,904.36   
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 5 Aplicaciones Reflectivas                 | $226,904.36   
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 6 Aplicaciones Reflectivas                 | $226,904.36   
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 7 Aplicaciones Reflectivas                 | $268,172.23   
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 8 Aplicaciones Reflectivas                 | $268,172.23   
+S/C    | 1476                | Campera de Desc. Amarilla. Talle 9 Aplicaciones Reflectivas                 | $268,172.23   
+S/C    | 1476                | Delantal Cuero Descarne Std.-                                               | $11,817.64    
+S/C    | 1476                | Delantal Cuero Descarne Std. Reforzado                                      | $15,591.30    
+S/C    | 1476                | Delantal Cuero Descarne Amarillo Std. Ref. c/Placa Plomo (Esp.0,5mm)        | $26,230.26    
+S/C    | 1476                | Delantal Cuero Descarne Amarillo Std. Ref. Radiologico(Goma Plomada)        | $18,357.38    
+S/C    | 1476                | Delantal Cuero Descarne Amarillo 70x110 Reforzado                           | $26,786.33    
+S/C    | 1476                | Delantal Lgo. Cuero Descarne (70 x 110 cm)                                  | $21,746.07    
+S/C    | 1476                | Delantal Jean 60 x 90                                                       | $4,063.58     
+S/C    | 1476                | Delantal Jean 60 x 90 Reforzado                                             | $4,396.27     
+S/C    | 1476                | Delantal Jean 70x110                                                        | $4,966.59     
+S/C    | 1476                | Manta Esp. Desc Ignifuga C/Kevlar de 1 X 1 mts                              | $60,566.29    
+S/C    | 1476                | Manta Esp. Desc Ignifuga C/Kevlar de 2 X 2 mts                              | $121,581.71   
+S/C    | 1476                | Manta Esp. Desc Ignifuga C/Kevlar de 2 X 2.5 mts                            | $159,349.20   
+S/C    | 1476                | Manta Esp. Desc Ignifuga C/Kevlar de 3 X 3 mts                              | $292,960.04   
+S/C    | 1476                | Manta Esp. Desc Ignifuga C/Kevlar de 4 X 4 mts                              | $502,452.81   
+S/C    | 1476                | P. de Mangas Desc. Amarillo                                                 | $12,309.54    
+S/C    | 1476                | Mangas de Jean por par                                                      | $20,374.91    
+S/C    | 1476                | P. de Polainas Desc. Amarillo Reforzadas                                    | $12,052.90    
+S/C    | 1476                | P. de Polainas Descarne Amarillo C/velcro                                   | $28,566.22    
+S/C    | 1476                | Polainas Desc Esp. ancha con Velcro entero y 3 flejes                       | $61,143.74    
+S/C    | 1476                | Gorro Desc Amarillo c/ nuquera                                              | $14,947.30    
+S/C    | 1476                | Guarda Monte-                                                               | $48,211.59    
+S/C    | 1476                | Piqueta Doble Punta Removedora de Escoria, Peso 500 g                       | $15,733.88    
+S/C    | 1476                | Soporte Magnético de 3" Para Soldar, Soporte 12 kg                          | $8,443.21     
+S/C    | 1476                | Masa Magnética Con Agarre Para Soldar, 60x150 mm, Soporte 15 kg             | $14,876.01    
+S/C    | 1476                | CINTA DE REMOLQUE UNIVERSAL PARA VEHÍCULOS LIVIANOS, 50MM3T5M, 3 TON        | $6,456.57     
+S/C    | 1476                | CINTA DE AMARRE UNIVERSAL, 50MM2T8M                                         | $20,679.08    
+S/C    | 1476                | CINTA DE AMARRE UNIVERSAL, 50MM2T10M                                        | $23,682.80    
+S/C    | 1476                | CINTA DE AMARRE UNIVERSAL, 50MM2T6M                                         | $25,826.28    
+S/C    | 1476                | Baliza Triangular Reflectante Para Emergencia                               | $8,600.05     
+S/C    | 1476                | Cinta Reflectiva Vehicular Roja/Blanca Cebrada, Rollo de 7.5 cm x 45.7 m    | $92,580.61    
+S/C    | 1476                | Cinta Reflectiva Vehicular Roja, Rollo de 7.5 cm x 45.7 m                   | $90,662.89    
+S/C    | 1476                | Cinta Reflectiva Vehicular Blanca, Rollo de 7.5 cm x 45.7 m                 | $90,662.89    
+S/C    | 1476                | Cinta Reflectiva Vehicular Amarilla, Rollo de 7.5 cm x 45.7 m               | $90,662.89    
+S/C    | 1476                | Cinta Reflectiva Vehicular Roja/Blanca Mercosur, Rollo de 5 cm x 45.7 m     | $59,304.44    
+S/C    | 1476                | Cinta Reflectiva Vehicular Roja, Rollo de 5 cm x 45.7 m                     | $48,964.90    
+S/C    | 1476                | Cinta Reflectiva Vehicular Blanca, Rollo de 5 cm x 45.7 m                   | $48,964.90    
+S/C    | 1476                | Cinta Reflectiva Vehicular Amarilla, Rollo de 5 cm x 45.7 m                 | $48,964.90    
+S/C    | 1476                | Círculo Reflectivo "Velocidad Máxima 80"                                    | $2,594.99     
+S/C    | 1476                | Círculo Reflectivo "Velocidad Máxima 90"                                    | $2,594.99     
+S/C    | 1476                | Círculo Reflectivo "Velocidad Máxima 100"                                   | $2,594.99     
+S/C    | 1476                | Círculo Reflectivo "Velocidad Máxima 110"                                   | $2,594.99     
+S/C    | 1476                | Calza para Camión Caucho, 27*12*18 cm, 3.1 kg                               | $24,899.50    
+S/C    | 1476                | Eslinga Circular Capacidad 760 Kg Largo 1 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | $4,087.34     
+S/C    | 1476                | Eslinga Circular Capacidad 760 Kg Largo 2 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | $9,503.06     
+S/C    | 1476                | Eslinga Circular Capacidad 550 Kg Largo 2 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | $4,469.93     
+S/C    | 1476                | Eslinga Circular Capacidad 760 Kg Largo 2.5 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | $12,010.12    
+S/C    | 1476                | Eslinga Circular Capacidad 760 Kg Largo 3 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | $13,364.65    
+S/C    | 1476                | Eslinga Circular Capacidad 550 Kg Largo 3.25 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | $6,884.31     
+S/C    | 1476                | Eslinga Circular Capacidad 760 Kg Largo 4 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | $17,608.83    
+S/C    | 1476                | Eslinga Circular Capacidad 760 Kg Largo 5 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | $21,741.32    
+S/C    | 1476                | Eslinga Circular Capacidad 760 Kg Largo 6 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | $25,802.52    
+S/C    | 1476                | Eslinga Circular Capacidad 760 Kg Largo 7 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | $29,980.16    
+S/C    | 1476                | Eslinga Circular Capacidad 760 Kg Largo 8 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 | $34,202.95    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 1 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | $14,403.12    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 2 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | $19,662.00    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 3 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | $24,923.26    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 4 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | $28,872.77    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 5 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | $34,652.08    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 6 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | $43,796.31    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 7 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 | $51,493.34    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 8 m Ancho 30 mm Coeficiente Seguridad 6 IRAM 5378 | $57,477.02    
+S/C    | 1476                | Eslinga Capacidad 2 Tn Largo 1 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | $18,623.53    
+S/C    | 1476                | Eslinga Capacidad 2 Tn Largo 2 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | $25,735.98    
+S/C    | 1476                | Eslinga Capacidad 2 Tn Largo 3 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | $34,426.33    
+S/C    | 1476                | Eslinga Capacidad 2 Tn Largo 4 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | $43,209.35    
+S/C    | 1476                | Eslinga Capacidad 2 Tn Largo 5 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | $51,854.55    
+S/C    | 1476                | Eslinga Capacidad 2 Tn Largo 6 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | $78,358.09    
+S/C    | 1476                | Eslinga Capacidad 2 Tn Largo 7 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | $85,085.57    
+S/C    | 1476                | Eslinga Capacidad 2 Tn Largo 8 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 | $98,654.59    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 1 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | $14,966.32    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 2 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | $20,431.94    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 3 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | $26,028.27    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 4 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | $32,644.06    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 5 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | $39,190.93    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 6 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | $50,274.27    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 7 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | $58,289.73    
+S/C    | 1476                | Eslinga Capacidad 1 Tn Largo 8 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 | $66,552.34    
+S/C    | 1476                | Eslinga Capacidad 3 Tn Largo 1 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | $27,767.77    
+S/C    | 1476                | Eslinga Capacidad 3 Tn Largo 2 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | $40,906.66    
+S/C    | 1476                | Eslinga Capacidad 3 Tn Largo 3 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | $55,625.83    
+S/C    | 1476                | Eslinga Capacidad 3 Tn Largo 4 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | $70,345.01    
+S/C    | 1476                | Eslinga Capacidad 3 Tn Largo 5 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | $84,973.88    
+S/C    | 1476                | Eslinga Capacidad 3 Tn Largo 6 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | $112,064.38   
+S/C    | 1476                | Eslinga Capacidad 3 Tn Largo 7 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | $126,310.66   
+S/C    | 1476                | Eslinga Capacidad 3 Tn Largo 8 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 | $140,259.90   
+S/C    | 1476                | Eslinga capacidad 4 Tn 1 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | $44,675.57    
+S/C    | 1476                | Eslinga capacidad 4 Tn 2 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | $54,066.94    
+S/C    | 1476                | Eslinga capacidad 4 Tn 3 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | $75,492.20    
+S/C    | 1476                | Eslinga capacidad 4 Tn 4 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | $96,984.00    
+S/C    | 1476                | Eslinga capacidad 4 Tn 5 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | $118,316.59   
+S/C    | 1476                | Eslinga capacidad 4 Tn 6 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | $156,559.35   
+S/C    | 1476                | Eslinga capacidad 4 Tn 7 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | $175,004.66   
+S/C    | 1476                | Eslinga capacidad 4 Tn 8 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 | $192,318.81   
+S/C    | 1476                | Eslinga capacidad 5 Tn 2 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | $69,192.47    
+S/C    | 1476                | Eslinga capacidad 5 Tn 3 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | $95,494.03    
+S/C    | 1476                | Eslinga capacidad 5 Tn 4 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | $121,681.51   
+S/C    | 1476                | Eslinga capacidad 5 Tn 5 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | $147,462.64   
+S/C    | 1476                | Eslinga capacidad 5 Tn 6 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | $210,357.76   
+S/C    | 1476                | Eslinga capacidad 5 Tn 7 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | $246,861.03   
+S/C    | 1476                | Eslinga capacidad 5 Tn 8 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | $251,511.57   
+S/C    | 1476                | Eslinga capacidad 5 Tn 10 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 | $330,570.69   
+S/C    | 1476                | Eslinga capacidad 6 Tn 2 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | $89,398.66    
+S/C    | 1476                | Eslinga capacidad 6 Tn 3 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | $124,728.01   
+S/C    | 1476                | Eslinga capacidad 6 Tn 4 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | $160,150.03   
+S/C    | 1476                | Eslinga capacidad 6 Tn 5 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | $195,367.68   
+S/C    | 1476                | Eslinga capacidad 6 Tn 6 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | $250,021.59   
+S/C    | 1476                | Eslinga capacidad 6 Tn 7 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | $279,778.37   
+S/C    | 1476                | Eslinga capacidad 6 Tn 8 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | $311,585.95   
+S/C    | 1476                | Eslinga capacidad 6 Tn 9 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 | $340,549.02   
+S/C    | 1476                | Eslinga capacidad 8 Tn 2 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | $180,151.85   
+S/C    | 1476                | Eslinga capacidad 8 Tn 3 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | $209,295.53   
+S/C    | 1476                | Eslinga capacidad 8 Tn 4 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | $278,129.17   
+S/C    | 1476                | Eslinga capacidad 8 Tn 5 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | $334,137.60   
+S/C    | 1476                | Eslinga capacidad 8 Tn 6 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | $361,658.23   
+S/C    | 1476                | Eslinga capacidad 8 Tn 7 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | $417,148.61   
+S/C    | 1476                | Eslinga capacidad 8 Tn 8 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | $473,542.01   
+S/C    | 1476                | Eslinga capacidad 8 Tn 12 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 | $690,266.04   
+S/C    | 1476                | Eslinga capacidad 10 Tn 10 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | $727,401.42   
+S/C    | 1476                | Eslinga capacidad 10 Tn 12 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | $849,061.55   
+S/C    | 1476                | Eslinga capacidad 10 Tn 15 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | $1,050,636.28 
+S/C    | 1476                | Eslinga capacidad 10 Tn 3 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | $256,071.80   
+S/C    | 1476                | Eslinga capacidad 10 Tn 4 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | $321,089.01   
+S/C    | 1476                | Eslinga capacidad 10 Tn 5 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | $386,650.41   
+S/C    | 1476                | Eslinga capacidad 10 Tn 6 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | $453,540.19   
+S/C    | 1476                | Eslinga capacidad 10 Tn 7 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | $521,808.26   
+S/C    | 1476                | Eslinga capacidad 10 Tn 8 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 | $590,934.19   
+S/C    | 1476                | Cobertor eslinga de cuero de 35x12 cm para 60/75 mm ancho                   | $23,454.67    
+S/C    | 1476                | Cobertor eslinga de cuero de 47x17 cm para 100/125/150 mm ancho             | $31,244.38    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 25MM DE ANCHO GANCHO J - 3m CMR 1500 KG               | $11,829.52    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO J - 4m CMR 1500 Kg               | $13,160.28    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO J - 6m CMR 1500 Kg               | $13,614.17    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO S - 3m CMR 1500 Kg               | $17,428.22    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO S - 4m CMR 1500 Kg               | $17,855.97    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO S - 6m CMR 1500 Kg               | $20,814.54    
+S/C    | 1476                | CINTA PARA SUJECION DE CARGA 25 mm PESADA EN ROLLO DE 50 mts                | $79,624.69    
+S/C    | 1476                | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO J - 3m CMR 1500 Kg | $7,245.52     
+S/C    | 1476                | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO J - 3m CMR 3000Kg        | $27,021.59    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO J - 6m CMR 3000Kg        | $31,626.98    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO J - 9m CMR 3000Kg        | $32,620.29    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO P - 6m CMR 3000Kg        | $33,387.86    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO P - 9m CMR 3000Kg        | $37,767.49    
+S/C    | 1476                | CINTA PARA SUJECION DE CARGA 50 mm LIVIANA EN ROLLO DE 50 mts               | $100,821.83   
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 50mm DE ANCHO CON OJAL - 2m CMR 5000 Kg               | $27,451.71    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 3m CMR 5000 Kg               | $38,423.36    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 6m CMR 5000 Kg               | $40,229.40    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 9m CMR 5000 Kg               | $47,384.62    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 12m CMR 5000 Kg              | $52,125.46    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 22m CMR 5000 Kg              | $89,263.21    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 16m CMR 5000 Kg              | $71,497.54    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 6m CMR 5000 Kg               | $41,876.22    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 9m CMR 5000 Kg               | $48,651.22    
+S/C    | 1476                | CINTA PARA SUJECION DE CARGA 50 mm PESADA EN ROLLO DE 50 mts - CMR 5000Kg   | $159,201.86   
+S/C    | 1476                | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 6m CMR 5000 Kg | $24,628.60    
+S/C    | 1476                | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 6m CMR 5000 Kg | $23,547.35    
+S/C    | 1476                | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 9m CMR 5000Kg | $33,568.46    
+S/C    | 1476                | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 9m CMR 5000 Kg | $30,771.49    
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 9m CMR 10000 Kg             | $134,074.23   
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 11m CMR 10000 Kg            | $164,551.05   
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 16m CMR 10000 Kg            | $188,616.45   
+S/C    | 1476                | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO P - 9m CMR 10000 Kg             | $122,921.97   
+S/C    | 1476                | CINTA PARA SUJECION DE CARGA 100 mm LIVIANA EN ROLLO DE 50 mts              | $265,372.87   
+S/C    | 1476                | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 6m        | $44,858.55    
+S/C    | 1476                | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO P - 6m        | $34,495.24    
+S/C    | 1476                | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 9m CMR 10000 Kg | $54,337.85    
+S/C    | 1476                | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO P - 9m CMR 10000 Kg | $41,809.68    
+S/C    | 1476                | Dispositivo antitrauma para arnés                                           | $20,971.38    
+S/C    | 1476                | Arnes Cuerpo Completo, 1 anillo D dorsal y toma frontal anticaídas en cinta | $64,159.34    
+S/C    | 1476                | Arnes Cuerpo Comp., 3 anillos D, uno dorsal anticaidas, 2 en cintura de Sujeción. Toma frontal anticaídas en cinta | $79,265.86    
+S/C    | 1476                | Arnes Cuerpo Comp. 3 anillos D, dorsal antic. Sujecion en Cintura, T. frontal en cinta. P. lumbar Port Herram. | $110,550.64   
+S/C    | 1476                | Arnes Cuerpo Com. 5 Anillos D, dorsal antic., 2 cintura 2 homb. T. front. en cinta. P.lumbar. P. acolch. Port herram | $126,940.40   
+S/C    | 1476                | Arnes con enganche en espalda, pecho y cintura. Regulable en cintura y hombros. Con refuerzo lumbar y pernera. | $137,505.70   
+S/C    | 1476                | Arnés petrolero de cuerpo completo con cintura y piernas ergonómicas, 6 puntos de enganche y regulación tipo cinturón. Talle M | $194,215.15   
+S/C    | 1476                | Arnés petrolero de cuerpo completo con cintura y piernas ergonómicas, 6 puntos de enganche y regulación tipo cinturón. Talle L | $194,531.21   
+S/C    | 1476                | Arnés petrolero de cuerpo completo con cintura y piernas ergonómicas, 6 puntos de enganche y regulación tipo cinturón. Talle XL | $194,849.64   
+S/C    | 1476                | Arnes dielectrico ignufugo con enganche en espalda y cintura, toma frontal. Regulable. Ref. cinta lumbar | $289,754.33   
+S/C    | 1476                | Cinturón liniero con refuerzo lumbar y dos puntos de anclaje.               | $39,663.82    
+S/C    | 1476                | Cinturón liniero con refuerzo lumbar y cola de amarre regulable incorporada. | $68,111.23    
+S/C    | 1476                | Cola de amarre regulable de 1.5m                                            | $31,560.44    
+S/C    | 1476                | Cola de amarre regulable de 2m                                              | $33,974.82    
+S/C    | 1476                | Cola de amarre de cinta plana 1.5 m con mosquetones de 18 mm y de 55 mm     | $48,085.64    
+S/C    | 1476                | Cola de amarre de cinta plana 2 m con mosquetones de 18 mm y de 55 mm       | $49,214.42    
+S/C    | 1476                | Cola de amarre petrolera regulable de 1,5m a 3m con mosqueton de 18mm y ojal invertido de 400mm. | $67,049.00    
+S/C    | 1476                | Cola de amarre petrolera regulable de 2,5m a 5m con mosqueton de 18mm y ojal invertido de 400mm. | $81,159.82    
+S/C    | 1476                | Cabo de Amarre Antic. de 2 mts de largo regulable con amortiguador. Dos mosquetones de 18mm de apertura | $45,782.95    
+S/C    | 1476                | Cabo de Amarre Antic. elastizado de 1.5 mts de largo con amortiguador con mosqueton de 18mm y de 55mm de apertura | $53,323.14    
+S/C    | 1476                | Cola de amarre de 2 m con amortiguador con un mosqueton de 55 mm            | $53,121.15    
+S/C    | 1476                | Cola de amarre elastizada con amortiguador y mosqueton de 110 mm            | $162,338.66   
+S/C    | 1476                | Cola de Amarre Antic. Elastizada de 1.5mts de largo con amortiguador. 2 Ramas con mosqueton de 18mm 55mm de apertura | $72,210.45    
+S/C    | 1476                | Cabo de vida anticaidas petrolero dos ramas elastizadas, amortiguador, mosquetones 55mm y argollas D intermedias | $108,587.77   
+S/C    | 1476                | Cola de amarre de dos ramas elastizadas con amortiguador y mosqueton de 110 mm | $295,512.25   
+S/C    | 1476                | Cola de amarre anticaidas de dos ramas con cinta plana de 1.5 m y mosqueton de 55 mm con amortiguador | $66,889.78    
+S/C    | 1476                | Cabo de vida anticaídas de 1m con amortiguador y dos ramas de cuerda retorcida de Ø14mm con mosquetón de 55mm | $103,552.26   
+S/C    | 1476                | Cabo de posicionamiento en cuerda retorcida de Ø14mm regulable de 1,2 a 2m con mosquetón de 18mm | $73,755.09    
+S/C    | 1476                | Cabo de posicionamiento en cuerda retorcida de Ø14mm regulable de 0.9 a 2m con funda protectora y mosquetón de 18mm | $113,801.50   
+S/C    | 1476                | Cabo de posicionamiento encuerda retorcida de Ø14mm regulable de 0.9 a 3m con funda protectora y mosquetón de 18mm | $160,713.23   
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cinta UHMWPE Ancho 25 mm Largo 6 m Conector A Uso Vertical | $777,768.37   
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cinta UHMWPE Ancho 25 mm Largo 9 m Conector A Uso Vertical | $895,904.35   
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cinta UHMWPE Ancho 19mm Largo 2m con absorbedor y mosquetón de 19mm. | $777,768.37   
+S/C    | 1476                | Soporte aluminio dual para sujeción de dos equipos retráctiles DPA30002     | $148,793.41   
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 3 m Conector B Uso Vertical | $706,791.25   
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 4.5 m Conector B Uso Vertical | $872,269.08   
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 6 m Conector B Uso Vertical | $957,354.65   
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 10 m Conector B Uso Vertical | $1,203,203.35 
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 15 m Conector B Uso Vertical | $1,415,954.11 
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 20 m Conector B Uso Vertical | $1,835,923.46 
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cable de Acero Galv. 4.8 mm Largo 6 m Conector C con Amortiguador Uso Vertic./Horiz. | $1,311,947.96 
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cable de Acero Galv. 4.8 mm Largo 10 m Conector C con Amortiguador Uso Vertic./Horiz. | $1,359,289.80 
+S/C    | 1476                | Equipo Retráctil Termoplástico con Cable de Acero Galv. 4.8 mm Largo 15 m Conector C con Amortiguador Uso Vertic./Horiz. | $1,415,954.11 
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE DPA001100 Y BOLSO PARA TRANSPORTE | $86,124.04    
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA001100 Y BOLSO PARA TRANSPORTE | $99,726.32    
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE | $131,524.40   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000103 Y BOLSO PARA TRANSPORTE | $136,336.53   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE | $105,719.50   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE | $159,698.52   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE ANTICAIDAS DPA000103 Y BOLSO PARA TRANSPORTE | $164,508.27   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE | $162,226.97   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE | $174,417.69   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE | $171,753.80   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000103 Y BOLSO PARA TRANSPORTE | $188,751.90   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000102 Y BOLSO PARA TRANSPORTE | $119,333.67   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000101 Y BOLSO PARA TRANSPORTE | $112,539.66   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE DPA001100, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $104,975.70   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA001100, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $118,577.99   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE DPA000104, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $150,397.45   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000103, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $155,209.58   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00001, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $124,592.55   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE DPA000104, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $178,547.81   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00003, COLA DE AMARRE ANTICAIDAS DPA000103, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $183,378.95   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $181,100.02   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00004, COLA DE AMARRE DPA000104 Y BOLSO PARA TRANSPORTE | $193,290.75   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $190,605.46   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00005, COLA DE AMARRE ANTICAIDAS DPA000103, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $207,624.95   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000102, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $138,182.96   
+S/C    | 1476                | KIT COMPUESTO POR ARNES DPA00002, COLA DE AMARRE ANTICAIDAS DPA000101, ANTITRAUMA Y BOLSO PARA TRANSPORTE | $131,410.33   
+S/C    | 1476                | Conector de anclaje de 0.8 m con argolla D                                  | $17,720.52    
+S/C    | 1476                | Conector de anclaje de 1.2 m con argolla D                                  | $23,770.73    
+S/C    | 1476                | Conector de anclaje de 1.6 m con argolla D                                  | $27,337.65    
+S/C    | 1476                | Conector de anclaje de 2 m con argolla D                                    | $30,070.46    
+S/C    | 1476                | Conector de anclaje de 3 m con argolla D                                    | $33,637.38    
+S/C    | 1476                | Conector de anclaje de 0.8 m con mosqueton de 18 mm                         | $38,874.87    
+S/C    | 1476                | Conector de anclaje de 1.2 m con mosqueton de 18 mm                         | $45,352.83    
+S/C    | 1476                | Conector de anclaje de 1.6 m con mosqueton de 18 mm                         | $50,409.72    
+S/C    | 1476                | Conector de anclaje de 2 m con mosqueton de 18 mm                           | $57,206.11    
+S/C    | 1476                | Anclaje de viga corredizo de aluminio p/ perfil doble T ancho 105-350mm alto 35mm c/ argolla de acero. Capacidad 120 Kg. | $557,522.57   
+S/C    | 1476                | Anclaje de viga fijo de aluminio p/ perfil doble T ancho 105-350mm alto 35mm c/ argolla de acero. Capacidad 120 Kg. | $824,974.76   
+S/C    | 1476                | Linea de vida vertical de 10m en cuerda de poliester de 12mm de diámetro con ojal en extremo | $61,450.29    
+S/C    | 1476                | Linea de vida vertical de 20m en cuerda de poliester de 12mm de diámetro con ojal en extremo | $101,860.30   
+S/C    | 1476                | Linea de vida vertical de 30m en cuerda de poliester de 12mm de diámetro con ojal en extremo | $147,552.95   
+S/C    | 1476                | Linea de vida vertical de 40m en cuerda de poliester de 12mm de diámetro con ojal en extremo | $188,911.11   
+S/C    | 1476                | Linea de vida vertical de 50m en cuerda de poliester de 12mm de diámetro con ojal en extremo | $232,595.74   
+S/C    | 1476                | Linea de vida vertical de 100m en cuerda de poliester de 12mm de diámetro con ojal en extremo | $450,401.02   
+S/C    | 1476                | Linea de vida vertical de 10m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo | $70,592.15    
+S/C    | 1476                | Linea de vida vertical de 20m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo | $114,818.59   
+S/C    | 1476                | Linea de vida vertical de 30m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo | $159,924.28   
+S/C    | 1476                | Linea de vida vertical de 40m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo | $203,630.29   
+S/C    | 1476                | Linea de vida vertical de 50m en cuerda de poliester de 12mm de diámetro con mosquetón de 55mm en extremo | $248,013.56   
+S/C    | 1476                | Rollo de soga trenzada por 200 m diametro 12 mm                             | $1,599,356.82 
+S/C    | 1476                | Linea de vida vertical de 10m en cuerda de poliester de 14mm de diámetro con ojal en extremo | $97,841.87    
+S/C    | 1476                | Linea de vida vertical de 20m en cuerda de poliester de 14mm de diámetro con ojal en extremo | $161,188.50   
+S/C    | 1476                | Linea de vida vertical de 30m en cuerda de poliester de 14mm de diámetro con ojal en extremo | $224,489.98   
+S/C    | 1476                | Linea de vida vertical de 40m en cuerda de poliester de 14mm de diámetro con ojal en extremo | $253,317.60   
+S/C    | 1476                | Linea de vida vertical de 50m en cuerda de poliester de 14mm de diámetro con ojal en extremo | $322,422.15   
+S/C    | 1476                | Linea de vida vertical de 10m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo | $103,687.72   
+S/C    | 1476                | Linea de vida vertical de 20m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo | $179,631.43   
+S/C    | 1476                | Linea de vida vertical de 30m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo | $255,575.14   
+S/C    | 1476                | Linea de vida vertical de 40m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo | $290,139.30   
+S/C    | 1476                | Linea de vida vertical de 50m en cuerda de poliester de 14mm de diámetro con mosquetón de 55mm en extremo | $373,057.63   
+S/C    | 1476                | Rollo de soga trenzada por 150 m diametro 14 mm                             | $1,075,041.50 
+S/C    | 1476                | Linea de vida vertical retorcida de 10m en cuerda de nylon de 14mm de diámetro con ojal en extremo | $81,338.05    
+S/C    | 1476                | Linea de vida vertical retorcida de 20m en cuerda de nylon de 14mm de diámetro con ojal en extremo | $157,103.54   
+S/C    | 1476                | Linea de vida vertical retorcida de 30m en cuerda de nylon de 14mm de diámetro con ojal en extremo | $232,842.88   
+S/C    | 1476                | Linea de vida vertical retorcida de 40m en cuerda de nylon de 14mm de diámetro con ojal en extremo | $305,716.34   
+S/C    | 1476                | Linea de vida vertical retorcida de 50m en cuerda de nylon de 14mm de diámetro con ojal en extremo | $378,520.88   
+S/C    | 1476                | Linea de vida vertical de 10m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en etremo | $107,525.54   
+S/C    | 1476                | Linea de vida vertical de 20m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en extremo | $183,288.65   
+S/C    | 1476                | Linea de vida vertical de 30m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en extremo | $259,051.76   
+S/C    | 1476                | Linea de vida vertical de 40m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en extremo | $331,903.82   
+S/C    | 1476                | Linea de vida vertical de 50m en cuerda retorcida de nylon de 14mm de diámetro con mosquetón de 55mm en extremo | $407,688.32   
+S/C    | 1476                | Rollo de soga de nylon retorcida por 150 m diametro 14 mm                   | $1,163,853.20 
+S/C    | 1476                | Salvacaída Deslizante Acero Inoxidable para Soga de 12 a 14mm con traba y mosquetón eslabón con traba a rosca | $142,676.65   
+S/C    | 1476                | Salvacaída Deslizante Acero Inoxidable para Soga de 12 a 14mm con traba prolongador y conector de anclaje de 18mm de apertura | $142,676.65   
+S/C    | 1476                | Salvacaída Deslizante Acero Inoxidable para Soga de 12 a 14mm con traba amortiguador y conector de anclaje de 18mm de apertura | $157,350.68   
+S/C    | 1476                | Salvacaída Deslizante Galvanizado para Soga de 12 a 14mm con traba y mosquetón eslabón con traba a rosca | $142,676.65   
+S/C    | 1476                | Salvacaída Deslizante Galvanizado para Soga de 12 a 14mm con traba prolongador y conector de anclaje de 18mm de apertura | $175,883.91   
+S/C    | 1476                | Salvacaída Deslizante Galvanizado para Soga de 12 a 14mm con traba amortiguador y conector de anclaje de 18mm de apertura | $228,800.69   
+S/C    | 1476                | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 100 Kg. Malacate cable de acero 20m c/ mosquetón 25mm. | $3,334,774.50 
+S/C    | 1476                | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 100 Kg. Malacate cable de acero 35m c/ mosquetón 25mm. | $3,615,881.26 
+S/C    | 1476                | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 150 Kg. Malacate cable de acero 20m c/ mosquetón 25mm. | $3,969,728.39 
+S/C    | 1476                | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 150 Kg. Malacate cable de acero 35m c/ mosquetón 25mm. | $4,250,839.90 
+S/C    | 1476                | Trípode telescópico de aluminio. Altura de 1,35 a 2,40m. Diametro de base de 1,14 a 2,10m. Capacidad 100 Kg. | $1,810,774.44 
+S/C    | 1476                | Trípode telescópico de aluminio. Altura de 1,35 a 2,40m. Diametro de base de 1,14 a 2,10m. Capacidad 150 Kg. | $2,545,920.42 
+S/C    | 1476                | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 10m c/ absorbedor y mosquetón de 25mm. | $3,029,756.82 
+S/C    | 1476                | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 15m c/ absorbedor y mosquetón de 25mm. | $3,384,642.42 
+S/C    | 1476                | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 20m c/ absorbedor y mosquetón de 25mm. | $3,640,398.16 
+S/C    | 1476                | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 25m c/ absorbedor y mosquetón de 25mm. | $3,779,802.57 
+S/C    | 1476                | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 30m c/ absorbedor y mosquetón de 25mm. | $4,016,188.61 
+S/C    | 1476                | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 35m c/ absorbedor y mosquetón de 25mm. | $4,384,935.52 
+S/C    | 1476                | Malacate para trípode con cable de acero hasta 20m, mosquetón de 25mm de apertura, Capacidad 120 Kg. | $1,863,938.36 
+S/C    | 1476                | Malacate para trípode con cable de acero hasta 35m, mosquetón de 25mm de apertura, Capacidad 120 Kg. | $2,159,859.35 
+S/C    | 1476                | Percha para rescate                                                         | $37,791.25    
+S/C    | 1476                | Silla Para Trabajos en Suspension de Aluminio, 645*135 mm, Capacidad 140 kg | $101,183.03   
+S/C    | 1476                | Porta Herramientas de 1 m Con Mosqueton                                     | $12,031.51    
+S/C    | 1476                | Mosquetón Carabinero A Rosca Galvanizado 16 kN Abertura 14 mm               | $12,551.93    
+S/C    | 1476                | Mosquetón Carabinero "Pera" A Rosca Galvanizado 16 kN Abertura 19 mm        | $20,158.66    
+S/C    | 1476                | Gte. Sin Costura Algodon G7 Gris Moteado Talle 8 Economico                  | $651.12       
+S/C    | 1476                | Gte. Sin Costura Algodon G7 Gris Moteado Talle 10 Economico                 | $724.79       
+S/C    | 1476                | Gte. Sin Costura Algodon Natural Moteado Talle 8 Economico                  | $701.03       
+S/C    | 1476                | Gte. Sin Costura Algodon Natural Moteado Talle 10 Economico                 | $786.58       
+S/C    | 1476                | Gte. Sin Costura Algodon Natural Moteado Talle 8 Premium                    | $772.32       
+S/C    | 1476                | Gte. Sin Costura Algodon Natural Moteado Talle 10 Premium                   | $869.75       
+S/C    | 1476                | Gte. Sin Costura Algodón Jaspeado Naranja/Blanco Moteado Talle 8 Premium    | $819.84       
+S/C    | 1476                | Gte. Sin Costura Algodón Jaspeado Naranja/Blanco Moteado Talle 10 Premium   | $912.52       
+S/C    | 1476                | Gtes. Sin Costura Aramida Talle 10 Moteado                                  | $18,286.09    
+S/C    | 1476                | Gte. Sin Costura Algodon Moteado a dos caras Talle 10                       | $1,965.25     
+S/C    | 1476                | Gte. Sin Costura Algodon G7 Gris Talle 8 Economico Liso                     | $596.47       
+S/C    | 1476                | Gte. Sin Costura Algodon G7 Gris Talle 10 Economico Liso                    | $663.00       
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Blanco G7 Algodon Liso                          | $639.24       
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Blanco G7 Algodon Liso                         | $724.79       
+S/C    | 1476                | Gtes. Sin Costura Aramida G7 Talle 10 Liso                                  | $16,570.36    
+S/C    | 1476                | Gte. Sin Costura Terrycloth Algodon Moteado Talle 10                        | $3,136.80     
+S/C    | 1476                | Gte. Sin Costura Terrycloth Algodon Talle 10                                | $2,594.99     
+S/C    | 1476                | Gte. Sin Costura Terrycloth Algodon Puño Cuero 17 cm Talle 10               | $11,016.80    
+S/C    | 1476                | Manga Terrycloth Algodon Largo Total 30 cm                                  | $5,304.04     
+S/C    | 1476                | Manga Terrycloth Algodon Largo Total 35 cm                                  | $6,435.18     
+S/C    | 1476                | Manga Terrycloth Algodon Largo Total 40 cm                                  | $7,359.59     
+S/C    | 1476                | Manga Terrycloth Aramida Largo Total 30 cm                                  | $66,597.49    
+S/C    | 1476                | Manga Terrycloth Aramida Largo Total 35 cm                                  | $68,921.57    
+S/C    | 1476                | Manga Terrycloth Aramida Largo Total 40 cm                                  | $77,388.54    
+S/C    | 1476                | Gte. Sin Costura Terrycloth Aramida interior Aislante puño de Cuero 17 cm Talle 10 | $44,879.93    
+S/C    | 1476                | Gte. Sin Costura Terrycloth Aramida puño de Cuero 17 cm Talle 10            | $31,626.98    
+S/C    | 1476                | Gte. Sin Costura Terrycloth Aramida interior aislante Largo Total 35 cm Talle 10 | $49,145.50    
+S/C    | 1476                | Gte. Sin Costura Terrycloth Aramida interior aislante Largo Total 40 cm Talle 10 | $53,660.59    
+S/C    | 1476                | Gte. Sin Costura Terrycloth Aramida interior aislante Largo Total 45 cm Talle 10 | $58,175.67    
+S/C    | 1476                | Gte. Sin Costura Terrycloth Aramida Talle 10                                | $24,742.66    
+S/C    | 1476                | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T8                 | $969.55       
+S/C    | 1476                | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T9                 | $969.55       
+S/C    | 1476                | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T10                | $969.55       
+S/C    | 1476                | Gte. Tejido Sin Costura Algodon Interior Dielectrico G10 T11                | $969.55       
+S/C    | 1476                | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T8                 | $6,862.93     
+S/C    | 1476                | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T9                 | $6,862.93     
+S/C    | 1476                | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T10                | $6,862.93     
+S/C    | 1476                | Gte. Tejido Sin Costura Aramida Interior Dielectrico G10 T11                | $6,862.93     
+S/C    | 1476                | Gte. Sin Costura Costura G10 Amarillo Frio Cepillado T10                    | $1,715.73     
+S/C    | 1476                | Gte. Tejido Talle 7 S/Cost. Blanco G13 - Liso                               | $1,354.53     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Blanco G13 - Liso                               | $1,354.53     
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Blanco G13 - Liso                               | $1,354.53     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Blanco G13 - Liso                              | $1,354.53     
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost. Blanco G13 - Liso                              | $1,354.53     
+S/C    | 1476                | Gte. Tejido Talle 7 S/Cost. Anticorte G13 - Liso                            | $7,064.92     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Anticorte G13 - Liso                            | $7,064.92     
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Anticorte G13 - Liso                            | $7,064.92     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Anticorte G13 - Liso                           | $7,064.92     
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost. Anticorte G13 - Liso                           | $7,064.92     
+S/C    | 1476                | Gte. Tejido S/Costura G7 Anticorte Blanco T7                                | $7,064.92     
+S/C    | 1476                | Gte. Tejido S/Costura G7 Anticorte Blanco T8                                | $7,064.92     
+S/C    | 1476                | Gte. Tejido S/Costura G7 Anticorte Blanco T9                                | $7,064.92     
+S/C    | 1476                | Gte. Tejido S/Costura G7 Anticorte Blanco T10                               | $7,064.92     
+S/C    | 1476                | Gte. Tejido S/Costura G7 Anticorte Blanco T11                               | $7,064.92     
+S/C    | 1476                | Gte. Tej. T 6 S/Cost. Anticorte Hilo Acero Liso "G7 FRIGORIFICOS"           | $20,384.42    
+S/C    | 1476                | Gte. Tej. T 7 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO"         | $20,384.42    
+S/C    | 1476                | Gte. Tej. T 8 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO"         | $20,384.42    
+S/C    | 1476                | Gte. Tej. T 9 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO"         | $20,384.42    
+S/C    | 1476                | Gte. Tej. T 10 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO"        | $20,384.42    
+S/C    | 1476                | Gte. Tej. T 11 S/Cost. Anticorte Hilo de Acero Liso "G7 FRIGORIFICO"        | $20,384.42    
+S/C    | 1476                | Gtes. Sin Costura G13 Anticorte Talle 6 Blanco                              | $10,541.53    
+S/C    | 1476                | Gtes. Sin Costura G13 Anticorte Talle 7 Blanco                              | $10,541.53    
+S/C    | 1476                | Gtes. Sin Costura G13 Anticorte Talle 8 Blanco                              | $10,541.53    
+S/C    | 1476                | Gtes. Sin Costura G13 Anticorte Talle 9 Blanco                              | $10,541.53    
+S/C    | 1476                | Gtes. Sin Costura G13 Anticorte Talle 10 Blanco                             | $10,541.53    
+S/C    | 1476                | Gtes. Sin Costura G13 Anticorte Talle 11 Blanco                             | $10,541.53    
+S/C    | 1476                | Manga Anticorte HPPE 30 cm                                                  | $36,277.51    
+S/C    | 1476                | Manga Anticorte HPPE 35 cm                                                  | $41,108.65    
+S/C    | 1476                | Manga Anticorte HPPE 40 cm                                                  | $45,918.40    
+S/C    | 1476                | Manga Anticorte HPPE 45 cm                                                  | $51,312.74    
+S/C    | 1476                | Gte. Tejido Talle 7 S/Cost. Anticorte Protección Antebrazo                  | $36,819.32    
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Anticorte Protección Antebrazo                  | $36,819.32    
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Anticorte Protección Antebrazo                  | $36,819.32    
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Anticorte Protección Antebrazo                 | $36,819.32    
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost. Anticorte Protección Antebrazo                 | $36,819.32    
+S/C    | 1476                | Gte. S/Cost. Algodón G7 Refuerzo Descarne Talle 8                           | $9,776.35     
+S/C    | 1476                | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 8                      | $1,264.22     
+S/C    | 1476                | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 10                     | $1,394.92     
+S/C    | 1476                | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 8 Moteado              | $1,437.70     
+S/C    | 1476                | Gte. Tejido G7 Polipropileno Filetero Amarillo Talle 10 Moteado             | $1,544.63     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Acrilico G7 Amarillo Recub. en Latex Rugoso Para Frio | $8,771.14     
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Acrilico G7 Amarillo Recub. en Latex Rugoso Para Frio | $8,771.14     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Acrilico G7 Amarillo Recub. en Latex Rugoso Para Frio | $8,771.14     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Acrilico G7 Naranja Recub. en Latex Rugoso Para Frio | $8,771.14     
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Acrilico G7 Naranja Recub. en Latex Rugoso Para Frio | $8,771.14     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Acrilico G7 Naranja Recub. en Latex Rugoso Para Frio | $8,771.14     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. G10 Recub. en Latex Negro Rugoso                | $3,498.00     
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. G10 Recub. en Latex Negro Rugoso                | $3,498.00     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. G10 Recub. en Latex Negro Rugoso               | $3,498.00     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. G10 Amarillo Recub. en Latex Rugoso             | $3,498.00     
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. G10 Amarillo Recub. en Latex Rugoso             | $3,498.00     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. G10 Amarillo Recub. en Latex Rugoso            | $3,498.00     
+S/C    | 1476                | Guante Tejido, Talle 10 Sin Costura G10 Amarillo Frio Cepillado Recubierto en Látex Rugoso | $3,688.11     
+S/C    | 1476                | Guante Tejido, Talle 10 Sin Costura G13 Blanco Moteado                      | $1,444.83     
+S/C    | 1476                | Guante Tejido, Talle 7 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | $2,091.20     
+S/C    | 1476                | Guante Tejido, Talle 8 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | $2,091.20     
+S/C    | 1476                | Guante Tejido, Talle 9 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | $2,091.20     
+S/C    | 1476                | Guante Tejido, Talle 10 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | $2,091.20     
+S/C    | 1476                | Guante Tejido, Talle 11 Sin Costura Gris Recubierto en Nitrilo Negro en Palma | $2,091.20     
+S/C    | 1476                | Gte. Tejido Talle 7 S/Cost. Recub. en Nitrilo                               | $2,091.20     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Recub. en Nitrilo                               | $2,091.20     
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Recub. en Nitrilo                               | $2,091.20     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Recub. en Nitrilo                              | $2,091.20     
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost. Recub. en Nitrilo                              | $2,091.20     
+S/C    | 1476                | Gte. S/Cost. Rosa Talle 7 Recubierto en Nitrilo Espumado                    | $2,245.66     
+S/C    | 1476                | Gte. S/Cost. Rosa Talle 8 Recubierto en Nitrilo Espumado                    | $2,245.66     
+S/C    | 1476                | Gte. S/Cost. Rosa Talle 9 Recubierto en Nitrilo Espumado                    | $2,245.66     
+S/C    | 1476                | Gte. S/Cost. Rosa Talle 10 Recubierto en Nitrilo Espumado                   | $2,245.66     
+S/C    | 1476                | Gte. S/Cost. Azul Talle 7 Recubierto en nitrilo espumado                    | $2,091.20     
+S/C    | 1476                | Gte. S/Cost. Azul Talle 8 Recubierto en nitrilo espumado                    | $2,091.20     
+S/C    | 1476                | Gte. S/Cost. Azul Talle 9 Recubierto en nitrilo espumado                    | $2,091.20     
+S/C    | 1476                | Gte. S/Cost. Azul Talle 10 Recubierto en nitrilo espumado                   | $2,091.20     
+S/C    | 1476                | Gte. S/Cost. Azul Talle 11 Recubierto en nitrilo espumado                   | $2,091.20     
+S/C    | 1476                | Gte. S/Cost. Rojo Talle 7 Recubierto en Nitrilo Espumado                    | $2,245.66     
+S/C    | 1476                | Gte. S/Cost. Rojo Talle 8 Recubierto en Nitrilo Espumado                    | $2,245.66     
+S/C    | 1476                | Gte. S/Cost. Rojo Talle 9 Recubierto en Nitrilo Espumado                    | $2,245.66     
+S/C    | 1476                | Gte. S/Cost. Rojo Talle 10 Recubierto en Nitrilo Espumado                   | $2,245.66     
+S/C    | 1476                | Gte. S/Cost. Rojo Talle 11 Recubierto en Nitrilo Espumado                   | $2,245.66     
+S/C    | 1476                | Gte. S/Cost. Verde Fluo Talle 7 Recubierto en Nitrilo Espumado              | $2,091.20     
+S/C    | 1476                | Gte. S/Cost. Verde Fluo Talle 8 Recubierto en Nitrilo Espumado              | $2,091.20     
+S/C    | 1476                | Gte. S/Cost. Verde Fluo Talle 9 Recubierto en Nitrilo Espumado              | $2,091.20     
+S/C    | 1476                | Gte. S/Cost. Verde Fluo Talle 10 Recubierto en Nitrilo Espumado             | $2,091.20     
+S/C    | 1476                | Gte. S/Cost. Verde Fluo Talle 11 Recubierto en Nitrilo Espumado             | $2,091.20     
+S/C    | 1476                | Gte. Tejido Talle 7 S/Cost. R/Completo. en Nitrilo                          | $3,146.30     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. R/Completo. en Nitrilo                          | $3,146.30     
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. R/Completo. en Nitrilo                          | $3,146.30     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. R/Completo. en Nitrilo                         | $3,146.30     
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost. R/Completo. en Nitrilo                         | $3,146.30     
+S/C    | 1476                | Guante Sin Costura Rojo Talle 7 Recubierto en Latex Espumado                | $2,091.20     
+S/C    | 1476                | Guante Sin Costura Rojo Talle 8 Recubierto en Latex Espumado                | $2,091.20     
+S/C    | 1476                | Guante Sin Costura Rojo Talle 9 Recubierto en Latex Espumado                | $2,091.20     
+S/C    | 1476                | Guante Sin Costura Rojo Talle 10 Recubierto en Latex Espumado               | $2,091.20     
+S/C    | 1476                | Guante Sin Costura Rojo Talle 11 Recubierto en Latex Espumado               | $2,091.20     
+S/C    | 1476                | Gte. Tejido Talle 7 S/Cost. Negro Recub. en Nitrilo Negro Espumado          | $1,815.54     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Negro Recub. en Nitrilo Negro Espumado          | $1,815.54     
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Negro Recub. en Nitrilo Negro Espumado          | $1,815.54     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Negro Recub. en Nitrilo Negro Espumado         | $1,815.54     
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost. Negro Recub. en Nitrilo Negro Espumado         | $1,815.54     
+S/C    | 1476                | Gte. Tejido Talle 7 S/Cost. Recub. en Latex Rugoso                          | $1,950.99     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Recub. en Latex Rugoso                          | $1,950.99     
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Recub. en Latex Rugoso                          | $1,950.99     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Recub. en Latex Rugoso                         | $1,950.99     
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost.Recub. en Latex Rugoso                          | $1,950.99     
+S/C    | 1476                | Gte. Tejido Talle 7 S/Cost. Naranja Recub. en Latex Rugoso Negro            | $1,950.99     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Naranja Recub. en Latex Rugoso Negro            | $1,950.99     
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Naranja Recub. en Latex Rugoso Negro            | $1,950.99     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Naranja Recub. en Latex Rugoso Negro           | $1,950.99     
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost. Naranja Recub. en Latex Rugoso Negro           | $1,950.99     
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Anticorte Moteado                              | $7,540.19     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 7 Palma Recubierta en Latex               | $6,304.48     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 8 Palma Recubierta en Latex               | $6,304.48     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 9 Palma Recubierta en Latex               | $6,304.48     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 10 Palma Recubierta en Latex              | $6,304.48     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 11 Palma Recubierta en Latex              | $6,304.48     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 7 Recub. Nitrilo                          | $6,304.48     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 8 Recub. Nitrilo                          | $6,304.48     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 9 Recub. Nitrilo                          | $6,304.48     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 10 Recub. Nitrilo                         | $6,304.48     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 11 Recub. Nitrilo                         | $6,304.48     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 7 Recub.Completo Nitrilo Espumado         | $9,800.11     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 8 Recub. Completo Nitrilo Espumado        | $9,800.11     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 9 Recub. Completo Nitrilo Espumado        | $9,800.11     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 10 Recub.Completo Nitrilo Espumado        | $9,800.11     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 11 Recub.Completo Nitrilo Espumado        | $9,800.11     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 8 Recub. Completo Nitrilo, doble baño en palma Espumado | $3,904.36     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 9 Recub. Completo Nitrilo, doble baño en palma Espumado | $3,904.36     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 10 Recub. Completo Nitrilo, doble baño en palma Espumado | $3,904.36     
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | $26,358.59    
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | $26,358.59    
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | $26,358.59    
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost. Anticorte Protección Antebrazo Baño en Palma Nitrilo | $26,358.59    
+S/C    | 1476                | Gte. Latex Descartable Sintético Blanco Talle 6/S (Liviano)                 | $10,032.99    
+S/C    | 1476                | Gte. Latex Descartable Sintético Blanco Talle 7/M (Liviano)                 | $10,032.99    
+S/C    | 1476                | Gte. Latex Descartable Sintético Blanco Talle 8/L (Liviano)                 | $10,242.11    
+S/C    | 1476                | Gte. Latex Descartable Sintético Blanco Talle 9/XL (Liviano)                | $10,242.11    
+S/C    | 1476                | Gte. Nitrilo Descartable Azul Talle 6/S (Liviano)                           | $10,032.99    
+S/C    | 1476                | Gte. Nitrilo Descartable Azul Talle 7/M (Liviano)                           | $10,032.99    
+S/C    | 1476                | Gte. Nitrilo Descartable Azul Talle 8/L (Liviano)                           | $10,242.11    
+S/C    | 1476                | Gte. Nitrilo Descartable Azul Talle 9/XL (Liviano)                          | $10,242.11    
+S/C    | 1476                | Gte. Nitrilo Descartable Negro Talle 6/S (Liviano)                          | $10,460.74    
+S/C    | 1476                | Gte. Nitrilo Descartable Negro Talle 7/M (Liviano)                          | $10,460.74    
+S/C    | 1476                | Gte. Nitrilo Descartable Negro Talle 8/L (Liviano)                          | $10,674.61    
+S/C    | 1476                | Gte. Nitrilo Descartable Negro Talle 9/XL (Liviano)                         | $10,674.61    
+S/C    | 1476                | Gte. Nitrilo Descartable Azul Talle 6/S PREMIUM (Pesado)                    | $13,112.75    
+S/C    | 1476                | Gte. Nitrilo Descartable Azul Talle 7/M PREMIUM (Pesado)                    | $13,112.75    
+S/C    | 1476                | Gte. Nitrilo Descartable Azul Talle 8/L PREMIUM (Pesado)                    | $13,112.75    
+S/C    | 1476                | Gte. Nitrilo Descartable Azul Talle 9/XL PREMIUM (Pesado)                   | $13,112.75    
+S/C    | 1476                | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 7                 | $2,754.20     
+S/C    | 1476                | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 8                 | $2,754.20     
+S/C    | 1476                | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 9                 | $2,754.20     
+S/C    | 1476                | Gte. de Caucho Nitrilo Butadieno Naranja Clorinado. Talle 10                | $2,754.20     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 7 | $2,350.22     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 8 | $2,350.22     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 9 | $2,350.22     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 10 | $2,350.22     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Verde Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 11 | $2,350.22     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 7 | $8,578.66     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 8 | $8,578.66     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 9 | $8,578.66     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 40 cm. Espesor 0.5 mm. Talle 10 | $8,578.66     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 7 | $12,979.68    
+S/C    | 1476                | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 8 | $12,979.68    
+S/C    | 1476                | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 9 | $12,979.68    
+S/C    | 1476                | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 10 | $12,979.68    
+S/C    | 1476                | Gte. de Acrilo Nitrilo Pesado Verde Flocado Largo Total 45 cm. Espesor 0.6 mm. Talle 11 | $12,979.68    
+S/C    | 1476                | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 7 | $2,359.73     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 8 | $2,359.73     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm Talle 9 | $2,359.73     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Azul Flocado Largo Total 33 cm. Espesor 0.4 mm. Talle 10 | $2,359.73     
+S/C    | 1476                | Gte. de Acrilo Nitrilo Azul FlocadoLargo Total 33 cm. Espesor 0.4 mm. Talle 11 | $2,359.73     
+S/C    | 1476                | Gte. Látex Neoprene Mix Flocado Talle 7                                     | $5,192.35     
+S/C    | 1476                | Gte. Látex Neoprene Mix Flocado Talle 8                                     | $5,192.35     
+S/C    | 1476                | Gte. Látex Neoprene Mix Flocado Talle 9                                     | $5,192.35     
+S/C    | 1476                | Gte. Látex Neoprene Mix Flocado Talle 10                                    | $5,192.35     
+S/C    | 1476                | Gte. Látex Neoprene Mix Flocado Talle 11                                    | $5,192.35     
+S/C    | 1476                | Gte. Neoprene Flocado. Talle 10                                             | $9,436.53     
+S/C    | 1476                | Gte. Neoprene Flocado. Talle 11                                             | $9,436.53     
+S/C    | 1476                | Gte. Látex Para Uso Doméstico Flocado. Talle S                              | $1,273.73     
+S/C    | 1476                | Gte. Látex Para Uso Doméstico Flocado. Talle M                              | $1,273.73     
+S/C    | 1476                | Gte. Látex Para Uso Doméstico Flocado. Talle L                              | $1,273.73     
+S/C    | 1476                | Gte. Látex Para Uso Doméstico Flocado. Talle XL                             | $1,273.73     
+S/C    | 1476                | Guante Látex Para Uso Doméstico Flocado Económico. Talle S (en Bolsa por 12 pares) | $914.90       
+S/C    | 1476                | Guante Látex Para Uso Doméstico Flocado Económico. Talle M (en Bolsa por 12 pares) | $914.90       
+S/C    | 1476                | Guante Látex Para Uso Doméstico Flocado Económico. Talle L (en Bolsa por 12 pares) | $914.90       
+S/C    | 1476                | Guante Látex Para Uso Doméstico Flocado Económico. Talle XL (en Bolsa por 12 pares) | $914.90       
+S/C    | 1476                | Gte. Látex Uso Industrial Negro. Talle S                                    | $2,224.27     
+S/C    | 1476                | Gte. Látex Uso Industrial Negro. Talle M                                    | $2,224.27     
+S/C    | 1476                | Gte. Látex Uso Industrial Negro. Talle L                                    | $2,224.27     
+S/C    | 1476                | Gte. Látex Uso Industrial Negro. Talle XL                                   | $2,224.27     
+S/C    | 1476                | Guante Dielectrico de Latex Clase 00 Talle 8 Naranja Tensión máx de uso CA 500V Tensión de prueba CA 2500V Lgo 36cm AZC | $62,374.70    
+S/C    | 1476                | Guante Dielectrico de Latex Clase 00 Talle 9 Naranja Tensión máxima de uso 500V Tensión de prueba 2500V | $62,374.70    
+S/C    | 1476                | Guante Dielectrico de Latex Clase 00 Talle 10 Naranja Tensión máxima de uso 500V Tensión de prueba 2500 Largo 36 cm AZC | $62,374.70    
+S/C    | 1476                | Guante Dielectrico de Latex Clase 00 Talle 11 Naranja Tensión máxima de uso 500V Tensión de prueba 2500V Largo 36 cm AZC | $62,374.70    
+S/C    | 1476                | Guante Dielectrico de Latex Clase 0 Talle 8 Naranja Tensión máx de uso CA 1000V Tensión de prueba CA 5000V Lgo 36 cm RC | $77,840.05    
+S/C    | 1476                | Guante Dielectrico de Latex Clase 0 Talle 9 Naranja Tensión max de uso CA 1000V Tensión de prueba CA 5000V Lgo 36 cm RC | $77,840.05    
+S/C    | 1476                | Guante Dielectrico de Latex Clase 0 Talle 10 Naranja Tensión máx de uso CA 1000 V Tensión de prueba CA 5000V Lgo 36cm RC | $77,840.05    
+S/C    | 1476                | Guante Dielectrico de Latex Clase 0 Talle 11 Naranja Tensión máx de uso CA 1000V Tensión de Prueba CA 5000V Lgo 36 cm RC | $77,840.05    
+S/C    | 1476                | Guante Dielectrico de Latex Clase 1 Talle 8 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41cm RC | $111,793.48   
+S/C    | 1476                | Guante Dielectrico de Latex Clase 1 Talle 9 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41 cm RC | $111,793.48   
+S/C    | 1476                | Guante Dielectrico de Latex Clase 1 Talle 10 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41cm RC | $111,793.48   
+S/C    | 1476                | Guante Dielectrico de Latex Clase 1 Talle11 Naranja Tensión máx de uso CA 7500V Tensión de prueba CA 10000V Lgo 41 cm RC | $111,793.48   
+S/C    | 1476                | Guante Dielectrico de Latex Clase 2 T 8 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Lgo 41cm RC | $233,995.42   
+S/C    | 1476                | Guante Dielectrico de Latex Clase 2 T 9 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Lgo 41 cm RC | $233,995.42   
+S/C    | 1476                | Guante Dielectrico de Latex Clase 2 T 10 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Lgo 41 cm RC | $233,995.42   
+S/C    | 1476                | Guante Dielectrico de Latex Clase 2 T 11 Naranja Tensión máx de uso CA 17000V Tensión de prueba CA 20000V Largo 41 cm RC | $233,995.42   
+S/C    | 1476                | Guante Dieléctrico de Látex Clase 3 Talle 8 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | $651,481.47   
+S/C    | 1476                | Guante Dieléctrico de Látex Clase 3 Talle 9 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | $651,481.47   
+S/C    | 1476                | Guante Dieléctrico de Látex Clase 3 Talle 10 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | $651,481.47   
+S/C    | 1476                | Guante Dieléctrico de Látex Clase 3 Talle 11 Negro Tensión máx de uso CA 26500V Tensión de prueba CA 30000V Lgo 46 cm AZ | $651,481.47   
+S/C    | 1476                | Guante Dieléctrico de Látex Clase 4 Talle 8 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | $973,292.89   
+S/C    | 1476                | Guante Dieléctrico de Látex Clase 4 Talle 9 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | $973,292.89   
+S/C    | 1476                | Guante Dieléctrico de Látex Clase 4 Talle 10 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | $973,292.89   
+S/C    | 1476                | Guante Dieléctrico de Látex Clase 4 Talle 11 Negro Tensión máx de uso CA 36000V Tensión de prueba CA 40000V Lgo 46 cm AZ | $973,292.89   
+S/C    | 1476                | Gte. Tejido Talle 6 S/Cost. Recub. en PU Espumado Blanco                    | $810.34       
+S/C    | 1476                | Gte. Tejido Talle 7 S/Cost. Recub. en PU Espumado Blanco                    | $810.34       
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Recub. en PU Espumado Blanco                    | $810.34       
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Recub. en PU Espumado Blanco                    | $810.34       
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Recub. en PU Espumado Blanco                   | $810.34       
+S/C    | 1476                | Gte. Tejido Talle 6 S/Cost. Recub. en PU Espumado Negro                     | $810.34       
+S/C    | 1476                | Gte. Tejido Talle 7 S/Cost. Recub. en PU Espumado Negro                     | $810.34       
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Recub. en PU Espumado Negro                     | $810.34       
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Recub. en PU Espumado Negro                     | $810.34       
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Recub. en PU Espumado Negro                    | $810.34       
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost. Recub. en PU Espumado Negro                    | $810.34       
+S/C    | 1476                | Gte. Látex Rugoso "Mondongo" Dorso Ventilado Puño Tejido                    | $6,546.87     
+S/C    | 1476                | Gte. Látex Rugoso "Mondongo" Baño Completo Puño Tejido                      | $6,546.87     
+S/C    | 1476                | Gte. Látex Rugoso "Mondongo" Baño Completo Puño de Lona                     | $6,275.97     
+S/C    | 1476                | Gte. Látex Rugoso "Mondongo" Baño Completo Largo 35 cm.                     | $18,355.00    
+S/C    | 1476                | Gte. Nitrilo Liviano Ventilado Amarillo Puño Tejido T10                     | $4,643.41     
+S/C    | 1476                | Gte. Nitrilo Liviano Baño Completo Amarillo Puño de Lona T10                | $4,921.44     
+S/C    | 1476                | Gte. Nitrilo Liviano baño completo amarillo puño tejido T8                  | $4,189.52     
+S/C    | 1476                | Gte. Nitrilo Liviano Baño Completo Amarillo Puño Tejido T10                 | $4,189.52     
+S/C    | 1476                | Gte. Nitrilo Liviano Baño Completo Azul Puño de Lona Económico              | $3,935.25     
+S/C    | 1476                | Gte. Nitrilo Medio Baño Completo Azul Puño Tejido                           | $4,916.69     
+S/C    | 1476                | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona                          | $5,113.93     
+S/C    | 1476                | Gte. Nitrilo Baño Completo Azul Largo Total 30 cm.                          | $8,262.60     
+S/C    | 1476                | Gte. Nitrilo Medio Ventilado Azul Puño de Lona                              | $5,061.65     
+S/C    | 1476                | Gte. Nitrilo Medio Ventilado Azul Puño Tejido                               | $5,061.65     
+S/C    | 1476                | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul de 7cm          | $4,935.70     
+S/C    | 1476                | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul de 14cm         | $7,083.93     
+S/C    | 1476                | Gte. Nitrilo Baño Completo Pesado Azul Puño Tejido                          | $7,891.89     
+S/C    | 1476                | Gte. Nitrilo Baño Completo Pesado Azul Puño de Lona                         | $9,372.36     
+S/C    | 1476                | Gte. PVC rojo puño elastizado dorso ventilado                               | $4,469.93     
+S/C    | 1476                | Gte. PVC rojo baño completo puño elastizado                                 | $4,469.93     
+S/C    | 1476                | Gte. PVC rojo largo total 30 cm                                             | $5,327.80     
+S/C    | 1476                | Gte. PVC rojo largo total 35cm                                              | $5,914.76     
+S/C    | 1476                | Gte. PVC rojo largo total 40 cm                                             | $6,703.71     
+S/C    | 1476                | Gte. PVC Azul Baño Completo 30 cm. Talle 10/XL                              | $17,948.65    
+S/C    | 1476                | Gte. PVC Azul Baño Completo 70 cm. Talle 10/XL                              | $20,182.43    
+S/C    | 1476                | Gte. PVC verde granitado largo total 35cm                                   | $11,197.41    
+S/C    | 1476                | Gte. PVC negro granulado largo total 30 cm                                  | $11,197.41    
+S/C    | 1476                | Gte. PVC Naranja Fluo, Bajas Temperaturas largo 35 cm Forrado               | $20,182.43    
+S/C    | 1476                | Gte. Soporte Algodón Jersey Bañado Completo Látex Rugoso Pesado. Talle 7    | $36,436.73    
+S/C    | 1476                | Gte. Soporte Algodón Jersey Bañado Completo Látex Rugoso Pesado Talle 8     | $36,436.73    
+S/C    | 1476                | Gte. Soporte Algodón Jersey Bañado Compleo Látex Rugoso Pesado. Talle 9     | $36,436.73    
+S/C    | 1476                | Gte. Soporte Algodón Jersey Bañado Compleo Látex Rugoso Pesado. Talle 10    | $36,436.73    
+S/C    | 1476                | Gte. Soporte Algodón Jersey Bañado Compleo Látex Rugoso Pesado. Talle 11    | $36,436.73    
+S/C    | 1476                | Gte. de Acrilo Nitrilo Verde Interior Anticorte Talle 8                     | $86,779.91    
+S/C    | 1476                | Gte. de Acrilo Nitrilo Verde Interior Anticorte Talle 10                    | $86,779.91    
+S/C    | 1476                | Gte. de Acrilo Nitrilo Verde Interior Anticorte Talle 11                    | $86,779.91    
+S/C    | 1476                | Gte. Neoprene Soporte Sin Costura Talle 7                                   | $44,834.78    
+S/C    | 1476                | Gte. Neoprene Soporte Sin Costura Talle 8                                   | $44,834.78    
+S/C    | 1476                | Gte. Neoprene Soporte Sin Costura Talle 9                                   | $44,834.78    
+S/C    | 1476                | Gte. Neoprene Soporte Sin Costura Talle 10                                  | $44,834.78    
+S/C    | 1476                | Gte. Neoprene Soporte Sin Costura Talle 11                                  | $44,834.78    
+S/C    | 1476                | Gte. Tejido Talle 10 Sintético, Aplicación de Látex Espumoso Antivibratorio en Palma | $24,992.18    
+S/C    | 1476                | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 7 | $46,911.72    
+S/C    | 1476                | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 8 | $46,911.72    
+S/C    | 1476                | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 9 | $46,911.72    
+S/C    | 1476                | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 10 | $46,911.72    
+S/C    | 1476                | Gte. Termoimpermeable de Silicona para Temperaturas Extremas (-50° <= °C <= +350°). Talle 11 | $46,911.72    
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 7 Recub. PU                               | $6,140.51     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 8 Recub. PU                               | $6,140.51     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 9 Recub. PU                               | $6,140.51     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 10 Recub. PU                              | $6,140.51     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Talle 11 Recub. PU                              | $6,140.51     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Económico Talle 7 Recub. PU                     | $4,077.83     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Económico Talle 8 Recub. PU                     | $4,077.83     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Económico Talle 9 Recub. PU                     | $4,077.83     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Económico Talle 10 Recub. PU                    | $4,077.83     
+S/C    | 1476                | Gtes. Sin Costura Anticorte Económico Talle 11 Recub. PU                    | $4,077.83     
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Elast. Talle 8 Refuerzo TPR Anti-Impacto            | $9,436.53     
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Elast. Talle 9 Refuerzo TPR Anti-Impacto            | $9,479.30     
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Elast. Talle 10 Refuerzo TPR Anti-Impacto           | $9,543.46     
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Elast. Talle 11 Refuerzo TPR Anti-Impacto           | $10,959.77    
+S/C    | 1476                | Gte Lincoln Vaqueta Elast. Forrado Talle 9 -C/ TPR Anti-Impacto             | $25,241.70    
+S/C    | 1476                | Gte Lincoln Vaqueta Elast. Forrado Talle 10 -C/ TPR Anti-Impacto            | $25,949.85    
+S/C    | 1476                | Gte Lincoln Vaqueta Elast. Forrado Talle 11 -C/ TPR Anti-Impacto            | $27,109.51    
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Elast. T 10, Refuerzo Cadenero c/ TPR Anti-Impacto. Forrado Anticorte. Negro | $31,591.33    
+S/C    | 1476                | P. de Gte. Lincoln Vaq. Elast. Talle 11. Refuerzo Cadenero c/ TPR Anti-Impacto. Forrado Anticorte. Negro | $32,983.88    
+S/C    | 1476                | Guante Lincoln Vaqueta Hidrofuga Azul interior anticorte Puño Elastizado. Refuerzo cadenero. Dorso Antigolpes. Talle10 | $43,214.11    
+S/C    | 1476                | Guante Lincoln Vaqueta Hidrofuga Azul interior anticorte Puño Elastizado. Refuerzo cadenero. Dorso Antigolpes. Talle11 | $45,146.09    
+S/C    | 1476                | Gte. Americano Vaqueta Puño Corto, Refuerzo Cadenero, Talle 10, Refuerzo TPR Anti-Impacto | $11,537.23    
+S/C    | 1476                | Gte. Americano Vaqueta Puño Corto, Refuerzo Cadenero, Talle 11, Refuerzo TPR Anti-Impacto | $12,052.90    
+S/C    | 1476                | Guante Americano Vaqueta Amarilla Interior Anticorte Puño Corto Refuerzo Cadenero, Talle 10, Refuerzo TPR | $26,142.34    
+S/C    | 1476                | Guante Americano Vaqueta Amarilla Interior Anticorte Puño Corto Refuerzo Cadenero, Talle 11, Refuerzo TPR. | $29,359.93    
+S/C    | 1476                | Gte. Tejido Talle 8 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | $34,721.00    
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | $34,721.00    
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | $34,721.00    
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost. Bicolor, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | $34,721.00    
+S/C    | 1476                | Gte. Tejido Talle 9 S/Cost. Anticorte G13, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | $42,227.92    
+S/C    | 1476                | Gte. Tejido Talle 10 S/Cost. Anticorte G13, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | $42,227.92    
+S/C    | 1476                | Gte. Tejido Talle 11 S/Cost. Anticorte G13, Doble Baño Nitrilo, Refuerzo TPR Anti-Impacto | $42,227.92    
+S/C    | 1476                | Gte. Tejido Talle 8 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | $63,204.05    
+S/C    | 1476                | Gte. Tejido Talle 9 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | $63,204.05    
+S/C    | 1476                | Gte. Tejido Talle 10 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | $63,204.05    
+S/C    | 1476                | Gte. Tejido Talle 11 Sintético Tricolor Combinado, Refuerzo TPR Anti-Impacto | $63,204.05    
+S/C    | 1476                | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona con Aplicaciones TPR Anti-Impacto | $18,357.38    
+S/C    | 1476                | Gte Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul con TPR Anti-Impacto | $19,410.11    
+S/C    | 1476                | Gte. Nitrilo Baño Completo Azul Largo Total 30 cm Con TPR Anti-Impacto      | $34,721.00    
+S/C    | 1476                | Gte. Baño de Nitrilo Completo Palma Reforzada Puño Lona Ref. TPR Anti-Impacto | $36,094.53    
+S/C    | 1476                | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona PVC Azul de 14cm con TPR Anti-Impacto | $21,403.87    
+S/C    | 1476                | Gte. Nitrilo Medio Baño Completo Azul Puño de Lona resistente al corte y Aplicaciones en dorsoTPR Anti-Impacto | $39,376.29    
+S/C    | 1476                | Delantal Impermeable PE 10g Azul, 90*70 cm                                  | $17,043.25    
+S/C    | 1476                | Mameluco Descartable 45 g/m2, Talle M, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | $4,258.44     
+S/C    | 1476                | Mameluco Descartable 45 g/m2, Talle L, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | $4,258.44     
+S/C    | 1476                | Mameluco Descartable 45 g/m2, Talle XL, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | $4,258.44     
+S/C    | 1476                | Mameluco Descartable 45 g/m2, Talle 2XL, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | $4,258.44     
+S/C    | 1476                | Mameluco Descartable 45 g/m2, Talle 3XL, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | $4,258.44     
+S/C    | 1476                | Mameluco Descartable Económico Respirable Blanco PP 30g Talle M             | $3,524.14     
+S/C    | 1476                | Mameluco Descartable Económico Respirable Blanco PP 30g Talle L             | $3,524.14     
+S/C    | 1476                | Mameluco Descartable Económico Respirable Blanco PP 30g Talle XL            | $3,524.14     
+S/C    | 1476                | Mameluco Descartable Económico Respirable Blanco PP 30g Talle 2XL           | $3,524.14     
+S/C    | 1476                | Mameluco Descartable Económico Respirable Blanco PP 30g Talle 3XL           | $3,524.14     
+S/C    | 1476                | Mameluco Descartable 60 g/m2, Talle M, Blanco Respirable Laminado PP+PE, Tipo 5/6 | $6,542.12     
+S/C    | 1476                | Mameluco Descartable 60 g/m2, Talle L, Blanco Respirable Laminado PP+PE, Tipo 5/6 | $6,542.12     
+S/C    | 1476                | Mameluco Descartable 60 g/m2, Talle XL, Blanco Respirable Laminado PP+PE, Tipo 5/6 | $6,542.12     
+S/C    | 1476                | Mameluco Descartable 60 g/m2, Talle 2XL, Blanco Respirable Laminado PP+PE, Tipo 5/6 | $6,542.12     
+S/C    | 1476                | Mameluco Descartable 60 g/m2, Talle 3XL, Blanco Respirable Laminado PP+PE, Tipo 5/6 | $6,542.12     
+S/C    | 1476                | Traje de Proteccion Quimica Descartable 75 g/m2, Talle M, Amarillo SMS+PE, Tipo 3/4/5/6 | $24,899.50    
+S/C    | 1476                | Traje de Proteccion Quimica Descartable 75 g/m2, Talle L, Amarillo SMS+PE, Tipo 3/4/5/6 | $24,899.50    
+S/C    | 1476                | Traje de Proteccion Quimica Descartable 75 g/m2, Talle XL, Amarillo SMS+PE, Tipo 3/4/5/6 | $24,899.50    
+S/C    | 1476                | Traje de Proteccion Quimica Descartable 75 g/m2, Talle 2XL, Amarillo SMS+PE, Tipo 3/4/5/6 | $24,899.50    
+S/C    | 1476                | Traje de Proteccion Quimica Descartable 75 g/m2, Talle 3XL, Amarillo SMS+PE, Tipo 3/4/5/6 | $24,899.50    
+S/C    | 1476                | Traje de Proteccion Quimica Descartable 90 g/m2, Talle XL, Amarillo Premium SMS+PE, Tipo 3/4/5/6 | $80,753.47    
+S/C    | 1476                | Traje de Proteccion Quimica Descartable 90 g/m2, Talle 2XL, Amarillo Premium SMS+PE, Tipo 3/4/5/6 | $80,753.47    
+S/C    | 1476                | Guardapolvo Descartable Blanco Cierre de Broches                            | $11,218.80    
+S/C    | 1476                | Manga de PE Azul, Talle Unico x 100 unidades                                | $3,904.36     
+S/C    | 1476                | Camisolin de PP 20g Blanco, Talle Unico X 50 unidades                       | $63,006.81    
+S/C    | 1476                | Cofia Plisada Descartable PP Celeste, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | $4,807.38     
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Celeste, Doble Elástico, Largo 45 cm (18") | $36,527.03    
+S/C    | 1476                | Cofia Plisada Descartable PP Blanca, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | $4,807.38     
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 45 cm (18")  | $36,527.03    
+S/C    | 1476                | Cofia Plisada Descartable PP Naranja, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | $4,807.38     
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Naranja, Doble Elástico, Largo 45 cm (18") - Pack 1000 Unidades | $36,527.03    
+S/C    | 1476                | Cofia Plisada Descartable PP Verde, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | $4,807.38     
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Verde, Doble Elástico, Largo 45 cm (18")   | $36,527.03    
+S/C    | 1476                | Cofia Plisada Descartable PP Azul, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | $4,807.38     
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Azul, Doble Elástico, Largo 45 cm (18") - Pack 1000 Unidades | $36,527.03    
+S/C    | 1476                | Cofia Plisada Descartable PP Rojo, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades | $4,807.38     
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Rojo, Doble Elástico, Largo 45 cm (18") Pack 1000 Unidades | $36,527.03    
+S/C    | 1476                | Cofia Plisada Descartable PP Celeste, Doble Elástico, Largo 53 cm (21") - Pack 1000 Unidades | $38,898.64    
+S/C    | 1476                | Cofia Plisada Descartable PP Blanca, Doble Elástico, Largo 53 cm (21") - Pack 100 Unidades | $6,546.87     
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 53 cm (21") - Pack 1000 Unidades | $38,898.64    
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 53 cm (21")  | $201.99       
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Rojo, Doble Elástico, Largo 45 cm (18")    | $135.45       
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Azul, Doble Elástico, Largo 45 cm (18")    | $135.45       
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Verde, Doble Elástico, Largo 45 cm (18")   | $135.45       
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Naranja, Doble Elástico, Largo 45 cm (18") | $135.45       
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 45 cm (18")  | $135.45       
+S/C    | 1476                | Cofia Plisada Descartable PP 10g Celeste, Doble Elástico, Largo 45 cm (18") | $135.45       
+S/C    | 1476                | Cubre Calzado Descartable PP Blanco 45x16 cm - Pacl 100 Unidades            | $8,352.91     
+S/C    | 1476                | Cubre Calzado Descartable PP 30g Blanco 45x16 cm - Pack 1000 Unidades       | $68,087.47    
+S/C    | 1476                | Cubre Calzado Descartable PP 30g Blanco 45x16 cm                            | $270.91       
+S/C    | 1476                | Cubre Barba Descartable Completo PP 10g Blanca Largo 18" (45 cm) - Pack 100 Unidades | $36,752.78    
+S/C    | 1476                | Cubre Barba Descartable Completo PP 10g Blanca Largo 18" (45 cm)            | $328,020.85   
+S/C    | 1476                | Cubre Barba Descartable Completo PP 10g Blanca Largo 18" (45 cm)            | $496.66       
+S/C    | 1476                | Campera de Frio Azul - Talle XS                                             | $56,053.58    
+S/C    | 1476                | Campera de Frio Azul - Talle S                                              | $56,053.58    
+S/C    | 1476                | Campera de Frio Azul - Talle M                                              | $56,053.58    
+S/C    | 1476                | Campera de Frío Azul - Talle L                                              | $56,053.58    
+S/C    | 1476                | Campera de Frío Azul - Talle XL                                             | $56,053.58    
+S/C    | 1476                | Campera de Frio Azul - Talle 2XL                                            | $56,053.58    
+S/C    | 1476                | Campera de Frío Azul - Talle 3XL                                            | $56,053.58    
+S/C    | 1476                | Campera de Frio Aviador Azul - Talle XS                                     | $70,637.30    
+S/C    | 1476                | Campera de Frio Aviador Azul - Talle M                                      | $70,637.30    
+S/C    | 1476                | Campera de Frio Aviador Azul - Talle L                                      | $70,637.30    
+S/C    | 1476                | Campera de Frio Aviador Azul - Talle XL                                     | $70,637.30    
+S/C    | 1476                | Campera de Frio Aviador Azul - Talle 2XL                                    | $70,637.30    
+S/C    | 1476                | Chaleco Azul - Talle XL                                                     | $47,249.17    
+S/C    | 1476                | Chaleco Azul - Talle 2XL                                                    | $47,249.17    
+S/C    | 1476                | Chaleco Azul - Talle 3XL                                                    | $47,249.17    
+S/C    | 1476                | Campera de frio Amarillo fluo Talle XS con aplicaciones reflectivas         | $74,950.39    
+S/C    | 1476                | Campera de frio Amarillo fluo Talle S con aplicaciones reflectivas          | $74,950.39    
+S/C    | 1476                | Campera de frio Amarillo fluo Talle M con aplicaciones reflectivas          | $74,950.39    
+S/C    | 1476                | Campera de frio Amarillo fluo Talle L con aplicaciones relfectivas          | $74,950.39    
+S/C    | 1476                | Campera de frio Amarillo fluo Talle XL con aplicaciones reflectivas         | $74,950.39    
+S/C    | 1476                | Campera de frio Amarillo fluo Talle 2XL con aplicaciones reflectivas        | $74,950.39    
+S/C    | 1476                | Campera de frio Amarillo fluo Talle 3XL con aplicaciones reflectivas        | $74,950.39    
+S/C    | 1476                | Campera de frio Naranja fluo con aplicaciones reflectivas Talle XS          | $74,950.39    
+S/C    | 1476                | Campera de frio Naranja fluo con aplicaciones reflectivas Talle S           | $74,950.39    
+S/C    | 1476                | Campera de frio Naranja fluo con aplicaciones reflectivas Talle M           | $74,950.39    
+S/C    | 1476                | Campera de frio Naranja fluo con aplicaciones reflectivas Talle L           | $74,950.39    
+S/C    | 1476                | Campera de frio Naranja Fluo con aplicaciones reflectivas Talle XL          | $74,950.39    
+S/C    | 1476                | Campera de frio Naranja fluo con aplicaciones reflectivas Talle 2XL         | $74,950.39    
+S/C    | 1476                | Campera de frio Naranja Fluo con aplicaciones reflectivas Talle 3XL         | $74,950.39    
+S/C    | 1476                | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle S  | $67,410.20    
+S/C    | 1476                | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle M  | $67,410.20    
+S/C    | 1476                | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle L  | $67,410.20    
+S/C    | 1476                | Campera Rompeviento impermeable bolso con aplicaciones relfectivas Talle XL | $67,410.20    
+S/C    | 1476                | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 2XL | $67,410.20    
+S/C    | 1476                | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 3XL | $67,410.20    
+S/C    | 1476                | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 4XL | $67,410.20    
+S/C    | 1476                | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 5XL | $67,410.20    
+S/C    | 1476                | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 6XL | $67,410.20    
+S/C    | 1476                | Campera Softshell Negra Talle XS                                            | $68,969.10    
+S/C    | 1476                | Campera Softshell Negra Talle S                                             | $68,969.10    
+S/C    | 1476                | Campera Softshell Negra Talle M                                             | $68,969.10    
+S/C    | 1476                | Campera Softshell Negra Talle L                                             | $68,969.10    
+S/C    | 1476                | Campera Softshell Negra Talle XL                                            | $68,969.10    
+S/C    | 1476                | Campera Softshell Negra Talle 2XL                                           | $68,969.10    
+S/C    | 1476                | Campera Softshell Negra Talle 3XL                                           | $68,969.10    
+S/C    | 1476                | Campera Softshell Negra Talle 4XL                                           | $68,969.10    
+S/C    | 1476                | Campera Softshell Negra Talle 5XL                                           | $68,969.10    
+S/C    | 1476                | Campera Softshell Negra Talle 6XL                                           | $68,969.10    
+S/C    | 1476                | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle XS               | $62,895.12    
+S/C    | 1476                | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle S                | $62,895.12    
+S/C    | 1476                | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle M                | $62,895.12    
+S/C    | 1476                | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle L                | $62,895.12    
+S/C    | 1476                | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle XL               | $64,316.18    
+S/C    | 1476                | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 2XL              | $64,316.18    
+S/C    | 1476                | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 3XL              | $64,316.18    
+S/C    | 1476                | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 4XL              | $64,316.18    
+S/C    | 1476                | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 5XL              | $64,316.18    
+S/C    | 1476                | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 6XL              | $64,316.18    
+S/C    | 1476                | Trajes de lluvia Amarillo - Talle S (1) Premium                             | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Amarillo - Talle M (2) Premium                             | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Amarillo - Talle L (3) Premium                             | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Amarillo Talle XL (4) Premium                              | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Amarillo Talle 2XL (5) Premium                             | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Amarillo - Talle 3XL (6) Premium                           | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Amarillo - Talle 4XL (7) Premium                           | $33,908.28    
+S/C    | 1476                | Trajes de lluvia Amarillo - Talle 5XL (8) Premium                           | $33,908.28    
+S/C    | 1476                | Trajes de lluvia Amarillo-Talle 6XL (9) Premium                             | $33,908.28    
+S/C    | 1476                | Trajes de lluvia Azul-Talle S (1) Premium                                   | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Azul-Talle M (2) Premium                                   | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Azul-Talle L (3) Premium                                   | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Azul-Talle XL (4) Premium                                  | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Azul-Talle 2XL (5) Premium                                 | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Azul-Talle 3XL (6) Premium                                 | $28,739.70    
+S/C    | 1476                | Trajes de lluvia Azul-Talle 4XL (7) Premium                                 | $33,908.28    
+S/C    | 1476                | Trajes de lluvia Azul-Talle 5XL (8) Premium                                 | $33,908.28    
+S/C    | 1476                | Trajes de lluvia Azul-Talle 6XL (9) Premium                                 | $33,908.28    
+S/C    | 1476                | Capas de lluvia Amarilla-Talle M (2)                                        | $15,035.23    
+S/C    | 1476                | Capas de lluvia Amarilla-Talle L (3)                                        | $15,035.23    
+S/C    | 1476                | Capas de lluvia Amarilla-Talle XL (4)                                       | $15,035.23    
+S/C    | 1476                | Capas de lluvia Amarilla-Talle 2XL (5)                                      | $15,035.23    
+S/C    | 1476                | Capas de lluvia Amarilla-Talle 3XL (6)                                      | $15,035.23    
+S/C    | 1476                | Poncho PE Transparente 100 x 125 cm, 0.0018MM                               | $2,347.84     
+S/C    | 1476                | Poncho PVC Amarillo 125X100, 0.10MM                                         | $6,095.36     
+S/C    | 1476                | Trajes de lluvia Amarillo-Talle S (1)                                       | $18,979.99    
+S/C    | 1476                | Trajes de lluvia Amarillo-Talle M (2)                                       | $18,979.99    
+S/C    | 1476                | Trajes de lluvia Amarillo-Talle L (3)                                       | $18,979.99    
+S/C    | 1476                | Trajes de lluvia Amarillo-Talle XL (4)                                      | $18,979.99    
+S/C    | 1476                | Trajes de lluvia Amarillo-Talle 2XL (5)                                     | $18,979.99    
+S/C    | 1476                | Trajes de lluvia Amarillo-Talle 3XL (6)                                     | $18,979.99    
+S/C    | 1476                | Trajes de lluvia Jardinero Amarillo-Talle 4XL (7)                           | $21,083.07    
+S/C    | 1476                | Trajes de lluvia Jardinero Amarillo-Talle 5XL (8)                           | $21,083.07    
+S/C    | 1476                | Trajes de lluvia Jardinero Amarillo-Talle 6XL (9)                           | $21,083.07    
+S/C    | 1476                | Delantal de PVC 75x120 cm Blanco                                            | $6,542.12     
+S/C    | 1476                | Delantal de PVC 90x120 cm Blanco                                            | $8,020.22     
+S/C    | 1476                | Delantal de PVC 75x120 cm Blanco Con Refuerzo                               | $7,891.89     
+S/C    | 1476                | Delantal de PVC 90x120 cm Blanco Con Refuerzo                               | $8,172.30     
+S/C    | 1476                | Delantal de PVC 75x120 cm Verde                                             | $6,542.12     
+S/C    | 1476                | Delantal de PVC 90x120 cm Verde                                             | $8,020.22     
+S/C    | 1476                | Delantal de PVC 75x120 cm Verde Con Refuerzo                                | $7,891.89     
+S/C    | 1476                | Delantal de PVC 90x120 cm Verde Con Refuerzo                                | $8,172.30     
+S/C    | 1476                | Manga PVC Blanca, Espesor 0.32 mm, Tamaño 43x19 cm                          | $7,335.82     
+S/C    | 1476                | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas - Talle S (1) Premium | $47,384.62    
+S/C    | 1476                | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle M (2) Premium | $47,384.62    
+S/C    | 1476                | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle L (3) Premium | $47,384.62    
+S/C    | 1476                | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle XL (4) Premium | $47,384.62    
+S/C    | 1476                | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle 2XL (5) Premium | $47,384.62    
+S/C    | 1476                | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle 3XL (6) Premium | $47,384.62    
+S/C    | 1476                | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas - Talle 4XL (7) Premium | $47,384.62    
+S/C    | 1476                | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle 5XL (8) Premium | $47,384.62    
+S/C    | 1476                | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas - Talle 6XL (9) Premium | $47,384.62    
+S/C    | 1476                | Chaleco Amarillo Poliéster XL con aplicaciones reflectivas                  | $7,678.02     
+S/C    | 1476                | Chaleco Amarillo Poliéster 2XL con aplicaciones reflectivas                 | $7,678.02     
+S/C    | 1476                | Chaleco Económico Amarillo Poliéster, Tamaño 62x68 cm con aplicaciones reflectivas | $2,594.99     
+S/C    | 1476                | Chaleco Económico Naranja Poliéster, Tamaño 62x68 cm con aplicaciones reflectivas | $2,594.99     
+S/C    | 1476                | Chaleco Naranja Poliéster XL con aplicaciones reflectivas                   | $7,678.02     
+S/C    | 1476                | Chaleco Naranja Poliéster 2XL con aplicaciones reflectivas                  | $7,678.02     
+S/C    | 1476                | Bandolera Económica Amarillo Flúo con Reflectivo, Talle Único               | $4,374.88     
+S/C    | 1476                | Bandolera Económica Naranja Flúo con Reflectivo, Talle Único                | $4,374.88     
+S/C    | 1476                | Bandolera Premium Elastizada Amarillo Flúo, Ancho 4 cm, Mat. Reflectivo 1.5 cm | $7,678.02     
+S/C    | 1476                | Bandolera Premium Elastizada Naranja Flúo, Ancho 4 cm, Mat. Reflectivo 1.5 cm | $7,678.02     
+S/C    | 1476                | Remera Poliester Azul Economica Talle XS                                    | $7,856.25     
+S/C    | 1476                | Remera Poliester Azul Economica Talle S                                     | $7,856.25     
+S/C    | 1476                | Remera Poliester Azul Economica Talle M                                     | $7,856.25     
+S/C    | 1476                | Remera Poliester Azul Economica Talle L                                     | $7,856.25     
+S/C    | 1476                | Remera Poliester Azul Economica Talle XL                                    | $7,856.25     
+S/C    | 1476                | Remera Poliester Azul Economica Talle XXL                                   | $8,554.90     
+S/C    | 1476                | Remera Poliester Azul Economica Talle 3XL                                   | $8,554.90     
+S/C    | 1476                | Remera Poliester Azul Economica Talle 4XL                                   | $8,554.90     
+S/C    | 1476                | Remera Poliester Modal Gris Premium Talle XS                                | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Gris Premium Talle S                                 | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Gris Premium Talle M                                 | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Gris Premium Talle L                                 | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Gris Premium Talle XL                                | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Gris Premium Talle XXL                               | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Gris Premium Talle 3XL                               | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Gris Premium Talle 4XL                               | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Azul Premium Talle XS                                | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Azul Premium Talle S                                 | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Azul Premium Talle M                                 | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Azul Premium Talle L                                 | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Azul Premium Talle XL                                | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Azul Premium Talle XXL                               | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Azul Premium Talle 3XL                               | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Azul Premium Talle 4XL                               | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Negra Premium Talle XS                               | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Negra Premium Talle S                                | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Negra Premium Talle M                                | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Negra Premium Talle L                                | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Negra Premium Talle XL                               | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Negra Premium Talle XXL                              | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Negra Premium Talle 3XL                              | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Negra Premium Talle 4XL                              | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Amarilla Fluo Premium Talle XS Proteccion Ultra Violeta UPF50+ "EN13758-1" | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Amarilla Fluo Premium Talle S Proteccion Ultra Violeta UPF50+ "EN13758-1" | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Amarilla Fluo Premium Talle M Proteccion Ultra Violeta UPF50+ "EN13758-1" | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Amarilla Fluo Premium Talle L Proteccion Ultra Violeta UPF50+ "EN13758-1" | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Amarilla Fluo Premium Talle XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Amarilla Fluo Premium Talle XXL Proteccion Ultra Violeta UPF50+ "EN13758-1" | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Amarilla Fluo Premium Talle 3XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Amarilla Fluo Premium Talle 4XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Naranja Fluo Premium Talle XS Proteccion Ultra Violeta UPF50+ "EN13758-1" | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Naranja Fluo Premium Talle S Proteccion Ultra Violeta UPF50+ "EN13758-1" | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Naranja Fluo Premium Talle M Proteccion Ultra Violeta UPF50+ "EN13758-1" | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Naranja Fluo Premium Talle L Proteccion Ultra Violeta UPF50+ "EN13758-1" | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Naranja Fluo Premium Talle XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | $11,085.72    
+S/C    | 1476                | Remera Poliester Modal Naranja Fluo Premium Talle XXL Proteccion Ultra Violeta UPF50+ "EN13758-1" | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Naranja Fluo Premium Talle 3XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | $12,055.27    
+S/C    | 1476                | Remera Poliester Modal Naranja Fluo Premium Talle 4XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | $12,055.27    
+S/C    | 1476                | Faja Lumbar Talle S Premium 6 Ballenas                                      | $17,449.61    
+S/C    | 1476                | Faja Lumbar Talle M Premium 6 Ballenas                                      | $17,449.61    
+S/C    | 1476                | Faja Lumbar Talle L Premium 6 Ballenas                                      | $17,449.61    
+S/C    | 1476                | Faja Lumbar Talle XL Premium 6 Ballenas                                     | $17,449.61    
+S/C    | 1476                | Faja Lumbar Talle XXL Premium 6 Ballenas                                    | $17,449.61    
+S/C    | 1476                | Faja Lumbar Talle 3XL Premium 6 Ballenas                                    | $17,449.61    
+S/C    | 1476                | Faja Lumbar Talle S Economica                                               | $14,424.51    
+S/C    | 1476                | Faja Lumbar Talle M Economica                                               | $14,424.51    
+S/C    | 1476                | Faja Lumbar Talle L Economica                                               | $14,424.51    
+S/C    | 1476                | Faja Lumbar Talle XL Economica                                              | $14,424.51    
+S/C    | 1476                | Faja Lumbar Talle 2XL Economica                                             | $14,424.51    
+S/C    | 1476                | Faja Lumbar Talle 3XL Economica                                             | $14,424.51    
+S/C    | 1476                | Protector Auditivo Endoaural PU Descartable 27,2dB                          | $299.42       
+S/C    | 1476                | Protector Auditivo Endoaural PU Descartable Con Cordón 27,2dB               | $579.83       
+S/C    | 1476                | Protector Auditivo Endoaural PU Descartable Con Cordón Metal Detectable 27,2dB | $836.48       
+S/C    | 1476                | Protector Auditivo Endoaural con Cordón Reutilizable 26,2dB                 | $620.23       
+S/C    | 1476                | Protector Auditivo Endoaural con Cordón Reutilizable con Metal Detectable 26,2dB | $1,157.29     
+S/C    | 1476                | Protector Auditivo de Copa Tipo Vincha Amarillo Fluo 25,5dB                 | $13,103.25    
+S/C    | 1476                | Protector Auditivo de Copa Tipo Vincha Fluo Bluetooth                       | $157,982.79   
+S/C    | 1476                | PALLET ANTIDERRAME 1 TAMBOR ESTÁTICO Contención 43 L Carga 500 Kg - 0.67x0.67x0.15m Reforzado | $245,822.56   
+S/C    | 1476                | PALLET ANTIDERRAME 2 TAMBORES ESTATICO Contencion 70 L Carga 1200 Kg - 1.30x0.68x0.15m | $302,555.78   
+S/C    | 1476                | Pallet Antiderrame 4 Tambores Apto Autoelevador Contención 120 L Carga 2600 Kg - 1.30x1.30x0.15m | $567,296.54   
+S/C    | 1476                | PALLET ANTIDERRAME 1 TAMBOR APTO AUTOELEVADOR Contención 40 L Carga 500 Kg (0.72x0.72x0.155m) | $642,947.96   
+S/C    | 1476                | PALLET ANTIDERRAME 2 TAMBORES APTO AUTOELEVADOR Contención 150 L Carga 1200 Kg 1.30×0.68x0.30m REFORZADO | $718,597.01   
+S/C    | 1476                | PALLET ANTIDERRAME 4 TAMBORES APTO AUTOELEVADOR Contención 280 L Carga 3000 Kg 1.30x1.30x0.30m REFORZADO | $1,229,186.47 
+S/C    | 1476                | Ducha Lavaojos Acero Inoxidable Económica                                   | $876,016.60   
+S/C    | 1476                | Ducha Lavaojos Acero Inoxidable Premium                                     | $1,335,901.67 
+S/C    | 1476                | Repuesto Rociador para Lavaojos de Duchas UCU0001DI - UCU0002DI             | $26,232.64    
+S/C    | 1476                | B. Monolente rigido de vanguardia transparente K                            | $1,551.76     
+S/C    | 1476                | B. Monolente rigido de vanguardia Negro K                                   | $1,551.76     
+S/C    | 1476                | Kit B. Monolente Rigido Transparente K con Prot. Facial Sanitario           | $4,277.45     
+S/C    | 1476                | E. Anteojo transparente, K, Patilla recta regulable                         | $1,901.09     
+S/C    | 1476                | E. Anteojo Negro, K, Patilla recta regulable                                | $1,901.09     
+S/C    | 1476                | A. Ant. N, transp, K, supervisor Antiempañe                                 | $3,928.12     
+S/C    | 1476                | A. Ant N, negro, K, supervisor Antiempañe                                   | $3,928.12     
+S/C    | 1476                | B. Ant. Transparente patilla extensible pte. silicona Trat.K                | $6,207.05     
+S/C    | 1476                | B. Ant. Negro patilla extensible pte. silicona Trat.K                       | $6,207.05     
+S/C    | 1476                | B. Ant. , puente silicona, liviano Amarillo. K                              | $7,651.88     
+S/C    | 1476                | A. Ant. Transparente patilla extensible pte. silicona Trat.K N Antiempañe   | $6,568.26     
+S/C    | 1476                | A. Ant. Negro patilla extensible pte. silicona Trat.K N Antiempañe          | $6,568.26     
+S/C    | 1476                | F. Ant. Espejado I/O patilla extensible pte. silicona Trat.K                | $6,568.26     
+S/C    | 1476                | B. Anteojo marco Metalico, negro, K.                                        | $13,093.74    
+S/C    | 1476                | A. Ant. transparente, extremo confort, patilla antideslizante. KN Antiempañe UV385 | $7,471.28     
+S/C    | 1476                | A. Ant. gris,extremo confort , patilla ergonomica antideslizante. K N Antiempañe UV400 | $7,471.28     
+S/C    | 1476                | B. Ant. Transparente Pat. flexe. pte. silic. "Bandido"                      | $8,963.63     
+S/C    | 1476                | B. Ant. Negro Pat. flexe. pte. silic. "Bandido"                             | $8,963.63     
+S/C    | 1476                | B. Antiparra, ventilación directa Tratamiento K, transparente               | $10,465.49    
+S/C    | 1476                | A. Ant. negro, ergonomico, pat cricket y extensible. K N Antiempañe         | $7,651.88     
+S/C    | 1476                | Antiparra ergonomica transparente Antiempañe                                | $11,513.46    
+S/C    | 1476                | Antiparra ergonomica Negro Antiempañe                                       | $11,513.46    
+S/C    | 1476                | Protector Ocular Transparente KN, Ergonómico, Patillas Intercambiables, Banda Sujeción | $19,167.72    
+S/C    | 1476                | F. Ant Negro ergonomico, patillas intercamb banda sujecion                  | $19,167.72    
+S/C    | 1476                | F. Ant. Premium Transparente Ergonómico, Banda de Sujeción, Prot. Espuma    | $13,093.74    
+S/C    | 1476                | F. Ant. Premium Negro Ergonómico, Banda de Sujeción, Prot. Espuma           | $13,093.74    
+S/C    | 1476                | Antiparra Ergonómica Transparente Premium, Banda de Sujeción, K N           | $14,876.01    
+S/C    | 1476                | Antiparra Ergonómica Negro premium, Banda de Sujeción, K N                  | $14,876.01    
+S/C    | 1476                | A. Antiparra Vent. Indirec. Trat. K, N . Vista panoramica                   | $13,093.74    
+S/C    | 1476                | Antiparra ergonomica para soldadura IR5                                     | $38,107.31    
+S/C    | 1476                | F. Ant ergonomico, patillas intercamb banda sujecion Soldadura IR5          | $46,866.57    
+S/C    | 1476                | B. Pte de silicona. P Intercambiables con portalentes                       | $21,311.20    
+S/C    | 1476                | B. Pte de silicona. P Intercambiables con portalentes. Gris                 | $21,311.20    
+S/C    | 1476                | B. Marco metalico para cristales recetados                                  | $43,637.10    
+S/C    | 1476                | B. Marco metalico para cristales recetados                                  | $58,380.04    
+S/C    | 1476                | B. Ant. Premium Marco Metálico Negro, Para Cristales Recetados, Prot. Lateral PC | $88,697.64    
+S/C    | 1476                | B. Ant. Premium, Marco TR-90 Resistente Negro, Para Cristales Recetados     | $76,915.64    
+S/C    | 1476                | Mascara de proteccion., ergonomica . K N Antiempañe                         | $76,034.01    
+S/C    | 1476                | Cono PE Base Goma Económico 500 mm Rígido y 1 Banda Reflectiva 10 cm 1.5kg  | $11,860.41    
+S/C    | 1476                | Cono PE Base Goma Económico 750 mm Rígido y 2 Bandas Reflectivas 10 cm 2.5kg | $15,826.56    
+S/C    | 1476                | Cono PE Base Goma Económico 1000 mm Rígido y 2 Bandas Reflectivas 10 cm 5kg | $26,379.97    
+S/C    | 1476                | Cono Goma Económico 500 mm y 2 Bandas Reflec. 10 cm                         | $12,031.51    
+S/C    | 1476                | Cono 100% PVC Premium 470 mm con Memoria y 1 Banda Reflectiva 8 cm 0.9kg    | $18,466.69    
+S/C    | 1476                | Cono 100% PVC Premium 700 mm con Memoria y 2 Bandas Reflectivas 10 cm 2.3kg | $34,314.64    
+S/C    | 1476                | Cono 100% PVC Premium 900 mm con Memoria y 2 Bandas Reflectivas 10 cm 4.3kg | $52,802.72    
+S/C    | 1476                | Cono 100% PE Base Goma Autopista 1100 mm Rígido 2 Bandas Reflectivas 8+16 cm 4.45kg | $73,370.11    
+S/C    | 1476                | Malla Naranja Reticulada Plástica Liviana, Rollo de 1x45 m 2,56kg           | $22,278.38    
+S/C    | 1476                | Cadena de PE 4 mm Amarilla y Negra - ECONOMICA                              | $1,285.61     
+S/C    | 1476                | Cadena de PE 4 mm Roja y Blanca - ECONOMICA                                 | $1,285.61     
+S/C    | 1476                | Cadena de PE 6 mm Roja y Blanca - ECONOMICO                                 | $1,760.88     
+S/C    | 1476                | Cadena de PE 6 mm Amarilla y Negra - ECONOMICO                              | $1,760.88     
+S/C    | 1476                | Cadena de PE 6 mm Naranja Flúo                                              | $2,031.79     
+S/C    | 1476                | Cadena de PE 8 mm Roja y Blanca                                             | $2,167.24     
+S/C    | 1476                | Cadena de PE 8 mm Amarilla y Negra                                          | $2,167.24     
+S/C    | 1476                | Cadena de PE 8 mm Naranja Flúo                                              | $2,461.91     
+S/C    | 1476                | Cadena de PE 12 mm Marrón                                                   | $14,472.03    
+S/C    | 1476                | Gancho "S" Para Extensión de Cadenas                                        | $373.09       
+S/C    | 1476                | Anillo Rojo de PE para Enganche de Cadenas Sobre Cono                       | $1,670.58     
+S/C    | 1476                | Poste Demarcatorio PE Amarillo y Negro 90 cm Base Octogonal Para Rellenar   | $18,355.00    
+S/C    | 1476                | Poste Demarcatorio PE Rojo y Blanco 90 cm Base Octogonal Para Rellenar      | $18,355.00    
+S/C    | 1476                | Poste Bolardo PE Amarillo 75 cm Para Amurar, 3 Bandas Reflectivas 7.5 cm, Peso 630 g | $21,311.20    
+S/C    | 1476                | Protector de Columna Recto Caucho, Altura 80 cm Espesor 10 mm, 4 Bandas Reflectivas Amarillas, 2 kg | $17,043.25    
+S/C    | 1476                | Tope de Ruedas PVC , 58*11*8 cm, Bandas Reflectivas Amarillas, 2.6 kg       | $23,613.89    
+S/C    | 1476                | Gancho para Cable PP Amarillo 25 cm                                         | $2,347.84     
+S/C    | 1476                | Protector de Cable 2 Canales de Caucho / EVA, Tamaño 100*25*5 cm, Paso Canal 3*3 cm, Peso 7 kg | $94,997.37    
+S/C    | 1476                | Espejo Parabolico PC Vial Outdoor, Diametro 60 cm, Base PP Naranja          | $115,541.00   
+S/C    | 1476                | Baliza de Señalización Intermitente LED Económica Carga Panel Solar         | $31,943.03    
+S/C    | 1476                | Baliza de Señalización Giratoria LED Económica Con Soporte de Sujeción Carga Panel Solar | $32,123.63    
+S/C    | 1476                | Baliza de Señalización Intermitente LED Para Insertar en Cono Carga Panel Solar | $36,346.43    
+S/C    | 1476                | Faro Giratorio Ámbar Chico, 64 Luces LED, 11x11.5 cm, Cargador para Auto    | $87,457.18    
+S/C    | 1476                | Faro Giratorio Ámbar Grande, 80 Luces LED, 13x16.3 cm, Cargador para Auto   | $152,769.06   
+S/C    | 1476                | Bastón Luminoso LED Para Señalización Vial. Cargador USB                    | $58,425.19    
+S/C    | 1476                | Tacha Reflectiva Amarilla ABS+PMMA, 10*10*2 cm                              | $7,064.92     
+S/C    | 1476                | Mascara Medio Rostro TPE Talle M                                            | $14,925.92    
+S/C    | 1476                | Mascara Medio Rostro TPE Talle L                                            | $14,925.92    
+S/C    | 1476                | Mascara Medio Rostro Silicona Talle S                                       | $19,795.08    
+S/C    | 1476                | Mascara Medio Rostro Silicona Talle M                                       | $19,795.08    
+S/C    | 1476                | Mascara Medio Rostro Silicona Talle L                                       | $19,795.08    
+S/C    | 1476                | Mascara Rostro Completo Silicona Talle M                                    | $161,000.77   
+S/C    | 1476                | Mascara Rostro Completo Silicona Talle L                                    | $161,000.77   
+S/C    | 1476                | Pre Filtro Para Particulas P2 (Kit por dos unidades)                        | $5,446.62     
+S/C    | 1476                | Filtro Para Particulas P3 (Kit por dos unidades)                            | $14,990.08    
+S/C    | 1476                | Filtro Para Particulas P3 Alivio Niveles Molestos Gases Acidos (Kit por dos unidades) | $27,879.46    
+S/C    | 1476                | Filtro Para Particulas P3 Ozono y Vapores Organicos (Kit por dos unidades)  | $34,186.31    
+S/C    | 1476                | Cartucho Filtro Particulas P3 (Kit por dos unidades)                        | $28,031.54    
+S/C    | 1476                | Cartucho Filtro Particulas P3 Fluoruro Hidrogeno Alivio Niveles Molestos Vapor Organico y Gas Acido (Kit por dos unidades) | $49,349.87    
+S/C    | 1476                | Cartucho Filtro Vapor Organico (Kit por dos unidades)                       | $23,784.99    
+S/C    | 1476                | Cartucho Filtro Vapor Organico y Gas Acido (Kit por dos unidades)           | $28,202.64    
+S/C    | 1476                | Cartucho Filtro Amoniaco Metilamina (Kit por dos unidades)                  | $38,646.74    
+S/C    | 1476                | Cartucho Filtro Multi Gas Acido y Vapores Organicos (Kit por dos unidades)  | $37,895.81    
+S/C    | 1476                | Cartucho Filtro Vapor de Mercurio, Vapor Organico y Gas Acido (Kit por dos unidades) | $47,655.52    
+S/C    | 1476                | Cartucho Mixto Multigas, Amoniaco y Particulas ABEK1 P3 R (Kit x Par)       | $62,346.18    
+S/C    | 1476                | Cartucho Mixto Vapor Organico, Gases Acidos y Particulas A1E1 P3 R (Kit x Par) | $59,577.72    
+S/C    | 1476                | Retenedor Para Prefiltro UCU0511R (Kit por dos unidades)                    | $7,399.99     
+S/C    | 1476                | Protector de Filtro Circular (Kit por dos unidades)                         | $7,399.99     
+S/C    | 1476                | Adaptador de Filtro Negro (Kit por dos unidades)                            | $7,528.31     
+S/C    | 1476                | Adaptador de Filtro Transparente (Kit por dos unidades)                     | $9,693.17     
+S/C    | 1476                | Valvula de Exhalacion Rectangular de Silicona (Kit x 25 unidades)           | $74,591.56    
+S/C    | 1476                | Valvula de Exhalacion Circular de Silicona (Kit x 25 unidades)              | $44,071.97    
+S/C    | 1476                | Valvula de Inhalacion de Latex (Kit x 25 unidades)                          | $44,071.97    
+S/C    | 1476                | Film Protector de Mascara Rostro Completo Transparente (Unitario)           | $4,374.88     
+S/C    | 1476                | Kit Adaptador de Cabeza                                                     | $11,881.80    
+S/C    | 1476                | Barbijo Tipo Mascarilla Tricapa Desechable Con Elásticos de Sujeción Pack x 2000 | $91,677.59    
+S/C    | 1476                | Mascarilla Descartable N95 Premium                                          | $1,157.29     
+S/C    | 1476                | Mascarilla Descartable N95 Premium Con Válvula de Exhalación                | $2,100.70     
+S/C    | 1476                | Mascarilla Descartable N95 Soldadura Vapor Orgánico, Válvula de Exhalación, Elastico Regulable, Cierre Ergonomico | $9,586.24     
+S/C    | 1476                | Armario Ignífugo 4 Galones Cierre Manual 560x430x460 mm                     | $1,248,781.93 
+S/C    | 1476                | Armario Ignífugo 22 Galones Cierre Manual 1650x590x460 mm                   | $2,457,446.16 
+S/C    | 1476                | Armario Ignífugo 30 Galones Cierre Manual 1120x1090x460 mm                  | $3,204,671.17 
+S/C    | 1476                | Armario Ignífugo 45 Galones Cierre Manual 1650x1090x460 mm                  | $3,500,114.50 
+S/C    | 1476                | Armario Ignífugo 60 Galones Cierre Manual 1650x860x860 mm                   | $5,945,282.01 
+S/C    | 1476                | Armario Ignífugo 30 Galones Cierre Automático 1120x1090x460 mm              | $3,850,710.78 
+S/C    | 1476                | Armario de emergencia para elementos de la brigada 1920x900x500 mm.         | $7,465,917.15 
+S/C    | 1476                | Máscara Para Soldar Fotosensible, Grado de Protección DIN 11 (Fijo)         | $55,535.53    
+S/C    | 1476                | Máscara Para Soldar Fotosensible, Grado de Protección DIN 9-13 (Regulador Externo) | $78,583.85    
+S/C    | 1476                | Máscara Para Soldar Fotosensible Premium, Grado de Protección DIN 9-13 (Regulador Externo) | $129,784.90   
+S/C    | 1476                | Máscara Para Soldar Fotosensible Premium "ROBOT", Grado de Protección DIN 9-13 (Regulador Externo) | $129,784.90   
+S/C    | 1476                | Máscara Para Soldar Fotosensible Premium "CALAVERA", Grado de Protección DIN 9-13 (Regulador Externo) | $129,784.90   
+S/C    | 1476                | Mascara Para Soldar Fotosensible Premium "ARGENTINA", Grado de Proteccion DIN 9-13 (Regulador Externo) | $129,784.90   
+S/C    | 1476                | Máscara Para Soldar Fotosensible Premium con Equipo Respirador Purificador de Aire Motorizado (PAPR), Soldadura DIN 9-13 | $2,318,925.76 
+S/C    | 1476                | Máscara Para Soldar Fotosensible Premium con Equipo Respirador Purificador de Aire Motorizado (PAPR), Soldadura DIN 9-13 | $4,568,067.32 
+S/C    | 1476                | Filtro HEPA Repuesto Mascara Para Soldar Fotosensible UCU3000S              | $80,347.11    
+S/C    | 1476                | Batería Recargable Repuesto Mascara Para Soldar Fotosensible UCU3000S       | $141,818.79   
+S/C    | 1476                | Cinta de Señalizacion Roja y Blanca. Peligro. Liviana (30 micrones) - Rollo 200 Mts | $9,120.47     
+S/C    | 1476                | Cinta de Señalizacion Amarilla y Negra. Precaucion. Liviana (30 micrones) - Rollo 200 Mts | $9,120.47     
+S/C    | 1476                | Cinta de Señalizacion Amarilla y Negra. Precaucion. Pesada (55 micrones) - Rollo 100 Mts | $15,983.40    
+S/C    | 1476                | Cinta Reflectiva Textil de 1 cm Para Costura                                | $541.81       
+S/C    | 1476                | Cinta Reflectiva Textil de 5 cm Para Costura                                | $1,580.28     
+S/C    | 1476                | Cinta Adhesiva Antideslizante Negra 5 m (Largo) x 2.5 cm (Ancho)            | $3,566.92     
+S/C    | 1476                | Cinta Adhesiva Antideslizante Negra 5 m (Largo) x 5 cm (Ancho)              | $7,064.92     
+S/C    | 1476                | Cinta Adhesiva Antideslizante Negra 18 m (Largo) x 2.5 cm (Ancho)           | $12,392.72    
+S/C    | 1476                | Cinta Adhesiva Antideslizante Negra 18 m (Largo) x 5 cm (Ancho)             | $24,878.11    
+S/C    | 1476                | Cinta Adhesiva Antideslizante Negra/Amarilla 5 m (Largo) x 2.5 cm (Ancho)   | $4,942.83     
+S/C    | 1476                | Cinta Adhesiva Antideslizante Negra/Amarilla 5 m (Largo) x 5 cm (Ancho)     | $9,909.42     
+S/C    | 1476                | Cinta Adhesiva Antideslizante Negra/Amarilla 18 m (Largo) x 5 cm (Ancho)    | $24,811.57    
+S/C    | 1476                | Cinta Adhesiva Antideslizante Transparente 5 m (Largo) x 2.5 cm (Ancho) Para Hogar y Hoteles | $6,751.24     
+S/C    | 1476                | Cinta Adhesiva Antideslizante Negra 5 m (Largo) x 5 cm (Ancho) Con Franja Fotoluminiscente de 1 cm (Ancho) | $19,303.17    
+S/C    | 1476                | Cinta Adhesiva Antideslizante Fotoluminiscente Plena 18 m (Largo) x 2.5 cm (Ancho) | $34,561.78    
+S/C    | 1476                | Cartel de Precaución "Piso Mojado"                                          | $34,811.30    
+S/C    | 1476                | Cartel de Precaución "No Estacionar"                                        | $34,787.53    
+S/C    | 1476                | Rodillera Económica Espuma Alta Densidad y Protección en PE                 | $13,138.89    
+S/C    | 1476                | Rodillera Premium, Acolchado de Gel y Espuma, Protección en PVC             | $30,272.45    
+S/C    | 1476                | Candado Termoplástico Rojo, Paso 20x38 mm de Acero Inoxidable               | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Amarillo, Paso 20x38 mm de Acero Inoxidable           | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Azul, Paso 20x38 mm de Acero Inoxidable               | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Naranja, Paso 20x38 mm de Acero Inoxidable            | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Negro, Paso 20x38 mm de Acero Inoxidable              | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Verde, Paso 20x38 mm de Acero Inoxidable              | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Violeta, Paso 20x38 mm de Acero Inoxidable            | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Rojo, Paso 20x76 mm de Acero Inoxidable               | $13,138.89    
+S/C    | 1476                | Candado Termoplástico Rojo Dieléctrico, Paso 20x38 mm de Nylon              | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Amarillo Dieléctrico, Paso 20x38 mm de Nylon          | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Azul Dieléctrico, Paso 20x38 mm de Nylon              | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Naranja Dieléctrico, Paso 20x38 mm de Nylon           | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Negro Dieléctrico, Paso 20x38 mm de Nylon             | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Verde Dieléctrico, Paso 20x38 mm de Nylon             | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Violeta Dieléctrico, Paso 20x38 mm de Nylon           | $8,398.06     
+S/C    | 1476                | Candado Termoplástico Rojo, Paso 20x76 mm de Cable                          | $21,242.28    
+S/C    | 1476                | Candado Termoplástico Amarillo, Paso 20x76 mm de Cable                      | $21,242.28    
+S/C    | 1476                | Candado Termoplástico Azul, Paso 20x76 mm de Cable                          | $21,242.28    
+S/C    | 1476                | Candado Termoplástico Naranja, Paso 20x76 mm de Cable                       | $21,242.28    
+S/C    | 1476                | Candado Termoplástico Negro, Paso 20x76 mm de Cable                         | $21,242.28    
+S/C    | 1476                | Candado Termoplástico Verde, Paso 20x76 mm de Cable                         | $21,242.28    
+S/C    | 1476                | Candado Termoplástico Violeta, Paso 20x76 mm de Cable                       | $21,242.28    
+S/C    | 1476                | Pinza de Bloqueo, Cierre de 38 mm de Acero Inoxidable                       | $7,471.28     
+S/C    | 1476                | Pinza de Bloqueo, Cierre de 25 mm de Aluminio                               | $7,314.44     
+S/C    | 1476                | Pinza de Bloqueo, Cierre de 38 mm de Acero Pintado                          | $13,340.89    
+S/C    | 1476                | Pinza de Bloqueo, Cierre de 38 mm de Aluminio                               | $7,787.33     
+S/C    | 1476                | Pinza de Bloqueo, "No Operar", Tamaño 76x190 mm de Aluminio                 | $28,941.69    
+S/C    | 1476                | Pinza de Bloqueo Dieléctrica, Cierre de 25x64 mm de Nylon                   | $3,904.36     
+S/C    | 1476                | Pinza de Bloqueo Dieléctrica Tipo Candado, Tamaño 61x107 mm de Nylon        | $14,990.08    
+S/C    | 1476                | Tarjeta "Fuera de Servicio", Tamaño 76x138 mm                               | $1,872.57     
+S/C    | 1476                | Tarjeta "No Operar", Tamaño 76x138 mm - Material: Carton Laminado           | $1,872.57     
+S/C    | 1476                | Porta Candados Para 12 Posiciones                                           | $42,125.73    
+S/C    | 1476                | Caja de Bloqueo Grupal Roja 253x110x154 mm                                  | $113,238.31   
+S/C    | 1476                | Caja de Bloqueo Grupal Amarilla 253x110x154 mm                              | $113,238.31   
+S/C    | 1476                | Estación de Bloqueo Horizontal para 20 Candados, Tamaño 530x40x80 mm        | $41,650.46    
+S/C    | 1476                | Estación de Bloqueo Plástica Chica, Tamaño 308x230x65 mm, 5 Posiciones      | $223,068.91   
+S/C    | 1476                | Estación de Bloqueo Plástica Grande, Tamaño 567x395x63 mm, 16 Posiciones    | $247,562.06   
+S/C    | 1476                | Estación de Bloqueo Multipropósito Portàtil, Tamaño 560x460x70 (30 ganchos) | $304,497.26   
+S/C    | 1476                | Estación de Bloqueo Acero Roja, Tamaño 450*600*85mm, 32 Posiciones          | $347,910.99   
+S/C    | 1476                | Estación de Bloqueo Acero Amarilla, Tamaño 360x450x155 mm                   | $329,194.77   
+S/C    | 1476                | Cable de Bloqueo Ajustable, Largo 2 Mts.                                    | $37,791.25    
+S/C    | 1476                | Cable de Bloqueo Ajustable, Largo 2 Mts. con Palanca                        | $47,249.17    
+S/C    | 1476                | Bloqueador Para Interruptores de Circuitos Miniatura (Abrazaderas hacia adentro) Largo 40 mm | $11,784.37    
+S/C    | 1476                | Bloqueador Para Interruptores de Circuitos Miniatura (Abrazaderas hacia afuera) Largo 40 mm | $2,618.75     
+S/C    | 1476                | Bloqueador Universal de Disyuntores Rojo (Requiere Herramientas Adicionales) 51*25*23 mm | $9,814.37     
+S/C    | 1476                | Bloqueador Universal de Disyuntores Rojo (No Requiere Herramientas Adicionales), Largo 52 mm | $25,983.12    
+S/C    | 1476                | Mini Bloqueador de Disyuntores Amarillo (Requiere Herramientas Adicionales) Largo 45 mm | $10,408.46    
+S/C    | 1476                | Mini Bloqueador de Disyuntores Verde (Requiere Herramientas Adicionales) Largo 45 mm | $10,408.46    
+S/C    | 1476                | Bloqueador de Disyuntores Para Palancas Medianas, Largo 70 mm               | $22,439.97    
+S/C    | 1476                | Mini Bloqueador de Enchufes Eléctricos                                      | $12,666.00    
+S/C    | 1476                | Bloqueador de Interruptor Tamaño 69x69 mm                                   | $30,182.15    
+S/C    | 1476                | Bloqueador de Botón Grande, Tamaño 100x100x65 mm                            | $34,065.12    
+S/C    | 1476                | Kit de Bloqueo de Interruptores, Largo de Barra 190 mm                      | $51,968.62    
+S/C    | 1476                | Bloqueador Ajustable de Válvula Esférica, Tamaño 1/2" a 2-1/2"              | $23,682.80    
+S/C    | 1476                | Bloqueador Metálico de Válvula Esférica, Tamaño 0,25" a 1"                  | $23,682.80    
+S/C    | 1476                | Bloqueador Metálico de Válvula Esférica, Tamaño 1,25" a 3"                  | $40,160.48    
+S/C    | 1476                | Bloqueador de Válvula Mariposa, Diámetro 1 a 2.5 mm                         | $14,876.01    
+S/C    | 1476                | Bloqueador de Válvula Mariposa, Diámetro 2.5 a 5 mm                         | $33,162.10    
+S/C    | 1476                | Bloqueador de Válvula Mariposa, Diámetro 6.5 a 10                           | $73,210.90    
+S/C    | 1476                | Bloqueador de Válvula Mariposa, Diámetro 10 a 13                            | $141,818.79   
+S/C    | 1476                | Bloqueador Ajustable de Válvula Mariposa, Diámetro 1 a 6.5                  | $79,013.97    
+S/C    | 1476                | Bloqueador de Válvula Universal                                             | $60,547.28    
+S/C    | 1476                | Bloqueador de Válvula Universal con Brazo                                   | $93,212.72    
+S/C    | 1476                | Bloqueador de Válvula Universal con Cable                                   | $85,313.70    
+S/C    | 1476                | Bloqueador de Válvula Universal con Brazo y Cable                           | $129,853.82   
+S/C    | 1476                | Bloqueador de Válvula Universal con Doble Brazo                             | $123,508.93   
+S/C    | 1476                | Trapo 100% algodon para limpieza. Bolsa de 2kg                              | $4,921.44     
+S/C    | 1476                | Trapo 100% algodon para limpieza. Bolsa de 10kg                             | $23,364.37    
+S/C    | 1476                | Trapo 100% algodon para limpieza. Bolsa de 1/2kg                            | $1,354.53     
+S/C    | 1476                | Carro de Limpieza Premium, PP Reforzado en Acero, 132x75x110 cm             | $1,415,954.11 

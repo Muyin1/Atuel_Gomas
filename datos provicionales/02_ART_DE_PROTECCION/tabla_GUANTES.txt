@@ -1,0 +1,37 @@
+=== TABLA NORMALIZADA: GUANTES ===
+Total de artículos únicos: 31
+===============================================================================================
+
+CODIGO   | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA                                                     | PRECIO (S/IVA)
+-----------------------------------------------------------------------------------------------------------------------------
+85193    | Guante Táctil DPS   | Guante Táctil DPS - Nro.8                                                   | $815.70       
+85194    | Guante Táctil DPS   | Guante Táctil DPS - Nro.9                                                   | $815.70       
+85195    | Guante Táctil DPS   | Guante Táctil DPS - Nro.10                                                  | $815.70       
+813093E  | Guante Táctil DPS   | Guante Moteado - Nro.8                                                      | $603.45       
+811093E  | Guante Táctil DPS   | Guante Moteado - Nro.8                                                      | $659.33       
+811095   | Guante Táctil DPS   | Guante Moteado - Nro.10                                                     | $737.55       
+222025E  | Guante Táctil DPS   | Guante Vaqueta 1/2 paseo - Nro.10                                           | $3,564.82     
+222025E+ | Guante Táctil DPS   | Guante Vaqueta 1/2 paseo - Nro.10                                           | $3,175.23     
+222026E  | Guante Táctil DPS   | Guante Vaqueta 1/2 paseo - Nro.11                                           | $3,932.11     
+221023   | Guante Táctil DPS   | Guante Vaqueta 1/2 paseo premium - Nro.8                                    | $3,953.71     
+221024   | Guante Táctil DPS   | Guante Vaqueta 1/2 paseo premium - Nro.9                                    | $3,996.92     
+222025   | Guante Táctil DPS   | Guante Vaqueta 1/2 paseo premium - Nro.10                                   | $4,040.13     
+222026   | Guante Táctil DPS   | Guante Vaqueta 1/2 paseo premium - Nro.11                                   | $4,515.44     
+61324    | Guante Táctil DPS   | Guante látex doméstico talle S al XL                                        | $1,487.31     
+71395    | Guante Táctil DPS   | Guante látex industrial                                                     | $2,230.97     
+41485    | Guante Táctil DPS   | Guante acrilo nitrilo talle 7 al 11                                         | $2,350.92     
+88113    | Guante Táctil DPS   | Guante tejido recto en Nitrilo Pack                                         | $2,111.03     
+S/C      | Guante Táctil DPS   | Guante Nitrilo azul y negro descartable 72091                               | $10,555.16    
+S/C      | Guante Táctil DPS   | Guante tejido s/costura T10 DPS 88305                                       | $3,166.54     
+S/C      | Guante Táctil DPS   | Guante tejido s/costura recubierto en látex T10 DPS 89155                   | $1,967.09     
+S/C      | Guante Táctil DPS   | Guante nitrilo ventilado azul puño tejido DPS 12155                         | $5,109.65     
+S/C      | Guante Táctil DPS   | Guante nitrilo baño completo azul puño de lona DPS 11255                    | $5,709.38     
+S/C      | Guante Táctil DPS   | Guante PVC rojo largo tota 35 cm DPS 31445                                  | $5,949.27     
+S/C      | Guante Táctil DPS   | Guante PVC rojo largo tota 40 cm DPS 31545                                  | $6,764.89     
+S/C      | Guante Táctil DPS   | TUBOS TERMOCONTRAIBLE POR MT. - 4,5 mm                                      | $430.80       
+S/C      | Guante Táctil DPS   | TUBOS TERMOCONTRAIBLE POR MT. - 6 mm                                        | $502.75       
+S/C      | Guante Táctil DPS   | TUBOS TERMOCONTRAIBLE POR MT. - 9 mm                                        | $773.87       
+S/C      | Guante Táctil DPS   | DIAFRAGMAS DE BOMBEADOR VILLA( x unidad) - Nro.1                            | $6,950.79     
+S/C      | Guante Táctil DPS   | DIAFRAGMAS DE BOMBEADOR VILLA( x unidad) - Nro.2                            | $8,840.00     
+S/C      | Guante Táctil DPS   | DIAFRAGMAS DE BOMBEADOR VILLA( x unidad) - Nro.3                            | $16,987.18    
+S/C      | Guante Táctil DPS   | DIAFRAGMAS DE BOMBEADOR VILLA( x unidad) - Arandela de bombeador Villa V-41 | $1,548.49     

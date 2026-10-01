@@ -1,0 +1,29 @@
+=== TABLA NORMALIZADA: ABRAZADERA SUPER PRESION ===
+Total de artículos únicos: 23
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA          | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+--------------------------------------------------------------------------------
+SS-20  | TIPO AMERICANA SUPER PRESION | 20-22                   | $1,000.14     
+SS-23  | TIPO AMERICANA SUPER PRESION | 23-25                   | $1,011.75     
+SS-25  | TIPO AMERICANA SUPER PRESION | 25-27                   | $1,411.04     
+SS-27  | TIPO AMERICANA SUPER PRESION | 26-28                   | $1,024.39     
+SS-29  | TIPO AMERICANA SUPER PRESION | 29-31                   | $1,169.37     
+SS-31  | TIPO AMERICANA SUPER PRESION | 32-35                   | $1,193.00     
+SS-37  | TIPO AMERICANA SUPER PRESION | 36-39                   | $1,217.14     
+SS-40  | TIPO AMERICANA SUPER PRESION | 40-43                   | $1,240.77     
+SS-43  | TIPO AMERICANA SUPER PRESION | 44-47                   | $1,482.96     
+SS-47  | TIPO AMERICANA SUPER PRESION | 48-51                   | $1,542.23     
+SS-51  | TIPO AMERICANA SUPER PRESION | 52-55                   | $1,578.50     
+SS-55  | TIPO AMERICANA SUPER PRESION | 56-59                   | $1,614.77     
+SS-59  | TIPO AMERICANA SUPER PRESION | 60-63                   | $1,650.53     
+SS-63  | TIPO AMERICANA SUPER PRESION | 64-67                   | $1,686.69     
+SS-68  | TIPO AMERICANA SUPER PRESION | 68-73                   | $2,313.45     
+SS-74  | TIPO AMERICANA SUPER PRESION | 74-79                   | $2,361.23     
+SS-79  | TIPO AMERICANA SUPER PRESION | 80-85                   | $2,446.31     
+SS-85  | TIPO AMERICANA SUPER PRESION | 86-91                   | $2,506.20     
+SS-91  | TIPO AMERICANA SUPER PRESION | 91-97                   | $2,553.98     
+SS-97  | TIPO AMERICANA SUPER PRESION | 98-103                  | $2,883.52     
+SS-104 | TIPO AMERICANA SUPER PRESION | 104-112                 | $2,924.77     
+SS-112 | TIPO AMERICANA SUPER PRESION | 113-121                 | $3,007.16     
+SS-122 | TIPO AMERICANA SUPER PRESION | 122-130                 | $3,072.44     

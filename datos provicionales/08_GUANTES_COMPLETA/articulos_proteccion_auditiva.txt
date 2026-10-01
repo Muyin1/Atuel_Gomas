@@ -1,0 +1,13 @@
+=== TABLA NORMALIZADA: PROTECCION AUDITIVA ===
+Total de registros clasificados: 7
+===================================================================================================================
+
+CODIGO   | DESCRIPCION                                                       | TALLE/MEDIDA | MATERIAL | COLOR    | PRECIO (S/IVA)
+----------------------------------------------------------------------------------------------------------------------------------
+UCU011T  | Protector Auditivo Endoaural PU Descartable 27,2dB                |              |          |          | $299.42       
+UCU012T  | Protector Auditivo Endoaural PU Descartable Con Cordón 27,2dB     |              |          |          | $579.83       
+UCU012TD | Protector Auditivo Endoaural PU Descartable Con Cordón Metal Detectable 27,2dB |              |          |          | $836.48       
+UCU010T  | Protector Auditivo Endoaural con Cordón Reutilizable 26,2dB       |              |          |          | $620.23       
+UCU010TD | Protector Auditivo Endoaural con Cordón Reutilizable con Metal Detectable 26,2dB |              |          |          | $1,157.29     
+UCU120T  | Protector Auditivo de Copa Tipo Vincha Amarillo Fluo 25,5dB       |              |          | Amarillo | $13,103.25    
+UCU120TB | Protector Auditivo de Copa Tipo Vincha Fluo Bluetooth             |              |          |          | $157,982.79   

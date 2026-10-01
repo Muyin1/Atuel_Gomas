@@ -1,0 +1,12 @@
+=== REPORTE DE ARTICULOS - PAGINA: CEBADORES ===
+Total de registros detectados: 7
+================================================================================
+
+INDICE |                                       |               
+---------------------------------------------------------------
+       | CEBADORES                             |               
+       | Descripción Art Venta                 | Precio sin Iva
+       | Cebador manual pico metálico          | 6359.70       
+       | Cebador manual pico metálico 1 curva  | 8109          
+       | Cebador manual pico metálico 2 curvas | 8415          
+       | Válvula antiretorno                   | 4437          

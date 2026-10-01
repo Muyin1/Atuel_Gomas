@@ -1,0 +1,347 @@
+=== TABLA NORMALIZADA: ACCESORIOS Y OTROS EPP ===
+Total de registros clasificados: 341
+===================================================================================================================
+
+CODIGO        | DESCRIPCION                                                       | TALLE/MEDIDA | MATERIAL         | COLOR           | PRECIO (S/IVA)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+50006         | Manta Esp. Desc Ignifuga C/Kevlar de 1 X 1 mts                    |              |                  |                 | $60,566.29    
+50110         | Manta Esp. Desc Ignifuga C/Kevlar de 2 X 2 mts                    |              |                  |                 | $121,581.71   
+50113         | Manta Esp. Desc Ignifuga C/Kevlar de 2 X 2.5 mts                  |              |                  |                 | $159,349.20   
+50114         | Manta Esp. Desc Ignifuga C/Kevlar de 3 X 3 mts                    |              |                  |                 | $292,960.04   
+50115         | Manta Esp. Desc Ignifuga C/Kevlar de 4 X 4 mts                    |              |                  |                 | $502,452.81   
+91102         | P. de Mangas Desc. Amarillo                                       |              |                  | Amarillo        | $12,309.54    
+91405         | Mangas de Jean por par                                            |              |                  |                 | $20,374.91    
+92102         | P. de Polainas Desc. Amarillo Reforzadas                          |              |                  | Amarillo        | $12,052.90    
+98102         | P. de Polainas Descarne Amarillo C/velcro                         |              |                  | Amarillo        | $28,566.22    
+50079         | Polainas Desc Esp. ancha con Velcro entero y 3 flejes             |              |                  |                 | $61,143.74    
+96102         | Gorro Desc Amarillo c/ nuquera                                    |              |                  | Amarillo        | $14,947.30    
+94102         | Guarda Monte-                                                     |              |                  |                 | $48,211.59    
+DPF010101     | Piqueta Doble Punta Removedora de Escoria, Peso 500 g             |              |                  |                 | $15,733.88    
+DPF010200     | Soporte Magnético de 3" Para Soldar, Soporte 12 kg                |              |                  |                 | $8,443.21     
+DPF010300     | Masa Magnética Con Agarre Para Soldar, 60x150 mm, Soporte 15 kg   |              |                  |                 | $14,876.01    
+DPC011303     | CINTA DE REMOLQUE UNIVERSAL PARA VEHÍCULOS LIVIANOS, 50MM3T5M, 3 TON |              |                  |                 | $6,456.57     
+DPC012000     | CINTA DE AMARRE UNIVERSAL, 50MM2T8M                               |              |                  |                 | $20,679.08    
+DPC012001     | CINTA DE AMARRE UNIVERSAL, 50MM2T10M                              |              |                  |                 | $23,682.80    
+DPC012002     | CINTA DE AMARRE UNIVERSAL, 50MM2T6M                               |              |                  |                 | $25,826.28    
+DPC015006     | Cinta Reflectiva Vehicular Roja/Blanca Cebrada, Rollo de 7.5 cm x 45.7 m |              |                  |                 | $92,580.61    
+DPC015004     | Cinta Reflectiva Vehicular Roja, Rollo de 7.5 cm x 45.7 m         |              |                  |                 | $90,662.89    
+DPC015005     | Cinta Reflectiva Vehicular Blanca, Rollo de 7.5 cm x 45.7 m       |              |                  |                 | $90,662.89    
+DPC015007     | Cinta Reflectiva Vehicular Amarilla, Rollo de 7.5 cm x 45.7 m     |              |                  |                 | $90,662.89    
+DPC015002     | Cinta Reflectiva Vehicular Roja/Blanca Mercosur, Rollo de 5 cm x 45.7 m |              |                  |                 | $59,304.44    
+DPC015000     | Cinta Reflectiva Vehicular Roja, Rollo de 5 cm x 45.7 m           |              |                  |                 | $48,964.90    
+DPC015001     | Cinta Reflectiva Vehicular Blanca, Rollo de 5 cm x 45.7 m         |              |                  |                 | $48,964.90    
+DPC015003     | Cinta Reflectiva Vehicular Amarilla, Rollo de 5 cm x 45.7 m       |              |                  |                 | $48,964.90    
+DPC016000     | Círculo Reflectivo "Velocidad Máxima 80"                          |              |                  |                 | $2,594.99     
+DPC016001     | Círculo Reflectivo "Velocidad Máxima 90"                          |              |                  |                 | $2,594.99     
+DPC016002     | Círculo Reflectivo "Velocidad Máxima 100"                         |              |                  |                 | $2,594.99     
+DPC016003     | Círculo Reflectivo "Velocidad Máxima 110"                         |              |                  |                 | $2,594.99     
+UCU0704PV     | Calza para Camión Caucho, 27*12*18 cm, 3.1 kg                     |              |                  |                 | $24,899.50    
+DPT90001      | Cobertor eslinga de cuero de 35x12 cm para 60/75 mm ancho         |              |                  |                 | $23,454.67    
+DPT90002      | Cobertor eslinga de cuero de 47x17 cm para 100/125/150 mm ancho   |              |                  |                 | $31,244.38    
+DPT025303J    | EQUIPO CRIQUET TENSOR 25MM DE ANCHO GANCHO J - 3m CMR 1500 KG     |              |                  |                 | $11,829.52    
+DPT025304J    | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO J - 4m CMR 1500 Kg     |              |                  |                 | $13,160.28    
+DPT025306J    | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO J - 6m CMR 1500 Kg     |              |                  |                 | $13,614.17    
+DPT025303S    | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO S - 3m CMR 1500 Kg     |              |                  |                 | $17,428.22    
+DPT025304S    | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO S - 4m CMR 1500 Kg     |              |                  |                 | $17,855.97    
+DPT025306S    | EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO S - 6m CMR 1500 Kg     |              |                  |                 | $20,814.54    
+DPT15002550   | CINTA PARA SUJECION DE CARGA 25 mm PESADA EN ROLLO DE 50 mts      |              |                  |                 | $79,624.69    
+DPT025303JR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 25mm DE ANCHO GANCHO J - 3m CMR 1500 Kg |              |                  |                 | $7,245.52     
+DPT050303JL   | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO J - 3m CMR 3000Kg |              |                  |                 | $27,021.59    
+DPT050306JL   | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO J - 6m CMR 3000Kg |              |                  |                 | $31,626.98    
+DPT050309JL   | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO J - 9m CMR 3000Kg |              |                  |                 | $32,620.29    
+DPT050306PL   | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO P - 6m CMR 3000Kg |              |                  |                 | $33,387.86    
+DPT050309PL   | EQUIPO CRIQUET TENSOR LIVIANO 50mm DE ANCHO GANCHO P - 9m CMR 3000Kg |              |                  |                 | $37,767.49    
+DPT30005050   | CINTA PARA SUJECION DE CARGA 50 mm LIVIANA EN ROLLO DE 50 mts     |              |                  |                 | $100,821.83   
+DPT050302     | EQUIPO CRIQUET TENSOR 50mm DE ANCHO CON OJAL - 2m CMR 5000 Kg     |              |                  |                 | $27,451.71    
+DPT050303J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 3m CMR 5000 Kg     |              |                  |                 | $38,423.36    
+DPT050306J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 6m CMR 5000 Kg     |              |                  |                 | $40,229.40    
+DPT050309J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 9m CMR 5000 Kg     |              |                  |                 | $47,384.62    
+DPT050312J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 12m CMR 5000 Kg    |              |                  |                 | $52,125.46    
+DPT050322J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 22m CMR 5000 Kg    |              |                  |                 | $89,263.21    
+DPT050316J    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 16m CMR 5000 Kg    |              |                  |                 | $71,497.54    
+DPT050306P    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 6m CMR 5000 Kg     |              |                  |                 | $41,876.22    
+DPT050309P    | EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 9m CMR 5000 Kg     |              |                  |                 | $48,651.22    
+DPT50005050   | CINTA PARA SUJECION DE CARGA 50 mm PESADA EN ROLLO DE 50 mts - CMR 5000Kg |              |                  |                 | $159,201.86   
+DPT050306PR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 6m CMR 5000 Kg |              |                  |                 | $24,628.60    
+DPT050306JR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 6m CMR 5000 Kg |              |                  |                 | $23,547.35    
+DPT050309PR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO P - 9m CMR 5000Kg |              |                  |                 | $33,568.46    
+DPT050309JR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 50mm DE ANCHO GANCHO J - 9m CMR 5000 Kg |              |                  |                 | $30,771.49    
+DPT100309J    | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 9m CMR 10000 Kg   |              |                  |                 | $134,074.23   
+DPT100311J    | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 11m CMR 10000 Kg  |              |                  |                 | $164,551.05   
+DPT100316J    | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 16m CMR 10000 Kg  |              |                  |                 | $188,616.45   
+DPT100309P    | EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO P - 9m CMR 10000 Kg   |              |                  |                 | $122,921.97   
+DPT1000010050 | CINTA PARA SUJECION DE CARGA 100 mm LIVIANA EN ROLLO DE 50 mts    |              |                  |                 | $265,372.87   
+DPT100306JR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 6m |              |                  |                 | $44,858.55    
+DPT100306PR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO P - 6m |              |                  |                 | $34,495.24    
+DPT100309JR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO J - 9m CMR 10000 Kg |              |                  |                 | $54,337.85    
+DPT100309PR   | CINTA REPUESTO DE EQUIPO CRIQUET TENSOR 100mm DE ANCHO GANCHO P - 9m CMR 10000 Kg |              |                  |                 | $41,809.68    
+DPA00403      | Cinturón liniero con refuerzo lumbar y dos puntos de anclaje.     |              |                  |                 | $39,663.82    
+DPA30000      | Equipo Retráctil Termoplástico con Cinta UHMWPE Ancho 25 mm Largo 6 m Conector A Uso Vertical |              |                  |                 | $777,768.37   
+DPA30001      | Equipo Retráctil Termoplástico con Cinta UHMWPE Ancho 25 mm Largo 9 m Conector A Uso Vertical |              |                  |                 | $895,904.35   
+DPA30002      | Equipo Retráctil Termoplástico con Cinta UHMWPE Ancho 19mm Largo 2m con absorbedor y mosquetón de 19mm. |              |                  |                 | $777,768.37   
+DPA911005     | Soporte aluminio dual para sujeción de dos equipos retráctiles DPA30002 |              |                  |                 | $148,793.41   
+DPA30100      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 3 m Conector B Uso Vertical |              |                  |                 | $706,791.25   
+DPA30101      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 4.5 m Conector B Uso Vertical |              |                  |                 | $872,269.08   
+DPA30102      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 6 m Conector B Uso Vertical |              |                  |                 | $957,354.65   
+DPA30103      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 10 m Conector B Uso Vertical |              |                  |                 | $1,203,203.35 
+DPA30104      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 15 m Conector B Uso Vertical |              |                  |                 | $1,415,954.11 
+DPA30105      | Equipo Retráctil Termoplástico con Cable de Acero Galvanizado 4.8 mm Largo 20 m Conector B Uso Vertical |              |                  |                 | $1,835,923.46 
+DPA008105     | Conector de anclaje de 0.8 m con argolla D                        |              |                  |                 | $17,720.52    
+DPA012105     | Conector de anclaje de 1.2 m con argolla D                        |              |                  |                 | $23,770.73    
+DPA016105     | Conector de anclaje de 1.6 m con argolla D                        |              |                  |                 | $27,337.65    
+DPA020105     | Conector de anclaje de 2 m con argolla D                          |              |                  |                 | $30,070.46    
+DPA030105     | Conector de anclaje de 3 m con argolla D                          |              |                  |                 | $33,637.38    
+DPA011321     | Rollo de soga trenzada por 200 m diametro 12 mm                   |              |                  |                 | $1,599,356.82 
+DPA011361     | Rollo de soga trenzada por 150 m diametro 14 mm                   |              |                  |                 | $1,075,041.50 
+DPA011341     | Rollo de soga de nylon retorcida por 150 m diametro 14 mm         |              |                  |                 | $1,163,853.20 
+DPA011100     | Salvacaída Deslizante Acero Inoxidable para Soga de 12 a 14mm con traba y mosquetón eslabón con traba a rosca |              | Acero Inoxidable |                 | $142,676.65   
+DPA011102     | Salvacaída Deslizante Acero Inoxidable para Soga de 12 a 14mm con traba prolongador y conector de anclaje de 18mm de apertura |              | Acero Inoxidable |                 | $142,676.65   
+DPA011103     | Salvacaída Deslizante Galvanizado para Soga de 12 a 14mm con traba y mosquetón eslabón con traba a rosca |              |                  |                 | $142,676.65   
+DPA011105     | Salvacaída Deslizante Galvanizado para Soga de 12 a 14mm con traba prolongador y conector de anclaje de 18mm de apertura |              |                  |                 | $175,883.91   
+DPA911000     | Percha para rescate                                               |              |                  |                 | $37,791.25    
+DPA009000     | Mosquetón Carabinero A Rosca Galvanizado 16 kN Abertura 14 mm     |              |                  |                 | $12,551.93    
+DPA009001     | Mosquetón Carabinero "Pera" A Rosca Galvanizado 16 kN Abertura 19 mm |              |                  |                 | $20,158.66    
+DPS1001305    | Manga Terrycloth Algodon Largo Total 30 cm                        |              |                  |                 | $5,304.04     
+DPS1001306    | Manga Terrycloth Algodon Largo Total 35 cm                        |              |                  |                 | $6,435.18     
+DPS1001307    | Manga Terrycloth Algodon Largo Total 40 cm                        |              |                  |                 | $7,359.59     
+DPS1002525    | Manga Terrycloth Aramida Largo Total 30 cm                        |              |                  |                 | $66,597.49    
+DPS1002625    | Manga Terrycloth Aramida Largo Total 35 cm                        |              |                  |                 | $68,921.57    
+DPS1002725    | Manga Terrycloth Aramida Largo Total 40 cm                        |              |                  |                 | $77,388.54    
+DPS1008105    | Manga Anticorte HPPE 30 cm                                        |              |                  |                 | $36,277.51    
+DPS1008106    | Manga Anticorte HPPE 35 cm                                        |              |                  |                 | $41,108.65    
+DPS1008107    | Manga Anticorte HPPE 40 cm                                        |              |                  |                 | $45,918.40    
+DPS1008108    | Manga Anticorte HPPE 45 cm                                        |              |                  |                 | $51,312.74    
+NUB16041      | Guardapolvo Descartable Blanco Cierre de Broches                  |              |                  | Blanco          | $11,218.80    
+NUB9025P100   | Manga de PE Azul, Talle Unico x 100 unidades                      | Unico        |                  | Azul            | $3,904.36     
+NUB17041P50   | Camisolin de PP 20g Blanco, Talle Unico X 50 unidades             | Unico        |                  | Blanco          | $63,006.81    
+NUB13041P100  | Cubre Barba Descartable Completo PP 10g Blanca Largo 18" (45 cm) - Pack 100 Unidades |              |                  |                 | $36,752.78    
+NUB13041P1000 | Cubre Barba Descartable Completo PP 10g Blanca Largo 18" (45 cm)  |              |                  |                 | $328,020.85   
+NUB13041      | Cubre Barba Descartable Completo PP 10g Blanca Largo 18" (45 cm)  |              |                  |                 | $496.66       
+NUB0001       | Poncho PE Transparente 100 x 125 cm, 0.0018MM                     |              |                  |                 | $2,347.84     
+NUB0202       | Poncho PVC Amarillo 125X100, 0.10MM                               |              | PVC              | Amarillo        | $6,095.36     
+NUB1001       | Manga PVC Blanca, Espesor 0.32 mm, Tamaño 43x19 cm                | a            | PVC              |                 | $7,335.82     
+NUB8407       | Bandolera Económica Amarillo Flúo con Reflectivo, Talle Único     |              |                  | Amarillo        | $4,374.88     
+NUB8406       | Bandolera Económica Naranja Flúo con Reflectivo, Talle Único      |              |                  | Naranja         | $4,374.88     
+NUB8507       | Bandolera Premium Elastizada Amarillo Flúo, Ancho 4 cm, Mat. Reflectivo 1.5 cm |              |                  | Amarillo        | $7,678.02     
+NUB8506       | Bandolera Premium Elastizada Naranja Flúo, Ancho 4 cm, Mat. Reflectivo 1.5 cm |              |                  | Naranja         | $7,678.02     
+NUB19018      | Remera Poliester Modal Gris Premium Talle XS                      | XS           | Poliéster        | Gris            | $11,085.72    
+NUB19118      | Remera Poliester Modal Gris Premium Talle S                       | S            | Poliéster        | Gris            | $11,085.72    
+NUB19218      | Remera Poliester Modal Gris Premium Talle M                       | M            | Poliéster        | Gris            | $11,085.72    
+NUB19318      | Remera Poliester Modal Gris Premium Talle L                       | L            | Poliéster        | Gris            | $11,085.72    
+NUB19418      | Remera Poliester Modal Gris Premium Talle XL                      | XL           | Poliéster        | Gris            | $11,085.72    
+NUB19518      | Remera Poliester Modal Gris Premium Talle XXL                     | XXL          | Poliéster        | Gris            | $12,055.27    
+NUB19618      | Remera Poliester Modal Gris Premium Talle 3XL                     | 3XL          | Poliéster        | Gris            | $12,055.27    
+NUB19718      | Remera Poliester Modal Gris Premium Talle 4XL                     | 4XL          | Poliéster        | Gris            | $12,055.27    
+NUB19015      | Remera Poliester Modal Azul Premium Talle XS                      | XS           | Poliéster        | Azul            | $11,085.72    
+NUB19115      | Remera Poliester Modal Azul Premium Talle S                       | S            | Poliéster        | Azul            | $11,085.72    
+NUB19215      | Remera Poliester Modal Azul Premium Talle M                       | M            | Poliéster        | Azul            | $11,085.72    
+NUB19315      | Remera Poliester Modal Azul Premium Talle L                       | L            | Poliéster        | Azul            | $11,085.72    
+NUB19415      | Remera Poliester Modal Azul Premium Talle XL                      | XL           | Poliéster        | Azul            | $11,085.72    
+NUB19515      | Remera Poliester Modal Azul Premium Talle XXL                     | XXL          | Poliéster        | Azul            | $12,055.27    
+NUB19615      | Remera Poliester Modal Azul Premium Talle 3XL                     | 3XL          | Poliéster        | Azul            | $12,055.27    
+NUB19715      | Remera Poliester Modal Azul Premium Talle 4XL                     | 4XL          | Poliéster        | Azul            | $12,055.27    
+NUB19019      | Remera Poliester Modal Negra Premium Talle XS                     | XS           | Poliéster        |                 | $11,085.72    
+NUB19119      | Remera Poliester Modal Negra Premium Talle S                      | S            | Poliéster        |                 | $11,085.72    
+NUB19219      | Remera Poliester Modal Negra Premium Talle M                      | M            | Poliéster        |                 | $11,085.72    
+NUB19319      | Remera Poliester Modal Negra Premium Talle L                      | L            | Poliéster        |                 | $11,085.72    
+NUB19419      | Remera Poliester Modal Negra Premium Talle XL                     | XL           | Poliéster        |                 | $11,085.72    
+NUB19519      | Remera Poliester Modal Negra Premium Talle XXL                    | XXL          | Poliéster        |                 | $12,055.27    
+NUB19619      | Remera Poliester Modal Negra Premium Talle 3XL                    | 3XL          | Poliéster        |                 | $12,055.27    
+NUB19719      | Remera Poliester Modal Negra Premium Talle 4XL                    | 4XL          | Poliéster        |                 | $12,055.27    
+NUB19017      | Remera Poliester Modal Amarilla Fluo Premium Talle XS Proteccion Ultra Violeta UPF50+ "EN13758-1" | XS           | Poliéster        |                 | $11,085.72    
+NUB19117      | Remera Poliester Modal Amarilla Fluo Premium Talle S Proteccion Ultra Violeta UPF50+ "EN13758-1" | S            | Poliéster        |                 | $11,085.72    
+NUB19217      | Remera Poliester Modal Amarilla Fluo Premium Talle M Proteccion Ultra Violeta UPF50+ "EN13758-1" | M            | Poliéster        |                 | $11,085.72    
+NUB19317      | Remera Poliester Modal Amarilla Fluo Premium Talle L Proteccion Ultra Violeta UPF50+ "EN13758-1" | L            | Poliéster        |                 | $11,085.72    
+NUB19417      | Remera Poliester Modal Amarilla Fluo Premium Talle XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | XL           | Poliéster        |                 | $11,085.72    
+NUB19517      | Remera Poliester Modal Amarilla Fluo Premium Talle XXL Proteccion Ultra Violeta UPF50+ "EN13758-1" | XXL          | Poliéster        |                 | $12,055.27    
+NUB19617      | Remera Poliester Modal Amarilla Fluo Premium Talle 3XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 3XL          | Poliéster        |                 | $12,055.27    
+NUB19717      | Remera Poliester Modal Amarilla Fluo Premium Talle 4XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 4XL          | Poliéster        |                 | $12,055.27    
+NUB19013      | Remera Poliester Modal Naranja Fluo Premium Talle XS Proteccion Ultra Violeta UPF50+ "EN13758-1" | XS           | Poliéster        | Naranja         | $11,085.72    
+NUB19113      | Remera Poliester Modal Naranja Fluo Premium Talle S Proteccion Ultra Violeta UPF50+ "EN13758-1" | S            | Poliéster        | Naranja         | $11,085.72    
+NUB19213      | Remera Poliester Modal Naranja Fluo Premium Talle M Proteccion Ultra Violeta UPF50+ "EN13758-1" | M            | Poliéster        | Naranja         | $11,085.72    
+NUB19313      | Remera Poliester Modal Naranja Fluo Premium Talle L Proteccion Ultra Violeta UPF50+ "EN13758-1" | L            | Poliéster        | Naranja         | $11,085.72    
+NUB19413      | Remera Poliester Modal Naranja Fluo Premium Talle XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | XL           | Poliéster        | Naranja         | $11,085.72    
+NUB19513      | Remera Poliester Modal Naranja Fluo Premium Talle XXL Proteccion Ultra Violeta UPF50+ "EN13758-1" | XXL          | Poliéster        | Naranja         | $12,055.27    
+NUB19613      | Remera Poliester Modal Naranja Fluo Premium Talle 3XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 3XL          | Poliéster        | Naranja         | $12,055.27    
+NUB19713      | Remera Poliester Modal Naranja Fluo Premium Talle 4XL Proteccion Ultra Violeta UPF50+ "EN13758-1" | 4XL          | Poliéster        | Naranja         | $12,055.27    
+NUB18109      | Faja Lumbar Talle S Premium 6 Ballenas                            | S            |                  |                 | $17,449.61    
+NUB18209      | Faja Lumbar Talle M Premium 6 Ballenas                            | M            |                  |                 | $17,449.61    
+NUB18309      | Faja Lumbar Talle L Premium 6 Ballenas                            | L            |                  |                 | $17,449.61    
+NUB18409      | Faja Lumbar Talle XL Premium 6 Ballenas                           | XL           |                  |                 | $17,449.61    
+NUB18509      | Faja Lumbar Talle XXL Premium 6 Ballenas                          | XXL          |                  |                 | $17,449.61    
+NUB18609      | Faja Lumbar Talle 3XL Premium 6 Ballenas                          | 3XL          |                  |                 | $17,449.61    
+UCU0003CD     | PALLET ANTIDERRAME 1 TAMBOR ESTÁTICO Contención 43 L Carga 500 Kg - 0.67x0.67x0.15m Reforzado | BOR          |                  |                 | $245,822.56   
+UCU0004CD     | PALLET ANTIDERRAME 2 TAMBORES ESTATICO Contencion 70 L Carga 1200 Kg - 1.30x0.68x0.15m | BORES        |                  |                 | $302,555.78   
+UCU0005CD     | Pallet Antiderrame 4 Tambores Apto Autoelevador Contención 120 L Carga 2600 Kg - 1.30x1.30x0.15m | bores        |                  |                 | $567,296.54   
+UCU0006CD     | PALLET ANTIDERRAME 1 TAMBOR APTO AUTOELEVADOR Contención 40 L Carga 500 Kg (0.72x0.72x0.155m) | BOR          |                  |                 | $642,947.96   
+UCU0001CD     | PALLET ANTIDERRAME 2 TAMBORES APTO AUTOELEVADOR Contención 150 L Carga 1200 Kg 1.30×0.68x0.30m REFORZADO | BORES        |                  |                 | $718,597.01   
+UCU0002CD     | PALLET ANTIDERRAME 4 TAMBORES APTO AUTOELEVADOR Contención 280 L Carga 3000 Kg 1.30x1.30x0.30m REFORZADO | BORES        |                  |                 | $1,229,186.47 
+UCU0001DI     | Ducha Lavaojos Acero Inoxidable Económica                         |              | Acero Inoxidable |                 | $876,016.60   
+UCU0002DI     | Ducha Lavaojos Acero Inoxidable Premium                           |              | Acero Inoxidable |                 | $1,335,901.67 
+UCU9001DI     | Repuesto Rociador para Lavaojos de Duchas UCU0001DI - UCU0002DI   |              |                  |                 | $26,232.64    
+UCU021A       | A. Ant. N, transp, K, supervisor Antiempañe                       |              |                  |                 | $3,928.12     
+UCU022A       | A. Ant N, negro, K, supervisor Antiempañe                         |              |                  | Negro           | $3,928.12     
+UCU091B       | B. Ant. Transparente patilla extensible pte. silicona Trat.K      |              |                  |                 | $6,207.05     
+UCU092B       | B. Ant. Negro patilla extensible pte. silicona Trat.K             |              |                  | Negro           | $6,207.05     
+UCU083B       | B. Ant. , puente silicona, liviano Amarillo. K                    |              |                  | Amarillo        | $7,651.88     
+UCU091A       | A. Ant. Transparente patilla extensible pte. silicona Trat.K N Antiempañe |              |                  |                 | $6,568.26     
+UCU092A       | A. Ant. Negro patilla extensible pte. silicona Trat.K N Antiempañe |              |                  | Negro           | $6,568.26     
+UCU092F       | F. Ant. Espejado I/O patilla extensible pte. silicona Trat.K      |              |                  |                 | $6,568.26     
+UCU081A       | A. Ant. transparente, extremo confort, patilla antideslizante. KN Antiempañe UV385 |              |                  |                 | $7,471.28     
+UCU082A       | A. Ant. gris,extremo confort , patilla ergonomica antideslizante. K N Antiempañe UV400 |              |                  | Gris            | $7,471.28     
+UCU041B       | B. Ant. Transparente Pat. flexe. pte. silic. "Bandido"            |              |                  |                 | $8,963.63     
+UCU042B       | B. Ant. Negro Pat. flexe. pte. silic. "Bandido"                   |              |                  | Negro           | $8,963.63     
+UCU142A       | A. Ant. negro, ergonomico, pat cricket y extensible. K N Antiempañe |              |                  | Negro           | $7,651.88     
+UCU341A       | Protector Ocular Transparente KN, Ergonómico, Patillas Intercambiables, Banda Sujeción |              |                  |                 | $19,167.72    
+UCU342A       | F. Ant Negro ergonomico, patillas intercamb banda sujecion        |              |                  | Negro           | $19,167.72    
+UCU381A       | F. Ant. Premium Transparente Ergonómico, Banda de Sujeción, Prot. Espuma |              |                  |                 | $13,093.74    
+UCU382A       | F. Ant. Premium Negro Ergonómico, Banda de Sujeción, Prot. Espuma |              |                  | Negro           | $13,093.74    
+UCU361S       | F. Ant ergonomico, patillas intercamb banda sujecion Soldadura IR5 |              |                  |                 | $46,866.57    
+UCU161B       | B. Marco metalico para cristales recetados                        |              |                  |                 | $43,637.10    
+UCU151B       | B. Marco metalico para cristales recetados                        |              |                  |                 | $58,380.04    
+UCU181B       | B. Ant. Premium Marco Metálico Negro, Para Cristales Recetados, Prot. Lateral PC |              |                  | Negro           | $88,697.64    
+UCU191B       | B. Ant. Premium, Marco TR-90 Resistente Negro, Para Cristales Recetados |              |                  | Negro           | $76,915.64    
+UCU0500PV     | Malla Naranja Reticulada Plástica Liviana, Rollo de 1x45 m 2,56kg |              |                  | Naranja         | $22,278.38    
+UCU0109PV     | Cadena de PE 6 mm Naranja Flúo                                    |              |                  | Naranja         | $2,031.79     
+UCU0101PV     | Cadena de PE 8 mm Roja y Blanca                                   |              |                  |                 | $2,167.24     
+UCU0105PV     | Cadena de PE 8 mm Amarilla y Negra                                |              |                  |                 | $2,167.24     
+UCU0102PV     | Cadena de PE 8 mm Naranja Flúo                                    |              |                  | Naranja         | $2,461.91     
+UCU0103PV     | Cadena de PE 12 mm Marrón                                         |              |                  |                 | $14,472.03    
+UCU0106PV     | Gancho "S" Para Extensión de Cadenas                              |              |                  |                 | $373.09       
+UCU0601PV     | Poste Demarcatorio PE Amarillo y Negro 90 cm Base Octogonal Para Rellenar |              |                  | Amarillo, Negro | $18,355.00    
+UCU0600PV     | Poste Demarcatorio PE Rojo y Blanco 90 cm Base Octogonal Para Rellenar |              |                  | Blanco, Rojo    | $18,355.00    
+UCU0603PV     | Poste Bolardo PE Amarillo 75 cm Para Amurar, 3 Bandas Reflectivas 7.5 cm, Peso 630 g |              |                  | Amarillo        | $21,311.20    
+UCU0900PV     | Protector de Columna Recto Caucho, Altura 80 cm Espesor 10 mm, 4 Bandas Reflectivas Amarillas, 2 kg |              |                  |                 | $17,043.25    
+UCU0702PV     | Tope de Ruedas PVC , 58*11*8 cm, Bandas Reflectivas Amarillas, 2.6 kg |              | PVC              |                 | $23,613.89    
+UCU0903PV     | Gancho para Cable PP Amarillo 25 cm                               |              |                  | Amarillo        | $2,347.84     
+UCU0910PV     | Protector de Cable 2 Canales de Caucho / EVA, Tamaño 100*25*5 cm, Paso Canal 3*3 cm, Peso 7 kg | a            |                  |                 | $94,997.37    
+UCU0901PV     | Espejo Parabolico PC Vial Outdoor, Diametro 60 cm, Base PP Naranja |              |                  | Naranja         | $115,541.00   
+UCU0402PV     | Faro Giratorio Ámbar Chico, 64 Luces LED, 11x11.5 cm, Cargador para Auto |              |                  |                 | $87,457.18    
+UCU0400PV     | Faro Giratorio Ámbar Grande, 80 Luces LED, 13x16.3 cm, Cargador para Auto |              |                  |                 | $152,769.06   
+UCU0401PV     | Bastón Luminoso LED Para Señalización Vial. Cargador USB          |              |                  |                 | $58,425.19    
+UCU0210PV     | Tacha Reflectiva Amarilla ABS+PMMA, 10*10*2 cm                    |              |                  |                 | $7,064.92     
+UCU0511RP2    | Pre Filtro Para Particulas P2 (Kit por dos unidades)              |              |                  |                 | $5,446.62     
+UCU029R1      | Filtro Para Particulas P3 (Kit por dos unidades)                  |              |                  |                 | $14,990.08    
+UCU029R6      | Filtro Para Particulas P3 Alivio Niveles Molestos Gases Acidos (Kit por dos unidades) |              |                  |                 | $27,879.46    
+UCU029R7      | Filtro Para Particulas P3 Ozono y Vapores Organicos (Kit por dos unidades) |              |                  |                 | $34,186.31    
+UCU7093RP     | Cartucho Filtro Particulas P3 (Kit por dos unidades)              |              |                  |                 | $28,031.54    
+UCU7093RC     | Cartucho Filtro Particulas P3 Fluoruro Hidrogeno Alivio Niveles Molestos Vapor Organico y Gas Acido (Kit por dos unidades) |              |                  |                 | $49,349.87    
+UCU6000R1     | Cartucho Filtro Vapor Organico (Kit por dos unidades)             |              |                  |                 | $23,784.99    
+UCU6000R3     | Cartucho Filtro Vapor Organico y Gas Acido (Kit por dos unidades) |              |                  |                 | $28,202.64    
+UCU6000R4     | Cartucho Filtro Amoniaco Metilamina (Kit por dos unidades)        |              |                  |                 | $38,646.74    
+UCU6000R6     | Cartucho Filtro Multi Gas Acido y Vapores Organicos (Kit por dos unidades) |              |                  |                 | $37,895.81    
+UCU6000R7     | Cartucho Filtro Vapor de Mercurio, Vapor Organico y Gas Acido (Kit por dos unidades) |              |                  |                 | $47,655.52    
+UCU6000R8     | Cartucho Mixto Multigas, Amoniaco y Particulas ABEK1 P3 R (Kit x Par) |              |                  |                 | $62,346.18    
+UCU6000R9     | Cartucho Mixto Vapor Organico, Gases Acidos y Particulas A1E1 P3 R (Kit x Par) |              |                  |                 | $59,577.72    
+UCU6204RP2    | Retenedor Para Prefiltro UCU0511R (Kit por dos unidades)          |              |                  |                 | $7,399.99     
+UCU6205RP2    | Protector de Filtro Circular (Kit por dos unidades)               |              |                  |                 | $7,399.99     
+UCU6202RP2    | Adaptador de Filtro Negro (Kit por dos unidades)                  |              |                  | Negro           | $7,528.31     
+UCU6203RP2    | Adaptador de Filtro Transparente (Kit por dos unidades)           |              |                  |                 | $9,693.17     
+UCU6207R      | Valvula de Exhalacion Rectangular de Silicona (Kit x 25 unidades) |              |                  |                 | $74,591.56    
+UCU6208R      | Valvula de Exhalacion Circular de Silicona (Kit x 25 unidades)    |              |                  |                 | $44,071.97    
+UCU6209R      | Valvula de Inhalacion de Latex (Kit x 25 unidades)                |              | Látex            |                 | $44,071.97    
+UCU6206R      | Kit Adaptador de Cabeza                                           |              |                  |                 | $11,881.80    
+UCU211R       | Mascarilla Descartable N95 Premium                                |              |                  |                 | $1,157.29     
+UCU232R       | Mascarilla Descartable N95 Premium Con Válvula de Exhalación      |              |                  |                 | $2,100.70     
+UCU312R       | Mascarilla Descartable N95 Soldadura Vapor Orgánico, Válvula de Exhalación, Elastico Regulable, Cierre Ergonomico |              |                  |                 | $9,586.24     
+UCU0001PI     | Armario Ignífugo 4 Galones Cierre Manual 560x430x460 mm           |              |                  |                 | $1,248,781.93 
+UCU0002PI     | Armario Ignífugo 22 Galones Cierre Manual 1650x590x460 mm         |              |                  |                 | $2,457,446.16 
+UCU0003PI     | Armario Ignífugo 30 Galones Cierre Manual 1120x1090x460 mm        |              |                  |                 | $3,204,671.17 
+UCU0004PI     | Armario Ignífugo 45 Galones Cierre Manual 1650x1090x460 mm        |              |                  |                 | $3,500,114.50 
+UCU0005PI     | Armario Ignífugo 60 Galones Cierre Manual 1650x860x860 mm         |              |                  |                 | $5,945,282.01 
+UCU0006PI     | Armario Ignífugo 30 Galones Cierre Automático 1120x1090x460 mm    |              |                  |                 | $3,850,710.78 
+UCU0100PI     | Armario de emergencia para elementos de la brigada 1920x900x500 mm. |              |                  |                 | $7,465,917.15 
+UCU1000S      | Máscara Para Soldar Fotosensible, Grado de Protección DIN 11 (Fijo) |              |                  |                 | $55,535.53    
+UCU1500S      | Máscara Para Soldar Fotosensible, Grado de Protección DIN 9-13 (Regulador Externo) |              |                  |                 | $78,583.85    
+UCU2000S      | Máscara Para Soldar Fotosensible Premium, Grado de Protección DIN 9-13 (Regulador Externo) |              |                  |                 | $129,784.90   
+UCU2500S      | Máscara Para Soldar Fotosensible Premium "ROBOT", Grado de Protección DIN 9-13 (Regulador Externo) |              |                  |                 | $129,784.90   
+UCU2501S      | Máscara Para Soldar Fotosensible Premium "CALAVERA", Grado de Protección DIN 9-13 (Regulador Externo) |              |                  |                 | $129,784.90   
+UCU2530S      | Máscara Para Soldar Fotosensible Premium con Equipo Respirador Purificador de Aire Motorizado (PAPR), Soldadura DIN 9-13 |              |                  |                 | $2,318,925.76 
+UCU3000S      | Máscara Para Soldar Fotosensible Premium con Equipo Respirador Purificador de Aire Motorizado (PAPR), Soldadura DIN 9-13 |              |                  |                 | $4,568,067.32 
+UCU0203SI     | Cinta de Señalizacion Roja y Blanca. Peligro. Liviana (30 micrones) - Rollo 200 Mts |              |                  |                 | $9,120.47     
+UCU0205SI     | Cinta de Señalizacion Amarilla y Negra. Precaucion. Liviana (30 micrones) - Rollo 200 Mts |              |                  |                 | $9,120.47     
+UCU0202SI     | Cinta de Señalizacion Amarilla y Negra. Precaucion. Pesada (55 micrones) - Rollo 100 Mts |              |                  |                 | $15,983.40    
+UCU0302PV     | Cinta Reflectiva Textil de 1 cm Para Costura                      |              |                  |                 | $541.81       
+UCU0301PV     | Cinta Reflectiva Textil de 5 cm Para Costura                      |              |                  |                 | $1,580.28     
+UCU0001SI     | Cinta Adhesiva Antideslizante Negra 5 m (Largo) x 2.5 cm (Ancho)  |              |                  |                 | $3,566.92     
+UCU0002SI     | Cinta Adhesiva Antideslizante Negra 5 m (Largo) x 5 cm (Ancho)    |              |                  |                 | $7,064.92     
+UCU0006SI     | Cinta Adhesiva Antideslizante Negra 18 m (Largo) x 2.5 cm (Ancho) |              |                  |                 | $12,392.72    
+UCU0007SI     | Cinta Adhesiva Antideslizante Negra 18 m (Largo) x 5 cm (Ancho)   |              |                  |                 | $24,878.11    
+UCU0003SI     | Cinta Adhesiva Antideslizante Negra/Amarilla 5 m (Largo) x 2.5 cm (Ancho) |              |                  |                 | $4,942.83     
+UCU0004SI     | Cinta Adhesiva Antideslizante Negra/Amarilla 5 m (Largo) x 5 cm (Ancho) |              |                  |                 | $9,909.42     
+UCU0009SI     | Cinta Adhesiva Antideslizante Negra/Amarilla 18 m (Largo) x 5 cm (Ancho) |              |                  |                 | $24,811.57    
+UCU0011SI     | Cinta Adhesiva Antideslizante Transparente 5 m (Largo) x 2.5 cm (Ancho) Para Hogar y Hoteles |              |                  |                 | $6,751.24     
+UCU0005SI     | Cinta Adhesiva Antideslizante Negra 5 m (Largo) x 5 cm (Ancho) Con Franja Fotoluminiscente de 1 cm (Ancho) |              |                  |                 | $19,303.17    
+UCU0013SI     | Cinta Adhesiva Antideslizante Fotoluminiscente Plena 18 m (Largo) x 2.5 cm (Ancho) |              |                  |                 | $34,561.78    
+UCU0100SI     | Rodillera Económica Espuma Alta Densidad y Protección en PE       |              |                  |                 | $13,138.89    
+UCU0101SI     | Rodillera Premium, Acolchado de Gel y Espuma, Protección en PVC   |              | PVC              |                 | $30,272.45    
+UCU0100DB     | Candado Termoplástico Rojo, Paso 20x38 mm de Acero Inoxidable     |              | Acero Inoxidable | Rojo            | $8,398.06     
+UCU0101DB     | Candado Termoplástico Amarillo, Paso 20x38 mm de Acero Inoxidable |              | Acero Inoxidable | Amarillo        | $8,398.06     
+UCU0102DB     | Candado Termoplástico Azul, Paso 20x38 mm de Acero Inoxidable     |              | Acero Inoxidable | Azul            | $8,398.06     
+UCU0103DB     | Candado Termoplástico Naranja, Paso 20x38 mm de Acero Inoxidable  |              | Acero Inoxidable | Naranja         | $8,398.06     
+UCU0104DB     | Candado Termoplástico Negro, Paso 20x38 mm de Acero Inoxidable    |              | Acero Inoxidable | Negro           | $8,398.06     
+UCU0105DB     | Candado Termoplástico Verde, Paso 20x38 mm de Acero Inoxidable    |              | Acero Inoxidable | Verde           | $8,398.06     
+UCU0106DB     | Candado Termoplástico Violeta, Paso 20x38 mm de Acero Inoxidable  |              | Acero Inoxidable |                 | $8,398.06     
+UCU0110DB     | Candado Termoplástico Rojo, Paso 20x76 mm de Acero Inoxidable     |              | Acero Inoxidable | Rojo            | $13,138.89    
+UCU0108DB     | Candado Termoplástico Rojo Dieléctrico, Paso 20x38 mm de Nylon    |              |                  | Rojo            | $8,398.06     
+UCU0116DB     | Candado Termoplástico Amarillo Dieléctrico, Paso 20x38 mm de Nylon |              |                  | Amarillo        | $8,398.06     
+UCU0117DB     | Candado Termoplástico Azul Dieléctrico, Paso 20x38 mm de Nylon    |              |                  | Azul            | $8,398.06     
+UCU0118DB     | Candado Termoplástico Naranja Dieléctrico, Paso 20x38 mm de Nylon |              |                  | Naranja         | $8,398.06     
+UCU0119DB     | Candado Termoplástico Negro Dieléctrico, Paso 20x38 mm de Nylon   |              |                  | Negro           | $8,398.06     
+UCU0120DB     | Candado Termoplástico Verde Dieléctrico, Paso 20x38 mm de Nylon   |              |                  | Verde           | $8,398.06     
+UCU0121DB     | Candado Termoplástico Violeta Dieléctrico, Paso 20x38 mm de Nylon |              |                  |                 | $8,398.06     
+UCU0122DB     | Candado Termoplástico Rojo, Paso 20x76 mm de Cable                |              |                  | Rojo            | $21,242.28    
+UCU0123DB     | Candado Termoplástico Amarillo, Paso 20x76 mm de Cable            |              |                  | Amarillo        | $21,242.28    
+UCU0124DB     | Candado Termoplástico Azul, Paso 20x76 mm de Cable                |              |                  | Azul            | $21,242.28    
+UCU0125DB     | Candado Termoplástico Naranja, Paso 20x76 mm de Cable             |              |                  | Naranja         | $21,242.28    
+UCU0126DB     | Candado Termoplástico Negro, Paso 20x76 mm de Cable               |              |                  | Negro           | $21,242.28    
+UCU0127DB     | Candado Termoplástico Verde, Paso 20x76 mm de Cable               |              |                  | Verde           | $21,242.28    
+UCU0128DB     | Candado Termoplástico Violeta, Paso 20x76 mm de Cable             |              |                  |                 | $21,242.28    
+UCU0200DB     | Pinza de Bloqueo, Cierre de 38 mm de Acero Inoxidable             |              | Acero Inoxidable |                 | $7,471.28     
+UCU0201DB     | Pinza de Bloqueo, Cierre de 25 mm de Aluminio                     |              |                  |                 | $7,314.44     
+UCU0204DB     | Pinza de Bloqueo, Cierre de 38 mm de Acero Pintado                |              |                  |                 | $13,340.89    
+UCU0202DB     | Pinza de Bloqueo, Cierre de 38 mm de Aluminio                     |              |                  |                 | $7,787.33     
+UCU0206DB     | Pinza de Bloqueo, "No Operar", Tamaño 76x190 mm de Aluminio       | a            |                  |                 | $28,941.69    
+UCU0203DB     | Pinza de Bloqueo Dieléctrica, Cierre de 25x64 mm de Nylon         |              |                  |                 | $3,904.36     
+UCU0205DB     | Pinza de Bloqueo Dieléctrica Tipo Candado, Tamaño 61x107 mm de Nylon | a            |                  |                 | $14,990.08    
+UCU0025DB     | Tarjeta "Fuera de Servicio", Tamaño 76x138 mm                     | a            |                  |                 | $1,872.57     
+UCU0026DB     | Tarjeta "No Operar", Tamaño 76x138 mm - Material: Carton Laminado | a            |                  |                 | $1,872.57     
+UCU0022DB     | Porta Candados Para 12 Posiciones                                 |              |                  |                 | $42,125.73    
+UCU0007DB     | Caja de Bloqueo Grupal Roja 253x110x154 mm                        |              |                  |                 | $113,238.31   
+UCU0016DB     | Caja de Bloqueo Grupal Amarilla 253x110x154 mm                    |              |                  |                 | $113,238.31   
+UCU0037DB     | Estación de Bloqueo Horizontal para 20 Candados, Tamaño 530x40x80 mm | a            |                  |                 | $41,650.46    
+UCU0035DB     | Estación de Bloqueo Plástica Chica, Tamaño 308x230x65 mm, 5 Posiciones | a            |                  |                 | $223,068.91   
+UCU0036DB     | Estación de Bloqueo Plástica Grande, Tamaño 567x395x63 mm, 16 Posiciones | a            |                  |                 | $247,562.06   
+UCU0027DB     | Estación de Bloqueo Multipropósito Portàtil, Tamaño 560x460x70 (30 ganchos) | a            |                  |                 | $304,497.26   
+UCU0028DB     | Estación de Bloqueo Acero Roja, Tamaño 450*600*85mm, 32 Posiciones | a            |                  |                 | $347,910.99   
+UCU0008DB     | Estación de Bloqueo Acero Amarilla, Tamaño 360x450x155 mm         | a            |                  |                 | $329,194.77   
+UCU0001DB     | Cable de Bloqueo Ajustable, Largo 2 Mts.                          |              |                  |                 | $37,791.25    
+UCU0013DB     | Cable de Bloqueo Ajustable, Largo 2 Mts. con Palanca              |              |                  |                 | $47,249.17    
+UCU0011DB     | Bloqueador Para Interruptores de Circuitos Miniatura (Abrazaderas hacia adentro) Largo 40 mm |              |                  |                 | $11,784.37    
+UCU0012DB     | Bloqueador Para Interruptores de Circuitos Miniatura (Abrazaderas hacia afuera) Largo 40 mm |              |                  |                 | $2,618.75     
+UCU0002DB     | Bloqueador Universal de Disyuntores Rojo (Requiere Herramientas Adicionales) 51*25*23 mm |              |                  | Rojo            | $9,814.37     
+UCU0006DB     | Bloqueador Universal de Disyuntores Rojo (No Requiere Herramientas Adicionales), Largo 52 mm |              |                  | Rojo            | $25,983.12    
+UCU0014DB     | Mini Bloqueador de Disyuntores Amarillo (Requiere Herramientas Adicionales) Largo 45 mm |              |                  | Amarillo        | $10,408.46    
+UCU0015DB     | Mini Bloqueador de Disyuntores Verde (Requiere Herramientas Adicionales) Largo 45 mm |              |                  | Verde           | $10,408.46    
+UCU0004DB     | Bloqueador de Disyuntores Para Palancas Medianas, Largo 70 mm     |              |                  |                 | $22,439.97    
+UCU0023DB     | Mini Bloqueador de Enchufes Eléctricos                            |              |                  |                 | $12,666.00    
+UCU0029DB     | Bloqueador de Interruptor Tamaño 69x69 mm                         | a            |                  |                 | $30,182.15    
+UCU0024DB     | Bloqueador de Botón Grande, Tamaño 100x100x65 mm                  | a            |                  |                 | $34,065.12    
+UCU0021DB     | Kit de Bloqueo de Interruptores, Largo de Barra 190 mm            |              |                  |                 | $51,968.62    
+UCU0003DB     | Bloqueador Ajustable de Válvula Esférica, Tamaño 1/2" a 2-1/2"    | a            |                  |                 | $23,682.80    
+UCU0020DB     | Bloqueador Metálico de Válvula Esférica, Tamaño 0,25" a 1"        | a            |                  |                 | $23,682.80    
+UCU0019DB     | Bloqueador Metálico de Válvula Esférica, Tamaño 1,25" a 3"        | a            |                  |                 | $40,160.48    
+UCU0005DB     | Bloqueador de Válvula Mariposa, Diámetro 1 a 2.5 mm               |              |                  |                 | $14,876.01    
+UCU0009DB     | Bloqueador de Válvula Mariposa, Diámetro 2.5 a 5 mm               |              |                  |                 | $33,162.10    
+UCU0017DB     | Bloqueador de Válvula Mariposa, Diámetro 6.5 a 10                 |              |                  |                 | $73,210.90    
+UCU0018DB     | Bloqueador de Válvula Mariposa, Diámetro 10 a 13                  |              |                  |                 | $141,818.79   
+UCU0010DB     | Bloqueador Ajustable de Válvula Mariposa, Diámetro 1 a 6.5        |              |                  |                 | $79,013.97    
+UCU0034DB     | Bloqueador de Válvula Universal                                   |              |                  |                 | $60,547.28    
+UCU0030DB     | Bloqueador de Válvula Universal con Brazo                         |              |                  |                 | $93,212.72    
+UCU0032DB     | Bloqueador de Válvula Universal con Cable                         |              |                  |                 | $85,313.70    
+UCU0033DB     | Bloqueador de Válvula Universal con Brazo y Cable                 |              |                  |                 | $129,853.82   
+UCU0031DB     | Bloqueador de Válvula Universal con Doble Brazo                   |              |                  |                 | $123,508.93   
+DP0102        | Trapo 100% algodon para limpieza. Bolsa de 2kg                    |              |                  |                 | $4,921.44     
+DP0103        | Trapo 100% algodon para limpieza. Bolsa de 10kg                   |              |                  |                 | $23,364.37    
+DP0104        | Trapo 100% algodon para limpieza. Bolsa de 1/2kg                  |              |                  |                 | $1,354.53     
+UCU0001LM     | Carro de Limpieza Premium, PP Reforzado en Acero, 132x75x110 cm   |              |                  |                 | $1,415,954.11 

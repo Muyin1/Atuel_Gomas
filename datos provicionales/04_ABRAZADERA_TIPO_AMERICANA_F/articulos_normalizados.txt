@@ -1,0 +1,28 @@
+=== TABLA NORMALIZADA: ABRAZADERA TIPO AMERICANA (F ===
+Total de artículos únicos: 22
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA                     | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+-------------------------------------------------------------------------------------------
+1.1/4  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 16-32                   | $540.43       
+1.1/16 | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 19-27                   | $528.41       
+1.3/16 | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 19-30                   | $542.09       
+1.3/4  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 19-44                   | $576.70       
+1.5/8  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 19-42                   | $576.70       
+1.1/2  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 21-38                   | $553.08       
+1.3/8  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 23-36                   | $552.04       
+1.7/8  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 29-47                   | $589.35       
+2      | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 32-51                   | $601.47       
+2.5/16 | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 38-59                   | $626.14       
+2.1/2  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 40-64                   | $663.44       
+2.3/4  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 46-70                   | $675.57       
+3      | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 57-76                   | $699.71       
+3.1/2  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 65-89                   | $736.50       
+3.1/4  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 67-83                   | $736.50       
+3.3/4  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 72-95                   | $761.27       
+4      | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 78-101                  | $785.94       
+4.1/2  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 91-114                  | $846.97       
+4.5/16 | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 92-110                  | $822.21       
+5      | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 105-127                 | $906.25       
+5.1/2  | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 118-140                 | $933.71       
+6      | ABRAZADERA TIPO AMERICANA (FLEJE ANCHO) | 130-152                 | $945.22       

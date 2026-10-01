@@ -1,0 +1,9 @@
+=== TABLA NORMALIZADA: TUBOS TERMOCONTRAIBLES ===
+Total de registros clasificados: 3
+===================================================================================================================
+
+CODIGO | DESCRIPCION                            | TALLE/MEDIDA | MATERIAL | COLOR | PRECIO (S/IVA)
+--------------------------------------------------------------------------------------------------
+S/C    | TUBOS TERMOCONTRAIBLE POR MT. - 4,5 mm |              |          |       | $430.80       
+S/C    | TUBOS TERMOCONTRAIBLE POR MT. - 6 mm   |              |          |       | $502.75       
+S/C    | TUBOS TERMOCONTRAIBLE POR MT. - 9 mm   |              |          |       | $773.87       

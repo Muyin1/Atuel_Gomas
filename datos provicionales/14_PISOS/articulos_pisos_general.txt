@@ -1,0 +1,23 @@
+=== TABLA NORMALIZADA: PISOS GENERAL ===
+Total de registros clasificados: 17
+===================================================================================================================
+
+CODIGO                        | DESCRIPCION | TALLE/MEDIDA | MATERIAL | COLOR | PRECIO (S/IVA)
+----------------------------------------------------------------------------------------------
+PISO LISO                     | 2MM X 1M    |              |          |       | $0.00         
+PISO BASTON                   | 3MM X 1M    |              |          |       | $0.00         
+PISO BASTON                   | 3MM X 1,5M  |              |          |       | $0.00         
+PISO BASTON                   | 2.5MM X 1M  |              |          |       | $0.00         
+PISO CAMIFLEX                 | 3MM X 1M    |              |          |       | $0.00         
+PISO CAMIFLEX                 | 3MM X 1,5M  |              |          |       | $0.00         
+PISO MONEDA                   | 3MM X 1M    |              |          |       | $0.00         
+PISO MONEDA                   | 3MM X 1,5M  |              |          |       | $0.00         
+PISO MONEDA                   | 2.5MM X 1M  |              |          |       | $0.00         
+PISO MONEDA PVC               | 1,4 MT.     |              |          |       | $6.52         
+PISO COLONIAL                 | 1,4 MT.     |              |          |       | $23.61        
+CUERINA TALAMPAYA Y AUTOMOTOR | 1,4 MT.     |              |          |       | $7.61         
+CUERINA PESADA                | 1,4 MT.     |              |          |       | $9.39         
+CRISTAL N° 2 180              | 1,40 MT.    |              |          |       | $1.68         
+CRISTAL N° 3 250              | 1,40 MT.    |              |          |       | $2.31         
+CRISTAL N° 4 350              | 1,40 MT.    |              |          |       | $3.22         
+CRISTAL N° 5 500              | 1,40 MT.    |              |          |       | $4.09         

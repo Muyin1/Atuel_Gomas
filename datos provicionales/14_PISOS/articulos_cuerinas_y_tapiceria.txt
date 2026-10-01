@@ -1,0 +1,7 @@
+=== TABLA NORMALIZADA: CUERINAS Y TAPICERIA ===
+Total de registros clasificados: 1
+===================================================================================================================
+
+CODIGO | DESCRIPCION                  | TALLE/MEDIDA | MATERIAL | COLOR | PRECIO (S/IVA)
+----------------------------------------------------------------------------------------
+S/C    | CUERINAS - TAPICERIA ANCASTI |              |          |       | $2.66         

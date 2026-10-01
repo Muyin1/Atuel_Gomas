@@ -1,0 +1,13 @@
+=== REPORTE DE ARTICULOS - PAGINA: FUMIGACION ===
+Total de registros detectados: 8
+================================================================================
+
+INDICE |                                |             |               
+----------------------------------------------------------------------
+       | MANGUERAS DE FUMIGACION 120BAR |             |               
+       | Código Artículo                | Descripción | Precio sin Iva
+       | A510008                        | 8MM         | 1464.47       
+       | A510010                        | 10MM        | 1986.17       
+       | A510012                        | 12MM        | 2509.16       
+       | A510019                        | 19MM        | 5122.41       
+       | A510025                        | 25MM        | 6691.39       

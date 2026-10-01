@@ -1,0 +1,10 @@
+=== TABLA NORMALIZADA: PILETEROS ===
+Total de artículos únicos: 4
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+-----------------------------------------------------------------------
+1134-A | CAÑOS PILETEROS     | Caño 25 mm              | $2,208.92     
+1135-A | CAÑOS PILETEROS     | Caño 32 mm              | $2,335.14     
+1136-A | CAÑOS PILETEROS     | Caño 38 mm              | $3,092.48     
+1137-A | CAÑOS PILETEROS     | Caño 50 mm              | $4,102.28     

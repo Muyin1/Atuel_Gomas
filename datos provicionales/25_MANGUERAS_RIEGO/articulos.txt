@@ -1,0 +1,20 @@
+=== REPORTE DE ARTICULOS - PAGINA: MANGUERAS RIEGO ===
+Total de registros detectados: 15
+================================================================================
+
+INDICE |                                                    |               
+----------------------------------------------------------------------------
+       | MANGUERA GAS                                       |               
+       | Descripción Art Venta                              | Precio sin Iva
+       | Manguera aprobada para gas envasado x mt.          | 860.69        
+       | MANGUERA DE RIEGO                                  |               
+       | Descripción Art Venta                              | Precio sin Iva
+       | Manguera de riego reforzada 1/2" (interior negro)  | 556.77        
+       | Manguera de riego reforzada 3/4" (interior negro)  | 1113.54       
+       | Manguera de riego reforzada 1" (interior negro)    | 1670.30       
+       | Manguera de riego reforzada 1/2" (interior blanco) | 556.77        
+       | Manguera de riego reforzada 3/4" (interior blanco) | 1113.54       
+       | Manguera de riego reforzada 1" (interior blanco)   | 1670.30       
+       | Manguera de riego trenzado 10 bar 1/2"             | 1065.47       
+       | Manguera de riego trenzado 10 bar 3/4"             | 2130.95       
+       | Manguera de riego trenzado 10 bar 1"               | 3196.42       

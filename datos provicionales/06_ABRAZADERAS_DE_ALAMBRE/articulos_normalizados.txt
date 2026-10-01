@@ -1,0 +1,22 @@
+=== TABLA NORMALIZADA: ABRAZADERAS DE ALAMBRE ===
+Total de artículos únicos: 16
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA    | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+--------------------------------------------------------------------------
+A1     | ABRAZADERAS DE ALAMBRE | 10-13                   | $257.42       
+A2     | ABRAZADERAS DE ALAMBRE | 14-16                   | $257.42       
+A3     | ABRAZADERAS DE ALAMBRE | 17-19                   | $271.72       
+A4     | ABRAZADERAS DE ALAMBRE | 20-22                   | $285.40       
+A5     | ABRAZADERAS DE ALAMBRE | 23-25                   | $300.32       
+A6     | ABRAZADERAS DE ALAMBRE | 25-29                   | $314.62       
+A7     | ABRAZADERAS DE ALAMBRE | 28-32                   | $386.13       
+A8     | ABRAZADERAS DE ALAMBRE | 34-38                   | $400.43       
+A9     | ABRAZADERAS DE ALAMBRE | 38-42                   | $425.30       
+A10    | ABRAZADERAS DE ALAMBRE | 44-48                   | $443.33       
+A11    | ABRAZADERAS DE ALAMBRE | 51-54                   | $471.93       
+A12    | ABRAZADERAS DE ALAMBRE | 57-60                   | $557.12       
+A13    | ABRAZADERAS DE ALAMBRE | 64-67                   | $572.04       
+A14    | ABRAZADERAS DE ALAMBRE | 70-73                   | $585.72       
+A15    | ABRAZADERAS DE ALAMBRE | 76-79                   | $614.94       
+A16    | ABRAZADERAS DE ALAMBRE | 83-86                   | $628.62       

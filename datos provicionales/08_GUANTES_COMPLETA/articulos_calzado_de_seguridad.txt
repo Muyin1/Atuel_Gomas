@@ -1,0 +1,34 @@
+=== TABLA NORMALIZADA: CALZADO DE SEGURIDAD ===
+Total de registros clasificados: 28
+===================================================================================================================
+
+CODIGO        | DESCRIPCION                                                       | TALLE/MEDIDA | MATERIAL       | COLOR  | PRECIO (S/IVA)
+-------------------------------------------------------------------------------------------------------------------------------------------
+DPS14000936   | Botin de seguridad, talle 36, cuero descarne negro, puntera de acero | 36           | Cuero Descarne | Negro  | $44,559.13    
+DPS14000937   | Botin de seguridad, talle 37, cuero descarne negro, puntera de acero | 37           | Cuero Descarne | Negro  | $44,559.13    
+DPS14000938   | Botin de seguridad, talle 38, cuero descarne negro, puntera de acero | 38           | Cuero Descarne | Negro  | $44,559.13    
+DPS14000939   | Botin de seguridad, talle 39, cuero descarne negro, puntera de acero | 39           | Cuero Descarne | Negro  | $44,559.13    
+DPS14000940   | Botin de seguridad, talle 40, cuero descarne negro, puntera de acero | 40           | Cuero Descarne | Negro  | $44,559.13    
+DPS14000941   | Botin de seguridad, talle 41, cuero descarne negro, puntera de acero | 41           | Cuero Descarne | Negro  | $44,559.13    
+DPS14000942   | Botin de seguridad, talle 42, cuero descarne negro, puntera de acero | 42           | Cuero Descarne | Negro  | $44,559.13    
+DPS14000943   | Botin de seguridad, talle 43, cuero descarne negro, puntera de acero | 43           | Cuero Descarne | Negro  | $44,559.13    
+DPS14000944   | Botin de seguridad, talle 44, cuero descarne negro, puntera de acero | 44           | Cuero Descarne | Negro  | $44,559.13    
+DPS14000945   | Botin de seguridad, talle 45, cuero descarne negro, puntera de acero | 45           | Cuero Descarne | Negro  | $44,559.13    
+DPS14000946   | Botin de seguridad, talle 46, cuero descarne negro, puntera de acero | 46           | Cuero Descarne | Negro  | $44,559.13    
+DPS14100936   | Zapato de seguridad, talle 36, cuero descarne negro, puntera de acero | 36           | Cuero Descarne | Negro  | $44,559.13    
+DPS14100937   | Zapato de seguridad, talle 37, cuero descarne negro, puntera de acero | 37           | Cuero Descarne | Negro  | $44,559.13    
+DPS14100938   | Zapato de seguridad, talle 38, cuero descarne negro, puntera de acero | 38           | Cuero Descarne | Negro  | $44,559.13    
+DPS14100939   | Zapato de seguridad, talle 39, cuero descarne negro, puntera de acero | 39           | Cuero Descarne | Negro  | $44,559.13    
+DPS14100940   | Zapato de seguridad, talle 40, cuero descarne negro, puntera de acero | 40           | Cuero Descarne | Negro  | $44,559.13    
+DPS14100941   | Zapato de seguridad, talle 41, cuero descarne negro, puntera de acero | 41           | Cuero Descarne | Negro  | $44,559.13    
+DPS14100942   | Zapato de seguridad, talle 42, cuero descarne negro, puntera de acero | 42           | Cuero Descarne | Negro  | $44,559.13    
+DPS14100943   | Zapato de seguridad, talle 43, cuero descarne negro, puntera de acero | 43           | Cuero Descarne | Negro  | $44,559.13    
+DPS14100944   | Zapato de seguridad, talle 44, cuero descarne negro, puntera de acero | 44           | Cuero Descarne | Negro  | $44,559.13    
+DPS14100945   | Zapato de seguridad, talle 45, cuero descarne negro, puntera de acero | 45           | Cuero Descarne | Negro  | $44,559.13    
+DPS14100946   | Zapato de seguridad, talle 46, cuero descarne negro, puntera de acero | 46           | Cuero Descarne | Negro  | $44,559.13    
+DPS1440900    | Cubre calzado de seguridad para visita, talle S (34-38), con puntera de aluminio y suela de caucho antideslizante | S            |                |        | $64,164.10    
+DPS1440903    | Cubre calzado de seguridad para visita, talle M (39-43), con puntera de aluminio y suela de caucho antideslizante | M            |                |        | $64,164.10    
+DPS1440908    | Cubre calzado de seguridad para visita, talle XL (44-48), con puntera de aluminio y suela de caucho antideslizante | XL           |                |        | $64,164.10    
+NUB12041P100  | Cubre Calzado Descartable PP Blanco 45x16 cm - Pacl 100 Unidades  |              |                | Blanco | $8,352.91     
+NUB12041P1000 | Cubre Calzado Descartable PP 30g Blanco 45x16 cm - Pack 1000 Unidades |              |                | Blanco | $68,087.47    
+NUB12041      | Cubre Calzado Descartable PP 30g Blanco 45x16 cm                  |              |                | Blanco | $270.91       

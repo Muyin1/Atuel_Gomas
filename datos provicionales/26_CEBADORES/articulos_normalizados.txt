@@ -1,0 +1,10 @@
+=== TABLA NORMALIZADA: CEBADORES ===
+Total de artículos únicos: 4
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA               | PRECIO (S/IVA)
+-------------------------------------------------------------------------------------
+S/C    | CEBADORES           | Cebador manual pico metálico          | $6,359.70     
+S/C    | CEBADORES           | Cebador manual pico metálico 1 curva  | $8,109.00     
+S/C    | CEBADORES           | Cebador manual pico metálico 2 curvas | $8,415.00     
+S/C    | CEBADORES           | CEBADORES - Válvula antiretorno       | $4,437.00     

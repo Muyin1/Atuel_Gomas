@@ -10,23 +10,35 @@
 
     <div style="display: grid; grid-template-columns: 1fr 1.2fr; gap: 2.5rem; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 2.5rem; box-shadow: var(--shadow-card);">
         <!-- Columna Izquierda: Imagen / Gráfico -->
-        <div style="background: linear-gradient(180deg, #1e293b 0%, #171f2c 100%); border: 1px solid var(--border-color); border-radius: var(--radius-md); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 2rem; position: relative;">
+        <div style="background: linear-gradient(180deg, #1e293b 0%, #171f2c 100%); border: 1px solid var(--border-color); border-radius: var(--radius-md); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 2rem; position: relative; min-height: 280px;">
             <span class="sku-badge" style="font-size: 0.85rem; top: 1rem; left: 1rem;">SKU: {{ product.sku }}</span>
-            <div style="font-size: 7rem; margin: 2rem 0; filter: drop-shadow(0 10px 15px rgba(0,0,0,0.6));">
-                {% if "Radiador" in product.name or "Manguera" in product.name %}
-                    🪈
-                {% elif "Burlete" in product.name %}
-                    ➰
-                {% elif "Fuelle" in product.name %}
-                    🛡️
-                {% elif "Piso" in product.name %}
-                    ⬛
-                {% elif "Abrazadera" in product.name %}
-                    ⭕
-                {% else %}
+            
+            {% if product.image_url and "/static/img/catalogo/" in product.image_url %}
+                <img src="{{ product.image_url }}" 
+                     alt="{{ product.name }}" 
+                     style="max-width: 85%; max-height: 240px; object-fit: contain; margin: 1.5rem 0; filter: drop-shadow(0 6px 12px rgba(0,0,0,0.5));"
+                     onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                <div style="display: none; font-size: 7rem; margin: 2rem 0; filter: drop-shadow(0 10px 15px rgba(0,0,0,0.6));">
                     ⚙️
-                {% endif %}
-            </div>
+                </div>
+            {% else %}
+                <div style="font-size: 7rem; margin: 2rem 0; filter: drop-shadow(0 10px 15px rgba(0,0,0,0.6));">
+                    {% if "Radiador" in product.name or "Manguera" in product.name %}
+                        🪈
+                    {% elif "Burlete" in product.name %}
+                        ➰
+                    {% elif "Fuelle" in product.name %}
+                        🛡️
+                    {% elif "Piso" in product.name or "Cuerina" in product.name %}
+                        ⬛
+                    {% elif "Abrazadera" in product.name %}
+                        ⭕
+                    {% else %}
+                        ⚙️
+                    {% endif %}
+                </div>
+            {% endif %}
+
             <div style="text-align: center; color: var(--text-muted); font-size: 0.85rem;">
                 Código de Fabricante / OEM: <strong style="color: #fff; font-family: monospace;">{{ product.oem_code }}</strong>
             </div>
@@ -85,12 +97,19 @@
                 {% endfor %}
             </ul>
 
-            <div style="margin-top: auto; padding-top: 1.5rem; border-top: 1px solid var(--border-color); display: flex; align-items: center; justify-content: space-between;">
+            <div style="margin-top: auto; padding-top: 1.5rem; border-top: 1px solid var(--border-color); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
                 <div>
-                    <div style="font-size: 0.8rem; color: var(--text-muted);">
-                        {% if is_b2b %}PRECIO MAYORISTA B2B (NETO){% else %}PRECIO LISTA SUGERIDO{% endif %}
+                    <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.25rem;">
+                        <span class="price-label">
+                            {% if is_b2b %}PRECIO MAYORISTA B2B (NETO){% else %}PRECIO LISTA SUGERIDO{% endif %}
+                        </span>
+                        {% if is_b2b %}
+                        <span class="wholesale-indicator">★ Tarifa Gremio</span>
+                        {% else %}
+                        <span class="retail-indicator">PVP Oficial</span>
+                        {% endif %}
                     </div>
-                    <div style="font-size: 2rem; font-weight: 800; color: var(--accent-amber);">
+                    <div class="price-tag {% if is_b2b %}wholesale{% endif %}" style="font-size: 2.2rem;">
                         {{ price.format_ars() }}
                     </div>
                 </div>

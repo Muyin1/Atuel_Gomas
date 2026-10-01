@@ -1,6 +1,9 @@
 from src.application.ports.product_repository import IProductRepository
 from src.domain.entities.product import Product
 from src.domain.entities.product_category import ProductCategory
+from src.domain.entities.business_line import BusinessLine
+from src.domain.entities.category_item import CategoryItem
+from src.domain.entities.family_item import FamilyItem
 from src.domain.entities.vehicle_compatibility import VehicleCompatibility
 from src.domain.value_objects.dimensions import Dimensions
 from src.domain.value_objects.money import Money
@@ -150,7 +153,32 @@ class MemoryProductRepository(IProductRepository):
     async def search(
         self,
         query: str | None = None,
-        category: ProductCategory | None = None,
+        category: ProductCategory | str | None = None,
+        family: str | None = None,
+        vehicle_brand: str | None = None,
+        vehicle_model: str | None = None,
+        page: int = 1,
+        page_size: int = 24
+    ) -> list[Product]:
+        results = self._filter_products(query, category, family, vehicle_brand, vehicle_model)
+        offset = max(0, (page - 1) * page_size)
+        return results[offset: offset + page_size]
+
+    async def count(
+        self,
+        query: str | None = None,
+        category: ProductCategory | str | None = None,
+        family: str | None = None,
+        vehicle_brand: str | None = None,
+        vehicle_model: str | None = None
+    ) -> int:
+        return len(self._filter_products(query, category, family, vehicle_brand, vehicle_model))
+
+    def _filter_products(
+        self,
+        query: str | None = None,
+        category: ProductCategory | str | None = None,
+        family: str | None = None,
         vehicle_brand: str | None = None,
         vehicle_model: str | None = None
     ) -> list[Product]:
@@ -188,8 +216,36 @@ class MemoryProductRepository(IProductRepository):
 
         return results
 
+
     async def save(self, product: Product) -> None:
         self._products[product.id] = product
 
-    async def get_categories(self) -> list[ProductCategory]:
-        return list(ProductCategory)
+    async def get_categories(self, rubro: BusinessLine | str | None = None) -> list[CategoryItem]:
+        counts = {}
+        for p in self._products.values():
+            if p.is_active:
+                cat_val = p.category.value if hasattr(p.category, "value") else str(p.category)
+                counts[cat_val] = counts.get(cat_val, 0) + 1
+
+        items: list[CategoryItem] = []
+        for idx, pc in enumerate(ProductCategory, start=1):
+            val = pc.value
+            slug = pc.name.lower().replace("_", "-")
+            items.append(
+                CategoryItem(
+                    id=idx,
+                    name=slug,
+                    value=val,
+                    slug=slug,
+                    rubro=BusinessLine.AMBOS,
+                    product_count=counts.get(val, 0),
+                )
+            )
+        return items
+
+    async def get_families(
+        self,
+        category_id_or_slug: int | str | None = None,
+        rubro: BusinessLine | str | None = None,
+    ) -> list[FamilyItem]:
+        return []

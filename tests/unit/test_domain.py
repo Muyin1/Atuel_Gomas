@@ -46,3 +46,62 @@ def test_product_price_tier_by_role():
 
     # Administrador ve precio mayorista
     assert product.calculate_price_for_role(UserRole.ADMIN).amount == 14000.0
+
+
+from src.domain.entities.business_line import BusinessLine
+from src.domain.entities.category_item import CategoryItem
+from src.domain.entities.customer import Customer
+
+
+def test_business_line_and_category_item():
+    assert BusinessLine.AUTOPARTES == 'AUTOPARTES'
+    assert BusinessLine.FERRETERIA == 'FERRETERIA'
+    assert BusinessLine.AMBOS == 'AMBOS'
+
+    cat = CategoryItem(
+        id=1,
+        name='mangueras-automotor',
+        value='Mangueras Automotor',
+        slug='mangueras-automotor',
+        rubro=BusinessLine.AUTOPARTES,
+        product_count=9623
+    )
+    assert cat.product_count == 9623
+    assert cat.rubro == BusinessLine.AUTOPARTES
+    assert cat == 'Mangueras Automotor'
+    assert cat == 'mangueras-automotor'
+
+    cust = Customer(
+        id='c1',
+        email='test@atuel.com',
+        business_name='Repuestos Warnes',
+        cuit=CUIT('30712345678'),
+        phone='1123456789',
+        address='Warnes 1234',
+        city='CABA',
+        business_line=BusinessLine.AUTOPARTES
+    )
+    assert cust.business_line == BusinessLine.AUTOPARTES
+
+
+from src.domain.entities.family_item import FamilyItem
+
+
+def test_family_item_entity():
+    fam = FamilyItem(
+        id=43,
+        name='mangueras-radiador',
+        value='Mangueras de Radiador',
+        slug='mangueras-radiador',
+        category_id=1,
+        category_name='Mangueras Automotor',
+        rubro=BusinessLine.AUTOPARTES,
+        product_count=4660
+    )
+    assert fam.id == 43
+    assert fam.value == 'Mangueras de Radiador'
+    assert fam.category_name == 'Mangueras Automotor'
+    assert fam.rubro == BusinessLine.AUTOPARTES
+    assert fam.product_count == 4660
+    assert fam == 'Mangueras de Radiador'
+    assert fam == 'mangueras-radiador'

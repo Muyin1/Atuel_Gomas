@@ -1,0 +1,29 @@
+=== TABLA NORMALIZADA: GUANTES DE PROTECCION ===
+Total de registros clasificados: 23
+===================================================================================================================
+
+CODIGO   | DESCRIPCION                                               | TALLE/MEDIDA | MATERIAL | COLOR       | PRECIO (S/IVA)
+-----------------------------------------------------------------------------------------------------------------------------
+85194    | Guante Táctil DPS - Nro.9                                 | 9            |          |             | $815.70       
+85195    | Guante Táctil DPS - Nro.10                                | 10           |          |             | $815.70       
+813093E  | Guante Moteado - Nro.8                                    | 8            |          |             | $603.45       
+811093E  | Guante Moteado - Nro.8                                    | 8            |          |             | $659.33       
+811095   | Guante Moteado - Nro.10                                   | 10           |          |             | $737.55       
+222025E  | Guante Vaqueta 1/2 paseo - Nro.10                         | 10           | Vaqueta  |             | $0.00         
+222025E+ | Guante Vaqueta 1/2 paseo - Nro.10                         | 10           | Vaqueta  |             | $0.00         
+222026E  | Guante Vaqueta 1/2 paseo - Nro.11                         | 11           | Vaqueta  |             | $0.00         
+221023   | Guante Vaqueta 1/2 paseo premium - Nro.8                  | 8            | Vaqueta  |             | $0.00         
+221024   | Guante Vaqueta 1/2 paseo premium - Nro.9                  | 9            | Vaqueta  |             | $0.00         
+222025   | Guante Vaqueta 1/2 paseo premium - Nro.10                 | 10           | Vaqueta  |             | $0.00         
+222026   | Guante Vaqueta 1/2 paseo premium - Nro.11                 | 11           | Vaqueta  |             | $0.00         
+61324    | Guante látex doméstico talle S al XL                      | S            | Látex    |             | $0.00         
+71395    | Guante látex industrial                                   |              | Látex    |             | $0.00         
+41485    | Guante acrilo nitrilo talle 7 al 11                       | 7            | Nitrilo  |             | $0.00         
+88113    | Guante tejido recto en Nitrilo Pack                       |              | Nitrilo  |             | $0.00         
+S/C      | Guante Nitrilo azul y negro descartable 72091             |              | Nitrilo  | Azul, Negro | $0.00         
+S/C      | Guante tejido s/costura T10 DPS 88305                     |              |          |             | $0.00         
+S/C      | Guante tejido s/costura recubierto en látex T10 DPS 89155 |              | Látex    |             | $0.00         
+S/C      | Guante nitrilo ventilado azul puño tejido DPS 12155       |              | Nitrilo  | Azul        | $0.00         
+S/C      | Guante nitrilo baño completo azul puño de lona DPS 11255  |              | Nitrilo  | Azul        | $0.00         
+S/C      | Guante PVC rojo largo tota 35 cm DPS 31445                |              | PVC      | Rojo        | $0.00         
+S/C      | Guante PVC rojo largo tota 40 cm DPS 31545                |              | PVC      | Rojo        | $0.00         

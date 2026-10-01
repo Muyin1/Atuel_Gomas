@@ -1,0 +1,80 @@
+=== TABLA NORMALIZADA: PROTECCION CRANEANA Y FACIAL ===
+Total de registros clasificados: 74
+===================================================================================================================
+
+CODIGO        | DESCRIPCION                                                       | TALLE/MEDIDA | MATERIAL | COLOR    | PRECIO (S/IVA)
+---------------------------------------------------------------------------------------------------------------------------------------
+UCU2130PC     | Mentonera Premium para Casco                                      |              |          |          | $3,386.31     
+UCU2140PC     | Mentonera Económica para Casco                                    |              |          |          | $2,594.99     
+UCU1111PC     | Casco - Carcasa Clase B Color Blanco                              |              |          | Blanco   | $5,232.74     
+UCU1112PC     | Casco - Carcasa Clase B Color Amarillo                            |              |          | Amarillo | $5,232.74     
+UCU1113PC     | Casco - Carcasa Clase B Color Verde                               |              |          | Verde    | $5,232.74     
+UCU1114PC     | Casco - Carcasa Clase B Color Naranja                             |              |          | Naranja  | $5,232.74     
+UCU1115PC     | Casco - Carcasa Clase B Color Azul                                |              |          | Azul     | $5,232.74     
+UCU1116PC     | Casco - Carcasa Clase B Color Rojo                                |              |          | Rojo     | $5,232.74     
+UCU1117PC     | Casco - Carcasa Clase B Color Rosa                                |              |          | Rosa     | $5,232.74     
+UCU9120PC     | Accesorio reflectivo para casco tipo B                            |              |          |          | $2,338.34     
+UCU3036PC     | Lampara Minera LED Recargable Para Casco                          |              |          |          | $170,779.49   
+UCUKIT1110PC  | Casco Completo - Carcasa Clase B Color Blanco + Arnes Cremallera  |              |          | Blanco   | $7,742.18     
+UCUKIT1210PC  | Casco Completo - Carcasa Clase B Color Amarillo + Arnes Cremallera |              |          | Amarillo | $7,742.18     
+UCUKIT1310PC  | Casco Completo - Carcasa Clase B Color Verde + Arnes Cremallera   |              |          | Verde    | $7,742.18     
+UCUKIT1410PC  | Casco Completo - Carcasa Clase B Color Naranja + Arnes Cremallera |              |          | Naranja  | $7,742.18     
+UCUKIT1510PC  | Casco Completo - Carcasa Clase B Color Azul + Arnes Cremallera    |              |          | Azul     | $7,742.18     
+UCUKIT1610PC  | Casco Completo - Carcasa Clase B Color Rojo + Arnes Cremallera    |              |          | Rojo     | $7,742.18     
+UCUKIT1710PC  | Casco Completo - Carcasa Clase B Color Rosa + Arnes Cremallera    |              |          | Rosa     | $7,742.18     
+UCUKIT1220PC  | Casco Completo - Carcasa Clase B Color Amarillo + FastTrack       |              |          | Amarillo | $9,158.49     
+UCUKIT1120PC  | Casco Completo - Carcasa Clase B Color Blanco + FastTrack         |              |          | Blanco   | $9,158.49     
+UCUKIT1320PC  | Casco Completo - Carcasa Clase B Color Verde + FastTrack          |              |          | Verde    | $9,158.49     
+UCUKIT1420PC  | Casco Completo - Carcasa Clase B Color Naranja + FastTrack        |              |          | Naranja  | $9,158.49     
+UCUKIT1520PC  | Casco Completo - Carcasa Clase B Color Azul + FastTrack           |              |          | Azul     | $9,158.49     
+UCUKIT1620PC  | Casco Completo - Carcasa Clase B Color Rojo + FastTrack           |              |          | Rojo     | $9,158.49     
+UCUKIT1720PC  | Casco Completo - Carcasa Clase B Color Rosa + FastTrack           |              |          | Rosa     | $9,158.49     
+UCUKIT1110PCR | Casco Completo - Carcasa Clase B Color Blanco + Arnes Cremallera + Reflectivo |              |          | Blanco   | $9,842.88     
+UCUKIT1210PCR | Casco Completo - Carcasa Clase B Color Amarillo + Arnes Cremallera + Reflectivo |              |          | Amarillo | $9,842.88     
+UCUKIT1310PCR | Casco Completo - Carcasa Clase B Color Verde + Arnes Cremallera + Reflectivo |              |          | Verde    | $9,842.88     
+UCUKIT1410PCR | Casco Completo - Carcasa Clase B Color Naranja + Arnes Cremallera + Reflectivo |              |          | Naranja  | $9,842.88     
+UCUKIT1510PCR | Casco Completo - Carcasa Clase B Color Azul + Arnes Cremallera + Reflectivo |              |          | Azul     | $9,842.88     
+UCUKIT1610PCR | Casco Completo - Carcasa Clase B Color Rojo + Arnes Cremallera + Reflectivo |              |          | Rojo     | $9,842.88     
+UCUKIT1710PCR | Casco Completo - Carcasa Clase B Color Rosa + Arnes Cremallera + Reflectivo |              |          | Rosa     | $9,842.88     
+UCUKIT1120PCR | Casco Completo - Carcasa Clase B Color Blanco + FastTrack + Reflectivo |              |          | Blanco   | $11,237.81    
+UCUKIT1220PCR | Casco Completo - Carcasa Clase B Color Amarillo + FastTrack + Reflectivo |              |          | Amarillo | $11,237.81    
+UCUKIT1320PCR | Casco Completo - Carcasa Clase B Color Verde + FastTrack + Reflectivo |              |          | Verde    | $11,237.81    
+UCUKIT1420PCR | Casco Completo - Carcasa Clase B Color Naranja + FastTrack + Reflectivo |              |          | Naranja  | $11,237.81    
+UCUKIT1520PCR | Casco Completo - Carcasa Clase B Color Azul + FastTrack + Reflectivo |              |          | Azul     | $11,237.81    
+UCUKIT1620PCR | Casco Completo - Carcasa Clase B Color Rojo + FastTrack + Reflectivo |              |          | Rojo     | $11,237.81    
+UCUKIT1720PCR | Casco Completo - Carcasa Clase B Color Rosa + FastTrack + Reflectivo |              |          | Rosa     | $11,237.81    
+NUB11040P100  | Cofia Plisada Descartable PP Celeste, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades |              |          |          | $4,807.38     
+NUB11040P1000 | Cofia Plisada Descartable PP 10g Celeste, Doble Elástico, Largo 45 cm (18") |              |          |          | $36,527.03    
+NUB11041P100  | Cofia Plisada Descartable PP Blanca, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades |              |          |          | $4,807.38     
+NUB11041P1000 | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 45 cm (18") |              |          |          | $36,527.03    
+NUB11043P100  | Cofia Plisada Descartable PP Naranja, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades |              |          | Naranja  | $4,807.38     
+NUB11043P1000 | Cofia Plisada Descartable PP 10g Naranja, Doble Elástico, Largo 45 cm (18") - Pack 1000 Unidades |              |          | Naranja  | $36,527.03    
+NUB11044P100  | Cofia Plisada Descartable PP Verde, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades |              |          | Verde    | $4,807.38     
+NUB11044P1000 | Cofia Plisada Descartable PP 10g Verde, Doble Elástico, Largo 45 cm (18") |              |          | Verde    | $36,527.03    
+NUB11045P100  | Cofia Plisada Descartable PP Azul, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades |              |          | Azul     | $4,807.38     
+NUB11045P1000 | Cofia Plisada Descartable PP 10g Azul, Doble Elástico, Largo 45 cm (18") - Pack 1000 Unidades |              |          | Azul     | $36,527.03    
+NUB11046P100  | Cofia Plisada Descartable PP Rojo, Doble Elástico, Largo 45 cm (18") - Pack 100 Unidades |              |          | Rojo     | $4,807.38     
+NUB11046P1000 | Cofia Plisada Descartable PP 10g Rojo, Doble Elástico, Largo 45 cm (18") Pack 1000 Unidades |              |          | Rojo     | $36,527.03    
+NUB11140P1000 | Cofia Plisada Descartable PP Celeste, Doble Elástico, Largo 53 cm (21") - Pack 1000 Unidades |              |          |          | $38,898.64    
+NUB11141P100  | Cofia Plisada Descartable PP Blanca, Doble Elástico, Largo 53 cm (21") - Pack 100 Unidades |              |          |          | $6,546.87     
+NUB11141P1000 | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 53 cm (21") - Pack 1000 Unidades |              |          |          | $38,898.64    
+NUB11141      | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 53 cm (21") |              |          |          | $201.99       
+NUB11046      | Cofia Plisada Descartable PP 10g Rojo, Doble Elástico, Largo 45 cm (18") |              |          | Rojo     | $135.45       
+NUB11045      | Cofia Plisada Descartable PP 10g Azul, Doble Elástico, Largo 45 cm (18") |              |          | Azul     | $135.45       
+NUB11044      | Cofia Plisada Descartable PP 10g Verde, Doble Elástico, Largo 45 cm (18") |              |          | Verde    | $135.45       
+NUB11043      | Cofia Plisada Descartable PP 10g Naranja, Doble Elástico, Largo 45 cm (18") |              |          | Naranja  | $135.45       
+NUB11041      | Cofia Plisada Descartable PP 10g Blanca, Doble Elástico, Largo 45 cm (18") |              |          |          | $135.45       
+NUB11040      | Cofia Plisada Descartable PP 10g Celeste, Doble Elástico, Largo 45 cm (18") |              |          |          | $135.45       
+UCU411A       | Mascara de proteccion., ergonomica . K N Antiempañe               |              |          |          | $76,034.01    
+UCU6200RM     | Mascara Medio Rostro TPE Talle M                                  | M            |          |          | $14,925.92    
+UCU6200RL     | Mascara Medio Rostro TPE Talle L                                  | L            |          |          | $14,925.92    
+UCU7502RS     | Mascara Medio Rostro Silicona Talle S                             | S            |          |          | $19,795.08    
+UCU7502RM     | Mascara Medio Rostro Silicona Talle M                             | M            |          |          | $19,795.08    
+UCU7502RL     | Mascara Medio Rostro Silicona Talle L                             | L            |          |          | $19,795.08    
+UCU6800RM     | Mascara Rostro Completo Silicona Talle M                          | M            |          |          | $161,000.77   
+UCU6800RL     | Mascara Rostro Completo Silicona Talle L                          | L            |          |          | $161,000.77   
+UCU6201R      | Film Protector de Mascara Rostro Completo Transparente (Unitario) |              |          |          | $4,374.88     
+UCU231RP2000  | Barbijo Tipo Mascarilla Tricapa Desechable Con Elásticos de Sujeción Pack x 2000 |              |          |          | $91,677.59    
+UCU2510S      | Mascara Para Soldar Fotosensible Premium "ARGENTINA", Grado de Proteccion DIN 9-13 (Regulador Externo) |              |          |          | $129,784.90   
+UCU3001SR     | Filtro HEPA Repuesto Mascara Para Soldar Fotosensible UCU3000S    |              |          |          | $80,347.11    
+UCU3002SR     | Batería Recargable Repuesto Mascara Para Soldar Fotosensible UCU3000S |              |          |          | $141,818.79   

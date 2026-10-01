@@ -1,0 +1,475 @@
+=== TABLA NORMALIZADA: MANGUERAS DE GOMA POR METRO ===
+Total de artículos únicos: 469
+===============================================================================================
+
+CODIGO     | FAMILIA / CATEGORIA         | DESCRIPCION NORMALIZADA                                                     | PRECIO (S/IVA)
+---------------------------------------------------------------------------------------------------------------------------------------
+100R12D10  | MANGUERAS DE GOMA POR METRO | Rollo R12 Hidráulica 3/8" (10MM)                                            | $8,165.24     
+100R12D13  | MANGUERAS DE GOMA POR METRO | Rollo R12 Hidráulica 1/2" (13MM)                                            | $8,438.30     
+100R12D19  | MANGUERAS DE GOMA POR METRO | Rollo R12 Hidráulica 3/4" (19MM)                                            | $11,143.51    
+100R12D25  | MANGUERAS DE GOMA POR METRO | Rollo R12 Hidráulica 1" (25MM)                                              | $14,816.60    
+100R1D10   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $2,457.06     
+100R1D13   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $2,581.14     
+100R1D16   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $3,003.04     
+100R1D19   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $4,020.62     
+100R1D25   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $5,782.71     
+100R1D32   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $7,470.34     
+100R1D38   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $8,463.07     
+100R1D5    | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $1,762.09     
+100R1D51   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $10,920.13    
+100R1D6    | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $1,762.09     
+100R1D8    | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                                    | $2,109.54     
+100R2D10   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $3,251.19     
+100R2D13   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $3,822.01     
+100R2D16   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $3,896.47     
+100R2D19   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $4,814.74     
+100R2D25   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $7,420.73     
+100R2D32   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $9,505.49     
+100R2D38   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $12,458.85    
+100R2D5    | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $2,432.22     
+100R2D51   | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $14,692.53    
+100R2D6    | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $2,332.91     
+100R2D8    | MANGUERAS DE GOMA POR METRO | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                                    | $2,829.28     
+100R6D10   | MANGUERAS DE GOMA POR METRO | Rollo Hidraulica R6 3/8" (10mm)                                             | $2,173.93     
+100R6D13   | MANGUERAS DE GOMA POR METRO | Rollo Hidraulica R6 1/2" (13mm)                                             | $2,680.21     
+100R6D16   | MANGUERAS DE GOMA POR METRO | Rollo Hidraulica R6 5/8" (16mm)                                             | $3,126.88     
+100R6D19   | MANGUERAS DE GOMA POR METRO | Rollo Hidraulica R6 3/4" (19mm)                                             | $3,811.80     
+100R6D25   | MANGUERAS DE GOMA POR METRO | Rollo Hidraulica R6 1" (25mm)                                               | $5,271.02     
+100R6D6    | MANGUERAS DE GOMA POR METRO | Rollo Hidraulica R6 1/4" (6mm)                                              | $1,667.66     
+100R6D8    | MANGUERAS DE GOMA POR METRO | Rollo Hidraulica R6 5/16" (8mm)                                             | $1,876.10     
+1200       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $1,529.04     
+1201       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $1,743.10     
+1202       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $2,389.12     
+1203       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $2,400.59     
+1204       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $3,105.86     
+1205       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $3,822.59     
+1206       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $4,361.58     
+1207       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $1,529.04     
+1208       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $2,866.94     
+1209       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $2,412.06     
+1210       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $1,754.57     
+1211       | MANGUERAS DE GOMA POR METRO | Colector a tubo rigido                                                      | $2,030.75     
+1212       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $2,756.09     
+1213       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $2,484.68     
+1214       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $2,914.73     
+1215       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $3,368.66     
+1216       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $4,013.72     
+1217       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $5,049.64     
+1218       | MANGUERAS DE GOMA POR METRO | Calefactor a Tubo 2                                                         | $1,681.94     
+1219       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $4,013.72     
+1220       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $2,832.54     
+1221       | MANGUERAS DE GOMA POR METRO | Refuerzo textil intermedio (refrigeracion-calefaccion) (espiralado),Refrigeracion-Circulacion de aire-calefaccion | $1,624.60     
+1222       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $1,376.13     
+1223       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $2,207.55     
+1224       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $3,774.81     
+1227       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $1,624.60     
+1228       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $2,102.43     
+1229       | MANGUERAS DE GOMA POR METRO | Refrigeracion-Circulacion de aire-calefaccion                               | $6,779.13     
+1700       | MANGUERAS DE GOMA POR METRO | ASPIRAPOLVO ø32 (rollo de 6 metros)                                         | $21,658.56    
+1701       | MANGUERAS DE GOMA POR METRO | ASPIRAPOLVO ø 35 MM (rollo de 6 metros)                                     | $23,689.05    
+1702       | MANGUERAS DE GOMA POR METRO | ASPIRAPOLVO ø 38 (rollo de 6 metros)                                        | $25,777.02    
+1703       | MANGUERAS DE GOMA POR METRO | ASPIRAPOLVO ø 41 (rollo de 6 metros)                                        | $27,812.05    
+1704       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 45 MM (rollo de 6 metros)                                   | $30,525.42    
+1705       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 48 MM (rollo de 6 metros)                                   | $32,560.44    
+1706       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 50 MM (rollo de 6 metros)                                   | $33,917.13    
+1707       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 57 MM (rollo de 6 metros)                                   | $38,665.53    
+1708       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 60 MM (rollo de 6 metros)                                   | $40,700.56    
+1709       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 64 MM (rollo de 6 metros)                                   | $43,413.93    
+1710       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 70 MM (rollo de 6 metros)                                   | $47,483.98    
+1711       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 76 MM (rollo de 6 metros)                                   | $51,554.04    
+1712       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 80 MM (rollo de 6 metros)                                   | $54,267.41    
+1713       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 85 MM (rollo de 6 metros)                                   | $57,659.12    
+1714       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 90 MM (rollo de 6 metros)                                   | $61,050.83    
+1715       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 95 MM (rollo de 6 metros)                                   | $64,442.55    
+1716       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 101 MM (rollo de 6 metros)                                  | $68,512.60    
+1717       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 105 MM (rollo de 6 metros)                                  | $71,225.97    
+1718       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 110 MM (rollo de metros)                                    | $74,617.68    
+1719       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 114 MM (rollo de 6 metros)                                  | $77,331.06    
+1720       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 120 MM (Rollo de 6 metros)                                  | $81,401.11    
+1721       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 127 MM (rollo de 6 metros)                                  | $86,149.51    
+1722       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 133 MM ( rollo de 6 metros)                                 | $90,219.56    
+1723       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 140 MM (rollo de 6 metros)                                  | $94,967.96    
+1724       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 152 MM (rollo de 6 metros)                                  | $105,170.24   
+1725       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 160 MM (rollo de 6 metros)                                  | $108,534.82   
+1726       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 170 MM (rollo de 6 metros)                                  | $115,318.24   
+1727       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 180 MM (rollo de 6 metros)                                  | $122,101.67   
+1728       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 203 MM (rollo de 6 metro)                                   | $137,703.55   
+1729       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 220 MM (rollo de 6 metros)                                  | $189,265.00   
+1730       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 252 MM (rollo de 6 metros)                                  | $211,976.80   
+1731       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 260 MM (rollo de 6 metros)                                  | $218,706.23   
+1732       | MANGUERAS DE GOMA POR METRO | Aspirapolvo - Ø 303 MM (rollo de 6 metros)                                  | $254,876.87   
+1825       | MANGUERAS DE GOMA POR METRO | ROLLO CIRCULACION DE AIRE DIAM 8 X 4 -Sapito Limpia parabrisas              | $1,523.06     
+20204      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $382.26       
+20207      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $430.04       
+20307      | MANGUERAS DE GOMA POR METRO | Aire / pulmon de avance,Nafta - alconafta - gasoil - lubricantes            | $496.94       
+20308      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $569.57       
+20408      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $602.06       
+20409      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $707.18       
+20509      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $772.16       
+20612      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,060.77     
+20713      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,204.12     
+20813      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,328.35     
+20916      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,616.00     
+21020      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,787.63     
+21220      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,372.87     
+21320      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,685.37     
+21522      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,970.15     
+21621      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $3,058.07     
+21926      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $3,535.90     
+22532      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $3,706.96     
+30308      | MANGUERAS DE GOMA POR METRO | Nafta-alconafta-gasoil-lubricantes/ (retorno inyector),Nafta - alconafta - gasoil - lubricantes | $903.09       
+30309      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $996.74       
+30411      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,183.09     
+30510      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,194.56     
+30612      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,324.53     
+30712      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,384.73     
+30813      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,616.00     
+30915      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,218.06     
+31318      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,519.09     
+31624      | MANGUERAS DE GOMA POR METRO | GNC                                                                         | $3,635.28     
+31926      | MANGUERAS DE GOMA POR METRO | GNC                                                                         | $3,848.39     
+40307      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $697.62       
+40311      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,023.50     
+40408      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $754.96       
+40411      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,118.11     
+40412      | MANGUERAS DE GOMA POR METRO | Salida de Cuerpo de Acel.                                                   | $1,260.50     
+40509      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $793.19       
+40510      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes,Nafta - alconafta - gasoil - lubricantes-refuerzo textil intermedio espiralada | $898.31       
+40511      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,022.54     
+40513      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,408.63     
+40610      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $888.75       
+40612      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,137.22     
+40614      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,556.75     
+40711      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $936.54       
+40713      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,328.35     
+40812      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,146.78     
+40814      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,605.49     
+40913      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,051.21     
+40918      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,209.46     
+41015      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,337.91     
+41217      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,519.48     
+41220      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,675.81     
+41320      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $3,000.73     
+41523      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $3,736.58     
+41623      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $3,836.93     
+41926      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $4,395.98     
+42230      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,589.81     
+50308      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $802.74       
+50510      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $974.76       
+50513      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,538.59     
+50612      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,171.62     
+50614      | MANGUERAS DE GOMA POR METRO | Multifuel inyeccion electrónica (espiralado)-sae 30r6                       | $2,217.10     
+50713      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,335.04     
+50715      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,322.22     
+50814      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,572.04     
+50816      | MANGUERAS DE GOMA POR METRO | Multifuel inyeccion electrónica (espiralado)-sae 30r6                       | $2,398.68     
+50915      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,720.17     
+50916      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,134.92     
+50917      | MANGUERAS DE GOMA POR METRO | Nafta-alconafta-gasoil-lubricantes/ (servo freno-direccion)                 | $2,802.92     
+51016      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,293.56     
+51018      | MANGUERAS DE GOMA POR METRO | Multifuel inyeccion electrónica (espiralado)-sae 30r6                       | $2,476.08     
+51119      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,654.79     
+51218      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,771.38     
+51219      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $2,687.76     
+51320      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $3,010.29     
+51322      | MANGUERAS DE GOMA POR METRO | Nafta-alconafta-gasoil-lubricantes/ (servo freno-direccion)                 | $4,077.75     
+51623      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $3,882.32     
+60510      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,119.90     
+60713      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,505.15     
+60814      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,773.92     
+60915      | MANGUERAS DE GOMA POR METRO | Nafta - alconafta - gasoil - lubricantes                                    | $1,941.16     
+70612      | MANGUERAS DE GOMA POR METRO | MULTIPROP CAUCHO 20 BARES COMPRES                                           | $1,326.02     
+70815      | MANGUERAS DE GOMA POR METRO | MULTIPROP CAUCHO 20 BARES COMPRES                                           | $1,638.02     
+71017      | MANGUERAS DE GOMA POR METRO | MULTIPROPOSITO CAUCHO 20 BARES                                              | $2,028.03     
+71321      | MANGUERAS DE GOMA POR METRO | MULTIPROPOSITO CAUCHO 20 BARES                                              | $2,912.02     
+71625      | MANGUERAS DE GOMA POR METRO | MULTIPROPOSITO CAUCHO 20 BARES                                              | $4,030.06     
+71929      | MANGUERAS DE GOMA POR METRO | MULTIPROPOSITO CAUCHO 20 BARES                                              | $4,940.06     
+72232      | MANGUERAS DE GOMA POR METRO | Multiproposito Caucho 20 bares                                              | $6,192.00     
+72536      | MANGUERAS DE GOMA POR METRO | MULTIPROPOSITO CAUCHO 20 BARES                                              | $6,656.09     
+AA102      | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $12,795.32    
+AA150      | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $35,912.73    
+AA25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $2,330.55     
+AA32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $3,063.51     
+AA38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $3,264.58     
+AA50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $4,605.68     
+AA63       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $6,849.95     
+AA76       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $8,220.21     
+AA89       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | $11,505.60    
+AF25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC        | $3,051.28     
+AF32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC        | $3,857.41     
+AF38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC        | $4,420.50     
+AF50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC        | $6,225.31     
+AG102      | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $15,750.79    
+AG25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $2,773.89     
+AG32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $3,506.74     
+AG38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $4,018.64     
+AG50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $5,659.38     
+AG63       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $8,875.95     
+AG76       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $10,651.49    
+AG89       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC          | $12,315.81    
+AH102      | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $18,813.45    
+AH25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $3,250.83     
+AH32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $4,067.77     
+AH38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $4,745.73     
+AH50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $7,457.58     
+AH63       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $10,508.41    
+AH76       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $12,711.79    
+AH89       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC           | $15,762.62    
+AN102      | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $17,560.00    
+AN25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $3,208.49     
+AN32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $4,197.06     
+AN38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $4,509.24     
+AN50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $6,416.99     
+AN63       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $9,408.69     
+AN76       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $11,351.13    
+AN89       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC          | $15,381.26    
+AR102      | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Vitivinicola                                            | $23,785.41    
+AS102      | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $16,727.68    
+AS25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $2,803.33     
+AS32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $3,543.58     
+AS38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $4,203.07     
+AS50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $6,216.16     
+AS63       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $9,229.06     
+AS76       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $11,151.78    
+AS89       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | $17,231.12    
+AT102      | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $23,785.41    
+AT25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $4,122.80     
+AT32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $5,218.38     
+AT38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $6,169.79     
+AT50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $8,649.24     
+AT63       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $12,973.86    
+AT76       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $15,424.48    
+AT89       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | $18,379.64    
+AW102      | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $23,785.41    
+AW25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $4,122.80     
+AW32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $5,218.38     
+AW38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $6,169.79     
+AW50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $8,649.24     
+AW63       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $12,973.86    
+AW76       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $15,424.48    
+AW89       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC     | $18,379.64    
+CE102      | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $12,291.88    
+CE25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $1,995.77     
+CE32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $2,376.89     
+CE38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $3,637.05     
+CE50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $5,093.92     
+CE63       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $6,761.84     
+CE76       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC        | $8,835.47     
+EB25       | MANGUERAS DE GOMA POR METRO | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $1,760.66     
+EB32       | MANGUERAS DE GOMA POR METRO | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $2,142.81     
+EB38       | MANGUERAS DE GOMA POR METRO | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $2,719.53     
+EB50       | MANGUERAS DE GOMA POR METRO | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $3,973.80     
+EB63       | MANGUERAS DE GOMA POR METRO | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $5,579.74     
+EB76       | MANGUERAS DE GOMA POR METRO | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC        | $6,969.98     
+EC25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $3,471.54     
+EC32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $4,387.93     
+EC38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $5,279.64     
+EC50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $7,436.60     
+EC63       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $13,625.41    
+EC76       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | $9,437.67     
+EF25       | MANGUERAS DE GOMA POR METRO | Aspirante Piletera barrefondo PVC                                           | $1,779.65     
+EF32       | MANGUERAS DE GOMA POR METRO | Aspirante Piletera barrefondo PVC                                           | $2,001.07     
+EF3210     | MANGUERAS DE GOMA POR METRO | Aspirante Piletera barrefondo PVC                                           | $2,005.21     
+EF38       | MANGUERAS DE GOMA POR METRO | Aspirante Piletera barrefondo PVC                                           | $2,427.36     
+EF3810     | MANGUERAS DE GOMA POR METRO | Aspirante Piletera barrefondo PVC                                           | $2,427.36     
+EF50       | MANGUERAS DE GOMA POR METRO | Aspirante Piletera barrefondo PVC                                           | $3,724.85     
+EG102      | MANGUERAS DE GOMA POR METRO | Aspirante Gris de PVC con espiral rigido de PVC                             | $9,688.78     
+EG25       | MANGUERAS DE GOMA POR METRO | Aspirante Gris de PVC con espiral rigido de PVC                             | $1,904.25     
+EG32       | MANGUERAS DE GOMA POR METRO | Aspirante Gris de PVC con espiral rigido de PVC                             | $2,093.94     
+EG38       | MANGUERAS DE GOMA POR METRO | Aspirante Gris de PVC con espiral rigido de PVC                             | $2,968.47     
+EG50       | MANGUERAS DE GOMA POR METRO | Aspirante Gris de PVC con espiral rigido de PVC                             | $3,892.26     
+EG63       | MANGUERAS DE GOMA POR METRO | Aspirante Gris de PVC con espiral rigido de PVC                             | $5,321.07     
+EG76       | MANGUERAS DE GOMA POR METRO | Aspirante Gris de PVC con espiral rigido de PVC                             | $6,498.60     
+EG89       | MANGUERAS DE GOMA POR METRO | Aspirante Gris de PVC con espiral rigido de PVC                             | $8,243.96     
+EL32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC blanco | $6,798.64     
+EL38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC blanco | $7,665.13     
+EL50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC blanco | $10,775.62    
+EL63       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC blanco | $17,300.24    
+EL76       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC blanco | $19,884.90    
+EP25       | MANGUERAS DE GOMA POR METRO | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $1,760.66     
+EP32       | MANGUERAS DE GOMA POR METRO | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $2,142.81     
+EP38       | MANGUERAS DE GOMA POR METRO | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $2,719.53     
+EP50       | MANGUERAS DE GOMA POR METRO | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $3,973.80     
+EP63       | MANGUERAS DE GOMA POR METRO | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $5,579.74     
+EP76       | MANGUERAS DE GOMA POR METRO | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC         | $6,969.98     
+ES102      | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $8,104.80     
+ES25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $1,722.50     
+ES32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $2,039.80     
+ES38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $2,198.45     
+ES50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $3,082.36     
+ES63       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $4,396.90     
+ES76       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $5,403.20     
+ES89       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC      | $6,904.72     
+ESB101     | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $9,133.44     
+ESB25      | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $1,881.91     
+ESB2530    | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $1,881.91     
+ESB32      | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $2,081.18     
+ESB3230    | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $2,081.18     
+ESB38      | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $2,445.39     
+ESB3830    | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $2,445.39     
+ESB50      | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $3,608.65     
+ESB5030    | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $3,608.65     
+ESB63      | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $5,723.26     
+ESB6330    | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $5,723.26     
+ESB76      | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $6,116.69     
+ESB89      | MANGUERAS DE GOMA POR METRO | Aspirapolvo de PVC                                                          | $7,783.81     
+FE25       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Naranja de PVC con espiral rigido de PVC                | $1,885.86     
+FE32       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Naranja de PVC con espiral rigido de PVC                | $2,095.77     
+FE38       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Naranja de PVC con espiral rigido de PVC                | $2,695.78     
+FE50       | MANGUERAS DE GOMA POR METRO | Aspirante Expelente Naranja de PVC con espiral rigido de PVC                | $3,593.06     
+FU010825   | MANGUERAS DE GOMA POR METRO | Manguera de Fumigacion Naranja                                              | $1,107.81     
+FU011025   | MANGUERAS DE GOMA POR METRO | Manguera de Fumigacion Naranja                                              | $1,524.10     
+FU011225   | MANGUERAS DE GOMA POR METRO | Manguera de Fumigacion Naranja                                              | $1,672.63     
+FU011925   | MANGUERAS DE GOMA POR METRO | Manguera de Fumigacion Naranja                                              | $2,615.96     
+FU012525   | MANGUERAS DE GOMA POR METRO | Manguera de Fumigacion Naranja                                              | $6,150.41     
+KTPA1050   | MANGUERAS DE GOMA POR METRO | PRESION 20 bares 10mm ATOXICA                                               | $1,663.95     
+KTPA1250   | MANGUERAS DE GOMA POR METRO | PRESION 20 bares 12mm ATOXICA                                               | $1,836.37     
+KTPA1950   | MANGUERAS DE GOMA POR METRO | PRESION 20 bares 19mm ATOXICA                                               | $4,084.58     
+KTPA2550   | MANGUERAS DE GOMA POR METRO | PRESION 20 bares 25mm ATOXICA                                               | $5,911.42     
+KTPA550    | MANGUERAS DE GOMA POR METRO | PRESION 20 bares 5mm ATOXICA                                                | $1,062.02     
+KTPA650    | MANGUERAS DE GOMA POR METRO | PRESION 20 bares 6mm ATOXICA                                                | $1,142.39     
+KTPA850    | MANGUERAS DE GOMA POR METRO | PRESION 20 bares 8mm ATOXICA                                                | $1,378.83     
+MBL-100    | MANGUERAS DE GOMA POR METRO | Manga Plana Reforzada - AZUL ¯100mm (100m)                                  | $9,186.28     
+MBL-125    | MANGUERAS DE GOMA POR METRO | Manga Plana Reforzada - AZUL ¯125mm (100m)                                  | $11,227.68    
+MBL-150    | MANGUERAS DE GOMA POR METRO | Manga Plana Reforzada - AZUL ¯150mm (100m)                                  | $13,269.08    
+MBL-200    | MANGUERAS DE GOMA POR METRO | Manga Plana Reforzada - AZUL ¯200mm (100m)                                  | $36,745.14    
+MBL-25     | MANGUERAS DE GOMA POR METRO | Manga Plana Reforzada - AZUL ¯25mm (100m)                                   | $2,653.82     
+MBL-32     | MANGUERAS DE GOMA POR METRO | Manga Plana Reforzada - AZUL ¯32mm (100m)                                   | $3,062.10     
+MBL-40     | MANGUERAS DE GOMA POR METRO | Manga Plana Reforzada - AZUL ¯40mm (100m)                                   | $3,572.44     
+MBL-45     | MANGUERAS DE GOMA POR METRO | Manga Plana Reforzada - AZUL ¯45mm (100m)                                   | $4,082.79     
+MBL-50     | MANGUERAS DE GOMA POR METRO | Manga Plana Reforzada - AZUL ¯50mm (100m)                                   | $5,103.49     
+MBL-63     | MANGUERAS DE GOMA POR METRO | Manga Plana Reforzada - AZUL ¯63mm (100m)                                   | $5,613.84     
+MBL-75     | MANGUERAS DE GOMA POR METRO | Manga Plana Reforzada - AZUL ¯75mm (100m)                                   | $6,124.19     
+MIH100     | MANGUERAS DE GOMA POR METRO | Mang Industrial Hidrocarburos Verde 1''                                     | $8,884.92     
+MIH11016   | MANGUERAS DE GOMA POR METRO | Mang Industrial Hidrocarburos Verde 1' 10/16''                              | $14,681.78    
+MIH112     | MANGUERAS DE GOMA POR METRO | Mang Industrial Hidrocarburos Verde 1' 1/2''                                | $13,300.29    
+MIH114     | MANGUERAS DE GOMA POR METRO | Mang Industrial Hidrocarburos Verde 1' 1/4''                                | $10,510.21    
+MIH134     | MANGUERAS DE GOMA POR METRO | Mang Industrial Hidrocarburos Verde 1' 3/4''                                | $15,467.34    
+MIH200     | MANGUERAS DE GOMA POR METRO | Mang Industrial Hidrocarburos Verde 2''                                     | $16,794.66    
+MIH214     | MANGUERAS DE GOMA POR METRO | Mang Industrial Hidrocarburos Verde 2' 1/4''                                | $18,772.09    
+MIH34      | MANGUERAS DE GOMA POR METRO | Mang Industrial Hidrocarburos Verde 3/4''                                   | $7,232.54     
+MMP 10/50  | MANGUERAS DE GOMA POR METRO | TUBO MULTIPROPOSITO de PVC 10 MM *MOTORTEIL*                                | $1,368.51     
+MMP 13/50  | MANGUERAS DE GOMA POR METRO | TUBO MULTIPROPOSITO de PVC 13 MM *MOTORTEIL*                                | $1,905.53     
+MMP 19/25  | MANGUERAS DE GOMA POR METRO | TUBO MULTIPROPOSITO de PVC 19 MM*MOTORTEIL*                                 | $3,046.50     
+MMP 25/25  | MANGUERAS DE GOMA POR METRO | TUBO MULTIPROPOSITO de PVC 25 MM*MOTORTEIL*                                 | $4,418.05     
+MMP 6/50   | MANGUERAS DE GOMA POR METRO | TUBO MULTIPROPOSITO de PVC 6 MM*MOTORTEIL*                                  | $822.56       
+MMP 8/50   | MANGUERAS DE GOMA POR METRO | TUBO MULTIPROPOSITO de PVC 8 MM*MOTORTEIL*                                  | $994.69       
+MRE-38     | MANGUERAS DE GOMA POR METRO | MANGA PLANA SUPER REFORZADA - ROJA (10 BARES)                               | $4,593.14     
+MRE-51     | MANGUERAS DE GOMA POR METRO | MANGA PLANA SUPER REFORZADA - ROJA (10 BARES)                               | $6,634.54     
+PF3230     | MANGUERAS DE GOMA POR METRO | Aspirante Piletera para barrefondo PVC                                      | $1,813.74     
+PF5030     | MANGUERAS DE GOMA POR METRO | Aspirante Piletera para barrefondo PVC                                      | $2,873.34     
+PZ0125     | MANGUERAS DE GOMA POR METRO | "RIEGO TRICOLOR 1"" X 25MTS"                                                | $1,059.72     
+PZ1225     | MANGUERAS DE GOMA POR METRO | "RIEGO TRICOLOR 1/2"" X 25MTS"                                              | $353.24       
+PZ1250     | MANGUERAS DE GOMA POR METRO | "RIEGO TRICOLOR 1/2"" X 50MTS"                                              | $353.24       
+PZ30125    | MANGUERAS DE GOMA POR METRO | "TRENZADA 1""X25 MTS PRESION 5KL"                                           | $3,693.22     
+PZ31215    | MANGUERAS DE GOMA POR METRO | "TRENZADA 1/2""X15 MTS PRESION 5KL"                                         | $1,230.97     
+PZ31225    | MANGUERAS DE GOMA POR METRO | "TRENZADA 1/2""X25 MTS PRESION 5KL"                                         | $1,231.27     
+PZ31250    | MANGUERAS DE GOMA POR METRO | RIEGO TRENZADA 1/2" X 50MTS AZUL                                            | $1,243.72     
+PZ33425    | MANGUERAS DE GOMA POR METRO | "TRENZADA 3/4""X25 MTS PRESION 5KL"                                         | $2,462.13     
+PZ33450    | MANGUERAS DE GOMA POR METRO | RIEGO TRENZADA 3/4" X 50MTS AZUL                                            | $2,462.13     
+PZ3425     | MANGUERAS DE GOMA POR METRO | "RIEGO TRICOLOR 3/4"" X 25MTS"                                              | $706.48       
+PZ3450     | MANGUERAS DE GOMA POR METRO | "RIEGO TRICOLOR 3/4"" X 50MTS"                                              | $706.48       
+RPA0650    | MANGUERAS DE GOMA POR METRO | Rollo de presion rojo                                                       | $596.37       
+RPA0850    | MANGUERAS DE GOMA POR METRO | Rollo de presion rojo                                                       | $937.07       
+RPA1050    | MANGUERAS DE GOMA POR METRO | Rollo de presion rojo                                                       | $1,101.99     
+RPA1250    | MANGUERAS DE GOMA POR METRO | Rollo de presion rojo                                                       | $1,720.45     
+RPA1950    | MANGUERAS DE GOMA POR METRO | Rollo de presion rojo                                                       | $3,459.64     
+RPA2525    | MANGUERAS DE GOMA POR METRO | Rollo de presion rojo                                                       | $4,359.15     
+RT3025     | MANGUERAS DE GOMA POR METRO | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $1,217.50     
+RT3050     | MANGUERAS DE GOMA POR METRO | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $1,218.10     
+RT3125     | MANGUERAS DE GOMA POR METRO | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $3,642.89     
+RT3150     | MANGUERAS DE GOMA POR METRO | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $3,644.67     
+RT3425     | MANGUERAS DE GOMA POR METRO | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $2,428.65     
+RT3450     | MANGUERAS DE GOMA POR METRO | Riego trenzada - Presión 10KL - AIRE/AGUA                                   | $2,429.84     
+SG3001     | MANGUERAS DE GOMA POR METRO | Kit GNC 5ta generacion                                                      | $7,957.64     
+TCHB 10/14 | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $509.16       
+TCHB 12/16 | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $595.06       
+TCHB 16/20 | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $1,651.75     
+TCHB 16/22 | MANGUERAS DE GOMA POR METRO | ROLLO DE ACRILICO RESISTENTE A HIDROCARBUROS                                | $1,270.58     
+TCHB 19/25 | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $1,462.10     
+TCHB 3/6   | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $144.81       
+TCHB 4/7   | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $173.87       
+TCHB 5/10  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $398.35       
+TCHB 5/11  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $498.87       
+TCHB 5/8   | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor (Para filtro combustible de moto)        | $206.83       
+TCHB 5/9   | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $290.66       
+TCHB 6/10  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $338.14       
+TCHB 6/11  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $432.09       
+TCHB 6/12  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $579.23       
+TCHB 6/9   | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $236.42       
+TCHB 7/10  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $279.24       
+TCHB 7/11  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $388.75       
+TCHB 7/12  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $529.41       
+TCHB 7/13  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $629.31       
+TCHB 7/14  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $761.41       
+TCHB 8/10  | MANGUERAS DE GOMA POR METRO | ROLLO DE ACRILICO RESISTENTE A HIDROCARBUROS                                | $170.33       
+TCHB 8/11  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $307.48       
+TCHB 8/12  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $423.52       
+TCHB 8/13  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $544.46       
+TCHB 8/14  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $700.94       
+TCHB 9/11  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $320.45       
+TCHB 9/12  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $337.88       
+TCHB 9/13  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $696.81       
+TCHB 9/14  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $612.71       
+TCHB 9/15  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $756.48       
+TCHB 9/16  | MANGUERAS DE GOMA POR METRO | Hidrocarburo - industria automotor                                          | $933.21       
+TCIZ 10/12 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $209.29       
+TCIZ 10/14 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $458.21       
+TCIZ 10/15 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $614.68       
+TCIZ 12/15 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $396.75       
+TCIZ 12/16 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $530.99       
+TCIZ 12/18 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $832.62       
+TCIZ 14/18 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $603.93       
+TCIZ 16/20 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $697.22       
+TCIZ 16/22 | MANGUERAS DE GOMA POR METRO | ROLLO DE ACRILICO CRISTAL INDUSTRIAL                                        | $1,040.26     
+TCIZ 19/23 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $832.62       
+TCIZ 19/25 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $1,196.71     
+TCIZ 22/28 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $1,415.08     
+TCIZ 25/31 | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $1,665.24     
+TCIZ 3/6   | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $126.06       
+TCIZ 4/6   | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $94.94        
+TCIZ 4/7   | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $156.86       
+TCIZ 5/10  | MANGUERAS DE GOMA POR METRO | ROLLO DE ACRILICO CRISTAL INDUSTRIAL                                        | $436.54       
+TCIZ 5/7   | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $115.65       
+TCIZ 5/8   | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $189.48       
+TCIZ 5/9   | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $261.30       
+TCIZ 6/10  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $298.45       
+TCIZ 6/11  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $398.09       
+TCIZ 6/12  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $464.40       
+TCIZ 6/8   | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $136.32       
+TCIZ 6/9   | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $209.29       
+TCIZ 7/10  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $240.66       
+TCIZ 7/11  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $339.32       
+TCIZ 7/12  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $448.30       
+TCIZ 7/13  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $563.06       
+TCIZ 7/14  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $717.86       
+TCIZ 8/10  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $168.43       
+TCIZ 8/11  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $271.62       
+TCIZ 8/12  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $374.41       
+TCIZ 8/13  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $501.55       
+TCIZ 8/14  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $624.98       
+TCIZ 9/11  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $189.48       
+TCIZ 9/12  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $302.52       
+TCIZ 9/13  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $407.02       
+TCIZ 9/14  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $551.50       
+TCIZ 9/15  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $667.50       
+TCIZ 9/16  | MANGUERAS DE GOMA POR METRO | Tubo cristal - Industria / Inst AA nivel obra                               | $903.75       
+TCPH 10 50 | MANGUERAS DE GOMA POR METRO | Presión Hidrocarburo - 20 bar                                               | $1,667.73     
+TCPH 12 50 | MANGUERAS DE GOMA POR METRO | Presión Hidrocarburo - 20 bar                                               | $1,901.21     
+TCPH 13 25 | MANGUERAS DE GOMA POR METRO | TUBO PRESION HIDROCARBURO                                                   | $2,626.62     
+TCPH 19 25 | MANGUERAS DE GOMA POR METRO | Presión Hidrocarburo - 20 bar                                               | $3,802.35     
+TCPH 25 25 | MANGUERAS DE GOMA POR METRO | Presión Hidrocarburo - 20 bar                                               | $5,367.35     
+TCPH 5 50  | MANGUERAS DE GOMA POR METRO | Presión Hidrocarburo - 20 bar                                               | $1,138.44     
+TCPH 6 50  | MANGUERAS DE GOMA POR METRO | Presión Hidrocarburo - 20 bar                                               | $1,271.21     
+TCPH 8 50  | MANGUERAS DE GOMA POR METRO | Presión Hidrocarburo - 20 bar                                               | $1,490.95     
+TG 8 25    | MANGUERAS DE GOMA POR METRO | Gas certificado -Presión 34 bar                                             | $1,077.72     
+TG 8 50    | MANGUERAS DE GOMA POR METRO | Gas certificado -Presión 34 bar                                             | $1,077.72     
+TMP 10/50  | MANGUERAS DE GOMA POR METRO | ROLLO MULTIPROPOSITO *TECNOCOM*                                             | $1,875.95     
+TMP 13/50  | MANGUERAS DE GOMA POR METRO | ROLLO MULTIPROPOSITO *TECNOCOM*                                             | $2,703.39     
+TMP 16/50  | MANGUERAS DE GOMA POR METRO | ROLLO MULTIPROPOSITO*TECNOCOM*                                              | $3,777.16     
+TMP 19/25  | MANGUERAS DE GOMA POR METRO | ROLLO MULTIPROPOSITO*TECNOCOM*                                              | $5,691.01     
+TMP 25/25  | MANGUERAS DE GOMA POR METRO | ROLLO MULTIPROPOSITO*TECNOCOM*                                              | $7,352.20     
+TMP 6/50   | MANGUERAS DE GOMA POR METRO | ROLLO MULTIPROPOSITO*TECNOCOM*                                              | $928.50       
+TMP 8/50   | MANGUERAS DE GOMA POR METRO | ROLLO MULTIPROPOSITO*TECNOCOM*                                              | $1,604.35     
+TP3A3225   | MANGUERAS DE GOMA POR METRO | uso alimentario 20 bares 32mm 25 metros                                     | $355.87       
+TP3B-5     | MANGUERAS DE GOMA POR METRO | Rollo de presion rojo                                                       | $1,771.67     

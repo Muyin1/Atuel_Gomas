@@ -1,0 +1,272 @@
+=== TABLA NORMALIZADA: INDUMENTARIA LABORAL ===
+Total de registros clasificados: 266
+===================================================================================================================
+
+CODIGO        | DESCRIPCION                                                       | TALLE/MEDIDA | MATERIAL       | COLOR    | PRECIO (S/IVA)
+---------------------------------------------------------------------------------------------------------------------------------------------
+71102         | Campera de Desc. Amarilla Talle 1                                 | 1            |                |          | $60,392.81    
+71202         | Campera de Desc. Amarilla Talle 2                                 | 2            |                |          | $60,392.81    
+71302         | Campera de Desc. Amarilla Talle 3                                 | 3            |                |          | $60,392.81    
+71402         | Campera de Desc. Amarilla. Talle 4                                | 4            |                |          | $60,392.81    
+71502         | Campera de Desc. Amarilla. Talle 5                                | 5            |                |          | $60,392.81    
+71602         | Campera de Desc. Amarilla. Talle 6                                | 6            |                |          | $60,392.81    
+71702         | Campera de Desc. Amarilla. Talle 7                                | 7            |                |          | $63,009.19    
+71802         | Campera de Desc. Amarilla. Talle 8                                | 8            |                |          | $63,009.19    
+71902         | Campera de Desc. Amarilla. Talle 9                                | 9            |                |          | $63,009.19    
+7190210       | Campera de Desc. Amarilla Talle 10                                | 10           |                |          | $65,625.56    
+7190211       | Campera de Desc. Amarilla. Talle 11                               | 11           |                |          | $65,625.56    
+71102R        | Campera de Desc. Amarilla. Talle1 Aplicaciones Reflectivas        | 1            |                |          | $188,233.85   
+71202R        | Campera de Desc. Amarilla. Talle 2 Aplicaciones Reflectivas       | 2            |                |          | $188,233.85   
+71302R        | Campera de Desc. Amarilla. Talle 3 Aplicaciones Reflectivas       | 3            |                |          | $188,233.85   
+71402R        | Campera de Desc. Amarilla. Talle 4 Aplicaciones Reflectivas       | 4            |                |          | $226,904.36   
+71502R        | Campera de Desc. Amarilla. Talle 5 Aplicaciones Reflectivas       | 5            |                |          | $226,904.36   
+71602R        | Campera de Desc. Amarilla. Talle 6 Aplicaciones Reflectivas       | 6            |                |          | $226,904.36   
+71702R        | Campera de Desc. Amarilla. Talle 7 Aplicaciones Reflectivas       | 7            |                |          | $268,172.23   
+71802R        | Campera de Desc. Amarilla. Talle 8 Aplicaciones Reflectivas       | 8            |                |          | $268,172.23   
+71902R        | Campera de Desc. Amarilla. Talle 9 Aplicaciones Reflectivas       | 9            |                |          | $268,172.23   
+61102         | Delantal Cuero Descarne Std.-                                     |              | Cuero Descarne |          | $11,817.64    
+61112         | Delantal Cuero Descarne Std. Reforzado                            |              | Cuero Descarne |          | $15,591.30    
+61122         | Delantal Cuero Descarne Amarillo Std. Ref. c/Placa Plomo (Esp.0,5mm) |              | Cuero Descarne | Amarillo | $26,230.26    
+61132         | Delantal Cuero Descarne Amarillo Std. Ref. Radiologico(Goma Plomada) |              | Cuero Descarne | Amarillo | $18,357.38    
+61312         | Delantal Cuero Descarne Amarillo 70x110 Reforzado                 |              | Cuero Descarne | Amarillo | $26,786.33    
+61302         | Delantal Lgo. Cuero Descarne (70 x 110 cm)                        |              | Cuero Descarne |          | $21,746.07    
+64101         | Delantal Jean 60 x 90                                             |              |                |          | $4,063.58     
+64111         | Delantal Jean 60 x 90 Reforzado                                   |              |                |          | $4,396.27     
+64301         | Delantal Jean 70x110                                              |              |                |          | $4,966.59     
+DPT076035601  | Eslinga Circular Capacidad 760 Kg Largo 1 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $4,087.34     
+DPT076035603  | Eslinga Circular Capacidad 760 Kg Largo 2 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $9,503.06     
+DPT055030603  | Eslinga Circular Capacidad 550 Kg Largo 2 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $4,469.93     
+DPT076035604  | Eslinga Circular Capacidad 760 Kg Largo 2.5 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $12,010.12    
+DPT076035605  | Eslinga Circular Capacidad 760 Kg Largo 3 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $13,364.65    
+DPT055030605  | Eslinga Circular Capacidad 550 Kg Largo 3.25 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $6,884.31     
+DPT076035607  | Eslinga Circular Capacidad 760 Kg Largo 4 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $17,608.83    
+DPT076035609  | Eslinga Circular Capacidad 760 Kg Largo 5 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $21,741.32    
+DPT076035611  | Eslinga Circular Capacidad 760 Kg Largo 6 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $25,802.52    
+DPT076035613  | Eslinga Circular Capacidad 760 Kg Largo 7 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $29,980.16    
+DPT076035615  | Eslinga Circular Capacidad 760 Kg Largo 8 m Ancho 35 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $34,202.95    
+DPT100030601  | Eslinga Capacidad 1 Tn Largo 1 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $14,403.12    
+DPT100030603  | Eslinga Capacidad 1 Tn Largo 2 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $19,662.00    
+DPT100030605  | Eslinga Capacidad 1 Tn Largo 3 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $24,923.26    
+DPT100030607  | Eslinga Capacidad 1 Tn Largo 4 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $28,872.77    
+DPT100030609  | Eslinga Capacidad 1 Tn Largo 5 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $34,652.08    
+DPT100030611  | Eslinga Capacidad 1 Tn Largo 6 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $43,796.31    
+DPT100030613  | Eslinga Capacidad 1 Tn Largo 7 m Ancho 30 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $51,493.34    
+DPT100030615  | Eslinga Capacidad 1 Tn Largo 8 m Ancho 30 mm Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $57,477.02    
+DPT200060601  | Eslinga Capacidad 2 Tn Largo 1 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $18,623.53    
+DPT200060603  | Eslinga Capacidad 2 Tn Largo 2 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $25,735.98    
+DPT200060605  | Eslinga Capacidad 2 Tn Largo 3 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $34,426.33    
+DPT200060607  | Eslinga Capacidad 2 Tn Largo 4 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $43,209.35    
+DPT200060609  | Eslinga Capacidad 2 Tn Largo 5 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $51,854.55    
+DPT200060611  | Eslinga Capacidad 2 Tn Largo 6 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $78,358.09    
+DPT200060613  | Eslinga Capacidad 2 Tn Largo 7 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $85,085.57    
+DPT200060615  | Eslinga Capacidad 2 Tn Largo 8 m Ancho 60 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $98,654.59    
+DPT100050601  | Eslinga Capacidad 1 Tn Largo 1 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $14,966.32    
+DPT100050603  | Eslinga Capacidad 1 Tn Largo 2 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $20,431.94    
+DPT100050605  | Eslinga Capacidad 1 Tn Largo 3 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $26,028.27    
+DPT100050607  | Eslinga Capacidad 1 Tn Largo 4 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $32,644.06    
+DPT100050609  | Eslinga Capacidad 1 Tn Largo 5 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $39,190.93    
+DPT100050611  | Eslinga Capacidad 1 Tn Largo 6 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $50,274.27    
+DPT100050613  | Eslinga Capacidad 1 Tn Largo 7 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $58,289.73    
+DPT100050615  | Eslinga Capacidad 1 Tn Largo 8 m Ancho 50 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $66,552.34    
+DPT300075601  | Eslinga Capacidad 3 Tn Largo 1 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $27,767.77    
+DPT300075603  | Eslinga Capacidad 3 Tn Largo 2 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $40,906.66    
+DPT300075605  | Eslinga Capacidad 3 Tn Largo 3 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $55,625.83    
+DPT300075607  | Eslinga Capacidad 3 Tn Largo 4 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $70,345.01    
+DPT300075609  | Eslinga Capacidad 3 Tn Largo 5 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $84,973.88    
+DPT300075611  | Eslinga Capacidad 3 Tn Largo 6 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $112,064.38   
+DPT300075613  | Eslinga Capacidad 3 Tn Largo 7 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $126,310.66   
+DPT300075615  | Eslinga Capacidad 3 Tn Largo 8 m Ancho 75 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $140,259.90   
+DPT4000100601 | Eslinga capacidad 4 Tn 1 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $44,675.57    
+DPT4000100603 | Eslinga capacidad 4 Tn 2 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $54,066.94    
+DPT4000100605 | Eslinga capacidad 4 Tn 3 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $75,492.20    
+DPT4000100607 | Eslinga capacidad 4 Tn 4 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $96,984.00    
+DPT4000100609 | Eslinga capacidad 4 Tn 5 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $118,316.59   
+DPT4000100611 | Eslinga capacidad 4 Tn 6 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $156,559.35   
+DPT4000100613 | Eslinga capacidad 4 Tn 7 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $175,004.66   
+DPT4000100615 | Eslinga capacidad 4 Tn 8 m Ancho 100 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $192,318.81   
+DPT5000125603 | Eslinga capacidad 5 Tn 2 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $69,192.47    
+DPT5000125605 | Eslinga capacidad 5 Tn 3 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $95,494.03    
+DPT5000125607 | Eslinga capacidad 5 Tn 4 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $121,681.51   
+DPT5000125609 | Eslinga capacidad 5 Tn 5 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $147,462.64   
+DPT5000125611 | Eslinga capacidad 5 Tn 6 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $210,357.76   
+DPT5000125613 | Eslinga capacidad 5 Tn 7 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $246,861.03   
+DPT5000125615 | Eslinga capacidad 5 Tn 8 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $251,511.57   
+DPT5000125619 | Eslinga capacidad 5 Tn 10 m Ancho 125 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $330,570.69   
+DPT6000150603 | Eslinga capacidad 6 Tn 2 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $89,398.66    
+DPT6000150605 | Eslinga capacidad 6 Tn 3 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $124,728.01   
+DPT6000150607 | Eslinga capacidad 6 Tn 4 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $160,150.03   
+DPT6000150609 | Eslinga capacidad 6 Tn 5 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $195,367.68   
+DPT6000150611 | Eslinga capacidad 6 Tn 6 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $250,021.59   
+DPT6000150613 | Eslinga capacidad 6 Tn 7 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $279,778.37   
+DPT6000150615 | Eslinga capacidad 6 Tn 8 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $311,585.95   
+DPT6000150617 | Eslinga capacidad 6 Tn 9 m Ancho 150 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $340,549.02   
+DPT8000200603 | Eslinga capacidad 8 Tn 2 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $180,151.85   
+DPT8000200605 | Eslinga capacidad 8 Tn 3 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $209,295.53   
+DPT8000200607 | Eslinga capacidad 8 Tn 4 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $278,129.17   
+DPT8000200609 | Eslinga capacidad 8 Tn 5 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $334,137.60   
+DPT8000200611 | Eslinga capacidad 8 Tn 6 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $361,658.23   
+DPT8000200613 | Eslinga capacidad 8 Tn 7 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $417,148.61   
+DPT8000200615 | Eslinga capacidad 8 Tn 8 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $473,542.01   
+DPT8000200623 | Eslinga capacidad 8 Tn 12 m Ancho 200 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $690,266.04   
+DPT1001250619 | Eslinga capacidad 10 Tn 10 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $727,401.42   
+DPT1001250623 | Eslinga capacidad 10 Tn 12 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $849,061.55   
+DPT1001250629 | Eslinga capacidad 10 Tn 15 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $1,050,636.28 
+DPT1001250605 | Eslinga capacidad 10 Tn 3 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $256,071.80   
+DPT1001250607 | Eslinga capacidad 10 Tn 4 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $321,089.01   
+DPT1001250609 | Eslinga capacidad 10 Tn 5 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $386,650.41   
+DPT1001250611 | Eslinga capacidad 10 Tn 6 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $453,540.19   
+DPT1001250613 | Eslinga capacidad 10 Tn 7 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $521,808.26   
+DPT1001250615 | Eslinga capacidad 10 Tn 8 m Ancho 250 mm - Coeficiente Seguridad 6 IRAM 5378 |              |                |          | $590,934.19   
+DPA911007     | Anclaje de viga corredizo de aluminio p/ perfil doble T ancho 105-350mm alto 35mm c/ argolla de acero. Capacidad 120 Kg. |              |                |          | $557,522.57   
+DPA911008     | Anclaje de viga fijo de aluminio p/ perfil doble T ancho 105-350mm alto 35mm c/ argolla de acero. Capacidad 120 Kg. |              |                |          | $824,974.76   
+DPA32100      | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 100 Kg. Malacate cable de acero 20m c/ mosquetón 25mm. |              |                |          | $3,334,774.50 
+DPA32101      | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 100 Kg. Malacate cable de acero 35m c/ mosquetón 25mm. |              |                |          | $3,615,881.26 
+DPA32102      | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 150 Kg. Malacate cable de acero 20m c/ mosquetón 25mm. |              |                |          | $3,969,728.39 
+DPA32103      | Trípode telescópico de aluminio altura 1,35m-2,40m. Capacidad 150 Kg. Malacate cable de acero 35m c/ mosquetón 25mm. |              |                |          | $4,250,839.90 
+DPA31100      | Trípode telescópico de aluminio. Altura de 1,35 a 2,40m. Diametro de base de 1,14 a 2,10m. Capacidad 100 Kg. |              |                |          | $1,810,774.44 
+DPA31102      | Trípode telescópico de aluminio. Altura de 1,35 a 2,40m. Diametro de base de 1,14 a 2,10m. Capacidad 150 Kg. |              |                |          | $2,545,920.42 
+DPA30271      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 10m c/ absorbedor y mosquetón de 25mm. |              |                |          | $3,029,756.82 
+DPA30272      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 15m c/ absorbedor y mosquetón de 25mm. |              |                |          | $3,384,642.42 
+DPA30273      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 20m c/ absorbedor y mosquetón de 25mm. |              |                |          | $3,640,398.16 
+DPA30274      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 25m c/ absorbedor y mosquetón de 25mm. |              |                |          | $3,779,802.57 
+DPA30275      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 30m c/ absorbedor y mosquetón de 25mm. |              |                |          | $4,016,188.61 
+DPA30276      | Equipo Retráctil de Aluminio con recuperador. Capacidad 150 Kg. Cable Acero largo 35m c/ absorbedor y mosquetón de 25mm. |              |                |          | $4,384,935.52 
+DPA33070      | Malacate para trípode con cable de acero hasta 20m, mosquetón de 25mm de apertura, Capacidad 120 Kg. |              |                |          | $1,863,938.36 
+DPA33071      | Malacate para trípode con cable de acero hasta 35m, mosquetón de 25mm de apertura, Capacidad 120 Kg. |              |                |          | $2,159,859.35 
+DPA912007     | Silla Para Trabajos en Suspension de Aluminio, 645*135 mm, Capacidad 140 kg |              |                |          | $101,183.03   
+NUB3245P100   | Delantal Impermeable PE 10g Azul, 90*70 cm                        |              |                | Azul     | $17,043.25    
+NUB0251       | Mameluco Descartable 45 g/m2, Talle M, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | M            |                | Blanco   | $4,258.44     
+NUB0351       | Mameluco Descartable 45 g/m2, Talle L, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | L            |                | Blanco   | $4,258.44     
+NUB0451       | Mameluco Descartable 45 g/m2, Talle XL, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | XL           |                | Blanco   | $4,258.44     
+NUB0551       | Mameluco Descartable 45 g/m2, Talle 2XL, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | 2XL          |                | Blanco   | $4,258.44     
+NUB0651       | Mameluco Descartable 45 g/m2, Talle 3XL, Blanco Respirable Microporoso PP+PE, Tipo 5/6 | 3XL          |                | Blanco   | $4,258.44     
+NUB0241       | Mameluco Descartable Económico Respirable Blanco PP 30g Talle M   | M            |                | Blanco   | $3,524.14     
+NUB0341       | Mameluco Descartable Económico Respirable Blanco PP 30g Talle L   | L            |                | Blanco   | $3,524.14     
+NUB0441       | Mameluco Descartable Económico Respirable Blanco PP 30g Talle XL  | XL           |                | Blanco   | $3,524.14     
+NUB0541       | Mameluco Descartable Económico Respirable Blanco PP 30g Talle 2XL | 2XL          |                | Blanco   | $3,524.14     
+NUB0641       | Mameluco Descartable Económico Respirable Blanco PP 30g Talle 3XL | 3XL          |                | Blanco   | $3,524.14     
+NUB0201       | Mameluco Descartable 60 g/m2, Talle M, Blanco Respirable Laminado PP+PE, Tipo 5/6 | M            |                | Blanco   | $6,542.12     
+NUB0301       | Mameluco Descartable 60 g/m2, Talle L, Blanco Respirable Laminado PP+PE, Tipo 5/6 | L            |                | Blanco   | $6,542.12     
+NUB0401       | Mameluco Descartable 60 g/m2, Talle XL, Blanco Respirable Laminado PP+PE, Tipo 5/6 | XL           |                | Blanco   | $6,542.12     
+NUB0501       | Mameluco Descartable 60 g/m2, Talle 2XL, Blanco Respirable Laminado PP+PE, Tipo 5/6 | 2XL          |                | Blanco   | $6,542.12     
+NUB0601       | Mameluco Descartable 60 g/m2, Talle 3XL, Blanco Respirable Laminado PP+PE, Tipo 5/6 | 3XL          |                | Blanco   | $6,542.12     
+NUB0242       | Traje de Proteccion Quimica Descartable 75 g/m2, Talle M, Amarillo SMS+PE, Tipo 3/4/5/6 | M            |                | Amarillo | $24,899.50    
+NUB0342       | Traje de Proteccion Quimica Descartable 75 g/m2, Talle L, Amarillo SMS+PE, Tipo 3/4/5/6 | L            |                | Amarillo | $24,899.50    
+NUB0442       | Traje de Proteccion Quimica Descartable 75 g/m2, Talle XL, Amarillo SMS+PE, Tipo 3/4/5/6 | XL           |                | Amarillo | $24,899.50    
+NUB0542       | Traje de Proteccion Quimica Descartable 75 g/m2, Talle 2XL, Amarillo SMS+PE, Tipo 3/4/5/6 | 2XL          |                | Amarillo | $24,899.50    
+NUB0642       | Traje de Proteccion Quimica Descartable 75 g/m2, Talle 3XL, Amarillo SMS+PE, Tipo 3/4/5/6 | 3XL          |                | Amarillo | $24,899.50    
+NUB1432       | Traje de Proteccion Quimica Descartable 90 g/m2, Talle XL, Amarillo Premium SMS+PE, Tipo 3/4/5/6 | XL           |                | Amarillo | $80,753.47    
+NUB1532       | Traje de Proteccion Quimica Descartable 90 g/m2, Talle 2XL, Amarillo Premium SMS+PE, Tipo 3/4/5/6 | 2XL          |                | Amarillo | $80,753.47    
+NUB10005      | Campera de Frio Azul - Talle XS                                   | XS           |                | Azul     | $56,053.58    
+NUB10105      | Campera de Frio Azul - Talle S                                    | S            |                | Azul     | $56,053.58    
+NUB10205      | Campera de Frio Azul - Talle M                                    | M            |                | Azul     | $56,053.58    
+NUB10305      | Campera de Frío Azul - Talle L                                    | L            |                | Azul     | $56,053.58    
+NUB10405      | Campera de Frío Azul - Talle XL                                   | XL           |                | Azul     | $56,053.58    
+NUB10505      | Campera de Frio Azul - Talle 2XL                                  | 2XL          |                | Azul     | $56,053.58    
+NUB10605      | Campera de Frío Azul - Talle 3XL                                  | 3XL          |                | Azul     | $56,053.58    
+NUB04015      | Campera de Frio Aviador Azul - Talle XS                           | XS           |                | Azul     | $70,637.30    
+NUB04215      | Campera de Frio Aviador Azul - Talle M                            | M            |                | Azul     | $70,637.30    
+NUB04315      | Campera de Frio Aviador Azul - Talle L                            | L            |                | Azul     | $70,637.30    
+NUB04415      | Campera de Frio Aviador Azul - Talle XL                           | XL           |                | Azul     | $70,637.30    
+NUB04515      | Campera de Frio Aviador Azul - Talle 2XL                          | 2XL          |                | Azul     | $70,637.30    
+NUB03415      | Chaleco Azul - Talle XL                                           | XL           |                | Azul     | $47,249.17    
+NUB03515      | Chaleco Azul - Talle 2XL                                          | 2XL          |                | Azul     | $47,249.17    
+NUB03615      | Chaleco Azul - Talle 3XL                                          | 3XL          |                | Azul     | $47,249.17    
+NUB10017      | Campera de frio Amarillo fluo Talle XS con aplicaciones reflectivas | XS           |                | Amarillo | $74,950.39    
+NUB10117      | Campera de frio Amarillo fluo Talle S con aplicaciones reflectivas | S            |                | Amarillo | $74,950.39    
+NUB10217      | Campera de frio Amarillo fluo Talle M con aplicaciones reflectivas | M            |                | Amarillo | $74,950.39    
+NUB10317      | Campera de frio Amarillo fluo Talle L con aplicaciones relfectivas | L            |                | Amarillo | $74,950.39    
+NUB10417      | Campera de frio Amarillo fluo Talle XL con aplicaciones reflectivas | XL           |                | Amarillo | $74,950.39    
+NUB10517      | Campera de frio Amarillo fluo Talle 2XL con aplicaciones reflectivas | 2XL          |                | Amarillo | $74,950.39    
+NUB10617      | Campera de frio Amarillo fluo Talle 3XL con aplicaciones reflectivas | 3XL          |                | Amarillo | $74,950.39    
+NUB10016      | Campera de frio Naranja fluo con aplicaciones reflectivas Talle XS | XS           |                | Naranja  | $74,950.39    
+NUB10116      | Campera de frio Naranja fluo con aplicaciones reflectivas Talle S | S            |                | Naranja  | $74,950.39    
+NUB10216      | Campera de frio Naranja fluo con aplicaciones reflectivas Talle M | M            |                | Naranja  | $74,950.39    
+NUB10316      | Campera de frio Naranja fluo con aplicaciones reflectivas Talle L | L            |                | Naranja  | $74,950.39    
+NUB10416      | Campera de frio Naranja Fluo con aplicaciones reflectivas Talle XL | XL           |                | Naranja  | $74,950.39    
+NUB10516      | Campera de frio Naranja fluo con aplicaciones reflectivas Talle 2XL | 2XL          |                | Naranja  | $74,950.39    
+NUB10616      | Campera de frio Naranja Fluo con aplicaciones reflectivas Talle 3XL | 3XL          |                | Naranja  | $74,950.39    
+NUB02109      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle S | S            |                |          | $67,410.20    
+NUB02209      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle M | M            |                |          | $67,410.20    
+NUB02309      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle L | L            |                |          | $67,410.20    
+NUB02409      | Campera Rompeviento impermeable bolso con aplicaciones relfectivas Talle XL | XL           |                |          | $67,410.20    
+NUB02509      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 2XL | 2XL          |                |          | $67,410.20    
+NUB02609      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 3XL | 3XL          |                |          | $67,410.20    
+NUB02709      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 4XL | 4XL          |                |          | $67,410.20    
+NUB02809      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 5XL | 5XL          |                |          | $67,410.20    
+NUB02909      | Campera Rompeviento impermeable bolso con aplicaciones reflectivas Talle 6XL | 6XL          |                |          | $67,410.20    
+NUB01009      | Campera Softshell Negra Talle XS                                  | XS           |                |          | $68,969.10    
+NUB01109      | Campera Softshell Negra Talle S                                   | S            |                |          | $68,969.10    
+NUB01209      | Campera Softshell Negra Talle M                                   | M            |                |          | $68,969.10    
+NUB01309      | Campera Softshell Negra Talle L                                   | L            |                |          | $68,969.10    
+NUB01409      | Campera Softshell Negra Talle XL                                  | XL           |                |          | $68,969.10    
+NUB01509      | Campera Softshell Negra Talle 2XL                                 | 2XL          |                |          | $68,969.10    
+NUB01609      | Campera Softshell Negra Talle 3XL                                 | 3XL          |                |          | $68,969.10    
+NUB01709      | Campera Softshell Negra Talle 4XL                                 | 4XL          |                |          | $68,969.10    
+NUB01809      | Campera Softshell Negra Talle 5XL                                 | 5XL          |                |          | $68,969.10    
+NUB01909      | Campera Softshell Negra Talle 6XL                                 | 6XL          |                |          | $68,969.10    
+NUB01005R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle XS     | XS           |                | Azul     | $62,895.12    
+NUB01105R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle S      | S            |                | Azul     | $62,895.12    
+NUB01205R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle M      | M            |                | Azul     | $62,895.12    
+NUB01305R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle L      | L            |                | Azul     | $62,895.12    
+NUB01405R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle XL     | XL           |                | Azul     | $64,316.18    
+NUB01505R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 2XL    | 2XL          |                | Azul     | $64,316.18    
+NUB01605R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 3XL    | 3XL          |                | Azul     | $64,316.18    
+NUB01705R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 4XL    | 4XL          |                | Azul     | $64,316.18    
+NUB01805R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 5XL    | 5XL          |                | Azul     | $64,316.18    
+NUB01905R     | Camperas Softshell Azul Con Aplicaciones Reflectivas Talle 6XL    | 6XL          |                | Azul     | $64,316.18    
+NUB5102       | Trajes de lluvia Amarillo - Talle S (1) Premium                   | S            |                | Amarillo | $28,739.70    
+NUB5202       | Trajes de lluvia Amarillo - Talle M (2) Premium                   | M            |                | Amarillo | $28,739.70    
+NUB5302       | Trajes de lluvia Amarillo - Talle L (3) Premium                   | L            |                | Amarillo | $28,739.70    
+NUB5402       | Trajes de lluvia Amarillo Talle XL (4) Premium                    | XL           |                | Amarillo | $28,739.70    
+NUB5502       | Trajes de lluvia Amarillo Talle 2XL (5) Premium                   | 2XL          |                | Amarillo | $28,739.70    
+NUB5602       | Trajes de lluvia Amarillo - Talle 3XL (6) Premium                 | 3XL          |                | Amarillo | $28,739.70    
+NUB5702       | Trajes de lluvia Amarillo - Talle 4XL (7) Premium                 | 4XL          |                | Amarillo | $33,908.28    
+NUB5802       | Trajes de lluvia Amarillo - Talle 5XL (8) Premium                 | 5XL          |                | Amarillo | $33,908.28    
+NUB5902       | Trajes de lluvia Amarillo-Talle 6XL (9) Premium                   | 6XL          |                | Amarillo | $33,908.28    
+NUB5105       | Trajes de lluvia Azul-Talle S (1) Premium                         | S            |                | Azul     | $28,739.70    
+NUB5205       | Trajes de lluvia Azul-Talle M (2) Premium                         | M            |                | Azul     | $28,739.70    
+NUB5305       | Trajes de lluvia Azul-Talle L (3) Premium                         | L            |                | Azul     | $28,739.70    
+NUB5405       | Trajes de lluvia Azul-Talle XL (4) Premium                        | XL           |                | Azul     | $28,739.70    
+NUB5505       | Trajes de lluvia Azul-Talle 2XL (5) Premium                       | 2XL          |                | Azul     | $28,739.70    
+NUB5605       | Trajes de lluvia Azul-Talle 3XL (6) Premium                       | 3XL          |                | Azul     | $28,739.70    
+NUB5705       | Trajes de lluvia Azul-Talle 4XL (7) Premium                       | 4XL          |                | Azul     | $33,908.28    
+NUB5805       | Trajes de lluvia Azul-Talle 5XL (8) Premium                       | 5XL          |                | Azul     | $33,908.28    
+NUB5905       | Trajes de lluvia Azul-Talle 6XL (9) Premium                       | 6XL          |                | Azul     | $33,908.28    
+NUB2202       | Capas de lluvia Amarilla-Talle M (2)                              | M            |                |          | $15,035.23    
+NUB2302       | Capas de lluvia Amarilla-Talle L (3)                              | L            |                |          | $15,035.23    
+NUB2402       | Capas de lluvia Amarilla-Talle XL (4)                             | XL           |                |          | $15,035.23    
+NUB2502       | Capas de lluvia Amarilla-Talle 2XL (5)                            | 2XL          |                |          | $15,035.23    
+NUB2602       | Capas de lluvia Amarilla-Talle 3XL (6)                            | 3XL          |                |          | $15,035.23    
+NUB1102       | Trajes de lluvia Amarillo-Talle S (1)                             | S            |                | Amarillo | $18,979.99    
+NUB1202       | Trajes de lluvia Amarillo-Talle M (2)                             | M            |                | Amarillo | $18,979.99    
+NUB1302       | Trajes de lluvia Amarillo-Talle L (3)                             | L            |                | Amarillo | $18,979.99    
+NUB1402       | Trajes de lluvia Amarillo-Talle XL (4)                            | XL           |                | Amarillo | $18,979.99    
+NUB1502       | Trajes de lluvia Amarillo-Talle 2XL (5)                           | 2XL          |                | Amarillo | $18,979.99    
+NUB1602       | Trajes de lluvia Amarillo-Talle 3XL (6)                           | 3XL          |                | Amarillo | $18,979.99    
+NUB1702       | Trajes de lluvia Jardinero Amarillo-Talle 4XL (7)                 | 4XL          |                | Amarillo | $21,083.07    
+NUB1802       | Trajes de lluvia Jardinero Amarillo-Talle 5XL (8)                 | 5XL          |                | Amarillo | $21,083.07    
+NUB1902       | Trajes de lluvia Jardinero Amarillo-Talle 6XL (9)                 | 6XL          |                | Amarillo | $21,083.07    
+NUB3601       | Delantal de PVC 75x120 cm Blanco                                  |              | PVC            | Blanco   | $6,542.12     
+NUB3501       | Delantal de PVC 90x120 cm Blanco                                  |              | PVC            | Blanco   | $8,020.22     
+NUB3611       | Delantal de PVC 75x120 cm Blanco Con Refuerzo                     |              | PVC            | Blanco   | $7,891.89     
+NUB3511       | Delantal de PVC 90x120 cm Blanco Con Refuerzo                     |              | PVC            | Blanco   | $8,172.30     
+NUB3604       | Delantal de PVC 75x120 cm Verde                                   |              | PVC            | Verde    | $6,542.12     
+NUB3504       | Delantal de PVC 90x120 cm Verde                                   |              | PVC            | Verde    | $8,020.22     
+NUB3614       | Delantal de PVC 75x120 cm Verde Con Refuerzo                      |              | PVC            | Verde    | $7,891.89     
+NUB3514       | Delantal de PVC 90x120 cm Verde Con Refuerzo                      |              | PVC            | Verde    | $8,172.30     
+NUB5108       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas - Talle S (1) Premium | S            |                |          | $47,384.62    
+NUB5208       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle M (2) Premium | M            |                |          | $47,384.62    
+NUB5308       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle L (3) Premium | L            |                |          | $47,384.62    
+NUB5408       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle XL (4) Premium | XL           |                |          | $47,384.62    
+NUB5508       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle 2XL (5) Premium | 2XL          |                |          | $47,384.62    
+NUB5608       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle 3XL (6) Premium | 3XL          |                |          | $47,384.62    
+NUB5708       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas - Talle 4XL (7) Premium | 4XL          |                |          | $47,384.62    
+NUB5808       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas -Talle 5XL (8) Premium | 5XL          |                |          | $47,384.62    
+NUB5908       | Trajes de lluvia Alta Visibilidad con aplicaciones reflectivas - Talle 6XL (9) Premium | 6XL          |                |          | $47,384.62    
+NUB6414       | Chaleco Amarillo Poliéster XL con aplicaciones reflectivas        |              | Poliéster      | Amarillo | $7,678.02     
+NUB6514       | Chaleco Amarillo Poliéster 2XL con aplicaciones reflectivas       |              | Poliéster      | Amarillo | $7,678.02     
+NUB7506       | Chaleco Económico Amarillo Poliéster, Tamaño 62x68 cm con aplicaciones reflectivas | a            | Poliéster      | Amarillo | $2,594.99     
+NUB7507       | Chaleco Económico Naranja Poliéster, Tamaño 62x68 cm con aplicaciones reflectivas | a            | Poliéster      | Naranja  | $2,594.99     
+NUB6416       | Chaleco Naranja Poliéster XL con aplicaciones reflectivas         |              | Poliéster      | Naranja  | $7,678.02     
+NUB6516       | Chaleco Naranja Poliéster 2XL con aplicaciones reflectivas        |              | Poliéster      | Naranja  | $7,678.02     

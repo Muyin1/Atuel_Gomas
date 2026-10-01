@@ -1,0 +1,48 @@
+=================================================================================
+MODELO RELACIONAL Y TABLAS NORMALIZADAS (3FN): ABRAZADERA TIPO AMERICANA F
+=================================================================================
+
+1. TABLA PRINCIPAL DE PRODUCTOS:
+   - TABLA: productos
+     * id (UUID / INT PK)
+     * sku / codigo (VARCHAR(50), UNIQUE, INDEX)
+     * nombre_descripcion (VARCHAR(255), NOT NULL)
+     * id_categoria (INT FK -> categorias.id)
+     * id_familia (INT FK -> familias.id)
+     * precio_base (DECIMAL(12,2))
+     * precio_mayorista_b2b (DECIMAL(12,2))
+     * stock (INT)
+     * activo (BOOLEAN)
+
+2. TABLAS DE CATÁLOGO / DOMINIO DE ATRIBUTOS:
+   - TABLA: categorias (id, nombre, descripcion)
+   - TABLA: talles_medidas (id, valor, unidad_medida)
+   - TABLA: materiales (id, nombre, propiedades_tecnicas)
+   - TABLA: colores (id, nombre, codigo_hex)
+   - TABLA: punteras_seguridad (id, tipo_puntera [Acero, Aluminio, Dieléctrica])
+
+3. TABLAS PUENTE (RELACIONES MUCHOS A MUCHOS - M:N):
+   - TABLA: producto_variantes (
+       id (PK),
+       id_producto (FK -> productos.id),
+       id_talle (FK -> talles_medidas.id),
+       id_color (FK -> colores.id),
+       id_material (FK -> materiales.id),
+       codigo_barras_especifico (VARCHAR),
+       stock_variante (INT)
+     )
+
+   - TABLA: producto_compatibilidad_vehicular (
+       id (PK),
+       id_producto (FK -> productos.id),
+       marca (VARCHAR),
+       modelo (VARCHAR),
+       motorizacion (VARCHAR),
+       anio_desde (INT),
+       anio_hasta (INT)
+     )
+
+4. SUB-FAMILIAS Y DIVISIONES EXTRAÍDAS DE ESTA SECCIÓN:
+   * ABRAZADERA_TIPO_AMERICANA_F
+
+=================================================================================

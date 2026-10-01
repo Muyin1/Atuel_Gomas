@@ -1,0 +1,13 @@
+=== REPORTE DE ARTICULOS - PAGINA: LÁTEX ===
+Total de registros detectados: 8
+================================================================================
+
+INDICE |                       |               
+-----------------------------------------------
+       | LÁTEX                 |               
+       | Descripción Art Venta | Precio sin Iva
+       | 3 x 6                 | 2297.38       
+       | 4 x 7                 | 2625.58       
+       | 4 x 9                 | 4485.37       
+       | 5 x 8                 | 2625.58       
+       | 6 x 9                 | 3281.98       

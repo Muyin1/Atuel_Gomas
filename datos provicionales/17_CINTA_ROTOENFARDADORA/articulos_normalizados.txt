@@ -1,0 +1,8 @@
+=== TABLA NORMALIZADA: CINTA ROTOENFARDADORA ===
+Total de artículos únicos: 2
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA   | DESCRIPCION NORMALIZADA                                       | PRECIO (S/IVA)
+---------------------------------------------------------------------------------------------------------------
+S/C    | CINTA ROTOENFARDADORA | CINTA ROTOENFARDADORA - CINTA LISA 10" 2T 5 mm TRAMO X 13 MT. | $132.00       
+S/C    | CINTA ROTOENFARDADORA | CINTA ROMBOIDAL 7" 3T 9 mm TRAMO X MT.                        | $18.80        

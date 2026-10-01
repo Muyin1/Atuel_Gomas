@@ -1,0 +1,113 @@
+=== TABLA NORMALIZADA: ACOPLES ===
+Total de artículos únicos: 107
+===============================================================================================
+
+CODIGO  | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA | PRECIO (S/IVA)
+------------------------------------------------------------------------
+PPA013  | ACOPLES             | 1/2"                    | $1,231.85     
+PPA019  | ACOPLES             | 3/4"                    | $1,301.99     
+PPA025  | ACOPLES             | 1"                      | $1,406.59     
+PPA032  | ACOPLES             | 1.1/4"                  | $2,411.39     
+PPA038  | ACOPLES             | 1.1/2"                  | $2,280.33     
+PPA050  | ACOPLES             | 2"                      | $2,935.63     
+PPA063  | ACOPLES             | 2.1/2"                  | $5,685.44     
+PPA075  | ACOPLES             | 3"- ROSCA BSPT          | $5,539.61     
+PPA102  | ACOPLES             | 4"- ROSCA BSPT          | $11,481.02    
+PPB013  | ACOPLES             | 1/2"                    | $6,762.84     
+PPB019  | ACOPLES             | 3/4"                    | $6,963.43     
+PPB025  | ACOPLES             | 1"                      | $8,527.54     
+PPB032  | ACOPLES             | 1.1/4"                  | $14,128.07    
+PPB038  | ACOPLES             | 1.1/2"                  | $14,067.15    
+PPB050  | ACOPLES             | 2"                      | $14,539.09    
+PPB063  | ACOPLES             | 2.1/2"                  | $22,629.77    
+PPB075  | ACOPLES             | 3"                      | $20,734.01    
+PPB102  | ACOPLES             | 4"                      | $36,792.91    
+PPC013  | ACOPLES             | 1/2"                    | $6,850.22     
+PPC019  | ACOPLES             | 3/4"                    | $7,024.96     
+PPC025  | ACOPLES             | 1"                      | $8,554.00     
+PPC032  | ACOPLES             | 1.1/4"                  | $13,595.21    
+PPC038  | ACOPLES             | 1.1/2"                  | $13,455.54    
+PPC050  | ACOPLES             | 2"                      | $15,526.05    
+PPC063  | ACOPLES             | 2.1/2"                  | $23,066.64    
+PPC075  | ACOPLES             | 3"                      | $21,502.53    
+PPC102  | ACOPLES             | 4"                      | $40,716.11    
+PPD013  | ACOPLES             | 1/2"                    | $6,850.22     
+PPD019  | ACOPLES             | 3/4"                    | $7,024.96     
+PPD025  | ACOPLES             | 1"                      | $8,614.92     
+PPD032  | ACOPLES             | 1.1/4"                  | $13,595.21    
+PPD038  | ACOPLES             | 1.1/2"                  | $13,778.57    
+PPD050  | ACOPLES             | 2"                      | $13,892.41    
+PPD075  | ACOPLES             | 3"- ROSCA BSPT          | $19,886.11    
+PPD102  | ACOPLES             | 4"- ROSCA BSPT          | $38,417.94    
+PPE013  | ACOPLES             | 1/2"                    | $1,135.86     
+PPE019  | ACOPLES             | 3/4"                    | $1,231.85     
+PPE025  | ACOPLES             | 1"                      | $1,511.81     
+PPE032  | ACOPLES             | 1.1/4"                  | $2,210.80     
+PPE038  | ACOPLES             | 1.1/2"                  | $2,411.39     
+PPE050  | ACOPLES             | 2"                      | $4,744.63     
+PPE063  | ACOPLES             | 2.1/2"                  | $7,601.51     
+PPE075  | ACOPLES             | 3"                      | $9,427.74     
+PPE102  | ACOPLES             | 4"                      | $17,002.78    
+PPF013  | ACOPLES             | 1/2"                    | $1,162.32     
+PPF019  | ACOPLES             | 3/4"                    | $1,231.85     
+PPF025  | ACOPLES             | 1"                      | $1,301.99     
+PPF032  | ACOPLES             | 1.1/4"                  | $2,411.39     
+PPF038  | ACOPLES             | 1.1/2"                  | $2,437.85     
+PPF050  | ACOPLES             | 2"                      | $4,569.89     
+PPF063  | ACOPLES             | 2.1/2"                  | $6,727.77     
+PPF075  | ACOPLES             | 3"- ROSCA BSPT          | $5,714.36     
+PPF102  | ACOPLES             | 4"- ROSCA BSPT          | $14,862.13    
+PPDC019 | ACOPLES             | 3/4"                    | $5,914.95     
+PPDC025 | ACOPLES             | 1"                      | $8,387.87     
+PPDC032 | ACOPLES             | 1.1/4"                  | $12,747.93    
+PPDC038 | ACOPLES             | 1.1/2"                  | $12,843.92    
+PPDC050 | ACOPLES             | 2"                      | $14,215.44    
+PPDC075 | ACOPLES             | 3"                      | $19,449.25    
+PPDC102 | ACOPLES             | 4"                      | $36,784.30    
+PPDP019 | ACOPLES             | 3/4"                    | $961.11       
+PPDP025 | ACOPLES             | 1"                      | $1,083.56     
+PPDP032 | ACOPLES             | 1.1/4"                  | $1,695.17     
+PPDP038 | ACOPLES             | 1.1/2"                  | $1,878.53     
+PPDP050 | ACOPLES             | 2"                      | $2,455.08     
+PPDP075 | ACOPLES             | 3"                      | $5,845.42     
+PPDP102 | ACOPLES             | 4"                      | $10,676.81    
+ALA025  | ACOPLES ALUMINIO    | 1"                      | $4,805.55     
+ALA038  | ACOPLES ALUMINIO    | 1.1/2"                  | $8,361.41     
+ALA050  | ACOPLES ALUMINIO    | 2"                      | $8,362.64     
+ALA075  | ACOPLES ALUMINIO    | 3"- ROSCA BSPT          | $14,600.01    
+ALA102  | ACOPLES ALUMINIO    | 4"                      | $21,642.20    
+ALB019  | ACOPLES ALUMINIO    | 3/4"                    | $7,453.22     
+ALB025  | ACOPLES ALUMINIO    | 1"                      | $9,908.29     
+ALB032  | ACOPLES ALUMINIO    | 1.1/4"                  | $14,294.20    
+ALB038  | ACOPLES ALUMINIO    | 1.1/2"                  | $14,940.89    
+ALB050  | ACOPLES ALUMINIO    | 2"                      | $17,736.85    
+ALB075  | ACOPLES ALUMINIO    | 3"                      | $27,933.10    
+ALB102  | ACOPLES ALUMINIO    | 4"                      | $36,688.31    
+ALC013  | ACOPLES ALUMINIO    | 1/2"                    | $9,846.76     
+ALC019  | ACOPLES ALUMINIO    | 3/4"                    | $9,288.06     
+ALC025  | ACOPLES ALUMINIO    | 1"                      | $9,987.05     
+ALC032  | ACOPLES ALUMINIO    | 1.1/4"                  | $14,739.68    
+ALC038  | ACOPLES ALUMINIO    | 1.1/2"                  | $16,129.05    
+ALC050  | ACOPLES ALUMINIO    | 2"                      | $19,545.23    
+ALC063  | ACOPLES ALUMINIO    | 2.1/2"                  | $27,610.07    
+ALC075  | ACOPLES ALUMINIO    | 3"                      | $31,155.34    
+ALC102  | ACOPLES ALUMINIO    | 4"                      | $42,472.20    
+ALD025  | ACOPLES ALUMINIO    | 1"                      | $9,777.23     
+ALD032  | ACOPLES ALUMINIO    | 1.1/4"                  | $15,176.55    
+ALD038  | ACOPLES ALUMINIO    | 1.1/2"                  | $16,015.83    
+ALD050  | ACOPLES ALUMINIO    | 2"                      | $18,531.82    
+ALD075  | ACOPLES ALUMINIO    | 3"                      | $30,222.66    
+ALD102  | ACOPLES ALUMINIO    | 4"                      | $40,541.36    
+ALE038  | ACOPLES ALUMINIO    | 1.1/2"                  | $11,882.81    
+ALE050  | ACOPLES ALUMINIO    | 2"                      | $17,212.60    
+ALE063  | ACOPLES ALUMINIO    | 2.1/2"                  | $16,863.11    
+ALE075  | ACOPLES ALUMINIO    | 3"                      | $28,745.92    
+ALE102  | ACOPLES ALUMINIO    | 4"                      | $45,871.15    
+ALF038  | ACOPLES ALUMINIO    | 1.1/2"                  | $13,018.67    
+ALF050  | ACOPLES ALUMINIO    | 2"                      | $16,426.24    
+ALF075  | ACOPLES ALUMINIO    | 3"- ROSCA BSPT          | $28,309.05    
+ALF102  | ACOPLES ALUMINIO    | 4"                      | $44,036.31    
+ALDC075 | ACOPLES ALUMINIO    | 3"                      | $37,483.28    
+ALDC102 | ACOPLES ALUMINIO    | 4"                      | $48,667.11    
+ALDP075 | ACOPLES ALUMINIO    | 3"                      | $18,173.71    
+ALDP102 | ACOPLES ALUMINIO    | 4"                      | $28,134.31    

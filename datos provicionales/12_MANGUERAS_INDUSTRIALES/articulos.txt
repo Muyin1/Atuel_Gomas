@@ -1,0 +1,477 @@
+=== REPORTE DE ARTICULOS - PAGINA: MANGUERAS INDUSTRIALES ===
+Total de registros detectados: 472
+================================================================================
+
+INDICE |                        |                                                              |               
+---------------------------------------------------------------------------------------------------------------
+       | MANGUERAS INDUSTRIALES |                                                              |               
+       | Artículo.Venta         | Descripción.Art.Venta                                        | Precio sin Iva
+       | 1200                   | Refrigeracion-Circulacion de aire-calefaccion                | 2217.11       
+       | 1201                   | Refrigeracion-Circulacion de aire-calefaccion                | 2527.49       
+       | 1202                   | Refrigeracion-Circulacion de aire-calefaccion                | 3464.22       
+       | 1203                   | Refrigeracion-Circulacion de aire-calefaccion                | 3480.86       
+       | 1204                   | Refrigeracion-Circulacion de aire-calefaccion                | 4503.50       
+       | 1205                   | Refrigeracion-Circulacion de aire-calefaccion                | 5542.76       
+       | 1206                   | Refrigeracion-Circulacion de aire-calefaccion                | 6324.29       
+       | 1207                   | Refrigeracion-Circulacion de aire-calefaccion                | 2217.11       
+       | 1208                   | Refrigeracion-Circulacion de aire-calefaccion                | 4157.06       
+       | 1209                   | Refrigeracion-Circulacion de aire-calefaccion                | 3497.49       
+       | 1210                   | Refrigeracion-Circulacion de aire-calefaccion                | 2544.13       
+       | 1211                   | Colector a tubo rigido                                       | 2944.59       
+       | 1212                   | Refrigeracion-Circulacion de aire-calefaccion                | 3996.33       
+       | 1213                   | Refrigeracion-Circulacion de aire-calefaccion                | 3602.79       
+       | 1214                   | Refrigeracion-Circulacion de aire-calefaccion                | 4226.36       
+       | 1215                   | Refrigeracion-Circulacion de aire-calefaccion                | 4884.56       
+       | 1216                   | Refrigeracion-Circulacion de aire-calefaccion                | 5819.89       
+       | 1217                   | Refrigeracion-Circulacion de aire-calefaccion                | 7321.98       
+       | 1218                   | Calefactor a Tubo 2                                          | 2438.81       
+       | 1219                   | Refrigeracion-Circulacion de aire-calefaccion                | 5819.89       
+       | 1220                   | Refrigeracion-Circulacion de aire-calefaccion                | 4107.18       
+       | 1221                   | Refuerzo textil intermedio (refrigeracion-calefaccion) (espiralado),Refrigeracion-Circulacion de aire-calefaccion | 2355.67       
+       | 1222                   | Refrigeracion-Circulacion de aire-calefaccion                | 1995.39       
+       | 1223                   | Refrigeracion-Circulacion de aire-calefaccion                | 3200.95       
+       | 1224                   | Refrigeracion-Circulacion de aire-calefaccion                | 5473.47       
+       | 1227                   | Refrigeracion-Circulacion de aire-calefaccion                | 2355.67       
+       | 1228                   | Refrigeracion-Circulacion de aire-calefaccion                | 3048.52       
+       | 1229                   | Refrigeracion-Circulacion de aire-calefaccion                | 9829.74       
+       | 1700                   | ASPIRAPOLVO ø32 (rollo de 6 metros)                          | 31404.91      
+       | 1701                   | ASPIRAPOLVO ø 35 MM (rollo de 6 metros)                      | 34349.12      
+       | 1702                   | ASPIRAPOLVO ø 38 (rollo de 6 metros)                         | 37376.68      
+       | 1703                   | ASPIRAPOLVO ø 41 (rollo de 6 metros)                         | 40327.47      
+       | 1704                   | Aspirapolvo - Ø 45 MM (rollo de  6 metros)                   | 44261.86      
+       | 1705                   | Aspirapolvo - Ø 48 MM (rollo de 6 metros)                    | 47212.64      
+       | 1706                   | Aspirapolvo - Ø 50 MM (rollo de 6 metros)                    | 49179.84      
+       | 1707                   | Aspirapolvo - Ø 57 MM (rollo de 6 metros)                    | 56065.02      
+       | 1708                   | Aspirapolvo - Ø 60 MM (rollo de 6 metros)                    | 59015.81      
+       | 1709                   | Aspirapolvo - Ø 64 MM (rollo de 6 metros)                    | 62950.20      
+       | 1710                   | Aspirapolvo - Ø 70 MM (rollo de 6 metros)                    | 68851.77      
+       | 1711                   | Aspirapolvo - Ø 76 MM (rollo de 6 metros)                    | 74753.36      
+       | 1712                   | Aspirapolvo - Ø 80 MM (rollo de 6 metros)                    | 78687.74      
+       | 1713                   | Aspirapolvo - Ø 85 MM (rollo de 6 metros)                    | 83605.72      
+       | 1714                   | Aspirapolvo - Ø 90 MM (rollo de 6 metros)                    | 88523.70      
+       | 1715                   | Aspirapolvo - Ø 95 MM (rollo de 6 metros)                    | 93441.70      
+       | 1716                   | Aspirapolvo - Ø 101 MM (rollo de 6 metros)                   | 99343.27      
+       | 1717                   | Aspirapolvo - Ø 105 MM (rollo de 6 metros)                   | 103277.66     
+       | 1718                   | Aspirapolvo - Ø 110 MM (rollo de metros)                     | 108195.64     
+       | 1719                   | Aspirapolvo - Ø 114 MM (rollo de 6 metros)                   | 112130.04     
+       | 1720                   | Aspirapolvo - Ø 120 MM (Rollo de 6 metros)                   | 118031.61     
+       | 1721                   | Aspirapolvo - Ø 127 MM (rollo de 6 metros)                   | 124916.79     
+       | 1722                   | Aspirapolvo - Ø 133 MM ( rollo de 6 metros)                  | 130818.36     
+       | 1723                   | Aspirapolvo - Ø 140 MM (rollo de 6 metros)                   | 137703.54     
+       | 1724                   | Aspirapolvo - Ø 152 MM (rollo de 6 metros)                   | 149506.70     
+       | 1725                   | Aspirapolvo - Ø 160 MM (rollo de 6 metros)                   | 157375.49     
+       | 1726                   | Aspirapolvo - Ø 170 MM (rollo de 6 metros)                   | 167211.45     
+       | 1727                   | Aspirapolvo - Ø 180 MM (rollo de 6 metros)                   | 177047.42     
+       | 1728                   | Aspirapolvo - Ø 203 MM (rollo de 6 metro)                    | 199670.15     
+       | 1729                   | Aspirapolvo - Ø 220 MM (rollo de 6 metros)                   | 274434.25     
+       | 1730                   | Aspirapolvo - Ø 252 MM (rollo de 6 metros)                   | 307366.36     
+       | 1731                   | Aspirapolvo - Ø 260 MM (rollo de 6 metros)                   | 317124.03     
+       | 1732                   | Aspirapolvo - Ø 303 MM (rollo de 6 metros)                   | 369571.46     
+       | 1825                   | ROLLO CIRCULACION DE AIRE DIAM 8 X 4 -Sapito Limpia parabrisas | 2208.44       
+       | 20204                  | Nafta - alconafta - gasoil - lubricantes                     | 554.28        
+       | 20207                  | Nafta - alconafta - gasoil - lubricantes                     | 623.56        
+       | 20307                  | Aire / pulmon de avance,Nafta - alconafta - gasoil - lubricantes | 720.56        
+       | 20308                  | Nafta - alconafta - gasoil - lubricantes                     | 825.88        
+       | 20408                  | Nafta - alconafta - gasoil - lubricantes                     | 872.99        
+       | 20409                  | Nafta - alconafta - gasoil - lubricantes                     | 1025.41       
+       | 20509                  | Nafta - alconafta - gasoil - lubricantes                     | 1119.63       
+       | 20612                  | Nafta - alconafta - gasoil - lubricantes                     | 1538.12       
+       | 20713                  | Nafta - alconafta - gasoil - lubricantes                     | 1745.97       
+       | 20813                  | Nafta - alconafta - gasoil - lubricantes                     | 1926.11       
+       | 20916                  | Nafta - alconafta - gasoil - lubricantes                     | 2343.20       
+       | 21020                  | Nafta - alconafta - gasoil - lubricantes                     | 4042.06       
+       | 21220                  | Nafta - alconafta - gasoil - lubricantes                     | 3440.66       
+       | 21320                  | Nafta - alconafta - gasoil - lubricantes                     | 3893.79       
+       | 21522                  | Nafta - alconafta - gasoil - lubricantes                     | 4306.72       
+       | 21621                  | Nafta - alconafta - gasoil - lubricantes                     | 4434.20       
+       | 21926                  | Nafta - alconafta - gasoil - lubricantes                     | 5127.06       
+       | 22532                  | Nafta - alconafta - gasoil - lubricantes                     | 5375.09       
+       | 30308                  | Nafta-alconafta-gasoil-lubricantes/ (retorno inyector),Nafta - alconafta - gasoil - lubricantes | 1309.48       
+       | 30309                  | Nafta - alconafta - gasoil - lubricantes                     | 1445.27       
+       | 30411                  | Nafta - alconafta - gasoil - lubricantes                     | 1715.48       
+       | 30510                  | Nafta - alconafta - gasoil - lubricantes                     | 1732.11       
+       | 30612                  | Nafta - alconafta - gasoil - lubricantes                     | 1920.57       
+       | 30712                  | Nafta - alconafta - gasoil - lubricantes                     | 2007.86       
+       | 30813                  | Nafta - alconafta - gasoil - lubricantes                     | 2343.20       
+       | 30915                  | Nafta - alconafta - gasoil - lubricantes                     | 3216.19       
+       | 31318                  | Nafta - alconafta - gasoil - lubricantes                     | 3652.68       
+       | 31624                  | GNC                                                          | 5271.16       
+       | 31926                  | GNC                                                          | 5580.17       
+       | 40307                  | Nafta - alconafta - gasoil - lubricantes                     | 1011.55       
+       | 40311                  | Nafta - alconafta - gasoil - lubricantes                     | 1484.08       
+       | 40408                  | Nafta - alconafta - gasoil - lubricantes                     | 1094.69       
+       | 40411                  | Nafta - alconafta - gasoil - lubricantes                     | 1621.26       
+       | 40412                  | Salida de Cuerpo de Acel.                                    | 1827.72       
+       | 40509                  | Nafta - alconafta - gasoil - lubricantes                     | 1150.13       
+       | 40510                  | Nafta - alconafta - gasoil - lubricantes,Nafta - alconafta - gasoil - lubricantes-refuerzo textil intermedio espiralada | 1302.55       
+       | 40511                  | Nafta - alconafta - gasoil - lubricantes                     | 1482.68       
+       | 40513                  | Nafta - alconafta - gasoil - lubricantes                     | 2042.51       
+       | 40610                  | Nafta - alconafta - gasoil - lubricantes                     | 1288.69       
+       | 40612                  | Nafta - alconafta - gasoil - lubricantes                     | 1648.97       
+       | 40614                  | Nafta - alconafta - gasoil - lubricantes                     | 2257.29       
+       | 40711                  | Nafta - alconafta - gasoil - lubricantes                     | 1357.98       
+       | 40713                  | Nafta - alconafta - gasoil - lubricantes                     | 1926.11       
+       | 40812                  | Nafta - alconafta - gasoil - lubricantes                     | 1662.83       
+       | 40814                  | Nafta - alconafta - gasoil - lubricantes                     | 2327.96       
+       | 40913                  | Nafta - alconafta - gasoil - lubricantes                     | 1524.25       
+       | 40918                  | Nafta - alconafta - gasoil - lubricantes                     | 3203.72       
+       | 41015                  | Nafta - alconafta - gasoil - lubricantes                     | 1939.97       
+       | 41217                  | Nafta - alconafta - gasoil - lubricantes                     | 2203.25       
+       | 41220                  | Nafta - alconafta - gasoil - lubricantes                     | 3879.92       
+       | 41320                  | Nafta - alconafta - gasoil - lubricantes                     | 4351.06       
+       | 41523                  | Nafta - alconafta - gasoil - lubricantes                     | 5418.04       
+       | 41623                  | Nafta - alconafta - gasoil - lubricantes                     | 5563.55       
+       | 41926                  | Nafta - alconafta - gasoil - lubricantes                     | 6374.17       
+       | 42230                  | Nafta - alconafta - gasoil - lubricantes                     | 3755.22       
+       | 50308                  | Nafta - alconafta - gasoil - lubricantes                     | 1163.97       
+       | 50510                  | Nafta - alconafta - gasoil - lubricantes                     | 1413.40       
+       | 50513                  | Nafta - alconafta - gasoil - lubricantes                     | 2230.96       
+       | 50612                  | Nafta - alconafta - gasoil - lubricantes                     | 1698.85       
+       | 50614                  | Multifuel inyeccion electrónica (espiralado)-sae 30r6        | 3214.80       
+       | 50713                  | Nafta - alconafta - gasoil - lubricantes                     | 1935.81       
+       | 50715                  | Nafta - alconafta - gasoil - lubricantes                     | 3367.22       
+       | 50814                  | Nafta - alconafta - gasoil - lubricantes                     | 2279.46       
+       | 50816                  | Multifuel inyeccion electrónica (espiralado)-sae 30r6        | 3478.09       
+       | 50915                  | Nafta - alconafta - gasoil - lubricantes                     | 2494.25       
+       | 50916                  | Nafta - alconafta - gasoil - lubricantes                     | 3095.63       
+       | 50917                  | Nafta-alconafta-gasoil-lubricantes/ (servo freno-direccion)  | 4064.23       
+       | 51016                  | Nafta - alconafta - gasoil - lubricantes                     | 3325.66       
+       | 51018                  | Multifuel inyeccion electrónica (espiralado)-sae 30r6        | 3590.32       
+       | 51119                  | Nafta - alconafta - gasoil - lubricantes                     | 3849.45       
+       | 51218                  | Nafta - alconafta - gasoil - lubricantes                     | 4018.50       
+       | 51219                  | Nafta - alconafta - gasoil - lubricantes                     | 3897.25       
+       | 51320                  | Nafta - alconafta - gasoil - lubricantes                     | 4364.92       
+       | 51322                  | Nafta-alconafta-gasoil-lubricantes/ (servo freno-direccion)  | 5912.74       
+       | 51623                  | Nafta - alconafta - gasoil - lubricantes                     | 5629.36       
+       | 60510                  | Nafta - alconafta - gasoil - lubricantes                     | 1623.86       
+       | 60713                  | Nafta - alconafta - gasoil - lubricantes                     | 2182.47       
+       | 60814                  | Nafta - alconafta - gasoil - lubricantes                     | 2572.18       
+       | 60915                  | Nafta - alconafta - gasoil - lubricantes                     | 2814.68       
+       | 70612                  | MULTIPROP CAUCHO 20 BARES COMPRES                            | 1922.73       
+       | 70815                  | MULTIPROP CAUCHO 20 BARES COMPRES                            | 2375.13       
+       | 71017                  | MULTIPROPOSITO CAUCHO 20 BARES                               | 2940.64       
+       | 71321                  | MULTIPROPOSITO CAUCHO 20 BARES                               | 4222.43       
+       | 71625                  | MULTIPROPOSITO CAUCHO 20 BARES                               | 5843.59       
+       | 71929                  | MULTIPROPOSITO CAUCHO 20 BARES                               | 7163.09       
+       | 72232                  | Multiproposito Caucho 20 bares                               | 8978.40       
+       | 72536                  | MULTIPROPOSITO CAUCHO 20 BARES                               | 9651.33       
+       | 100R12D10              | Rollo R12 Hidráulica 3/8"  (10MM)                            | 11839.60      
+       | 100R12D13              | Rollo R12 Hidráulica 1/2"  (13MM)                            | 12235.53      
+       | 100R12D19              | Rollo R12 Hidráulica 3/4"  (19MM)                            | 16158.09      
+       | 100R12D25              | Rollo R12 Hidráulica 1"  (25MM)                              | 21484.07      
+       | 100R1D10               | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                     | 3562.74       
+       | 100R1D13               | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                     | 3742.65       
+       | 100R1D16               | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                     | 4354.41       
+       | 100R1D19               | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                     | 5829.90       
+       | 100R1D25               | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                     | 8384.93       
+       | 100R1D32               | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                     | 10831.99      
+       | 100R1D38               | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                     | 12271.45      
+       | 100R1D5                | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                     | 2555.03       
+       | 100R1D51               | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 15834.19      
+       | 100R1D6                | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                     | 2555.03       
+       | 100R1D8                | HIDRAULICAS SAE 100 R1AT/DIN EN 853 1 SN                     | 3058.83       
+       | 100R2D10               | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 4714.23       
+       | 100R2D13               | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 5541.91       
+       | 100R2D16               | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 5649.88       
+       | 100R2D19               | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 6981.37       
+       | 100R2D25               | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 10760.06      
+       | 100R2D32               | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 13782.96      
+       | 100R2D38               | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 18065.33      
+       | 100R2D5                | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 3526.72       
+       | 100R2D51               | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 21304.17      
+       | 100R2D6                | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 3382.72       
+       | 100R2D8                | HIDRAULICAS SAE 100 R2AT/DIN EN 853 2 SN                     | 4102.46       
+       | 100R6D10               | Rollo Hidraulica R6 3/8" (10mm)                              | 3152.20       
+       | 100R6D13               | Rollo Hidraulica R6 1/2" (13mm)                              | 3886.30       
+       | 100R6D16               | Rollo Hidraulica R6 5/8" (16mm)                              | 4533.98       
+       | 100R6D19               | Rollo Hidraulica R6 3/4" (19mm)                              | 5527.11       
+       | 100R6D25               | Rollo Hidraulica R6 1" (25mm)                                | 7642.98       
+       | 100R6D6                | Rollo Hidraulica R6 1/4" (6mm)                               | 2418.11       
+       | 100R6D8                | Rollo Hidraulica R6 5/16" (8mm)                              | 2720.34       
+       | AA102                  | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | 18553.21      
+       | AA150                  | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | 52073.46      
+       | AA25                   | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | 3379.30       
+       | AA32                   | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | 4442.09       
+       | AA38                   | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | 4733.64       
+       | AA50                   | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | 6678.24       
+       | AA63                   | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | 9932.43       
+       | AA76                   | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | 11919.30      
+       | AA89                   | Aspirante Expelente Amarilla de PVC elastico con espiral rigido interno de PVC para liquidos en general | 16683.12      
+       | AF25                   | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC | 4424.36       
+       | AF32                   | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC | 5593.24       
+       | AF38                   | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC | 6409.73       
+       | AF50                   | Aspirante Expelente Naranja de PVC con espiral rigido interno de PVC | 9026.70       
+       | AG102                  | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC | 22838.65      
+       | AG25                   | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC | 4022.14       
+       | AG32                   | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC | 5084.77       
+       | AG38                   | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC | 5827.03       
+       | AG50                   | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC | 8206.10       
+       | AG63                   | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC | 12870.13      
+       | AG76                   | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC | 15444.66      
+       | AG89                   | Aspirante Expelente Verde de PVC con espiral rigido interno de PVC | 17857.92      
+       | AH102                  | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC | 27279.50      
+       | AH25                   | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC | 4713.70       
+       | AH32                   | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC | 5898.27       
+       | AH38                   | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC | 6881.31       
+       | AH50                   | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC | 10813.49      
+       | AH63                   | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC | 15237.19      
+       | AH76                   | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC | 18432.10      
+       | AH89                   | Aspirante Expelente Azul de PVC con espiral rigido interno de PVC | 22855.80      
+       | AN102                  | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC | 25462         
+       | AN25                   | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC | 4652.31       
+       | AN32                   | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC | 6085.74       
+       | AN38                   | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC | 6538.40       
+       | AN50                   | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC | 9304.64       
+       | AN63                   | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC | 13642.60      
+       | AN76                   | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC | 16459.14      
+       | AN89                   | Aspirante Expelente Negra de PVC con espiral rigido interno de PVC | 22302.83      
+       | AR102                  | Aspirante Expelente Vitivinicola                             | 34488.84      
+       | AS102                  | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | 24255.14      
+       | AS25                   | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | 4064.83       
+       | AS32                   | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | 5138.19       
+       | AS38                   | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | 6094.45       
+       | AS50                   | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | 9013.43       
+       | AS63                   | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | 13382.14      
+       | AS76                   | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | 16170.08      
+       | AS89                   | Aspirante Expelente Amarilla Premium de PVC elastico con espiral rigido interno de PVC | 24985.12      
+       | AT102                  | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | 34488.84      
+       | AT25                   | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | 5978.06       
+       | AT32                   | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | 7566.65       
+       | AT38                   | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | 8946.20       
+       | AT50                   | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | 12541.40      
+       | AT63                   | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | 18812.10      
+       | AT76                   | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | 22365.50      
+       | AT89                   | Aspirante Expelente Atoxica Traslucida neutro con espiral rigido interno de PVC | 26650.48      
+       | AW102                  | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC | 34488.84      
+       | AW25                   | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC | 5978.06       
+       | AW32                   | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC | 7566.65       
+       | AW38                   | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC | 8946.20       
+       | AW50                   | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC | 12541.40      
+       | AW63                   | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC | 18812.10      
+       | AW76                   | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC | 22365.50      
+       | AW89                   | Aspirante Expelente Traslucida neutro con espiral rigido interno de PVC | 26650.48      
+       | CE102                  | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC | 17823.23      
+       | CE25                   | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC | 2893.87       
+       | CE32                   | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC | 3446.49       
+       | CE38                   | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC | 5273.72       
+       | CE50                   | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC | 7386.18       
+       | CE63                   | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC | 9804.67       
+       | CE76                   | Aspirante Expelente Cerealera Negra de PVC con espiral rigido de PVC | 12811.43      
+       | EB25                   | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC | 2838.17       
+       | EB32                   | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC | 3454.18       
+       | EB38                   | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC | 4383.86       
+       | EB50                   | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC | 6405.72       
+       | EB63                   | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC | 8994.48       
+       | EB76                   | Aspirante piletera Traslucida neutra de PVC con anillo rigido de PVC | 11235.53      
+       | EC25                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | 5033.73       
+       | EC32                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | 6362.50       
+       | EC38                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | 7655.48       
+       | EC50                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | 10783.07      
+       | EC63                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | 19756.84      
+       | EC76                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC rojo | 13684.62      
+       | EF25                   | Aspirante Piletera barrefondo PVC                            | 2580.49       
+       | EF32                   | Aspirante Piletera barrefondo PVC                            | 2901.55       
+       | EF3210                 | Aspirante Piletera barrefondo PVC                            | 2907.55       
+       | EF38                   | Aspirante Piletera barrefondo PVC                            | 3519.67       
+       | EF3810                 | Aspirante Piletera barrefondo PVC                            | 3519.67       
+       | EF50                   | Aspirante Piletera barrefondo PVC                            | 5401.03       
+       | EG102                  | Aspirante Gris de PVC con espiral rigido de PVC              | 14048.73      
+       | EG25                   | Aspirante Gris de PVC con espiral rigido de PVC              | 2761.16       
+       | EG32                   | Aspirante Gris de PVC con espiral rigido de PVC              | 3036.21       
+       | EG38                   | Aspirante Gris de PVC con espiral rigido de PVC              | 4304.28       
+       | EG50                   | Aspirante Gris de PVC con espiral rigido de PVC              | 5643.78       
+       | EG63                   | Aspirante Gris de PVC con espiral rigido de PVC              | 7715.55       
+       | EG76                   | Aspirante Gris de PVC con espiral rigido de PVC              | 9422.97       
+       | EG89                   | Aspirante Gris de PVC con espiral rigido de PVC              | 11953.74      
+       | EL32                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC  blanco | 9858.03       
+       | EL38                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC  blanco | 11114.44      
+       | EL50                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC  blanco | 15624.65      
+       | EL63                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC  blanco | 25085.35      
+       | EL76                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC  blanco | 28833.11      
+       | EP25                   | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC | 2838.17       
+       | EP32                   | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC | 3454.18       
+       | EP38                   | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC | 4383.86       
+       | EP50                   | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC | 6405.72       
+       | EP63                   | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC | 8994.48       
+       | EP76                   | Aspirante Piletera Azul Traslucido de PVC con espiral rigido de PVC | 11235.53      
+       | ES102                  | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC | 11751.96      
+       | ES25                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC | 2497.62       
+       | ES32                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC | 2957.71       
+       | ES38                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC | 3187.75       
+       | ES50                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC | 4469.42       
+       | ES63                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC | 6375.50       
+       | ES76                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC | 7834.64       
+       | ES89                   | Aspirante Expelente Traslucida neutra de PVC con espiral rigido de PVC | 10011.84      
+       | ESB101                 | Aspirapolvo de PVC                                           | 13243.49      
+       | ESB25                  | Aspirapolvo de PVC                                           | 2728.77       
+       | ESB2530                | Aspirapolvo de PVC                                           | 2728.77       
+       | ESB32                  | Aspirapolvo de PVC                                           | 3017.71       
+       | ESB3230                | Aspirapolvo de PVC                                           | 3017.71       
+       | ESB38                  | Aspirapolvo de PVC                                           | 3545.82       
+       | ESB3830                | Aspirapolvo de PVC                                           | 3545.82       
+       | ESB50                  | Aspirapolvo de PVC                                           | 5232.54       
+       | ESB5030                | Aspirapolvo de PVC                                           | 5232.54       
+       | ESB63                  | Aspirapolvo de PVC                                           | 8298.73       
+       | ESB6330                | Aspirapolvo de PVC                                           | 8298.73       
+       | ESB76                  | Aspirapolvo de PVC                                           | 8869.20       
+       | ESB89                  | Aspirapolvo de PVC                                           | 11286.52      
+       | FE25                   | Aspirante Expelente Naranja de PVC con espiral rigido de PVC | 3040.00       
+       | FE32                   | Aspirante Expelente Naranja de PVC con espiral rigido de PVC | 3378.36       
+       | FE38                   | Aspirante Expelente Naranja de PVC con espiral rigido de PVC | 4345.56       
+       | FE50                   | Aspirante Expelente Naranja de PVC con espiral rigido de PVC | 5791.98       
+       | FU010825               | Manguera de Fumigacion Naranja                               | 1606.32       
+       | FU011025               | Manguera de Fumigacion Naranja                               | 2209.94       
+       | FU011225               | Manguera de Fumigacion Naranja                               | 2425.31       
+       | FU011925               | Manguera de Fumigacion Naranja                               | 3793.14       
+       | FU012525               | Manguera de Fumigacion Naranja                               | 8918.09       
+       | KTPA1050               | PRESION 20 bares 10mm ATOXICA                                | 2412.73       
+       | KTPA1250               | PRESION 20 bares 12mm ATOXICA                                | 2662.74       
+       | KTPA1950               | PRESION 20 bares 19mm ATOXICA                                | 5922.64       
+       | KTPA2550               | PRESION 20 bares 25mm ATOXICA                                | 8571.56       
+       | KTPA550                | PRESION 20 bares 5mm ATOXICA                                 | 1539.93       
+       | KTPA650                | PRESION 20 bares 6mm ATOXICA                                 | 1656.47       
+       | KTPA850                | PRESION 20 bares 8mm ATOXICA                                 | 1999.30       
+       | MBL-100                | Manga Plana Reforzada - AZUL ¯100mm (100m)                   | 13320.11      
+       | MBL-125                | Manga Plana Reforzada - AZUL ¯125mm (100m)                   | 16280.14      
+       | MBL-150                | Manga Plana Reforzada - AZUL ¯150mm (100m)                   | 19240.17      
+       | MBL-200                | Manga Plana Reforzada - AZUL ¯200mm (100m)                   | 53280.45      
+       | MBL-25                 | Manga Plana Reforzada - AZUL ¯25mm (100m)                    | 3848.04       
+       | MBL-32                 | Manga Plana Reforzada - AZUL ¯32mm (100m)                    | 4440.05       
+       | MBL-40                 | Manga Plana Reforzada - AZUL ¯40mm (100m)                    | 5180.04       
+       | MBL-45                 | Manga Plana Reforzada - AZUL ¯45mm (100m)                    | 5920.05       
+       | MBL-50                 | Manga Plana Reforzada - AZUL ¯50mm (100m)                    | 7400.06       
+       | MBL-63                 | Manga Plana Reforzada - AZUL ¯63mm (100m)                    | 8140.07       
+       | MBL-75                 | Manga Plana Reforzada - AZUL ¯75mm (100m)                    | 8880.08       
+       | MIH100                 | Mang Industrial Hidrocarburos Verde 1''                      | 12883.13      
+       | MIH11016               | Mang Industrial Hidrocarburos Verde 1' 10/16''               | 21288.58      
+       | MIH112                 | Mang Industrial Hidrocarburos Verde 1' 1/2''                 | 19285.42      
+       | MIH114                 | Mang Industrial Hidrocarburos Verde 1' 1/4''                 | 15239.80      
+       | MIH134                 | Mang Industrial Hidrocarburos Verde 1' 3/4''                 | 22427.64      
+       | MIH200                 | Mang Industrial Hidrocarburos Verde 2''                      | 24352.26      
+       | MIH214                 | Mang Industrial Hidrocarburos Verde 2' 1/4''                 | 27219.53      
+       | MIH34                  | Mang Industrial Hidrocarburos Verde 3/4''                    | 10487.18      
+       | MMP 10/50              | TUBO MULTIPROPOSITO de PVC 10 MM *MOTORTEIL*                 | 1984.34       
+       | MMP 13/50              | TUBO MULTIPROPOSITO de PVC 13 MM *MOTORTEIL*                 | 2763.02       
+       | MMP 19/25              | TUBO MULTIPROPOSITO de PVC 19 MM*MOTORTEIL*                  | 4417.43       
+       | MMP 25/25              | TUBO MULTIPROPOSITO de PVC  25 MM*MOTORTEIL*                 | 6406.17       
+       | MMP 6/50               | TUBO MULTIPROPOSITO de PVC 6 MM*MOTORTEIL*                   | 1192.71       
+       | MMP 8/50               | TUBO MULTIPROPOSITO de PVC 8 MM*MOTORTEIL*                   | 1442.30       
+       | MRE-38                 | MANGA PLANA SUPER REFORZADA - ROJA (10 BARES)                | 6660.05       
+       | MRE-51                 | MANGA PLANA SUPER REFORZADA - ROJA (10 BARES)                | 9620.08       
+       | PF3230                 | Aspirante Piletera para barrefondo PVC                       | 2629.92       
+       | PF5030                 | Aspirante Piletera para barrefondo PVC                       | 4166.34       
+       | PZ0125                 | "RIEGO TRICOLOR 1"" X 25MTS"                                 | 1536.59       
+       | PZ1225                 | "RIEGO TRICOLOR 1/2"" X 25MTS"                               | 512.20        
+       | PZ1250                 | "RIEGO TRICOLOR 1/2"" X 50MTS"                               | 512.20        
+       | PZ30125                | "TRENZADA    1""X25 MTS PRESION 5KL"                         | 5355.17       
+       | PZ31215                | "TRENZADA 1/2""X15 MTS PRESION 5KL"                          | 1784.91       
+       | PZ31225                | "TRENZADA 1/2""X25 MTS PRESION 5KL"                          | 1785.34       
+       | PZ31250                | RIEGO TRENZADA 1/2" X 50MTS AZUL                             | 1803.39       
+       | PZ33425                | "TRENZADA 3/4""X25 MTS PRESION 5KL"                          | 3570.09       
+       | PZ33450                | RIEGO TRENZADA 3/4" X 50MTS AZUL                             | 3570.09       
+       | PZ3425                 | "RIEGO TRICOLOR 3/4"" X 25MTS"                               | 1024.40       
+       | PZ3450                 | "RIEGO TRICOLOR 3/4"" X 50MTS"                               | 1024.40       
+       | RPA0650                | Rollo de presion rojo                                        | 864.74        
+       | RPA0850                | Rollo de presion rojo                                        | 1358.75       
+       | RPA1050                | Rollo de presion rojo                                        | 1597.89       
+       | RPA1250                | Rollo de presion rojo                                        | 2494.65       
+       | RPA1950                | Rollo de presion rojo                                        | 5016.48       
+       | RPA2525                | Rollo de presion rojo                                        | 6320.77       
+       | RT3025                 | Riego trenzada - Presión 10KL - AIRE/AGUA                    | 1765.38       
+       | RT3050                 | Riego trenzada - Presión 10KL - AIRE/AGUA                    | 1766.24       
+       | RT3125                 | Riego trenzada - Presión 10KL - AIRE/AGUA                    | 5282.19       
+       | RT3150                 | Riego trenzada - Presión 10KL - AIRE/AGUA                    | 5284.77       
+       | RT3425                 | Riego trenzada - Presión 10KL - AIRE/AGUA                    | 3521.54       
+       | RT3450                 | Riego trenzada - Presión 10KL - AIRE/AGUA                    | 3523.27       
+       | SG3001                 | Kit GNC 5ta generacion                                       | 11538.58      
+       | TCHB 10/14             | Hidrocarburo - industria automotor                           | 738.28        
+       | TCHB 12/16             | Hidrocarburo - industria automotor                           | 862.84        
+       | TCHB 16/20             | Hidrocarburo - industria automotor                           | 2395.04       
+       | TCHB 16/22             | ROLLO DE ACRILICO RESISTENTE A HIDROCARBUROS                 | 1842.34       
+       | TCHB 19/25             | Hidrocarburo - industria automotor                           | 2120.05       
+       | TCHB 3/6               | Hidrocarburo - industria automotor                           | 209.97        
+       | TCHB 4/7               | Hidrocarburo - industria automotor                           | 252.11        
+       | TCHB 5/10              | Hidrocarburo - industria automotor                           | 577.61        
+       | TCHB 5/11              | Hidrocarburo - industria automotor                           | 723.36        
+       | TCHB 5/8               | Hidrocarburo - industria automotor (Para filtro combustible de moto) | 299.90        
+       | TCHB 5/9               | Hidrocarburo - industria automotor                           | 421.46        
+       | TCHB 6/10              | Hidrocarburo - industria automotor                           | 490.30        
+       | TCHB 6/11              | Hidrocarburo - industria automotor                           | 626.53        
+       | TCHB 6/12              | Hidrocarburo - industria automotor                           | 839.88        
+       | TCHB 6/9               | Hidrocarburo - industria automotor                           | 342.81        
+       | TCHB 7/10              | Hidrocarburo - industria automotor                           | 404.90        
+       | TCHB 7/11              | Hidrocarburo - industria automotor                           | 563.69        
+       | TCHB 7/12              | Hidrocarburo - industria automotor                           | 767.64        
+       | TCHB 7/13              | Hidrocarburo - industria automotor                           | 912.50        
+       | TCHB 7/14              | Hidrocarburo - industria automotor                           | 1104.04       
+       | TCHB 8/10              | ROLLO DE ACRILICO RESISTENTE A HIDROCARBUROS                 | 246.98        
+       | TCHB 8/11              | Hidrocarburo - industria automotor                           | 445.85        
+       | TCHB 8/12              | Hidrocarburo - industria automotor                           | 614.10        
+       | TCHB 8/13              | Hidrocarburo - industria automotor                           | 789.47        
+       | TCHB 8/14              | Hidrocarburo - industria automotor                           | 1016.36       
+       | TCHB 9/11              | Hidrocarburo - industria automotor                           | 464.65        
+       | TCHB 9/12              | Hidrocarburo - industria automotor                           | 489.93        
+       | TCHB 9/13              | Hidrocarburo - industria automotor                           | 1010.37       
+       | TCHB 9/14              | Hidrocarburo - industria automotor                           | 888.43        
+       | TCHB 9/15              | Hidrocarburo - industria automotor                           | 1096.90       
+       | TCHB 9/16              | Hidrocarburo - industria automotor                           | 1353.15       
+       | TCIZ 10/12             | Tubo cristal - Industria / Inst AA nivel obra                | 303.47        
+       | TCIZ 10/14             | Tubo cristal - Industria / Inst AA nivel obra                | 664.40        
+       | TCIZ 10/15             | Tubo cristal - Industria / Inst AA nivel obra                | 891.29        
+       | TCIZ 12/15             | Tubo cristal - Industria / Inst AA nivel obra                | 575.29        
+       | TCIZ 12/16             | Tubo cristal - Industria / Inst AA nivel obra                | 769.94        
+       | TCIZ 12/18             | Tubo cristal - Industria / Inst AA nivel obra                | 1207.30       
+       | TCIZ 14/18             | Tubo cristal - Industria / Inst AA nivel obra                | 875.70        
+       | TCIZ 16/20             | Tubo cristal - Industria / Inst AA nivel obra                | 1010.97       
+       | TCIZ 16/22             | ROLLO DE ACRILICO CRISTAL INDUSTRIAL                         | 1508.38       
+       | TCIZ 19/23             | Tubo cristal - Industria / Inst AA nivel obra                | 1207.30       
+       | TCIZ 19/25             | Tubo cristal - Industria / Inst AA nivel obra                | 1735.23       
+       | TCIZ 22/28             | Tubo cristal - Industria / Inst AA nivel obra                | 2051.87       
+       | TCIZ 25/31             | Tubo cristal - Industria / Inst AA nivel obra                | 2414.60       
+       | TCIZ 3/6               | Tubo cristal - Industria / Inst AA nivel obra                | 182.79        
+       | TCIZ 4/6               | Tubo cristal - Industria / Inst AA nivel obra                | 137.66        
+       | TCIZ 4/7               | Tubo cristal - Industria / Inst AA nivel obra                | 227.45        
+       | TCIZ 5/10              | ROLLO DE ACRILICO CRISTAL INDUSTRIAL                         | 632.98        
+       | TCIZ 5/7               | Tubo cristal - Industria / Inst AA nivel obra                | 167.69        
+       | TCIZ 5/8               | Tubo cristal - Industria / Inst AA nivel obra                | 274.75        
+       | TCIZ 5/9               | Tubo cristal - Industria / Inst AA nivel obra                | 378.88        
+       | TCIZ 6/10              | Tubo cristal - Industria / Inst AA nivel obra                | 432.75        
+       | TCIZ 6/11              | Tubo cristal - Industria / Inst AA nivel obra                | 577.23        
+       | TCIZ 6/12              | Tubo cristal - Industria / Inst AA nivel obra                | 673.38        
+       | TCIZ 6/8               | Tubo cristal - Industria / Inst AA nivel obra                | 197.66        
+       | TCIZ 6/9               | Tubo cristal - Industria / Inst AA nivel obra                | 303.47        
+       | TCIZ 7/10              | Tubo cristal - Industria / Inst AA nivel obra                | 348.96        
+       | TCIZ 7/11              | Tubo cristal - Industria / Inst AA nivel obra                | 492.01        
+       | TCIZ 7/12              | Tubo cristal - Industria / Inst AA nivel obra                | 650.04        
+       | TCIZ 7/13              | Tubo cristal - Industria / Inst AA nivel obra                | 816.44        
+       | TCIZ 7/14              | Tubo cristal - Industria / Inst AA nivel obra                | 1040.90       
+       | TCIZ 8/10              | Tubo cristal - Industria / Inst AA nivel obra                | 244.22        
+       | TCIZ 8/11              | Tubo cristal - Industria / Inst AA nivel obra                | 393.85        
+       | TCIZ 8/12              | Tubo cristal - Industria / Inst AA nivel obra                | 542.89        
+       | TCIZ 8/13              | Tubo cristal - Industria / Inst AA nivel obra                | 727.25        
+       | TCIZ 8/14              | Tubo cristal - Industria / Inst AA nivel obra                | 906.22        
+       | TCIZ 9/11              | Tubo cristal - Industria / Inst AA nivel obra                | 274.75        
+       | TCIZ 9/12              | Tubo cristal - Industria / Inst AA nivel obra                | 438.65        
+       | TCIZ 9/13              | Tubo cristal - Industria / Inst AA nivel obra                | 590.18        
+       | TCIZ 9/14              | Tubo cristal - Industria / Inst AA nivel obra                | 799.67        
+       | TCIZ 9/15              | Tubo cristal - Industria / Inst AA nivel obra                | 967.88        
+       | TCIZ 9/16              | Tubo cristal - Industria / Inst AA nivel obra                | 1310.44       
+       | TCPH 10 50             | Presión Hidrocarburo - 20 bar                                | 2418.21       
+       | TCPH 12 50             | Presión Hidrocarburo - 20 bar                                | 2756.75       
+       | TCPH 13 25             | TUBO PRESION HIDROCARBURO                                    | 3808.60       
+       | TCPH 19 25             | Presión Hidrocarburo - 20 bar                                | 5513.41       
+       | TCPH 25 25             | Presión Hidrocarburo - 20 bar                                | 7782.66       
+       | TCPH 5 50              | Presión Hidrocarburo - 20 bar                                | 1650.74       
+       | TCPH 6 50              | Presión Hidrocarburo - 20 bar                                | 1843.25       
+       | TCPH 8 50              | Presión Hidrocarburo - 20 bar                                | 2161.88       
+       | TG 8 25                | Gas certificado -Presión 34 bar                              | 1562.69       
+       | TG 8 50                | Gas certificado -Presión 34 bar                              | 1562.69       
+       | TMP 10/50              | ROLLO MULTIPROPOSITO *TECNOCOM*                              | 2720.13       
+       | TMP 13/50              | ROLLO MULTIPROPOSITO *TECNOCOM*                              | 3919.92       
+       | TMP 16/50              | ROLLO MULTIPROPOSITO*TECNOCOM*                               | 5476.88       
+       | TMP 19/25              | ROLLO MULTIPROPOSITO*TECNOCOM*                               | 8251.96       
+       | TMP 25/25              | ROLLO MULTIPROPOSITO*TECNOCOM*                               | 10660.69      
+       | TMP 6/50               | ROLLO MULTIPROPOSITO*TECNOCOM*                               | 1346.33       
+       | TMP 8/50               | ROLLO MULTIPROPOSITO*TECNOCOM*                               | 2326.31       
+       | TP3A3225               | uso alimentario 20 bares 32mm 25 metros                      | 516.01        
+       | TP3B-5                 | Rollo de presion rojo                                        | 2568.92       

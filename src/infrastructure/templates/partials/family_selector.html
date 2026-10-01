@@ -1,0 +1,43 @@
+<div id="family-badges-container" class="family-badges-wrapper">
+    <div class="family-badges-header">
+        <span>🔍 Aplicaciones y Subcategorías Rápidas</span>
+        <span style="font-size: 0.72rem; color: var(--text-muted);">
+            {% if families %}{{ families|length }} subgrupos disponibles{% endif %}
+        </span>
+    </div>
+
+    <div class="family-badges-list">
+        <!-- Badge 'Todas' -->
+        <button type="button" 
+                class="family-badge {% if not current_family %}active{% endif %}" 
+                onclick="selectFamily('', this)">
+            <span>Todas las aplicaciones</span>
+        </button>
+
+        {% for fam in families %}
+        <button type="button" 
+                class="family-badge {% if current_family == fam.slug or current_family == fam.name or current_family == fam.id|string %}active{% endif %}" 
+                onclick="selectFamily('{{ fam.slug }}', this)"
+                data-slug="{{ fam.slug }}"
+                data-category="{{ fam.category_id }}"
+                data-rubro="{{ fam.rubro.value if fam.rubro.value is defined else fam.rubro }}">
+            <span>
+                {% if "Radiador" in fam.value %}🌡️
+                {% elif "Admisi" in fam.value %}💨
+                {% elif "Combustible" in fam.value %}⛽
+                {% elif "Turbo" in fam.value %}🚀
+                {% elif "Calefacci" in fam.value %}❄️
+                {% elif "Fuelles" in fam.value %}🛡️
+                {% elif "Metro" in fam.value %}📏
+                {% elif "Poly-V" in fam.value or "Automotor" in fam.value %}⚙️
+                {% elif "Industrial" in fam.value %}🏭
+                {% elif "Cintas" in fam.value %}🚜
+                {% elif "Escobillas" in fam.value %}🌧️
+                {% else %}🔹{% endif %}
+                {{ fam.value }}
+            </span>
+            <span class="family-badge-count">{{ fam.product_count }}</span>
+        </button>
+        {% endfor %}
+    </div>
+</div>

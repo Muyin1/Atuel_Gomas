@@ -1,0 +1,14 @@
+=== TABLA NORMALIZADA: LÍQUIDOS ===
+Total de artículos únicos: 8
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA | DESCRIPCION NORMALIZADA                | PRECIO (S/IVA)
+--------------------------------------------------------------------------------------
+S/C    | LÍQUIDOS DE FRENO   | LÍQUIDOS DE FRENO - Wagner OT3 1/2 LT. | $10,160.13    
+S/C    | LÍQUIDOS DE FRENO   | LÍQUIDOS DE FRENO - Wagner OT3 1 LT.   | $18,288.21    
+S/C    | LÍQUIDOS DE FRENO   | LÍQUIDOS DE FRENO - Wagner OT4 1/2 LT. | $17,295.65    
+S/C    | LÍQUIDOS DE FRENO   | LÍQUIDOS DE FRENO - Wagner OT4 1 LT.   | $27,485.85    
+S/C    | LÍQUIDOS DE FRENO   | LÍQUIDOS DE FRENO - Wagner OT5 1 LT.   | $33,408.16    
+S/C    | ANTICONGELANTES     | ANTICONGELANTES - Micar                | $4,530.00     
+S/C    | ANTICONGELANTES     | ANTICONGELANTES - Wagner Inorgánico    | $11,074.08    
+S/C    | ANTICONGELANTES     | ANTICONGELANTES - Wagner Orgánico      | $11,900.27    

@@ -1,0 +1,139 @@
+{% extends "base.html" %}
+
+{% block title %}Contacto y Atención B2B - Atuel Gomas{% endblock %}
+
+{% block content %}
+<section class="hero" style="padding: 3rem 1.5rem 2.5rem;">
+    <div class="hero-content">
+        <span class="hero-pill">
+            ★ Asesoramiento Técnico Directo
+        </span>
+        <h1>Canales de Contacto y Ventas Mayoristas</h1>
+        <p>
+            Estamos a tu disposición para cotizaciones especiales, consultas de aplicación técnica por muestra o código OEM, y aperturas de cuentas comerciales.
+        </p>
+    </div>
+</section>
+
+<div class="catalog-container" style="max-width: 1100px; margin-top: -1rem;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 2rem; align-items: start;">
+        
+        <!-- Formulario de Consulta Técnica / Comercial -->
+        <div style="background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 2rem; box-shadow: var(--shadow-card);">
+            <div style="margin-bottom: 1.5rem;">
+                <h3 style="font-size: 1.3rem; font-weight: 800; color: #fff;">Envianos tu Consulta</h3>
+                <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 0.25rem;">
+                    Completá el formulario y nuestro equipo comercial te responderá a la brevedad.
+                </p>
+            </div>
+
+            {% if mensaje_enviado %}
+            <div style="background: rgba(16, 185, 129, 0.15); border: 1px solid var(--accent-green); color: #a7f3d0; padding: 1rem; border-radius: var(--radius-sm); font-size: 0.9rem; margin-bottom: 1.5rem; text-align: center;">
+                ✓ ¡Tu consulta fue recibida con éxito! Nos comunicaremos a la brevedad.
+            </div>
+            {% endif %}
+
+            <form action="/contacto" method="POST" style="display: flex; flex-direction: column; gap: 1.15rem;">
+                <div class="form-group">
+                    <label class="form-label" for="nombre">Nombre y Apellido / Razón Social *</label>
+                    <input type="text" id="nombre" name="nombre" class="form-control" placeholder="Ej: Repuestos San Martín" required>
+                </div>
+
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                    <div class="form-group">
+                        <label class="form-label" for="email">Correo Electrónico *</label>
+                        <input type="email" id="email" name="email" class="form-control" placeholder="contacto@empresa.com" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="telefono">Teléfono / WhatsApp *</label>
+                        <input type="tel" id="telefono" name="telefono" class="form-control" placeholder="11 4000-5000" required>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="rubro">Rubro Comercial</label>
+                    <select id="rubro" name="rubro" class="form-control">
+                        <option value="autopartes">Casa de Repuestos Automotor</option>
+                        <option value="ferreteria">Ferretería Industrial / Suministros</option>
+                        <option value="taller">Taller Mecánico / Rectificadora</option>
+                        <option value="distribuidor">Distribuidor Regional</option>
+                        <option value="particular">Otro / Particular</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="mensaje">Consulta o Pedido de Cotización *</label>
+                    <textarea id="mensaje" name="mensaje" class="form-control" rows="4" placeholder="Indicá códigos OEM, medidas, vehículos o cantidades estimadas..." required style="resize: vertical;"></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary" style="margin-top: 0.5rem; width: 100%; height: 44px; font-size: 0.95rem;">
+                    Enviar Consulta Comercial
+                </button>
+            </form>
+        </div>
+
+        <!-- Información de Contacto Directo y Enlaces -->
+        <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <!-- Caja WhatsApp Prioritario -->
+            <div style="background: linear-gradient(135deg, rgba(37, 211, 102, 0.15), rgba(15, 20, 28, 0.9)); border: 1px solid rgba(37, 211, 102, 0.4); border-radius: var(--radius-lg); padding: 1.75rem; box-shadow: var(--shadow-card);">
+                <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                    <span style="font-size: 2rem;">💬</span>
+                    <div>
+                        <h4 style="font-size: 1.15rem; font-weight: 800; color: #fff;">Atención Inmediata por WhatsApp</h4>
+                        <span style="font-size: 0.78rem; color: #a7f3d0;">Canal exclusivo para gremios y ferreterías</span>
+                    </div>
+                </div>
+                <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 1.25rem; line-height: 1.5;">
+                    Consultá disponibilidad al instante, enviá fotos de muestras para identificación técnica y coordiná retiros urgentes en mostrador.
+                </p>
+                <a href="https://wa.me/5491140005000?text=Hola%20Atuel%20Gomas,%20me%20comunico%20desde%20el%20sitio%20web%20para%20realizar%20una%20consulta%20comercial." 
+                   target="_blank" 
+                   class="btn btn-whatsapp" 
+                   style="width: 100%; height: 44px; font-size: 0.95rem; font-weight: 700;">
+                   Iniciar Chat de WhatsApp →
+                </a>
+            </div>
+
+            <!-- Datos de Ubicación y Horarios -->
+            <div style="background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 1.75rem; box-shadow: var(--shadow-card);">
+                <h4 style="font-size: 1.1rem; font-weight: 800; color: #fff; margin-bottom: 1.25rem;">Oficinas y Depósito Central</h4>
+                
+                <div style="display: flex; flex-direction: column; gap: 1rem; font-size: 0.9rem;">
+                    <div style="display: flex; gap: 0.75rem;">
+                        <span style="color: var(--accent-amber); font-size: 1.1rem;">📍</span>
+                        <div>
+                            <strong style="color: #fff;">Dirección de Despacho:</strong>
+                            <p style="color: var(--text-secondary); font-size: 0.85rem;">Av. Warnes y Juan B. Justo, Ciudad Autónoma de Buenos Aires, Argentina</p>
+                        </div>
+                    </div>
+
+                    <div style="display: flex; gap: 0.75rem;">
+                        <span style="color: var(--accent-amber); font-size: 1.1rem;">⏰</span>
+                        <div>
+                            <strong style="color: #fff;">Horario de Atención:</strong>
+                            <p style="color: var(--text-secondary); font-size: 0.85rem;">Lunes a Viernes de 8:00 a 18:00 hs (Sábados de 8:30 a 12:30 hs)</p>
+                        </div>
+                    </div>
+
+                    <div style="display: flex; gap: 0.75rem;">
+                        <span style="color: var(--accent-amber); font-size: 1.1rem;">✉️</span>
+                        <div>
+                            <strong style="color: #fff;">Correo Electrónico de Ventas:</strong>
+                            <p style="color: var(--text-secondary); font-size: 0.85rem;">ventas@atuelgomas.com.ar</p>
+                        </div>
+                    </div>
+
+                    <div style="display: flex; gap: 0.75rem;">
+                        <span style="color: var(--accent-amber); font-size: 1.1rem;">🚚</span>
+                        <div>
+                            <strong style="color: #fff;">Envíos al Interior:</strong>
+                            <p style="color: var(--text-secondary); font-size: 0.85rem;">Despachos por expresos y transportes de cargas generales en Villa Soldati y Pompeya</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+{% endblock %}

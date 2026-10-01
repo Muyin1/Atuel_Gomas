@@ -1,0 +1,16 @@
+=== TABLA NORMALIZADA: PRECINTOS ===
+Total de artículos únicos: 10
+===============================================================================================
+
+CODIGO | FAMILIA / CATEGORIA          | DESCRIPCION NORMALIZADA                         | PRECIO (S/IVA)
+--------------------------------------------------------------------------------------------------------
+S/C    | PRECINTOS (bolsas x 100 un.) | PRECINTOS (bolsas x 100 un.) - 100 x 2,5 D      | $571.79       
+S/C    | PRECINTOS (bolsas x 100 un.) | PRECINTOS (bolsas x 100 un.) - 150 x 3,6 E      | $1,554.40     
+S/C    | PRECINTOS (bolsas x 100 un.) | PRECINTOS (bolsas x 100 un.) - 200 x 4,7 E      | $2,994.25     
+S/C    | PRECINTOS (bolsas x 100 un.) | PRECINTOS (bolsas x 100 un.) - 250 x 4,7 E      | $3,435.05     
+S/C    | PRECINTOS (bolsas x 100 un.) | PRECINTOS (bolsas x 100 un.) - 300 x 4,7 E      | $4,293.45     
+S/C    | PRECINTOS (bolsas x 100 un.) | PRECINTOS (bolsas x 100 un.) - 380 x 4,7 E      | $6,104.50     
+S/C    | PRECINTOS (bolsas x 100 un.) | PRECINTOS (bolsas x 100 un.) - 380 x 4,7 D GRIS | $7,171.25     
+S/C    | PRECINTOS (bolsas x 100 un.) | PRECINTOS (bolsas x 100 un.) - 400 x 4,7 D      | $6,333.98     
+S/C    | PRECINTOS (bolsas x 100 un.) | PRECINTOS (bolsas x 100 un.) - 300 x 7,2 E      | $9,166.90     
+S/C    | PRECINTOS (bolsas x 100 un.) | PRECINTOS (bolsas x 100 un.) - 400 x 7,2 E      | $12,996.35    
