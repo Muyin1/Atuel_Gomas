@@ -497,6 +497,26 @@ La infraestructura remota en Supabase PostgreSQL se encuentra completamente crea
 - **Tablas físicas:** Las 12 tablas en Tercera Forma Normal (3FN) con sus claves foráneas, restricciones de unicidad e índices están creadas en la base de datos de producción.
 - **Siguiente paso:** El Data Specialist puede ejecutar su script de migración masiva/seeder para transferir los registros de SQLite local (`atuel_gomas.db`) hacia PostgreSQL en Supabase.
 
+---
+
+## [2026-09-30] - Corrección DevOps: Dependencia 'email-validator' para Pydantic y Despliegue en Render
+
+### 📌 Resumen de la Corrección:
+Se corrigió la falta de la dependencia `email-validator` requerida en tiempo de ejecución por `pydantic.EmailStr` en [`src/application/dtos/auth_dto.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/dtos/auth_dto.py). Sin este paquete, la inicialización del contenedor y los DTOs de autenticación/registro B2B provocaban un error fatal durante el inicio de la aplicación en Render (`pydantic.errors.PydanticImportError: email-validator is not installed`).
+
+### 📂 Archivos Modificados:
+1. [`requirements.txt`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/requirements.txt):
+   - Se agregó explícitamente `email-validator>=2.0.0`.
+2. [`render.yaml`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/render.yaml):
+   - Se verificó que `buildCommand: pip install -r requirements.txt` instala automáticamente la lista completa de dependencias de producción.
+3. [`.team/board.json`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/.team/board.json):
+   - Se actualizó el campo `ultimo_evento` certificando la solución del fallo y la ejecución exitosa de pruebas.
+
+### 🧪 Certificación y Pruebas:
+- Inicialización y validación aislada de `RegisterB2BDTO` con `EmailStr` satisfactoria.
+- Suite completa de pruebas ejecutada: **19 pasadas de 19 tests (100% OK)** cubriendo integración web, modelos relacionales y lógica de dominio.
+
+
 
 
 

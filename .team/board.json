@@ -82,7 +82,7 @@
   },
   "ultimo_evento": {
     "fecha": "2026-09-30",
-    "rol": "fullstack_dev",
-    "mensaje": "Posta 3 completada con éxito: Infraestructura para Render configurada (Procfile, render.yaml, .gitignore asegurado). Verificación total del frontend SSR/HTMX contra PostgreSQL en Supabase completada con 100% de éxito en catálogo, solapas de rubro, subfamilias, páginas institucionales y ficha técnica. Suite de pruebas ejecutada y pasando 19/19 OK."
+    "rol": "tech_lead",
+    "mensaje": "Corrección DevOps de producción: Agregado 'email-validator>=2.0.0' en requirements.txt para satisfacer la validación de Pydantic EmailStr en auth_dto.py. Se verificó render.yaml (pip install -r requirements.txt en buildCommand) y se ejecutó la suite completa de pruebas con 19/19 tests pasando al 100% OK. Listo para deploy a Render."
   }
 }
