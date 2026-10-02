@@ -47,6 +47,17 @@ def test_product_price_tier_by_role():
     # Administrador ve precio mayorista
     assert product.calculate_price_for_role(UserRole.ADMIN).amount == 14000.0
 
+    # Margen comercial personalizado para mostrador B2B (ej: 33% sobre precio mayorista)
+    # 14000 * 1.33 = 18620.0
+    resale_price = product.calculate_price_for_role(UserRole.B2B_CLIENT, custom_markup=33.0)
+    assert resale_price.amount == 18620.0
+
+    # Margen comercial por defecto (30% sobre mayorista)
+    # 14000 * 1.30 = 18200.0
+    default_resale_price = product.calculate_price_for_role(UserRole.B2B_CLIENT, custom_markup=30.0)
+    assert default_resale_price.amount == 18200.0
+
+
 
 from src.domain.entities.business_line import BusinessLine
 from src.domain.entities.category_item import CategoryItem

@@ -1,0 +1,696 @@
+{% extends "base.html" %}
+
+{% block title %}
+{% if current_user.role == 'SALES_AGENT' or current_user.role.value == 'SALES_AGENT' %}
+Panel Asesor Comercial - Atuel Gomas
+{% elif current_user.role == 'ADMIN' or current_user.role.value == 'ADMIN' %}
+Panel de Administración - Atuel Gomas
+{% else %}
+Mi Perfil Comercial - Atuel Gomas
+{% endif %}
+{% endblock %}
+
+{% block content %}
+<section class="hero" style="padding: 2.5rem 1.5rem 2rem;">
+    <div class="hero-content">
+        <span class="hero-pill">
+            {% if current_user.role == 'SALES_AGENT' or current_user.role.value == 'SALES_AGENT' %}
+            💼 Centro de Gestión Comercial y Ventas
+            {% elif current_user.role == 'ADMIN' or current_user.role.value == 'ADMIN' %}
+            ⚡ Panel Maestro de Administración
+            {% else %}
+            ★ Portal de Clientes y Gremio
+            {% endif %}
+        </span>
+        <h1>
+            {% if current_user.role == 'SALES_AGENT' or current_user.role.value == 'SALES_AGENT' %}
+            Panel del Asesor Comercial
+            {% elif current_user.role == 'ADMIN' or current_user.role.value == 'ADMIN' %}
+            Gestión y Distribución de Cartera
+            {% else %}
+            Mi Perfil Comercial
+            {% endif %}
+        </h1>
+        <p>
+            {% if current_user.role == 'SALES_AGENT' or current_user.role.value == 'SALES_AGENT' %}
+            Supervisión integral de clientes asignados, contacto directo por WhatsApp y trazabilidad de pedidos de tu cartera.
+            {% elif current_user.role == 'ADMIN' or current_user.role.value == 'ADMIN' %}
+            Asignación y reasignación en tiempo real de clientes B2B entre la fuerza de ventas oficial de Atuel Gomas.
+            {% else %}
+            Gestioná tu margen de ganancia para mostrador y consultá el estado de tus cotizaciones y pedidos en tiempo real.
+            {% endif %}
+        </p>
+    </div>
+</section>
+
+<div class="catalog-container" style="max-width: 1100px; margin-top: -1rem; margin-bottom: 4rem;">
+    
+    <!-- Notificaciones de Éxito / Error -->
+    {% if success_msg %}
+    <div style="background: rgba(16, 185, 129, 0.15); border: 1px solid var(--accent-green); color: #a7f3d0; padding: 1rem 1.25rem; border-radius: var(--radius-sm); font-size: 0.92rem; margin-bottom: 1.5rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.85rem;">
+        <div style="display: flex; align-items: center; gap: 0.6rem;">
+            <span style="font-size: 1.35rem; color: #34d399;">✓</span>
+            <div>{{ success_msg }}</div>
+        </div>
+        {% if wa_url %}
+        <a href="{{ wa_url }}" target="_blank" class="btn btn-whatsapp" style="font-size: 0.82rem; padding: 0.45rem 1rem; text-decoration: none;">
+            📱 Abrir Pedido en WhatsApp
+        </a>
+        {% endif %}
+    </div>
+    {% endif %}
+
+    {% if error_msg %}
+    <div style="background: rgba(239, 68, 68, 0.15); border: 1px solid var(--accent-red); color: #fca5a5; padding: 0.9rem 1.25rem; border-radius: var(--radius-sm); font-size: 0.9rem; margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.6rem;">
+        <span style="font-size: 1.2rem;">✕</span>
+        <div>{{ error_msg }}</div>
+    </div>
+    {% endif %}
+
+    <!-- Tarjeta Principal de Perfil con Pestañas -->
+    <div style="background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-lg); box-shadow: var(--shadow-card); overflow: hidden;">
+        
+        <!-- Header del Perfil: Datos Rápidos del Usuario -->
+        <div style="padding: 1.75rem 2rem; background: var(--bg-surface-elevated); border-bottom: 1px solid var(--border-color); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1.25rem;">
+            <div style="display: flex; align-items: center; gap: 1rem;">
+                <div class="user-avatar-bubble" style="width: 52px; height: 52px; font-size: 1.3rem;">
+                    {{ (current_user.business_name[:2] if current_user.business_name else 'AG')|upper }}
+                </div>
+                <div>
+                    <h2 style="font-size: 1.35rem; font-weight: 800; color: #fff; margin: 0 0 0.25rem;">
+                        {{ current_user.business_name }}
+                    </h2>
+                    <div style="display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap; font-size: 0.82rem; color: var(--text-secondary);">
+                        <span>CUIT / ID: <strong style="color: #fff; font-family: monospace;">{{ current_user.cuit.value if current_user.cuit else current_user.id }}</strong></span>
+                        <span>•</span>
+                        <span>Email: <strong style="color: #fff;">{{ current_user.email }}</strong></span>
+                        {% if current_user.phone %}
+                        <span>•</span>
+                        <span>Tel: <strong style="color: var(--accent-amber);">{{ current_user.phone }}</strong></span>
+                        {% endif %}
+                        <span>•</span>
+                        {% if current_user.role == 'SALES_AGENT' or current_user.role.value == 'SALES_AGENT' %}
+                        <span class="status-badge status-preparacion" style="padding: 0.2rem 0.6rem; font-size: 0.75rem;">
+                            💼 Asesor Comercial Oficial
+                        </span>
+                        {% elif current_user.role == 'ADMIN' or current_user.role.value == 'ADMIN' %}
+                        <span class="status-badge status-despachado" style="padding: 0.2rem 0.6rem; font-size: 0.75rem;">
+                            ⚡ Administrador del Sistema
+                        </span>
+                        {% else %}
+                        <span class="wholesale-indicator" style="padding: 0.15rem 0.5rem; font-size: 0.75rem;">
+                            Tarifa Gremio Habilitada
+                        </span>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+
+            <!-- Widget resumen derecho -->
+            <div style="text-align: right; background: rgba(0, 0, 0, 0.25); border: 1px solid var(--border-color); border-radius: var(--radius-sm); padding: 0.6rem 1rem;">
+                {% if current_user.role == 'SALES_AGENT' or current_user.role.value == 'SALES_AGENT' %}
+                <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Clientes en Cartera</div>
+                <div style="font-size: 1.4rem; font-weight: 900; color: var(--accent-amber);">
+                    {{ portfolio|length if portfolio else 0 }} Clientes
+                </div>
+                {% elif current_user.role == 'ADMIN' or current_user.role.value == 'ADMIN' %}
+                <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Fuerza de Ventas</div>
+                <div style="font-size: 1.4rem; font-weight: 900; color: var(--accent-amber);">
+                    {{ sales_agents|length if sales_agents else 0 }} Vendedores
+                </div>
+                {% else %}
+                <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Margen Mostrador Actual</div>
+                <div style="font-size: 1.4rem; font-weight: 900; color: var(--accent-amber);">
+                    +{{ current_user.markup_percent if current_user.markup_percent is defined else 30.0 }}%
+                </div>
+                {% endif %}
+            </div>
+        </div>
+
+        {# ========================================================================= #}
+        {# 1. VISTA ASESOR COMERCIAL (SALES_AGENT)                                   #}
+        {# ========================================================================= #}
+        {% if current_user.role == 'SALES_AGENT' or current_user.role.value == 'SALES_AGENT' %}
+        <div style="display: flex; border-bottom: 1px solid var(--border-color); background: rgba(0, 0, 0, 0.15); padding: 0 1rem;">
+            <button type="button" class="profile-tab-btn active" id="tab-btn-cartera" onclick="switchAgentTab('cartera')">
+                <span>👥</span> Mi Cartera de Clientes ({{ portfolio|length if portfolio else 0 }})
+            </button>
+            <button type="button" class="profile-tab-btn" id="tab-btn-agent-pedidos" onclick="switchAgentTab('agent-pedidos')">
+                <span>📦</span> Pedidos de mi Cartera ({{ agent_orders|length if agent_orders else 0 }})
+            </button>
+        </div>
+
+        <!-- Pestaña 1 Vendedor: Cartera de Clientes -->
+        <div id="tab-content-cartera" style="padding: 2rem;">
+            <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.5rem; flex-wrap: wrap; gap: 1rem;">
+                <div>
+                    <h3 style="font-size: 1.2rem; font-weight: 800; color: #fff; margin: 0 0 0.25rem;">
+                        Clientes Mayoristas Asignados
+                    </h3>
+                    <p style="font-size: 0.85rem; color: var(--text-secondary); margin: 0;">
+                        Cuentas B2B bajo tu gestión comercial directa. Contactá rápidamente a tus compradores por WhatsApp.
+                    </p>
+                </div>
+                <div style="display: flex; gap: 0.5rem;">
+                    <a href="/" class="btn btn-secondary" style="font-size: 0.82rem; padding: 0.45rem 0.85rem;">
+                        🛒 Cotizar en Catálogo
+                    </a>
+                </div>
+            </div>
+
+            {% if portfolio and portfolio|length > 0 %}
+            <div class="cart-table-wrapper">
+                <table class="cart-table">
+                    <thead>
+                        <tr>
+                            <th>Razón Social</th>
+                            <th>CUIT</th>
+                            <th>Canal / Rubro</th>
+                            <th>Localidad / Dirección</th>
+                            <th style="text-align: center;">Contacto Rápido</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for cli in portfolio %}
+                        <tr>
+                            <td>
+                                <strong style="color: #fff; font-size: 0.95rem;">{{ cli.business_name }}</strong>
+                                <div style="font-size: 0.78rem; color: var(--text-muted);">{{ cli.email }}</div>
+                            </td>
+                            <td style="font-family: monospace; font-size: 0.85rem; color: #fff;">
+                                {{ cli.cuit.value if cli.cuit else 'N/A' }}
+                            </td>
+                            <td>
+                                <span class="badge-tag" style="background: rgba(245, 158, 11, 0.1); color: var(--accent-amber); border: 1px solid rgba(245, 158, 11, 0.25); padding: 0.15rem 0.5rem; border-radius: var(--radius-sm); font-size: 0.75rem; font-weight: 700;">
+                                    {{ cli.business_line.value if cli.business_line else 'AMBOS' }}
+                                </span>
+                            </td>
+                            <td style="font-size: 0.85rem; color: var(--text-secondary);">
+                                {{ cli.city if cli.city else 'Sin localidad' }}
+                                {% if cli.address %}<br><span style="font-size: 0.78rem; color: var(--text-muted);">{{ cli.address }}</span>{% endif %}
+                            </td>
+                            <td style="text-align: center;">
+                                {% set clean_phone = cli.phone|replace(' ', '')|replace('-', '')|replace('+', '') if cli.phone else '' %}
+                                {% if clean_phone %}
+                                <a href="https://wa.me/{{ clean_phone }}?text=Hola%20{{ cli.business_name|urlencode }},%20te%20contacto%20desde%20Atuel%20Gomas%20por%20tus%20pedidos." 
+                                   target="_blank" 
+                                   class="btn btn-whatsapp" 
+                                   style="padding: 0.35rem 0.75rem; font-size: 0.78rem; white-space: nowrap;"
+                                   title="Chatear con el cliente por WhatsApp">
+                                   📱 WhatsApp
+                                </a>
+                                {% else %}
+                                <span style="font-size: 0.78rem; color: var(--text-muted);">Sin teléfono</span>
+                                {% endif %}
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% else %}
+            <div style="text-align: center; padding: 3.5rem 1rem; background: var(--bg-surface-elevated); border-radius: var(--radius-md); border: 1px dashed var(--border-color);">
+                <span style="font-size: 3rem;">👥</span>
+                <h4 style="margin-top: 1rem; font-size: 1.15rem; color: #fff;">Aún no tenés clientes asignados a tu cartera</h4>
+                <p style="color: var(--text-secondary); margin: 0.5rem auto 1.5rem; font-size: 0.88rem; max-width: 440px;">
+                    El administrador del sistema puede asignarte cuentas B2B desde el Panel de Control.
+                </p>
+            </div>
+            {% endif %}
+        </div>
+
+        <!-- Pestaña 2 Vendedor: Pedidos de su Cartera -->
+        <div id="tab-content-agent-pedidos" style="padding: 2rem; display: none;">
+            <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.5rem; flex-wrap: wrap; gap: 1rem;">
+                <div>
+                    <h3 style="font-size: 1.2rem; font-weight: 800; color: #fff; margin: 0 0 0.25rem;">
+                        Pedidos y Cotizaciones de tu Cartera
+                    </h3>
+                    <p style="font-size: 0.85rem; color: var(--text-secondary); margin: 0;">
+                        Trazabilidad cronológica de todos los pedidos ingresados por los clientes a tu cargo.
+                    </p>
+                </div>
+            </div>
+
+            {% if agent_orders and agent_orders|length > 0 %}
+            <div class="cart-table-wrapper">
+                <table class="cart-table">
+                    <thead>
+                        <tr>
+                            <th>N° Pedido</th>
+                            <th>Cliente</th>
+                            <th>Fecha</th>
+                            <th style="text-align: center;">Artículos</th>
+                            <th>Estado</th>
+                            <th style="text-align: right;">Total Mayorista</th>
+                            <th style="text-align: center;">Acción</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for ord in agent_orders %}
+                        <tr>
+                            <td style="font-weight: 800; font-family: monospace; color: #fff;">
+                                {{ ord.id }}
+                            </td>
+                            <td>
+                                <strong style="color: #fff;">{{ ord.customer_name }}</strong>
+                            </td>
+                            <td style="font-size: 0.85rem; color: var(--text-secondary);">
+                                {{ ord.created_at.strftime('%d/%m/%Y %H:%M') if ord.created_at else '-' }}
+                            </td>
+                            <td style="text-align: center;">
+                                <strong style="color: #fff;">{{ ord.items|length }}</strong> 
+                                <span style="font-size: 0.75rem; color: var(--text-muted);">
+                                    ({{ ord.items|sum(attribute='quantity') }} un.)
+                                </span>
+                            </td>
+                            <td>
+                                {% set st = ord.status.value if ord.status.value is defined else ord.status|string %}
+                                {% if 'PENDIENTE' in st %}
+                                    <span class="status-badge status-pendiente">⏳ Pendiente Aprobación</span>
+                                {% elif 'PREPARACION' in st %}
+                                    <span class="status-badge status-preparacion">📦 En Preparación</span>
+                                {% elif 'DESPACHADO' in st %}
+                                    <span class="status-badge status-despachado">🚚 Despachado</span>
+                                {% elif 'ENTREGADO' in st %}
+                                    <span class="status-badge status-entregado">✓ Entregado</span>
+                                {% else %}
+                                    <span class="status-badge status-cancelado">{{ st }}</span>
+                                {% endif %}
+                            </td>
+                            <td style="text-align: right; font-weight: 800; color: var(--accent-amber); white-space: nowrap;">
+                                {{ ord.total.format_ars() }}
+                            </td>
+                            <td style="text-align: center;">
+                                <a href="https://wa.me/5491140005000?text=Hola,%20quisiera%20consultar%20el%20estado%20interno%20del%20pedido%20{{ ord.id }}%20del%20cliente%20{{ ord.customer_name|urlencode }}" 
+                                   target="_blank" 
+                                   class="btn btn-secondary" 
+                                   style="padding: 0.35rem 0.65rem; font-size: 0.75rem; white-space: nowrap;"
+                                   title="Consultar pedido">
+                                   📱 Seguimiento
+                                </a>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% else %}
+            <div style="text-align: center; padding: 3.5rem 1rem; background: var(--bg-surface-elevated); border-radius: var(--radius-md); border: 1px dashed var(--border-color);">
+                <span style="font-size: 3rem;">📦</span>
+                <h4 style="margin-top: 1rem; font-size: 1.15rem; color: #fff;">Sin pedidos registrados en tu cartera</h4>
+                <p style="color: var(--text-secondary); margin: 0.5rem auto 1.5rem; font-size: 0.88rem; max-width: 440px;">
+                    Cuando los clientes de tu cartera confirmen pedidos desde el carrito, aparecerán listados aquí en tiempo real.
+                </p>
+            </div>
+            {% endif %}
+        </div>
+
+        {# ========================================================================= #}
+        {# 2. VISTA ADMINISTRADOR (ADMIN)                                            #}
+        {# ========================================================================= #}
+        {% elif current_user.role == 'ADMIN' or current_user.role.value == 'ADMIN' %}
+        <div style="display: flex; border-bottom: 1px solid var(--border-color); background: rgba(0, 0, 0, 0.15); padding: 0 1rem;">
+            <button type="button" class="profile-tab-btn active" id="tab-btn-asignacion" onclick="switchAdminTab('asignacion')">
+                <span>🔄</span> Asignación de Vendedores y Cartera
+            </button>
+            <button type="button" class="profile-tab-btn" id="tab-btn-vendedores" onclick="switchAdminTab('vendedores')">
+                <span>💼</span> Vendedores Oficiales ({{ sales_agents|length if sales_agents else 0 }})
+            </button>
+        </div>
+
+        <!-- Pestaña 1 Admin: Asignador reactivo HTMX -->
+        <div id="tab-content-asignacion" style="padding: 2rem;">
+            <div style="margin-bottom: 1.5rem;">
+                <h3 style="font-size: 1.2rem; font-weight: 800; color: #fff; margin: 0 0 0.25rem;">
+                    Asignación y Reasignación de Clientes B2B
+                </h3>
+                <p style="font-size: 0.85rem; color: var(--text-secondary); margin: 0;">
+                    Seleccioná el asesor comercial responsable de cada cliente mayorista. Los cambios se guardan al instante vía HTMX sin recargar la página.
+                </p>
+            </div>
+
+            {% if b2b_customers and b2b_customers|length > 0 %}
+            <div class="cart-table-wrapper">
+                <table class="cart-table">
+                    <thead>
+                        <tr>
+                            <th>Cliente B2B</th>
+                            <th>CUIT</th>
+                            <th>Ubicación</th>
+                            <th>Vendedor Asignado</th>
+                            <th style="text-align: center;">Estado de Asignación</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for cli in b2b_customers %}
+                        <tr>
+                            <td>
+                                <strong style="color: #fff; font-size: 0.95rem;">{{ cli.business_name }}</strong>
+                                <div style="font-size: 0.78rem; color: var(--text-muted);">{{ cli.email }}</div>
+                            </td>
+                            <td style="font-family: monospace; font-size: 0.85rem; color: #fff;">
+                                {{ cli.cuit.value if cli.cuit else 'N/A' }}
+                            </td>
+                            <td style="font-size: 0.85rem; color: var(--text-secondary);">
+                                {{ cli.city if cli.city else 'Sin localidad' }}
+                            </td>
+                            <td style="min-width: 240px;">
+                                <form hx-post="/admin/asignar-vendedor" 
+                                      hx-target="#status-agent-{{ cli.id }}" 
+                                      hx-swap="innerHTML"
+                                      style="margin: 0; display: flex; align-items: center; gap: 0.5rem;">
+                                    <input type="hidden" name="customer_id" value="{{ cli.id }}">
+                                    <select name="sales_agent_id" 
+                                            class="form-control" 
+                                            style="padding: 0.35rem 0.6rem; font-size: 0.82rem; height: 36px; background-color: var(--bg-surface-elevated); color: #fff;"
+                                            onchange="this.form.requestSubmit()">
+                                        <option value="">-- Sin Asignar --</option>
+                                        {% for ag in sales_agents %}
+                                        <option value="{{ ag.id }}" {% if cli.sales_agent_id == ag.id %}selected{% endif %}>
+                                            {{ ag.business_name }}
+                                        </option>
+                                        {% endfor %}
+                                    </select>
+                                </form>
+                            </td>
+                            <td style="text-align: center; min-width: 180px;" id="status-agent-{{ cli.id }}">
+                                {% if cli.sales_agent_id %}
+                                    {% set assigned_agent = (sales_agents|selectattr('id', 'equalto', cli.sales_agent_id)|list|first) %}
+                                    <span class="status-badge status-entregado" style="font-size: 0.78rem;">
+                                        ✓ Asignado a {{ assigned_agent.business_name if assigned_agent else cli.sales_agent_id }}
+                                    </span>
+                                {% else %}
+                                    <span class="status-badge status-pendiente" style="font-size: 0.78rem;">
+                                        ○ Sin Vendedor
+                                    </span>
+                                {% endif %}
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% else %}
+            <div style="text-align: center; padding: 3rem; background: var(--bg-surface-elevated); border-radius: var(--radius-md);">
+                <p style="color: var(--text-secondary); margin: 0;">No hay clientes B2B registrados para asignar.</p>
+            </div>
+            {% endif %}
+        </div>
+
+        <!-- Pestaña 2 Admin: Lista de Vendedores -->
+        <div id="tab-content-vendedores" style="padding: 2rem; display: none;">
+            <div style="margin-bottom: 1.5rem;">
+                <h3 style="font-size: 1.2rem; font-weight: 800; color: #fff; margin: 0 0 0.25rem;">
+                    Fuerza de Ventas y Asesores Oficiales
+                </h3>
+                <p style="font-size: 0.85rem; color: var(--text-secondary); margin: 0;">
+                    Listado de usuarios con credenciales y permisos de vendedor (rol SALES_AGENT).
+                </p>
+            </div>
+
+            {% if sales_agents and sales_agents|length > 0 %}
+            <div class="cart-table-wrapper">
+                <table class="cart-table">
+                    <thead>
+                        <tr>
+                            <th>Nombre / Asesor</th>
+                            <th>Email de Acceso</th>
+                            <th>Teléfono</th>
+                            <th>CUIT</th>
+                            <th style="text-align: center;">Rol del Sistema</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for ag in sales_agents %}
+                        <tr>
+                            <td>
+                                <strong style="color: #fff; font-size: 0.95rem;">{{ ag.business_name }}</strong>
+                            </td>
+                            <td style="font-size: 0.85rem; color: var(--text-secondary);">
+                                {{ ag.email }}
+                            </td>
+                            <td style="font-size: 0.85rem; color: var(--accent-amber);">
+                                {{ ag.phone if ag.phone else 'N/A' }}
+                            </td>
+                            <td style="font-family: monospace; font-size: 0.85rem; color: #fff;">
+                                {{ ag.cuit.value if ag.cuit else 'N/A' }}
+                            </td>
+                            <td style="text-align: center;">
+                                <span class="status-badge status-preparacion" style="font-size: 0.78rem;">
+                                    💼 SALES_AGENT
+                                </span>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% else %}
+            <div style="text-align: center; padding: 3rem; background: var(--bg-surface-elevated); border-radius: var(--radius-md);">
+                <p style="color: var(--text-secondary); margin: 0;">No hay asesores comerciales registrados en la base de datos.</p>
+            </div>
+            {% endif %}
+        </div>
+
+        {# ========================================================================= #}
+        {# 3. VISTA CLIENTE B2B / REGULAR                                            #}
+        {# ========================================================================= #}
+        {% else %}
+        <!-- Barra de Pestañas de Navegación -->
+        <div style="display: flex; border-bottom: 1px solid var(--border-color); background: rgba(0, 0, 0, 0.15); padding: 0 1rem;">
+            <button type="button" class="profile-tab-btn active" id="tab-btn-margen" onclick="switchProfileTab('margen')">
+                <span>🏷️</span> Configuración de Margen ("Modo Mostrador")
+            </button>
+            <button type="button" class="profile-tab-btn" id="tab-btn-pedidos" onclick="switchProfileTab('pedidos')">
+                <span>📦</span> Mis Pedidos y Cotizaciones ({{ orders|length if orders else 0 }})
+            </button>
+        </div>
+
+        <!-- Contenido Pestaña 1: Configuración de Margen de Reventa -->
+        <div id="tab-content-margen" style="padding: 2.25rem 2rem;">
+            <div style="max-width: 680px;">
+                <div style="display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.75rem;">
+                    <span style="font-size: 1.6rem;">🛡️</span>
+                    <h3 style="font-size: 1.2rem; font-weight: 800; color: #fff; margin: 0;">
+                        Margen Comercial Personalizado para Mostrador
+                    </h3>
+                </div>
+
+                <p style="font-size: 0.9rem; color: var(--text-secondary); line-height: 1.6; margin-bottom: 1.5rem;">
+                    Este porcentaje se aplicará automáticamente a los precios que ves en pantalla para que puedas 
+                    <strong>mostrarle el catálogo a tus clientes sin revelar tu costo mayorista</strong>.
+                </p>
+
+                <div style="background: rgba(245, 158, 11, 0.08); border-left: 4px solid var(--accent-amber); padding: 1rem 1.25rem; border-radius: 0 var(--radius-sm) var(--radius-sm) 0; margin-bottom: 2rem;">
+                    <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--accent-amber); margin: 0 0 0.35rem;">
+                        ¿Cómo funciona la regla de cálculo?
+                    </h4>
+                    <p style="font-size: 0.82rem; color: var(--text-secondary); margin: 0; line-height: 1.5;">
+                        Ejemplo: Si tu costo mayorista B2B en una manguera de radiador es <strong>$ 10.000</strong> y configurás un margen del <strong>33%</strong>, en pantalla y en tu mostrador se mostrará <strong>$ 13.300</strong>. Podés cambiar este valor en cualquier momento.
+                    </p>
+                </div>
+
+                <form action="/perfil/margen" method="POST" style="background: var(--bg-surface-elevated); border: 1px solid var(--border-color); border-radius: var(--radius-md); padding: 1.75rem;">
+                    <div class="form-group" style="margin-bottom: 1.5rem;">
+                        <label class="form-label" for="markup_percent" style="font-weight: 700; font-size: 0.95rem;">
+                            ¿Qué margen de ganancia querés aplicar a tu mostrador?
+                        </label>
+                        <div style="display: flex; align-items: center; gap: 0.5rem; max-width: 260px;">
+                            <input type="number" 
+                                   id="markup_percent" 
+                                   name="markup_percent" 
+                                   class="form-control" 
+                                   step="0.5" 
+                                   min="0" 
+                                   max="300"
+                                   value="{{ current_user.markup_percent if current_user.markup_percent is defined else 30.0 }}" 
+                                   required 
+                                   style="font-size: 1.25rem; font-weight: 800; text-align: center; color: var(--accent-amber); height: 48px;">
+                            <span style="font-size: 1.4rem; font-weight: 900; color: #fff;">%</span>
+                        </div>
+                        <span style="display: block; font-size: 0.78rem; color: var(--text-muted); margin-top: 0.4rem;">
+                            Valores habituales del gremio: 25% a 50% según rotación y plaza comercial.
+                        </span>
+                    </div>
+
+                    <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
+                        <button type="submit" class="btn btn-primary" style="height: 44px; padding: 0 1.75rem; font-weight: 700;">
+                            💾 Guardar Margen de Mostrador
+                        </button>
+                        <a href="/" class="btn btn-secondary" style="height: 44px; display: inline-flex; align-items: center;">
+                            Ver Catálogo con este Margen →
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Contenido Pestaña 2: Historial de Pedidos y Cotizaciones -->
+        <div id="tab-content-pedidos" style="padding: 2.25rem 2rem; display: none;">
+            <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.5rem; flex-wrap: wrap; gap: 1rem;">
+                <div>
+                    <h3 style="font-size: 1.2rem; font-weight: 800; color: #fff; margin: 0 0 0.25rem;">
+                        Historial de Compras y Cotizaciones Mayoristas
+                    </h3>
+                    <p style="font-size: 0.85rem; color: var(--text-secondary); margin: 0;">
+                        Seguimiento en vivo del estado de preparación, facturación y despacho de tu mercadería.
+                    </p>
+                </div>
+
+                <a href="https://wa.me/5491140005000?text=Hola%20Atuel%20Gomas,%20quisiera%20consultar%20por%20mis%20pedidos%20del%20cliente%20{{ current_user.business_name|urlencode }}" 
+                   target="_blank" 
+                   class="btn btn-whatsapp" 
+                   style="font-size: 0.82rem; padding: 0.5rem 1rem;">
+                   📱 Consultar por WhatsApp
+                </a>
+            </div>
+
+            {% if orders and orders|length > 0 %}
+            <div class="cart-table-wrapper">
+                <table class="cart-table">
+                    <thead>
+                        <tr>
+                            <th>N° Pedido</th>
+                            <th>Fecha</th>
+                            <th style="text-align: center;">Artículos</th>
+                            <th>Estado Actual</th>
+                            <th style="text-align: right;">Total Estimado</th>
+                            <th style="text-align: center;">Acción</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for ord in orders %}
+                        <tr>
+                            <td style="font-weight: 800; font-family: monospace; color: #fff;">
+                                {{ ord.id }}
+                            </td>
+                            <td style="font-size: 0.85rem; color: var(--text-secondary);">
+                                {{ ord.created_at.strftime('%d/%m/%Y %H:%M') if ord.created_at else '-' }}
+                            </td>
+                            <td style="text-align: center;">
+                                <strong style="color: #fff;">{{ ord.items|length }}</strong> 
+                                <span style="font-size: 0.75rem; color: var(--text-muted);">
+                                    ({{ ord.items|sum(attribute='quantity') }} un.)
+                                </span>
+                            </td>
+                            <td>
+                                {% set st = ord.status.value if ord.status.value is defined else ord.status|string %}
+                                {% if 'PENDIENTE' in st %}
+                                    <span class="status-badge status-pendiente">⏳ Pendiente Aprobación</span>
+                                {% elif 'PREPARACION' in st %}
+                                    <span class="status-badge status-preparacion">📦 En Preparación</span>
+                                {% elif 'DESPACHADO' in st %}
+                                    <span class="status-badge status-despachado">🚚 Despachado</span>
+                                {% elif 'ENTREGADO' in st %}
+                                    <span class="status-badge status-entregado">✓ Entregado</span>
+                                {% else %}
+                                    <span class="status-badge status-cancelado">{{ st }}</span>
+                                {% endif %}
+                            </td>
+                            <td style="text-align: right; font-weight: 800; color: var(--accent-amber); white-space: nowrap;">
+                                {{ ord.total.format_ars() }}
+                            </td>
+                            <td style="text-align: center;">
+                                <a href="https://wa.me/5491140005000?text=Hola%20Atuel%20Gomas,%20quisiera%20consultar%20el%20estado%20del%20pedido%20{{ ord.id }}%20(Total:%20{{ ord.total.format_ars()|urlencode }})" 
+                                   target="_blank" 
+                                   class="btn btn-secondary" 
+                                   style="padding: 0.35rem 0.65rem; font-size: 0.75rem; white-space: nowrap;"
+                                   title="Consultar este pedido por WhatsApp">
+                                   📱 Consultar
+                                </a>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% else %}
+            <!-- Estado sin pedidos -->
+            <div style="text-align: center; padding: 3.5rem 1rem; background: var(--bg-surface-elevated); border-radius: var(--radius-md); border: 1px dashed var(--border-color);">
+                <span style="font-size: 3rem;">📦</span>
+                <h4 style="margin-top: 1rem; font-size: 1.15rem; color: #fff;">Todavía no tenés pedidos registrados</h4>
+                <p style="color: var(--text-secondary); margin: 0.5rem auto 1.5rem; font-size: 0.88rem; max-width: 440px;">
+                    Navegá nuestro catálogo de más de 12.000 artículos, agregá las piezas al carrito y envianos tu pedido en un solo clic.
+                </p>
+                <a href="/" class="btn btn-primary" style="padding: 0.6rem 1.5rem; font-weight: 700;">
+                    🛒 Explorar Catálogo Mayorista
+                </a>
+            </div>
+            {% endif %}
+        </div>
+        {% endif %}
+
+    </div>
+</div>
+
+<script>
+function switchProfileTab(tabName) {
+    const tabMargenBtn = document.getElementById('tab-btn-margen');
+    const tabPedidosBtn = document.getElementById('tab-btn-pedidos');
+    const contentMargen = document.getElementById('tab-content-margen');
+    const contentPedidos = document.getElementById('tab-content-pedidos');
+
+    if (tabName === 'margen') {
+        if (tabMargenBtn) tabMargenBtn.classList.add('active');
+        if (tabPedidosBtn) tabPedidosBtn.classList.remove('active');
+        if (contentMargen) contentMargen.style.display = 'block';
+        if (contentPedidos) contentPedidos.style.display = 'none';
+    } else {
+        if (tabPedidosBtn) tabPedidosBtn.classList.add('active');
+        if (tabMargenBtn) tabMargenBtn.classList.remove('active');
+        if (contentPedidos) contentPedidos.style.display = 'block';
+        if (contentMargen) contentMargen.style.display = 'none';
+    }
+}
+
+function switchAgentTab(tabName) {
+    const tabCarteraBtn = document.getElementById('tab-btn-cartera');
+    const tabPedidosBtn = document.getElementById('tab-btn-agent-pedidos');
+    const contentCartera = document.getElementById('tab-content-cartera');
+    const contentPedidos = document.getElementById('tab-content-agent-pedidos');
+
+    if (tabName === 'cartera') {
+        if (tabCarteraBtn) tabCarteraBtn.classList.add('active');
+        if (tabPedidosBtn) tabPedidosBtn.classList.remove('active');
+        if (contentCartera) contentCartera.style.display = 'block';
+        if (contentPedidos) contentPedidos.style.display = 'none';
+    } else {
+        if (tabPedidosBtn) tabPedidosBtn.classList.add('active');
+        if (tabCarteraBtn) tabCarteraBtn.classList.remove('active');
+        if (contentPedidos) contentPedidos.style.display = 'block';
+        if (contentCartera) contentCartera.style.display = 'none';
+    }
+}
+
+function switchAdminTab(tabName) {
+    const tabAsignacionBtn = document.getElementById('tab-btn-asignacion');
+    const tabVendedoresBtn = document.getElementById('tab-btn-vendedores');
+    const contentAsignacion = document.getElementById('tab-content-asignacion');
+    const contentVendedores = document.getElementById('tab-content-vendedores');
+
+    if (tabName === 'asignacion') {
+        if (tabAsignacionBtn) tabAsignacionBtn.classList.add('active');
+        if (tabVendedoresBtn) tabVendedoresBtn.classList.remove('active');
+        if (contentAsignacion) contentAsignacion.style.display = 'block';
+        if (contentVendedores) contentVendedores.style.display = 'none';
+    } else {
+        if (tabVendedoresBtn) tabVendedoresBtn.classList.add('active');
+        if (tabAsignacionBtn) tabAsignacionBtn.classList.remove('active');
+        if (contentVendedores) contentVendedores.style.display = 'block';
+        if (contentAsignacion) contentAsignacion.style.display = 'none';
+    }
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get("pedido_confirmado")) {
+        switchProfileTab("pedidos");
+        const waUrl = urlParams.get("wa_url");
+        if (waUrl) {
+            window.open(waUrl, "_blank");
+        }
+    }
+});
+</script>
+{% endblock %}

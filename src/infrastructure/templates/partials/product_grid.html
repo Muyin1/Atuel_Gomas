@@ -73,19 +73,14 @@
 
             <div class="price-row">
                 <div>
-                    <div class="price-label">
-                        {% if product.is_wholesale %}Precio Mayorista B2B (Neto){% else %}Precio Sugerido Venta{% endif %}
-                    </div>
                     <div class="price-tag {% if product.is_wholesale %}wholesale{% endif %}">{{ product.price_formatted }}</div>
                 </div>
                 {% if product.is_wholesale %}
                 <span class="wholesale-indicator">★ Gremio B2B</span>
-                {% else %}
-                <span class="retail-indicator">PVP Lista</span>
                 {% endif %}
             </div>
 
-            <div class="card-actions">
+            <div class="card-actions" style="grid-template-columns: 1fr 1fr; margin-bottom: 0.4rem;">
                 <a href="/producto/{{ product.id }}" class="btn btn-secondary" style="font-size: 0.8rem; padding: 0.45rem;">
                     Ficha Técnica
                 </a>
@@ -93,9 +88,19 @@
                    target="_blank" 
                    class="btn btn-whatsapp" 
                    style="font-size: 0.8rem; padding: 0.45rem;">
-                   Pedir WhatsApp
+                   WhatsApp
                 </a>
             </div>
+            <button type="button"
+                    hx-post="/carrito/agregar"
+                    hx-vals='{"product_id": "{{ product.id }}", "cantidad": 1}'
+                    hx-target="#cart-badge"
+                    hx-swap="outerHTML"
+                    class="btn btn-primary"
+                    style="width: 100%; font-size: 0.82rem; padding: 0.45rem; font-weight: 700; gap: 0.35rem;"
+                    onclick="this.innerText='✓ ¡Agregado!'; setTimeout(() => this.innerText='+ Agregar al Pedido', 1500)">
+                + Agregar al Pedido
+            </button>
         </div>
     </article>
     {% else %}

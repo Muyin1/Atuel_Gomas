@@ -17,3 +17,9 @@ class InvalidCustomerCredentialsError(DomainException):
 
 class CustomerAlreadyExistsError(DomainException):
     pass
+
+
+class UnauthorizedActionError(DomainException):
+    """Excepción lanzada cuando una operación requiere privilegios específicos (ej. ADMIN)"""
+    pass
+

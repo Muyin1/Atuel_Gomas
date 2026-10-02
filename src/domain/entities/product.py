@@ -26,11 +26,19 @@ class Product:
     family_name: str | None = None
     is_active: bool = True
 
-    def calculate_price_for_role(self, role: UserRole) -> Money:
-        """Regla de negocio pura: cálculo de precio según perfil"""
+    def calculate_price_for_role(self, role: UserRole, custom_markup: float | None = None) -> Money:
+        """
+        Regla de negocio pura: cálculo de precio según perfil.
+        Si se especifica un margen comercial personalizado (ej: 33.0% para mostrador de cliente B2B):
+            precio_mostrador = wholesale_price * (1 + custom_markup / 100)
+        """
         if role in (UserRole.B2B_CLIENT, UserRole.SALES_AGENT, UserRole.ADMIN):
+            if custom_markup is not None:
+                markup_factor = 1.0 + (float(custom_markup) / 100.0)
+                return Money(amount=round(self.wholesale_price.amount * markup_factor, 2))
             return self.wholesale_price
         return self.base_price
+
 
     def has_stock(self, quantity: int = 1) -> bool:
         return self.stock >= quantity

@@ -1,16 +1,22 @@
 {% extends "base.html" %}
 
-{% block title %}Alta de Cuenta Mayorista - Atuel Gomas{% endblock %}
+{% block title %}Alta Directa de Cliente B2B (Administración) - Atuel Gomas{% endblock %}
 
 {% block content %}
 <div style="max-width: 580px; margin: 3rem auto; padding: 2.25rem; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-md); box-shadow: var(--shadow-card);">
     <div style="text-align: center; margin-bottom: 2rem;">
-        <span style="font-size: 2.5rem;">🏢</span>
-        <h2 style="font-size: 1.5rem; font-weight: 800; margin-top: 0.5rem;">Registro de Cuenta B2B</h2>
+        <span style="font-size: 2.5rem;">👑</span>
+        <h2 style="font-size: 1.5rem; font-weight: 800; margin-top: 0.5rem;">Panel de Administración: Alta Directa B2B</h2>
         <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 0.25rem;">
-            Exclusivo para Casas de Repuestos del Automotor, Ferreterías Industriales y Talleres.
+            Creación manual inmediata de cuentas comerciales activas y aprobadas.
         </p>
     </div>
+
+    {% if success %}
+    <div style="background: rgba(16, 185, 129, 0.15); border: 1px solid var(--accent-green); color: #a7f3d0; padding: 0.85rem 1rem; border-radius: var(--radius-sm); font-size: 0.9rem; margin-bottom: 1.5rem; text-align: center;">
+        ✓ {{ success }}
+    </div>
+    {% endif %}
 
     {% if error %}
     <div style="background: rgba(239, 68, 68, 0.15); border: 1px solid var(--accent-red); color: #fca5a5; padding: 0.75rem; border-radius: var(--radius-sm); font-size: 0.85rem; margin-bottom: 1.5rem;">
@@ -56,14 +62,13 @@
             <input type="password" id="password" name="password" class="form-control" placeholder="Al menos 6 caracteres" required>
         </div>
 
-        <button type="submit" class="btn btn-primary" style="margin-top: 1rem; width: 100%;">
-            Dar de Alta Cuenta Mayorista
+        <button type="submit" class="btn btn-primary" style="margin-top: 1rem; width: 100%; height: 44px; font-weight: 700;">
+            Dar de Alta Cliente Inmediato
         </button>
     </form>
 
     <div style="text-align: center; margin-top: 1.5rem; font-size: 0.85rem; color: var(--text-secondary);">
-        ¿Ya tenés una cuenta registrada? 
-        <a href="/login" style="color: var(--accent-amber); font-weight: 600;">Iniciá Sesión</a>
+        <a href="/" style="color: var(--accent-amber); font-weight: 600;">← Volver al Catálogo</a>
     </div>
 </div>
 {% endblock %}

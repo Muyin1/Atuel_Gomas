@@ -18,4 +18,8 @@ class Customer:
     business_line: BusinessLine = BusinessLine.AMBOS
     is_approved: bool = False        # Aprobación de cuenta mayorista por vendedor
     hashed_password: str = ""
+    markup_percent: float = 30.0     # Margen de reventa comercial configurable (por defecto 30%)
+    sales_agent_id: str | None = None # ID del vendedor asignado (rol SALES_AGENT)
     created_at: datetime = field(default_factory=datetime.utcnow)
+
+

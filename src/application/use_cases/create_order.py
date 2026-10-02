@@ -53,7 +53,9 @@ class CreateOrderUseCase:
             customer_name=customer.business_name,
             items=order_items,
             status=OrderStatus.PENDING_APPROVAL,
-            notes=dto.notes
+            notes=dto.notes,
+            sales_agent_id=customer.sales_agent_id
         )
+
 
         return await self.order_repo.create_order(order)

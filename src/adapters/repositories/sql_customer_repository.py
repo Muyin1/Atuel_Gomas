@@ -51,6 +51,8 @@ class SqlAlchemyCustomerRepository(ICustomerRepository):
 
     def _map_to_entity(self, model: ClienteModel) -> Customer:
         bl = getattr(model, "rubro", "AMBOS")
+        markup = getattr(model, "markup_percent", 30.0)
+        sales_agent = getattr(model, "sales_agent_id", None)
         return Customer(
             id=model.id,
             email=model.email,
@@ -63,8 +65,11 @@ class SqlAlchemyCustomerRepository(ICustomerRepository):
             business_line=_normalize_business_line(bl),
             is_approved=bool(model.is_approved),
             hashed_password=model.hashed_password,
+            markup_percent=float(markup if markup is not None else 30.0),
+            sales_agent_id=sales_agent,
             created_at=model.created_at,
         )
+
 
     async def get_by_id(self, customer_id: str) -> Customer | None:
         with self._session_factory() as session:
@@ -111,6 +116,8 @@ class SqlAlchemyCustomerRepository(ICustomerRepository):
                     rubro=rubro_str,
                     is_approved=customer.is_approved,
                     hashed_password=customer.hashed_password,
+                    markup_percent=getattr(customer, "markup_percent", 30.0),
+                    sales_agent_id=customer.sales_agent_id,
                     created_at=customer.created_at,
                 )
                 session.add(model)
@@ -125,5 +132,67 @@ class SqlAlchemyCustomerRepository(ICustomerRepository):
                 model.rubro = rubro_str
                 model.is_approved = customer.is_approved
                 model.hashed_password = customer.hashed_password
+                model.markup_percent = getattr(customer, "markup_percent", 30.0)
+                model.sales_agent_id = customer.sales_agent_id
 
             session.commit()
+
+    async def update_profile(
+        self,
+        customer_id: str,
+        markup_percent: float,
+        phone: str | None = None,
+        address: str | None = None
+    ) -> Customer:
+        """
+        Actualiza la configuración comercial del perfil del cliente (margen de reventa y datos de contacto).
+        """
+        with self._session_factory() as session:
+            model = session.get(ClienteModel, customer_id)
+            if not model:
+                raise ValueError(f"Cliente con ID '{customer_id}' no encontrado.")
+
+            model.markup_percent = float(markup_percent)
+            if phone is not None:
+                model.telefono = phone.strip()
+            if address is not None:
+                model.direccion = address.strip()
+
+            session.commit()
+            session.refresh(model)
+            return self._map_to_entity(model)
+
+    async def get_sales_agents(self) -> list[Customer]:
+        """
+        Obtiene todos los usuarios que desempeñan el rol de vendedor (SALES_AGENT).
+        """
+        with self._session_factory() as session:
+            stmt = select(ClienteModel).filter(
+                func.upper(ClienteModel.rol).in_(["SALES_AGENT", "SALES", "VENTAS"])
+            ).order_by(ClienteModel.razon_social.asc())
+            models = session.scalars(stmt).all()
+            return [self._map_to_entity(m) for m in models]
+
+    async def get_customers_by_sales_agent(self, sales_agent_id: str) -> list[Customer]:
+        """
+        Obtiene la cartera de clientes asignados a un vendedor específico.
+        """
+        with self._session_factory() as session:
+            stmt = select(ClienteModel).filter(
+                ClienteModel.sales_agent_id == sales_agent_id
+            ).order_by(ClienteModel.razon_social.asc())
+            models = session.scalars(stmt).all()
+            return [self._map_to_entity(m) for m in models]
+
+    async def assign_sales_agent(self, customer_id: str, sales_agent_id: str | None) -> None:
+        """
+        Asigna o reasigna un vendedor a un cliente B2B. Si sales_agent_id es None, se desvincula.
+        """
+        with self._session_factory() as session:
+            model = session.get(ClienteModel, customer_id)
+            if not model:
+                raise ValueError(f"Cliente con ID '{customer_id}' no encontrado.")
+            model.sales_agent_id = sales_agent_id
+            session.commit()
+
+

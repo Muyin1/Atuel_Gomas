@@ -43,6 +43,7 @@ class SqlAlchemyOrderRepository(IOrderRepository):
             for item in model.items
         ]
 
+        sales_agent = getattr(model, "sales_agent_id", None)
         return Order(
             id=model.id,
             customer_id=model.cliente_id,
@@ -50,6 +51,7 @@ class SqlAlchemyOrderRepository(IOrderRepository):
             items=items,
             status=_normalize_order_status(model.estado),
             notes=model.notes or "" if hasattr(model, "notes") else (model.notas or ""),
+            sales_agent_id=sales_agent,
             created_at=model.created_at,
         )
 
@@ -62,6 +64,7 @@ class SqlAlchemyOrderRepository(IOrderRepository):
                 estado=order.status.value if hasattr(order.status, "value") else str(order.status),
                 total=float(order.total.amount),
                 notas=order.notes,
+                sales_agent_id=order.sales_agent_id,
                 created_at=order.created_at,
             )
 
@@ -108,3 +111,18 @@ class SqlAlchemyOrderRepository(IOrderRepository):
             )
             models = session.scalars(stmt).all()
             return [self._map_to_entity(m) for m in models]
+
+    async def get_by_sales_agent(self, sales_agent_id: str) -> list[Order]:
+        """
+        Obtiene todos los pedidos correspondientes a los clientes asignados al vendedor.
+        """
+        with self._session_factory() as session:
+            stmt = (
+                select(OrdenModel)
+                .options(selectinload(OrdenModel.items))
+                .filter(OrdenModel.sales_agent_id == sales_agent_id)
+                .order_by(OrdenModel.created_at.desc())
+            )
+            models = session.scalars(stmt).all()
+            return [self._map_to_entity(m) for m in models]
+

@@ -99,27 +99,35 @@
 
             <div style="margin-top: auto; padding-top: 1.5rem; border-top: 1px solid var(--border-color); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
                 <div>
-                    <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.25rem;">
-                        <span class="price-label">
-                            {% if is_b2b %}PRECIO MAYORISTA B2B (NETO){% else %}PRECIO LISTA SUGERIDO{% endif %}
-                        </span>
-                        {% if is_b2b %}
-                        <span class="wholesale-indicator">★ Tarifa Gremio</span>
-                        {% else %}
-                        <span class="retail-indicator">PVP Oficial</span>
-                        {% endif %}
+                    {% if is_b2b %}
+                    <div style="margin-bottom: 0.35rem;">
+                        <span class="wholesale-indicator">★ Tarifa Gremio B2B</span>
                     </div>
-                    <div class="price-tag {% if is_b2b %}wholesale{% endif %}" style="font-size: 2.2rem;">
+                    {% endif %}
+                    <div class="price-tag {% if is_b2b %}wholesale{% endif %}" style="font-size: 2.3rem; font-weight: 800; letter-spacing: -0.5px;">
                         {{ price.format_ars() }}
                     </div>
                 </div>
 
-                <a href="https://wa.me/5491140005000?text=Hola%20Atuel%20Gomas,%20quisiera%20pedir%20cotizaci%C3%B3n/pedido%20del%20SKU%20{{ product.sku }}%20({{ product.name }})" 
-                   target="_blank" 
-                   class="btn btn-whatsapp" 
-                   style="padding: 0.75rem 1.5rem; font-size: 1rem;">
-                    📱 Solicitar Cotización B2B
-                </a>
+                <div style="display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap;">
+                    <button type="button"
+                            hx-post="/carrito/agregar"
+                            hx-vals='{"product_id": "{{ product.id }}", "cantidad": 1}'
+                            hx-target="#cart-badge"
+                            hx-swap="outerHTML"
+                            class="btn btn-primary"
+                            style="padding: 0.75rem 1.5rem; font-size: 1rem; font-weight: 700;"
+                            onclick="this.innerText='✓ ¡Agregado al Pedido!'; setTimeout(() => this.innerText='🛒 + Agregar al Pedido', 1800)">
+                        🛒 + Agregar al Pedido
+                    </button>
+
+                    <a href="https://wa.me/5491140005000?text=Hola%20Atuel%20Gomas,%20quisiera%20pedir%20cotizaci%C3%B3n/pedido%20del%20SKU%20{{ product.sku }}%20({{ product.name }})" 
+                       target="_blank" 
+                       class="btn btn-whatsapp" 
+                       style="padding: 0.75rem 1.25rem; font-size: 0.95rem;">
+                        📱 Consultar WhatsApp
+                    </a>
+                </div>
             </div>
         </div>
     </div>

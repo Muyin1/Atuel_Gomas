@@ -29,15 +29,29 @@
             <input type="password" id="password" name="password" class="form-control" placeholder="••••••••" required>
         </div>
 
-        <button type="submit" class="btn btn-primary" style="margin-top: 0.5rem; width: 100%;">
+        <button type="submit" class="btn btn-primary" style="margin-top: 0.5rem; width: 100%; height: 44px; font-weight: 700;">
             Ingresar al Catálogo Mayorista
         </button>
     </form>
 
-    <div style="text-align: center; margin-top: 1.75rem; padding-top: 1.25rem; border-top: 1px solid var(--border-color); font-size: 0.85rem; color: var(--text-secondary);">
-        ¿Sos una ferretería o repuestera y aún no tenés cuenta?  
-        <a href="/registro" style="color: var(--accent-amber); font-weight: 600; display: block; margin-top: 0.4rem;">
-            Solicitar Alta de Cuenta B2B →
+    <!-- Tarjeta de Acceso Rápido Modo Demo / Simulación Comercial -->
+    <div style="margin-top: 1.5rem; background: linear-gradient(135deg, rgba(245, 158, 11, 0.12), rgba(15, 20, 28, 0.8)); border: 1px solid rgba(245, 158, 11, 0.4); border-radius: var(--radius-sm); padding: 1.15rem; text-align: center;">
+        <div style="display: flex; align-items: center; justify-content: center; gap: 0.4rem; margin-bottom: 0.35rem;">
+            <span style="font-size: 1.1rem;">⚡</span>
+            <strong style="color: var(--accent-amber); font-size: 0.92rem;">Simulación Comercial B2B</strong>
+        </div>
+        <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 0.85rem; line-height: 1.4;">
+            ¿Querés ver el catálogo técnico con precios de gremio antes de solicitar tu alta definitiva?
+        </p>
+        <a href="/demo-login" class="btn btn-secondary" style="width: 100%; height: 38px; font-size: 0.85rem; font-weight: 700; border-color: var(--accent-amber); color: var(--accent-amber); display: inline-flex; align-items: center; justify-content: center; gap: 0.4rem;">
+            ⚡ Explorar Catálogo en Modo Demo
+        </a>
+    </div>
+
+    <div style="text-align: center; margin-top: 1.5rem; padding-top: 1.25rem; border-top: 1px solid var(--border-color); font-size: 0.85rem; color: var(--text-secondary);">
+        ¿Sos una ferretería, repuestera o taller y aún no tenés cuenta?  
+        <a href="/solicitar-cuenta" style="color: var(--accent-amber); font-weight: 700; display: block; margin-top: 0.4rem;">
+            ★ Solicitar Cuenta Mayorista B2B →
         </a>
     </div>
 </div>

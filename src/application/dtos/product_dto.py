@@ -10,6 +10,7 @@ class ProductSearchDTO(BaseModel):
     vehicle_brand: str | None = None
     vehicle_model: str | None = None
     role: UserRole = UserRole.PUBLIC
+    custom_markup: float | None = None
     page: int = 1
     page_size: int = 24
 

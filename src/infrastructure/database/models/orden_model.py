@@ -29,7 +29,9 @@ class OrdenModel(Base):
     estado: Mapped[str] = mapped_column(String(50), default="PENDIENTE_APROBACION", nullable=False)
     total: Mapped[float] = mapped_column(Float, default=0.0, nullable=False)
     notas: Mapped[str | None] = mapped_column(Text, nullable=True)
+    sales_agent_id: Mapped[str | None] = mapped_column(String(36), nullable=True, index=True)
     created_at: Mapped[datetime] = mapped_column(DateTime, default=lambda: datetime.now(timezone.utc), nullable=False)
+
 
     # Relaciones
     cliente: Mapped[ClienteModel] = relationship(

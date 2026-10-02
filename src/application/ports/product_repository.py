@@ -12,8 +12,13 @@ class IProductRepository(ABC):
         pass
 
     @abstractmethod
+    async def get_by_ids(self, product_ids: list[str]) -> list[Product]:
+        pass
+
+    @abstractmethod
     async def get_by_sku(self, sku: str) -> Product | None:
         pass
+
 
     @abstractmethod
     async def search(

@@ -1,0 +1,149 @@
+{% extends "base.html" %}
+
+{% block title %}Solicitud de Cuenta Mayorista B2B - Atuel Gomas{% endblock %}
+
+{% block content %}
+<section class="hero" style="padding: 2.5rem 1.5rem 2rem;">
+    <div class="hero-content">
+        <span class="hero-pill">
+            ★ Apertura Comercial B2B
+        </span>
+        <h1>Solicitud de Cuenta y Tarifa Mayorista</h1>
+        <p>
+            Canal exclusivo para Casas de Repuestos Automotor, Ferreterías Industriales, Talleres y Distribuidores de todo el país.
+        </p>
+    </div>
+</section>
+
+<div class="catalog-container" style="max-width: 720px; margin-top: -1rem; margin-bottom: 3.5rem;">
+    <div style="background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 2.25rem; box-shadow: var(--shadow-card);">
+        
+        {% if enviado_ok %}
+        <!-- Tarjeta de Confirmación de Solicitud Exitosa -->
+        <div style="background: linear-gradient(135deg, rgba(16, 185, 129, 0.18), rgba(15, 20, 28, 0.95)); border: 1px solid var(--accent-green); border-radius: var(--radius-md); padding: 2rem; text-align: center;">
+            <div style="font-size: 3rem; margin-bottom: 0.75rem;">✅</div>
+            <h2 style="font-size: 1.45rem; font-weight: 800; color: #a7f3d0; margin-bottom: 0.5rem;">
+                ¡Solicitud Registrada con Éxito!
+            </h2>
+            <p style="font-size: 0.92rem; color: var(--text-secondary); line-height: 1.6; max-width: 540px; margin: 0 auto 1.5rem;">
+                Hemos recibido los datos de <strong>{{ prospecto.business_name if prospecto else 'tu empresa' }}</strong> (CUIT: <span style="font-family: monospace; color: #fff;">{{ prospecto.cuit.value if prospecto else '' }}</span>). 
+                Tu cuenta ingresó a nuestro circuito de revisión comercial para activación de precios de gremio.
+            </p>
+
+            <div style="background: rgba(0, 0, 0, 0.35); border: 1px dashed rgba(16, 185, 129, 0.4); border-radius: var(--radius-sm); padding: 1rem; margin-bottom: 1.75rem; text-align: left; font-size: 0.85rem; color: var(--text-secondary);">
+                <p style="margin: 0 0 0.4rem; color: #fff; font-weight: 700;">⚡ ¿Precisás cotizar o realizar un pedido urgente hoy?</p>
+                <p style="margin: 0;">Podés acelerar el alta enviándonos la constancia de CUIT por WhatsApp o ingresar al catálogo en modo de simulación comercial.</p>
+            </div>
+
+            <div style="display: flex; flex-direction: column; gap: 0.75rem; max-width: 440px; margin: 0 auto;">
+                <a href="https://wa.me/5492612629209?text=Hola%20Atuel%20Gomas,%20acabo%20de%20enviar%20la%20solicitud%20de%20cuenta%20mayorista%20para%20{{ (prospecto.business_name if prospecto else '')|urlencode }}%20(CUIT%20{{ (prospecto.cuit.value if prospecto else '')|urlencode }}).%20Quisiera%20agilizar%20el%20alta%20comercial." 
+                   target="_blank" 
+                   class="btn btn-whatsapp" 
+                   style="height: 44px; font-size: 0.92rem; font-weight: 700;">
+                   📱 Agilizar Alta por WhatsApp Directo →
+                </a>
+
+                <a href="/demo-login" 
+                   class="btn btn-secondary" 
+                   style="height: 42px; font-size: 0.88rem; font-weight: 700; border-color: var(--accent-amber); color: var(--accent-amber);">
+                   ⚡ Explorar Catálogo en Modo Demo (Precios de Gremio)
+                </a>
+
+                <a href="/" style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem; text-decoration: underline;">
+                    Volver a la Portada
+                </a>
+            </div>
+        </div>
+
+        {% else %}
+        <!-- Formulario de Solicitud de Cuenta -->
+        <div style="margin-bottom: 1.75rem;">
+            <div style="display: flex; align-items: center; gap: 0.75rem;">
+                <span style="font-size: 2rem;">📝</span>
+                <div>
+                    <h2 style="font-size: 1.35rem; font-weight: 800; color: #fff;">Formulario de Solicitud Comercial</h2>
+                    <p style="font-size: 0.82rem; color: var(--text-secondary); margin-top: 0.2rem;">
+                        Completá la información de tu establecimiento. Nuestro equipo validará tu CUIT para otorgarte acceso a la tarifa mayorista.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        {% if error %}
+        <div style="background: rgba(239, 68, 68, 0.15); border: 1px solid var(--accent-red); color: #fca5a5; padding: 0.85rem 1rem; border-radius: var(--radius-sm); font-size: 0.88rem; margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.5rem;">
+            <span>⚠️</span>
+            <div>{{ error }}</div>
+        </div>
+        {% endif %}
+
+        <form action="/solicitar-cuenta" method="POST" style="display: flex; flex-direction: column; gap: 1.15rem;">
+            <div class="form-group">
+                <label class="form-label" for="business_name">Razón Social o Nombre Comercial *</label>
+                <input type="text" id="business_name" name="business_name" class="form-control" placeholder="Ej: Repuestos San Rafael S.R.L. o Gomera Central" value="{{ form_data.business_name if form_data else '' }}" required>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1.2fr 1fr; gap: 1rem;">
+                <div class="form-group">
+                    <label class="form-label" for="cuit">CUIT (11 dígitos) *</label>
+                    <input type="text" id="cuit" name="cuit" class="form-control" placeholder="30-71234567-8" value="{{ form_data.cuit if form_data else '' }}" required>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="rubro">Rubro Principal *</label>
+                    <select id="rubro" name="rubro" class="form-control">
+                        <option value="AUTOPARTES" {% if form_data and form_data.rubro == 'AUTOPARTES' %}selected{% endif %}>🚗 Autopartes / Repuestos</option>
+                        <option value="FERRETERIA" {% if form_data and form_data.rubro == 'FERRETERIA' %}selected{% endif %}>🏭 Ferretería Industrial / Agro</option>
+                        <option value="AMBOS" {% if not form_data or form_data.rubro == 'AMBOS' %}selected{% endif %}>⚙️ Ambos Rubros / Mayorista</option>
+                    </select>
+                </div>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                <div class="form-group">
+                    <label class="form-label" for="email">Correo Electrónico Comercial *</label>
+                    <input type="email" id="email" name="email" class="form-control" placeholder="compras@empresa.com.ar" value="{{ form_data.email if form_data else '' }}" required>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="phone">Teléfono / WhatsApp *</label>
+                    <input type="tel" id="phone" name="phone" class="form-control" placeholder="0261 423-9999" value="{{ form_data.phone if form_data else '' }}" required>
+                </div>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                <div class="form-group">
+                    <label class="form-label" for="province">Provincia *</label>
+                    <input type="text" id="province" name="province" class="form-control" placeholder="Ej: Mendoza, Buenos Aires, Córdoba" value="{{ form_data.province if form_data else '' }}" required>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="city">Localidad / Ciudad *</label>
+                    <input type="text" id="city" name="city" class="form-control" placeholder="Ej: San Rafael, Godoy Cruz, Rosario" value="{{ form_data.city if form_data else '' }}" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label" for="message">Consulta, marcas que comercializás o mensaje (opcional)</label>
+                <textarea id="message" name="message" class="form-control" rows="3" placeholder="Contanos qué líneas de mangueras, correas o fuelles trabajás habitualmente..." style="resize: vertical;">{{ form_data.message if form_data else '' }}</textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="margin-top: 0.5rem; width: 100%; height: 46px; font-size: 0.95rem; font-weight: 700;">
+                ★ Enviar Solicitud de Cuenta Mayorista
+            </button>
+        </form>
+
+        <div style="text-align: center; margin-top: 1.75rem; padding-top: 1.25rem; border-top: 1px solid var(--border-color); font-size: 0.85rem; color: var(--text-secondary); display: flex; flex-direction: column; gap: 0.5rem;">
+            <div>
+                ¿Ya tenés tu cuenta habilitada? 
+                <a href="/login" style="color: var(--accent-amber); font-weight: 700;">Ingresá a tu Portal B2B →</a>
+            </div>
+            <div>
+                ¿Querés evaluar primero el catálogo completo con precios de gremio? 
+                <a href="/demo-login" style="color: var(--accent-blue); font-weight: 600;">Ingresar en Modo Demo ⚡</a>
+            </div>
+        </div>
+        {% endif %}
+
+    </div>
+</div>
+{% endblock %}

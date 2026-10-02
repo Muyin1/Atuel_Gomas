@@ -50,15 +50,24 @@
                     </div>
                 </div>
 
-                <div class="form-group">
-                    <label class="form-label" for="rubro">Rubro Comercial</label>
-                    <select id="rubro" name="rubro" class="form-control">
-                        <option value="autopartes">Casa de Repuestos Automotor</option>
-                        <option value="ferreteria">Ferretería Industrial / Suministros</option>
-                        <option value="taller">Taller Mecánico / Rectificadora</option>
-                        <option value="distribuidor">Distribuidor Regional</option>
-                        <option value="particular">Otro / Particular</option>
-                    </select>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                    <div class="form-group">
+                        <label class="form-label" for="rubro">Rubro Comercial</label>
+                        <select id="rubro" name="rubro" class="form-control">
+                            <option value="autopartes">Casa de Repuestos Automotor</option>
+                            <option value="ferreteria">Ferretería Industrial / Suministros</option>
+                            <option value="taller">Taller Mecánico / Rectificadora</option>
+                            <option value="distribuidor">Distribuidor Regional</option>
+                            <option value="particular">Otro / Particular</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="zona">Provincia / Zona Comercial</label>
+                        <select id="zona" name="zona" class="form-control" onchange="syncZoneSelector(this.value)">
+                            <option value="cuyo">Mendoza / San Luis (Cuyo)</option>
+                            <option value="resto">Otras Provincias / Resto del País</option>
+                        </select>
+                    </div>
                 </div>
 
                 <div class="form-group">
@@ -74,7 +83,7 @@
 
         <!-- Información de Contacto Directo y Enlaces -->
         <div style="display: flex; flex-direction: column; gap: 1.5rem;">
-            <!-- Caja WhatsApp Prioritario -->
+            <!-- Caja WhatsApp Prioritario con Enrutamiento Dinámico -->
             <div style="background: linear-gradient(135deg, rgba(37, 211, 102, 0.15), rgba(15, 20, 28, 0.9)); border: 1px solid rgba(37, 211, 102, 0.4); border-radius: var(--radius-lg); padding: 1.75rem; box-shadow: var(--shadow-card);">
                 <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
                     <span style="font-size: 2rem;">💬</span>
@@ -83,10 +92,33 @@
                         <span style="font-size: 0.78rem; color: #a7f3d0;">Canal exclusivo para gremios y ferreterías</span>
                     </div>
                 </div>
-                <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 1.25rem; line-height: 1.5;">
-                    Consultá disponibilidad al instante, enviá fotos de muestras para identificación técnica y coordiná retiros urgentes en mostrador.
+                
+                <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 1rem; line-height: 1.5;">
+                    Seleccioná tu zona para conectar directamente con el ejecutivo comercial correspondiente:
                 </p>
-                <a href="https://wa.me/5491140005000?text=Hola%20Atuel%20Gomas,%20me%20comunico%20desde%20el%20sitio%20web%20para%20realizar%20una%20consulta%20comercial." 
+
+                <!-- Selector de Zona Comercial -->
+                <div class="form-group" style="margin-bottom: 1.25rem;">
+                    <label class="form-label" for="whatsapp-zona-select" style="color: #a7f3d0; font-size: 0.8rem; font-weight: 700;">
+                        📍 Seleccionar Zona de Atención:
+                    </label>
+                    <select id="whatsapp-zona-select" class="form-control" style="background: rgba(15, 23, 42, 0.9); border-color: rgba(37, 211, 102, 0.5); color: #fff;" onchange="updateWhatsAppRouting(this.value)">
+                        <option value="cuyo">Mendoza / San Luis (Cuyo)</option>
+                        <option value="resto">Otras Provincias / Resto del País</option>
+                    </select>
+                </div>
+
+                <!-- Tarjeta con Número Visible -->
+                <div style="background: rgba(0, 0, 0, 0.25); border: 1px dashed rgba(37, 211, 102, 0.4); border-radius: var(--radius-sm); padding: 0.75rem 1rem; margin-bottom: 1.25rem; display: flex; align-items: center; justify-content: space-between;">
+                    <div>
+                        <span style="font-size: 0.75rem; color: var(--text-muted); display: block; text-transform: uppercase;">Línea Comercial Directa:</span>
+                        <strong id="whatsapp-phone-display" style="font-size: 1.15rem; color: #22c55e; font-family: monospace; letter-spacing: 0.5px;">+54 9 261 262-9209</strong>
+                    </div>
+                    <span id="whatsapp-zone-badge" style="font-size: 0.72rem; padding: 0.2rem 0.5rem; background: rgba(37, 211, 102, 0.2); color: #a7f3d0; border-radius: var(--radius-sm); font-weight: 700;">Cuyo</span>
+                </div>
+
+                <a id="whatsapp-chat-button"
+                   href="https://wa.me/5492612629209?text=Hola%20Atuel%20Gomas,%20me%20contacto%20desde%20Mendoza%20/%20San%20Luis%20(Cuyo)%20para%20cotizar..." 
                    target="_blank" 
                    class="btn btn-whatsapp" 
                    style="width: 100%; height: 44px; font-size: 0.95rem; font-weight: 700;">
@@ -136,4 +168,54 @@
 
     </div>
 </div>
+
+<script>
+    const whatsappRoutes = {
+        cuyo: {
+            phone: "+54 9 261 262-9209",
+            waNumber: "5492612629209",
+            label: "Mendoza / San Luis (Cuyo)",
+            badge: "Cuyo"
+        },
+        resto: {
+            phone: "+54 9 2625 46-8732",
+            waNumber: "5492625468732",
+            label: "Otras Provincias / Resto del País",
+            badge: "Nacional"
+        }
+    };
+
+    function updateWhatsAppRouting(zoneKey) {
+        const route = whatsappRoutes[zoneKey] || whatsappRoutes.cuyo;
+        
+        // Actualizar número en texto visible
+        const phoneDisplay = document.getElementById("whatsapp-phone-display");
+        if (phoneDisplay) phoneDisplay.textContent = route.phone;
+
+        // Actualizar badge de zona
+        const zoneBadge = document.getElementById("whatsapp-zone-badge");
+        if (zoneBadge) zoneBadge.textContent = route.badge;
+
+        // Actualizar href de WhatsApp
+        const chatBtn = document.getElementById("whatsapp-chat-button");
+        if (chatBtn) {
+            const message = encodeURIComponent(`Hola Atuel Gomas, me contacto desde ${route.label} para cotizar...`);
+            chatBtn.href = `https://wa.me/${route.waNumber}?text=${message}`;
+        }
+
+        // Sincronizar el selector del formulario
+        const formZona = document.getElementById("zona");
+        if (formZona && formZona.value !== zoneKey) {
+            formZona.value = zoneKey;
+        }
+    }
+
+    function syncZoneSelector(zoneKey) {
+        const waSelect = document.getElementById("whatsapp-zona-select");
+        if (waSelect && waSelect.value !== zoneKey) {
+            waSelect.value = zoneKey;
+        }
+        updateWhatsAppRouting(zoneKey);
+    }
+</script>
 {% endblock %}

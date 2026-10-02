@@ -27,16 +27,28 @@
                 <a href="/" class="active">Catálogo Técnico</a>
                 <a href="/nosotros">Empresa</a>
                 <a href="/contacto">Contacto</a>
+                <a href="/carrito" class="nav-cart-link" style="display: inline-flex; align-items: center; gap: 0.4rem; background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.35); padding: 0.35rem 0.75rem; border-radius: var(--radius-sm); color: var(--accent-amber); font-weight: 700; text-decoration: none;">
+                    <span>🛒 Mi Pedido</span>
+                    <span id="cart-badge" class="cart-badge">{{ cart_total_items if cart_total_items is defined else 0 }}</span>
+                </a>
 
                 {% if current_user %}
-                    <div style="display: flex; align-items: center; gap: 0.75rem; margin-left: 1rem;">
-                        <span style="font-size: 0.85rem; color: var(--accent-amber);">🏢 {{ current_user.business_name }}</span>
-                        <a href="/logout" class="btn btn-secondary" style="padding: 0.35rem 0.75rem; font-size: 0.8rem;">Salir</a>
+                    <div class="user-menu-wrapper" style="margin-left: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">
+                        <a href="/perfil" class="user-avatar-btn" title="Ver Mi Perfil Comercial">
+                            <span class="user-avatar-bubble">
+                                {{ (current_user.business_name[:2] if current_user.business_name else 'B2')|upper }}
+                            </span>
+                            <span class="user-avatar-label">
+                                {{ current_user.business_name.split()[0] if current_user.business_name else 'Mi Cuenta' }}
+                            </span>
+                            <span style="font-size: 0.7rem; color: var(--accent-amber); margin-left: 0.15rem;">▼</span>
+                        </a>
+                        <a href="/logout" class="btn btn-secondary" style="padding: 0.35rem 0.65rem; font-size: 0.78rem;" title="Cerrar Sesión">Salir</a>
                     </div>
                 {% else %}
-                    <div style="display: flex; gap: 0.5rem; margin-left: 1rem;">
-                        <a href="/login" class="btn btn-secondary">Ingreso Gremio</a>
-                        <a href="/registro" class="btn btn-primary">Alta Clientes</a>
+                    <div style="display: flex; align-items: center; gap: 0.6rem; margin-left: 0.5rem;">
+                        <a href="/login" class="btn btn-secondary" style="padding: 0.45rem 0.85rem; font-size: 0.82rem;">Acceso Clientes</a>
+                        <a href="/solicitar-cuenta" class="btn btn-primary" style="padding: 0.45rem 1rem; font-size: 0.82rem; font-weight: 700;">★ Solicitar Cuenta Mayorista</a>
                     </div>
                 {% endif %}
             </nav>

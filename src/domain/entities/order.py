@@ -13,7 +13,9 @@ class Order:
     items: list[OrderItem]
     status: OrderStatus = OrderStatus.PENDING_APPROVAL
     notes: str = ""
+    sales_agent_id: str | None = None
     created_at: datetime = field(default_factory=datetime.utcnow)
+
 
     @property
     def total(self) -> Money:

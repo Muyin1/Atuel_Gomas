@@ -843,6 +843,18 @@ class DataSeeder:
         # ----------------------------------------------------------------------
         demo_clientes = [
             ClienteModel(
+                id="cli-vendedor-001",
+                email="vendedor@atuelgomas.com",
+                razon_social="Carlos Ventas (Zona Cuyo)",
+                cuit="20-33445566-7",
+                telefono="+54 261 411-2233",
+                direccion="San Martín 1500",
+                ciudad="Mendoza",
+                rol="sales_agent",
+                is_approved=True,
+                hashed_password="pbkdf2_sha256$260000$salt$vendedor_pass_hash",
+            ),
+            ClienteModel(
                 id="cli-b2b-001",
                 email="cliente@atuelgomas.com",
                 razon_social="Distribuidora Central de Gomas y Repuestos SRL",
@@ -851,6 +863,7 @@ class DataSeeder:
                 direccion="Av. Warnes 1450",
                 ciudad="CABA",
                 rol="b2b_client",
+                sales_agent_id="cli-vendedor-001",
                 is_approved=True,
                 hashed_password="pbkdf2_sha256$260000$salt$cliente_pass_hash",
             ),
@@ -869,6 +882,7 @@ class DataSeeder:
         ]
         self.session.add_all(demo_clientes)
         self.session.commit()
+
         self.stats["clientes"] += len(demo_clientes)
         print(f"✓ Clientes iniciales cargados: {self.stats['clientes']}.")
 

@@ -516,6 +516,336 @@ Se corrigió la falta de la dependencia `email-validator` requerida en tiempo de
 - Inicialización y validación aislada de `RegisterB2BDTO` con `EmailStr` satisfactoria.
 - Suite completa de pruebas ejecutada: **19 pasadas de 19 tests (100% OK)** cubriendo integración web, modelos relacionales y lógica de dominio.
 
+---
+
+## [2026-10-01] - Entrega Posta 3.1: Solicitud de Cuentas B2B, Modo Demo y Protección de Alta Directa
+
+### 📌 Resumen de la Entrega:
+Se implementaron los contratos, DTOs y casos de uso del backend comercial y de seguridad requeridos para:
+1. **Solicitud de Cuenta Mayorista:** Registro de prospectos comerciales que ingresan en estado pendiente (`is_approved=False`) sin password para aprobación posterior por parte del administrador. Se valida formato de CUIT de 11 dígitos y duplicidad tanto para cuentas activas como para solicitudes ya en trámite.
+2. **Modo Demo / Prospecto (Simulación Comercial):** Implementación del método `authenticate_demo()` en `AuthenticateCustomerUseCase`. Permite emitir una sesión con permisos `UserRole.B2B_CLIENT` (utilizando el cliente semilla `cliente@atuelgomas.com` o una entidad simulada en memoria) para que los prospectos evalúen el catálogo con precios mayoristas en vivo.
+3. **Protección de Alta Directa:** En `RegisterB2BCustomerUseCase`, se restringió la creación directa de cuentas aprobadas exigiendo que el invocador posea `UserRole.ADMIN`. En caso contrario se eleva `UnauthorizedActionError`.
+
+---
+
+### 📂 Archivos Creados y Modificados:
+1. [`src/application/dtos/solicitud_cuenta_dto.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/dtos/solicitud_cuenta_dto.py): Creado `SolicitudCuentaDTO` con campos de razón social, CUIT, rubro, email, teléfono, provincia, ciudad y mensaje.
+2. [`src/application/dtos/auth_dto.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/dtos/auth_dto.py): Agregado `CustomerDTO`.
+3. [`src/domain/exceptions/domain_exceptions.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/domain/exceptions/domain_exceptions.py): Agregada excepción `UnauthorizedActionError`.
+4. [`src/application/use_cases/solicitar_cuenta.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/use_cases/solicitar_cuenta.py): Creado `SolicitarCuentaUseCase`.
+5. [`src/application/use_cases/authenticate_customer.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/use_cases/authenticate_customer.py): Agregado método `authenticate_demo()`.
+6. [`src/application/use_cases/register_b2b_customer.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/use_cases/register_b2b_customer.py): Validación de rol `ADMIN` para alta directa.
+7. [`src/infrastructure/config/container.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/infrastructure/config/container.py): Registrado `container.solicitar_cuenta_uc`.
+8. [`tests/unit/test_solicitar_cuenta.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/tests/unit/test_solicitar_cuenta.py): 5 pruebas unitarias cubriendo solicitud exitosa, duplicidad CUIT/email, modo demo y protección ADMIN.
+9. [`.team/board.json`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/.team/board.json): Posta 3.1 en `COMPLETED`, Posta 3.2 en `READY`.
+
+---
+
+### 🛠️ Especificación de Contratos para el Fullstack Dev (Posta 3.2):
+
+#### 1. Caso de Uso: `container.solicitar_cuenta_uc.execute(dto: SolicitudCuentaDTO)`
+```python
+from src.application.dtos.solicitud_cuenta_dto import SolicitudCuentaDTO
+
+dto = SolicitudCuentaDTO(
+    business_name=business_name,
+    cuit=cuit,
+    rubro=rubro,           # "AUTOPARTES", "FERRETERIA" o "AMBOS"
+    email=email,
+    phone=phone,
+    province=province,     # Opcional
+    city=city,             # Opcional
+    message=message        # Opcional
+)
+prospecto = await container.solicitar_cuenta_uc.execute(dto)
+# prospecto.is_approved == False
+```
+*Manejo de Errores:* Eleva `CustomerAlreadyExistsError` si el CUIT o email ya existen (sea con cuenta activa o solicitud previa).
+
+#### 2. Autenticación Modo Demo: `container.auth_customer_uc.authenticate_demo()`
+```python
+customer = await container.auth_customer_uc.authenticate_demo()
+# Retorna entidad Customer con role=UserRole.B2B_CLIENT e is_approved=True.
+# Para iniciar la sesión en web_controller:
+response = RedirectResponse(url="/", status_code=303)
+signed_cookie_val = sign_session_cookie(customer.id)
+response.set_cookie(
+    key=SESSION_COOKIE_NAME,
+    value=signed_cookie_val,
+    httponly=True,
+    samesite="lax",
+    max_age=86400 * 7
+)
+```
+
+#### 3. Protección de Alta Directa:
+```python
+# Requiere requester=current_user o requester=UserRole.ADMIN
+customer = await container.register_b2b_uc.execute(dto, requester=current_user)
+# Si requester no es ADMIN -> UnauthorizedActionError
+```
+
+---
+
+### 🔓 Mensaje de Desbloqueo para Posta 3.2 (Fullstack Dev):
+Los contratos de negocio y persistencia se encuentran listos, testeados y verificados. La **Etapa Posta 3.2** se encuentra en estado **READY**. Puedes proceder a:
+1. Conectar `POST /registro` a `container.solicitar_cuenta_uc.execute(dto)` mostrando mensaje de confirmación de solicitud enviada.
+2. Incorporar en `/login` (y en el header o banner promocional) el botón de acceso directo *"Ingresar en Modo Demo / Simulación Comercial"* llamando a un endpoint que ejecute `authenticate_demo()` y configure la cookie de sesión.
+
+---
+
+## [2026-10-01] - Entrega Posta 5.1: Optimización Batch para Carrito B2B (Eliminación de N+1 Queries)
+
+### 📌 Resumen de la Entrega:
+Se optimizó radicalmente la capa de persistencia y aplicación para la carga de productos del carrito mayorista. Anteriormente, al visualizar `/carrito`, se realizaba una consulta secuencial por cada ítem contenido en el carrito (problema de N+1 queries que multiplicaba la latencia de red contra Supabase).
+
+1. **Puerto `IProductRepository`:** Se incorporó el contrato abstracto:
+   ```python
+   @abstractmethod
+   async def get_by_ids(self, product_ids: list[str]) -> list[Product]:
+       pass
+   ```
+2. **Implementación `SqlAlchemyProductRepository`:**
+   - Se implementó `get_by_ids` ejecutando una única sentencia SQL optimizada con cláusula `IN (...)` y eager loading mediante `selectinload` (`categoria`, `familia`, `compatibilidades`).
+   - Soportó de forma híbrida IDs primarios numéricos, SKUs y códigos OEM (incluyendo alias de compatibilidad de tests).
+   - Reconstruye y preserva el orden exacto en el que los IDs fueron solicitados por el cliente.
+3. **Caso de Uso `GetProductDetailUseCase`:**
+   - Se añadió el método de conveniencia `get_many(product_ids: list[str])` que delega de manera directa en `product_repo.get_by_ids(product_ids)`.
+4. **Pruebas y Certificación:**
+   - Se creó `tests/unit/test_product_repository_batch.py` validando la consulta única, orden de respuesta, soporte de SKUs/OEMs y manejo de identificadores no encontrados.
+   - Suite completa de pruebas ejecutada: **29 pasadas de 29 tests (100% OK)**.
+
+---
+
+### 📂 Archivos Creados y Modificados:
+1. [`src/application/ports/product_repository.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/ports/product_repository.py): Definición de `get_by_ids`.
+2. [`src/adapters/repositories/sql_product_repository.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/adapters/repositories/sql_product_repository.py): Implementación batch con `selectinload` y orden preservado.
+3. [`src/application/use_cases/get_product_detail.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/use_cases/get_product_detail.py): Método `get_many(product_ids)`.
+4. [`tests/unit/test_product_repository_batch.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/tests/unit/test_product_repository_batch.py): Prueba unitaria de resolución en lote.
+5. [`.team/board.json`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/.team/board.json): `etapa_posta_5_1_tech_lead_batch_products_cart` en `COMPLETED`, `etapa_posta_5_2_fullstack_optimizacion_carrito_ui` en `READY`.
+
+---
+
+### 🛠️ Especificación de Contrato para el Fullstack Dev (Posta 5.2):
+
+#### En `src/adapters/controllers/web_controller.py` (endpoint `/carrito`):
+Reemplazar el bucle de consultas secuenciales por una única llamada en lote:
+
+```python
+# Obtener los IDs del carrito
+cart = get_cart_from_cookie(request)
+product_ids = list(cart.keys())
+
+# ÚNICA llamada a base de datos (1 ida y vuelta en lugar de N)
+products = await container.get_product_detail_uc.get_many(product_ids)
+# Alternativa directa equivalente:
+# products = await container.product_repo.get_by_ids(product_ids)
+
+# Iterar sobre la lista devuelta en memoria:
+for prod in products:
+    qty = cart.get(str(prod.id), cart.get(prod.sku, 1))
+    price_vo = prod.calculate_price_for_role(role)
+    item_subtotal = price_vo.amount * qty
+    subtotal_amount += item_subtotal
+    ...
+```
+
+---
+
+### 🔓 Mensaje de Desbloqueo para Posta 5.2 (Fullstack Dev):
+El backend se encuentra optimizado, testeado y disponible en el contenedor IoC. La **Etapa Posta 5.2** se encuentra en estado **READY**. Puedes proceder a actualizar el controlador `/carrito` para aprovechar la resolución batch y dejar la carga del carrito instantánea.
+
+---
+
+## [2026-10-01] - Entrega Posta 6.1: Perfil de Cliente B2B, Margen Configurable y Consulta de Pedidos
+
+### 📌 Resumen de la Entrega:
+Se implementaron las capacidades de dominio, base de datos y aplicación para que los clientes comerciales puedan configurar libremente su margen de ganancia comercial para mostrador y consultar su historial completo de pedidos:
+
+1. **Entidad `Customer` y Modelo `ClienteModel`:**
+   - Se añadió el campo `markup_percent: float = 30.0` (por defecto 30%).
+   - Se añadió la columna física `markup_percent FLOAT NOT NULL DEFAULT 30.0` en PostgreSQL Supabase y en `ClienteModel` (SQLAlchemy 2.0).
+   - Se aseguró mapeo resiliente con fallback `getattr(model, "markup_percent", 30.0)` en `SqlAlchemyCustomerRepository`.
+2. **Cálculo Dinámico de Precio de Mostrador:**
+   - En [`src/domain/entities/product.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/domain/entities/product.py), el método `calculate_price_for_role(role, custom_markup=None)` calcula de forma exacta:
+     ```python
+     if custom_markup is not None:
+         markup_factor = 1.0 + (custom_markup / 100.0)
+         return Money(amount=round(wholesale_price.amount * markup_factor, 2))
+     ```
+3. **Repositorios y Caso de Uso:**
+   - Se agregó `update_profile(customer_id, markup_percent, phone=None, address=None)` en `ICustomerRepository` y `SqlAlchemyCustomerRepository`.
+   - Se creó [`UpdateCustomerProfileUseCase`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/use_cases/update_customer_profile.py) validando que el porcentaje no sea negativo y se registró en [`container.update_profile_uc`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/infrastructure/config/container.py).
+   - Se validó el repositorio de pedidos `order_repo.get_by_customer(customer_id)` retornando las órdenes ordenadas por fecha descendente con ítems y estados del dominio (`OrderStatus`).
+4. **Pruebas y Certificación:**
+   - Pruebas unitarias en `tests/unit/test_domain.py` y `tests/unit/test_customer_profile_and_orders.py`.
+   - Suite completa de pruebas ejecutada: **31 pasadas de 31 tests (100% OK)**.
+
+---
+
+### 📂 Archivos Creados y Modificados:
+1. [`src/domain/entities/customer.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/domain/entities/customer.py): Campo `markup_percent: float = 30.0`.
+2. [`src/infrastructure/database/models/cliente_model.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/infrastructure/database/models/cliente_model.py): Columna `markup_percent`.
+3. [`src/domain/entities/product.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/domain/entities/product.py): Parámetro `custom_markup` en `calculate_price_for_role`.
+4. [`src/application/ports/customer_repository.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/ports/customer_repository.py): Contrato de `update_profile`.
+5. [`src/adapters/repositories/sql_customer_repository.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/adapters/repositories/sql_customer_repository.py): Implementación de `update_profile` y guardado de `markup_percent`.
+6. [`src/application/dtos/auth_dto.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/dtos/auth_dto.py): `CustomerDTO.markup_percent` y `UpdateProfileDTO`.
+7. [`src/application/use_cases/update_customer_profile.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/use_cases/update_customer_profile.py): Caso de uso de actualización de perfil.
+8. [`src/infrastructure/config/container.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/infrastructure/config/container.py): Registro de `container.update_profile_uc`.
+9. [`tests/unit/test_customer_profile_and_orders.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/tests/unit/test_customer_profile_and_orders.py): Prueba unitaria integral.
+10. [`.team/board.json`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/.team/board.json): `etapa_posta_6_1_tech_lead_perfil_markup_y_pedidos` en `COMPLETED`, `etapa_posta_6_2_fullstack_panel_cliente_y_pedidos_ui` en `READY`.
+
+---
+
+### 🛠️ Especificación de Contratos para el Fullstack Dev (Posta 6.2):
+
+#### 1. Actualizar Margen y Datos del Perfil:
+```python
+from src.application.dtos.auth_dto import UpdateProfileDTO
+
+dto = UpdateProfileDTO(
+    markup_percent=float(markup_percent_form),  # Ej: 33.0
+    phone=phone_form,                           # Opcional
+    address=address_form                        # Opcional
+)
+updated_customer = await container.update_profile_uc.execute(customer_id=current_user.id, dto=dto)
+```
+
+#### 2. Consultar Historial de Pedidos del Cliente:
+```python
+orders = await container.order_repo.get_by_customer(current_user.id)
+# orders es una list[Order] con:
+# - order.id (ej: "ORD-...")
+# - order.status.value (ej: "PENDIENTE_APROBACION", "EN_PREPARACION", "DESPACHADO", "ENTREGADO")
+# - order.total.format_ars()
+# - order.created_at
+# - order.items (list[OrderItem] con product_sku, product_name, quantity, unit_price, subtotal)
+```
+
+#### 3. Calcular Precio Sugerido de Mostrador con el Margen del Cliente:
+```python
+# En vistas de catálogo o detalle si current_user es B2B:
+user_markup = current_user.markup_percent if current_user else None
+resale_price = product.calculate_price_for_role(role, custom_markup=user_markup)
+```
+
+---
+
+### 🔓 Mensaje de Desbloqueo para Posta 6.2 (Fullstack Dev):
+La base de datos, los casos de uso y las entidades se encuentran listos para construir el Panel de Mi Cuenta / Perfil. La **Etapa Posta 6.2** se encuentra en estado **READY**. Puedes proceder a:
+1. Crear la vista `/perfil` (o `/mi-cuenta`) con el formulario de margen comercial.
+2. Renderizar la tabla de historial de pedidos del cliente con sus badges de estado.
+3. Exponer el precio de mostrador sugerido recalculado con el `markup_percent` del cliente autenticado.
+
+---
+
+## [2026-10-01] - Entrega Posta 7.1: Modelado de Vendedores (SALES_AGENT), Cartera de Clientes y Trazabilidad Comercial
+
+### 📌 Resumen de la Entrega:
+Se implementó la arquitectura de dominio, persistencia en Supabase PostgreSQL y casos de uso para la gestión comercial y trazabilidad de pedidos asignados a vendedores:
+
+1. **Entidades de Dominio:**
+   - [`Customer`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/domain/entities/customer.py): Incorporación del atributo `sales_agent_id: str | None = None`.
+   - [`Order`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/domain/entities/order.py): Incorporación del atributo `sales_agent_id: str | None = None`.
+2. **Persistencia Relacional (SQLAlchemy 2.0 & Supabase):**
+   - [`ClienteModel`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/infrastructure/database/models/cliente_model.py): Agregada columna `sales_agent_id` con clave foránea referenciando a `clientes.id` (`ondelete="SET NULL"`) e índice `ix_clientes_sales_agent_id`.
+   - [`OrdenModel`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/infrastructure/database/models/orden_model.py): Agregada columna `sales_agent_id` e índice `ix_ordenes_sales_agent_id`.
+   - Migración física aplicada con éxito en la base de datos remota de Supabase PostgreSQL mediante `ALTER TABLE ... ADD COLUMN IF NOT EXISTS ...`.
+3. **Repositorios y Contratos:**
+   - [`ICustomerRepository`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/ports/customer_repository.py) y [`SqlAlchemyCustomerRepository`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/adapters/repositories/sql_customer_repository.py):
+     * `get_sales_agents() -> list[Customer]`: Devuelve todos los clientes con rol `UserRole.SALES_AGENT` y estado activo.
+     * `get_customers_by_sales_agent(sales_agent_id: str) -> list[Customer]`: Devuelve la cartera completa de clientes asignados a un vendedor.
+     * `assign_sales_agent(customer_id: str, sales_agent_id: str | None) -> None`: Asigna o reasigna un vendedor a un cliente B2B.
+   - [`IOrderRepository`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/ports/order_repository.py) y [`SqlAlchemyOrderRepository`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/adapters/repositories/sql_order_repository.py):
+     * `get_by_sales_agent(sales_agent_id: str) -> list[Order]`: Retorna las órdenes generadas por los clientes de ese vendedor, ordenadas por fecha descendente con carga de ítems.
+4. **Casos de Uso y Automatización:**
+   - [`CreateOrderUseCase`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/use_cases/create_order.py): Cuando un cliente genera un pedido, se toma automáticamente su `sales_agent_id` y se estampa en la orden creada.
+   - [`ManageSalesAgentUseCase`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/use_cases/manage_sales_agents.py): Expone `get_sales_agents()`, `get_portfolio(sales_agent_id)` y `assign_agent(customer_id, sales_agent_id, requester)`. Protege la asignación de vendedores exigiendo que `requester.role == UserRole.ADMIN`.
+   - Inyección en [`container.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/infrastructure/config/container.py): Registrado `container.manage_sales_agents_uc`.
+5. **Datos Semilla en Producción (Supabase):**
+   - Creado vendedor semilla en la base remota:
+     * ID: `cli-vendedor-001`
+     * Email: `vendedor@atuelgomas.com`
+     * Rol: `UserRole.SALES_AGENT`
+     * Razón social: `Carlos Ventas (Zona Cuyo)`
+     * CUIT: `20-33445566-7`
+     * Clave: `vendedor123`
+   - Asignado el cliente demo B2B (`cli-b2b-001` / `cliente@atuelgomas.com`) a la cartera de `cli-vendedor-001`.
+6. **Pruebas y Certificación:**
+   - Implementado test unitario integral en [`tests/unit/test_sales_agent_and_portfolio.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/tests/unit/test_sales_agent_and_portfolio.py).
+   - Suite completa ejecutada: **35 pasadas de 35 tests (100% OK)**.
+
+---
+
+### 📂 Archivos Creados y Modificados:
+1. [`src/domain/entities/customer.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/domain/entities/customer.py): Campo `sales_agent_id`.
+2. [`src/domain/entities/order.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/domain/entities/order.py): Campo `sales_agent_id`.
+3. [`src/infrastructure/database/models/cliente_model.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/infrastructure/database/models/cliente_model.py): Columna `sales_agent_id` con FK.
+4. [`src/infrastructure/database/models/orden_model.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/infrastructure/database/models/orden_model.py): Columna `sales_agent_id`.
+5. [`src/application/ports/customer_repository.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/ports/customer_repository.py): Métodos `get_sales_agents`, `get_customers_by_sales_agent`, `assign_sales_agent`.
+6. [`src/adapters/repositories/sql_customer_repository.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/adapters/repositories/sql_customer_repository.py): Implementaciones SQL y mapeos.
+7. [`src/application/ports/order_repository.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/ports/order_repository.py): Método `get_by_sales_agent`.
+8. [`src/adapters/repositories/sql_order_repository.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/adapters/repositories/sql_order_repository.py): Implementación SQL y mapeos.
+9. [`src/application/use_cases/create_order.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/use_cases/create_order.py): Auto-asignación de `sales_agent_id`.
+10. [`src/application/use_cases/manage_sales_agents.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/use_cases/manage_sales_agents.py): Caso de uso de gestión y autorización.
+11. [`src/application/dtos/auth_dto.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/application/dtos/auth_dto.py): DTOs `AssignSalesAgentDTO` y `CustomerDTO.sales_agent_id`.
+12. [`src/infrastructure/config/container.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/src/infrastructure/config/container.py): Registro en contenedor IoC.
+13. [`scripts/seed_database.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/scripts/seed_database.py): Inclusión del vendedor en seeder.
+14. [`tests/unit/test_sales_agent_and_portfolio.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/tests/unit/test_sales_agent_and_portfolio.py): Pruebas de vendedor, cartera, asignación y pedidos.
+15. [`tests/unit/test_solicitar_cuenta.py`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/tests/unit/test_solicitar_cuenta.py): Actualización de mock in-memory.
+16. [`.team/board.json`](file:///c:/Users/burne/OneDrive/Desktop/Proyectos%20Personales/Atuel%20Gomas/.team/board.json): `etapa_posta_7_1_tech_lead_vendedores_y_cartera` a `COMPLETED`, `etapa_posta_7_2_fullstack_panel_vendedores_y_cartera_ui` a `READY`.
+
+---
+
+### 🛠️ Especificación de Contratos para el Fullstack Dev (Posta 7.2):
+
+#### 1. Obtener Cartera de Clientes para el Vendedor Logueado:
+```python
+# Si current_user.role == UserRole.SALES_AGENT:
+cartera_clientes = await container.manage_sales_agents_uc.get_portfolio(current_user.id)
+# Cada elemento es un Customer:
+# - cliente.id
+# - cliente.business_name
+# - cliente.cuit.value
+# - cliente.email
+# - cliente.phone (útil para armar enlace https://wa.me/549...)
+# - cliente.business_line.value
+```
+
+#### 2. Obtener Pedidos Generados por la Cartera del Vendedor:
+```python
+# Órdenes de todos los clientes a cargo del vendedor:
+orders = await container.order_repo.get_by_sales_agent(current_user.id)
+# Lista de Order con id, customer_id, total, status, items, created_at
+```
+
+#### 3. Obtener Lista de Vendedores para Dropdown Administrativo:
+```python
+vendedores = await container.manage_sales_agents_uc.get_sales_agents()
+# Lista de Customer con role == UserRole.SALES_AGENT (id, business_name, email)
+```
+
+#### 4. Asignar o Reasignar Vendedor a un Cliente (Solo ADMIN):
+```python
+# Requiere requester=current_user (debe ser ADMIN)
+await container.manage_sales_agents_uc.assign_agent(
+    customer_id=cliente_id,
+    sales_agent_id=vendedor_id, # o None para desasignar
+    requester=current_user
+)
+```
+
+---
+
+### 🔓 Mensaje de Desbloqueo para Posta 7.2 (Fullstack Dev):
+El backend, los esquemas relacionales en Supabase, los casos de uso protegidos y los métodos de consulta están completamente listos y verificados. La **Etapa Posta 7.2** se encuentra en estado **READY**. Puedes proceder a:
+1. Crear el Panel Comercial del Vendedor (`/vendedor` o pestaña en `/perfil` cuando `current_user.role == UserRole.SALES_AGENT`) mostrando la cartera asignada, los pedidos generados y botón de contacto por WhatsApp.
+2. Crear o integrar en la vista Admin (`/admin/clientes` o similar) el selector reactivo para asignar/reasignar vendedores a los clientes.
+
+
+
+
+
 
 
 

@@ -10,3 +10,8 @@ class CreateOrderDTO(BaseModel):
     customer_id: str
     items: list[OrderItemInputDTO]
     notes: str = ""
+
+
+# Alias de conveniencia
+OrderItemDTO = OrderItemInputDTO
+

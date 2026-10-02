@@ -18,3 +18,27 @@ class ICustomerRepository(ABC):
     @abstractmethod
     async def save(self, customer: Customer) -> None:
         pass
+
+    @abstractmethod
+    async def update_profile(
+        self,
+        customer_id: str,
+        markup_percent: float,
+        phone: str | None = None,
+        address: str | None = None
+    ) -> Customer:
+        pass
+
+    @abstractmethod
+    async def get_sales_agents(self) -> list[Customer]:
+        pass
+
+    @abstractmethod
+    async def get_customers_by_sales_agent(self, sales_agent_id: str) -> list[Customer]:
+        pass
+
+    @abstractmethod
+    async def assign_sales_agent(self, customer_id: str, sales_agent_id: str | None) -> None:
+        pass
+
+

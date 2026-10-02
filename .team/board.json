@@ -80,9 +80,212 @@
       "bloquea_a": []
     }
   },
+  "fase_actualizacion_precios_excel": {
+    "etapa_posta_1_data_specialist_actualizador_precios": {
+      "responsable": "data_specialist",
+      "status": "COMPLETED",
+      "descripcion": "Creación y validación del script de actualización masiva de precios desde planilla Excel ('scripts/actualizar_precios_excel.py') con recargo comercial configurable, generación de reporte de artículos no encontrados y soporte para PostgreSQL Supabase y SQLite local.",
+      "entregables": [
+        "scripts/actualizar_precios_excel.py",
+        "datos provicionales/reporte_articulos_no_encontrados.txt"
+      ],
+      "bloquea_a": [
+        "etapa_posta_2_fullstack_gestion_precios_ui"
+      ]
+    },
+    "etapa_posta_2_fullstack_gestion_precios_ui": {
+      "responsable": "fullstack_dev",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_1_data_specialist_actualizador_precios",
+      "descripcion": "Limpieza de visualización de precios en catálogo (product_grid.html) y ficha técnica (product_detail.html), eliminando leyendas redundantes ('Precio Sugerido Venta', 'PVP Oficial'), destacando el importe neto/B2B y agregando enrutamiento dinámico de WhatsApp por zona geográfica (Cuyo vs Resto del País) en la página de Contacto.",
+      "entregables": [
+        "src/infrastructure/templates/partials/product_grid.html",
+        "src/infrastructure/templates/product_detail.html",
+        "src/infrastructure/templates/contacto.html",
+        "src/adapters/controllers/web_controller.py",
+        "tests/integration/test_web.py"
+      ],
+      "bloquea_a": [
+        "etapa_posta_3_solicitud_clientes_y_acceso_demo"
+      ]
+    },
+    "etapa_posta_3_1_tech_lead_solicitud_y_demo": {
+      "responsable": "tech_lead",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_2_fullstack_gestion_precios_ui",
+      "descripcion": "Contratos, DTOs y Casos de Uso para el registro de solicitudes de cuenta mayorista (prospectos pendientes con SolicitarCuentaUseCase), autenticación en modo demo/prospecto comercial (authenticate_demo con permisos B2B activos) y protección estricta del alta directa en RegisterB2BCustomerUseCase exigiendo rol ADMIN.",
+      "entregables": [
+        "src/application/dtos/solicitud_cuenta_dto.py",
+        "src/application/dtos/auth_dto.py",
+        "src/application/use_cases/solicitar_cuenta.py",
+        "src/application/use_cases/authenticate_customer.py",
+        "src/application/use_cases/register_b2b_customer.py",
+        "src/domain/exceptions/domain_exceptions.py",
+        "src/infrastructure/config/container.py",
+        "tests/unit/test_solicitar_cuenta.py"
+      ],
+      "bloquea_a": [
+        "etapa_posta_3_2_fullstack_solicitud_clientes_y_acceso_demo"
+      ]
+    },
+    "etapa_posta_3_2_fullstack_solicitud_clientes_y_acceso_demo": {
+      "responsable": "fullstack_dev",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_3_1_tech_lead_solicitud_y_demo",
+      "descripcion": "Gestión de solicitud de alta de clientes mayoristas, formulario de registro comercial en /solicitar-cuenta con SolicitarCuentaUseCase, credenciales y botón de acceso rápido 'Modo Demo / Simulación Comercial' en /login con authenticate_demo() y guardado en cookie de sesión firmada.",
+      "entregables": [
+        "src/infrastructure/templates/base.html",
+        "src/infrastructure/templates/solicitar_cuenta.html",
+        "src/infrastructure/templates/login.html",
+        "src/infrastructure/templates/register.html",
+        "src/adapters/controllers/web_controller.py",
+        "tests/integration/test_web.py"
+      ],
+      "bloquea_a": [
+        "etapa_posta_4_carrito_y_pedidos_b2b"
+      ]
+    },
+    "etapa_posta_4_carrito_y_pedidos_b2b": {
+      "responsable": "fullstack_dev",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_3_2_fullstack_solicitud_clientes_y_acceso_demo",
+      "descripcion": "Carrito B2B, simulación de costos y embalaje para despacho al interior, generación de pedidos mayoristas y confirmación en tiempo real por WhatsApp.",
+      "entregables": [
+        "src/adapters/controllers/web_controller.py",
+        "src/infrastructure/templates/cart.html",
+        "src/infrastructure/templates/partials/product_grid.html",
+        "src/infrastructure/templates/product_detail.html",
+        "src/infrastructure/templates/base.html",
+        "src/infrastructure/static/css/main.css",
+        "tests/integration/test_web.py"
+      ],
+      "bloquea_a": [
+        "etapa_posta_5_1_tech_lead_batch_products_cart"
+      ]
+    },
+    "etapa_posta_5_1_tech_lead_batch_products_cart": {
+      "responsable": "tech_lead",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_4_carrito_y_pedidos_b2b",
+      "descripcion": "Optimización de tiempo de respuesta en carga del carrito: Eliminación de N+1 queries implementando get_by_ids(product_ids) en IProductRepository y SqlAlchemyProductRepository con selectinload y consulta única IN (...), preservando el orden de solicitud. Exposición en GetProductDetailUseCase.get_many() para consumo eficiente.",
+      "entregables": [
+        "src/application/ports/product_repository.py",
+        "src/adapters/repositories/sql_product_repository.py",
+        "src/application/use_cases/get_product_detail.py",
+        "tests/unit/test_product_repository_batch.py"
+      ],
+      "bloquea_a": [
+        "etapa_posta_5_2_fullstack_optimizacion_carrito_ui"
+      ]
+    },
+    "etapa_posta_5_2_fullstack_optimizacion_carrito_ui": {
+      "responsable": "fullstack_dev",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_5_1_tech_lead_batch_products_cart",
+      "descripcion": "Consumo de container.get_product_detail_uc.get_many() o container.product_repo.get_by_ids() en el endpoint GET /carrito de web_controller.py para resolver todos los ítems del carrito en un único viaje de red contra la base de datos remota.",
+      "entregables": [
+        "src/adapters/controllers/web_controller.py",
+        "src/infrastructure/templates/cart.html",
+        "tests/integration/test_web.py"
+      ],
+      "bloquea_a": [
+        "etapa_posta_6_1_tech_lead_perfil_markup_y_pedidos"
+      ]
+    },
+    "etapa_posta_6_1_tech_lead_perfil_markup_y_pedidos": {
+      "responsable": "tech_lead",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_5_2_fullstack_optimizacion_carrito_ui",
+      "descripcion": "Extensión de entidad Customer y ClienteModel con margen comercial personalizable (markup_percent: float, default=30.0). Columna persistida en Supabase y SQLite. Soporte de custom_markup en Product.calculate_price_for_role(role, custom_markup) para cálculo dinámico de precio mostrador. Implementación de update_profile en customer_repository y nuevo caso de uso UpdateCustomerProfileUseCase. Consulta de historial de pedidos mediante order_repo.get_by_customer(customer_id).",
+      "entregables": [
+        "src/domain/entities/customer.py",
+        "src/infrastructure/database/models/cliente_model.py",
+        "src/domain/entities/product.py",
+        "src/application/ports/customer_repository.py",
+        "src/adapters/repositories/sql_customer_repository.py",
+        "src/application/use_cases/update_customer_profile.py",
+        "src/application/dtos/auth_dto.py",
+        "src/infrastructure/config/container.py",
+        "tests/unit/test_customer_profile_and_orders.py"
+      ],
+      "bloquea_a": [
+        "etapa_posta_6_2_fullstack_panel_cliente_y_pedidos_ui"
+      ]
+    },
+    "etapa_posta_6_2_fullstack_panel_cliente_y_pedidos_ui": {
+      "responsable": "fullstack_dev",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_6_1_tech_lead_perfil_markup_y_pedidos",
+      "descripcion": "Creación del Panel del Cliente B2B (/mi-cuenta / /perfil): formulario interactivo para configurar el margen de reventa para mostrador (markup_percent), visualización y filtrado de su historial de pedidos con badges de estado (PENDIENTE_APROBACION, EN_PREPARACION, DESPACHADO, ENTREGADO), y actualización dinámica de precios de mostrador sugeridos en catálogo.",
+      "entregables": [
+        "src/infrastructure/templates/perfil.html",
+        "src/infrastructure/templates/base.html",
+        "src/infrastructure/static/css/main.css",
+        "src/adapters/controllers/web_controller.py",
+        "src/application/dtos/product_dto.py",
+        "src/application/use_cases/search_products.py",
+        "tests/integration/test_web.py"
+      ],
+      "bloquea_a": [
+        "etapa_posta_7_1_tech_lead_vendedores_y_cartera"
+      ]
+    },
+    "etapa_posta_7_1_tech_lead_vendedores_y_cartera": {
+      "responsable": "tech_lead",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_6_2_fullstack_panel_cliente_y_pedidos_ui",
+      "descripcion": "Modelado de Vendedores (SALES_AGENT), Cartera de Clientes B2B y Trazabilidad Comercial. Columnas sales_agent_id en clientes y ordenes con FK e índices en Supabase PostgreSQL y SQLite. Métodos en customer_repo (get_sales_agents, get_customers_by_sales_agent, assign_sales_agent) y order_repo (get_by_sales_agent). Caso de uso ManageSalesAgentUseCase protegido para ADMIN. Creación automática de pedidos asociando el vendedor del cliente. Seed en vivo del vendedor Carlos Ventas (cli-vendedor-001) y asignación del cliente demo cli-b2b-001.",
+      "entregables": [
+        "src/domain/entities/customer.py",
+        "src/domain/entities/order.py",
+        "src/infrastructure/database/models/cliente_model.py",
+        "src/infrastructure/database/models/orden_model.py",
+        "src/application/ports/customer_repository.py",
+        "src/adapters/repositories/sql_customer_repository.py",
+        "src/application/ports/order_repository.py",
+        "src/adapters/repositories/sql_order_repository.py",
+        "src/application/use_cases/manage_sales_agents.py",
+        "src/application/use_cases/create_order.py",
+        "src/application/dtos/auth_dto.py",
+        "src/infrastructure/config/container.py",
+        "scripts/seed_database.py",
+        "tests/unit/test_sales_agent_and_portfolio.py"
+      ],
+      "bloquea_a": [
+        "etapa_posta_7_2_fullstack_panel_vendedores_y_cartera_ui"
+      ]
+    },
+    "etapa_posta_7_2_fullstack_panel_vendedores_y_cartera_ui": {
+      "responsable": "fullstack_dev",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_7_1_tech_lead_vendedores_y_cartera",
+      "descripcion": "Diseño y desarrollo de vistas para Vendedores y Admin: 1) Panel Comercial (/perfil o vista dedicada) para rol SALES_AGENT con listado de su cartera de clientes, visualización cronológica de pedidos generados por sus clientes y botón directo de contacto por WhatsApp. 2) Panel Admin para asignación/reasignación dinámica de vendedores a clientes mediante dropdown reactivo con HTMX (/admin/asignar-vendedor) y listado de asesores oficiales.",
+      "entregables": [
+        "src/infrastructure/templates/perfil.html",
+        "src/adapters/controllers/web_controller.py",
+        "tests/integration/test_web.py"
+      ],
+      "bloquea_a": []
+    }
+  },
+  "fase_checkout_y_cierre_pedidos": {
+    "etapa_posta_8_1_checkout_real_carrito_b2b": {
+      "responsable": "fullstack_dev",
+      "status": "COMPLETED",
+      "depende_de": "etapa_posta_7_2_fullstack_panel_vendedores_y_cartera_ui",
+      "descripcion": "Checkout Real del Carrito B2B: 1) Endpoint POST /carrito/confirmar con persistencia atómica en base de datos vía container.create_order_uc. 2) Vaciado de la cookie del carrito (badge en 0). 3) Apertura automática de WhatsApp con mensaje estructurado y N° de Orden oficial. 4) Redirección a /perfil con mensaje de confirmación y visualización inmediata en 'Mis Pedidos y Cotizaciones' y en 'Pedidos de mi Cartera' del vendedor.",
+      "entregables": [
+        "src/adapters/controllers/web_controller.py",
+        "src/infrastructure/templates/cart.html",
+        "src/infrastructure/templates/perfil.html",
+        "tests/integration/test_web.py"
+      ],
+      "bloquea_a": []
+    }
+  },
   "ultimo_evento": {
-    "fecha": "2026-09-30",
-    "rol": "tech_lead",
-    "mensaje": "Corrección DevOps de producción: Agregado 'email-validator>=2.0.0' en requirements.txt para satisfacer la validación de Pydantic EmailStr en auth_dto.py. Se verificó render.yaml (pip install -r requirements.txt en buildCommand) y se ejecutó la suite completa de pruebas con 19/19 tests pasando al 100% OK. Listo para deploy a Render."
+    "fecha": "2026-10-01",
+    "rol": "fullstack_dev",
+    "mensaje": "Posta 8.1 completada con éxito: 1) Creado endpoint POST /carrito/confirmar con persistencia real de pedidos vía CreateOrderUseCase y auto-vinculación del vendedor. 2) Vaciado de carrito con actualización del badge a 0. 3) Disparo dinámico de WhatsApp con N° de Orden oficial (ORD-...). 4) Alerta de éxito y auto-apertura de pestaña pedidos en /perfil. 5) Suite completa ejecutada con 38/38 tests pasando al 100% OK."
   }
 }

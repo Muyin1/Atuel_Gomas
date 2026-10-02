@@ -21,7 +21,7 @@ class SearchProductsUseCase:
 
         results = []
         for p in products:
-            price = p.calculate_price_for_role(dto.role)
+            price = p.calculate_price_for_role(dto.role, custom_markup=dto.custom_markup)
             is_wholesale = dto.role in (UserRole.B2B_CLIENT, UserRole.SALES_AGENT, UserRole.ADMIN)
             compat_list = [f"{c.brand} {c.model} ({c.engine} {c.years})" for c in p.compatibilities]
             compat_summary = ", ".join(compat_list) if compat_list else "Uso universal / medidas varias"
